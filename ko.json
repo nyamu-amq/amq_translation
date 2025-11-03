@@ -1,0 +1,787 @@
+{
+	"meta": { "language_name": "Korean", "language_name_native": "한국어", "language_code": "ko", "creators": "nyamu" },
+	"common": {
+		"ui": {
+			"translation_coverage": "번역된 텍스트 비율",
+			"translation_by": "번역자",
+			"username": "아이디",
+			"password": "비밀번호",
+			"email": "메일주소",
+			"repeat_password": "비밀번호 재입력",
+			"back_button": "돌아가기",
+			"resend_button": "재송신",
+			"register_button": "등록",
+			"change_button": "변경",
+			"logout_button": "로그아웃",
+			"confirm_button": "확인",
+			"continue_button": "계속",
+			"update_button": "갱신",
+			"ok_button": "확인",
+			"cancel_button": "취소",
+			"load_button": "로드",
+			"new_password": "새 비밀번호",
+			"repeat_new_password": "새 비밀번호 재입력",
+			"contact": "문의",
+			"socials": "소셜 미디어",
+			"legal": "이용약관",
+			"community_translations": "커뮤니티 번역",
+			"loading": "로딩중",
+			"play": "플레이",
+			"use_button": "사용",
+			"claim_button": "취득",
+			"chat": "채팅",
+			"block": "차단",
+			"send_friend_request": "친구 신청",
+			"invite_to_game": "게임으로 초대",
+			"none": "없음",
+			"default": "디폴트",
+			"delete": "삭제"
+		},
+		"popout_messages": {
+			"unexpected_error": "예기치 못한 오류가 발생했습니다.",
+			"please_try_again": "다시 시도해 주세요.",
+			"error_contacting_server": "서버 접속 오류",
+			"internal_server_error": "내부 서버 오류",
+			"down_for_maintenance": "서버 점검중입니다.",
+			"guest_account": "게스트 아이디로 사용 불가",
+			"guest_account_text": "이 기능은 게스트 아이디로 이용하실 수 없습니다.",
+			"block_player": {
+				"title": "_NAME_ 사용자 차단",
+				"text": "차단시 해당 사용자의 메시지나 친구/게임초대가 표시되지 않습니다.",
+				"confirm": "차단",
+				"cancel": "취소"
+			}
+		},
+		"registration": {
+			"terms_of_service": "등록하시려면 이용약관에 동의하셔야 합니다.",
+			"no_username": "아이디가 입력되지 않았습니다.",
+			"username_length": "아이디는 16글자 이내로 입력해 주세요.",
+			"invalid_username": "아이디는 영문, 숫자, 밑줄기호만 사용할 수 있습니다.",
+			"amq_username": "아이디 \"AMQ\" 는 사용할 수 없습니다.",
+			"password_too_short": "비밀번호는 5글자 이상 입력해 주세요.",
+			"password_too_long": "비밀번호는 9999글자 이내로 입력해 주세요.",
+			"passwords_not_matching": "비밀번호가 일치하지 않습니다.",
+			"no_email": "메일주소가 입력되지 않았습니다.",
+			"invalid_email": "유효한 메일주소가 아닙니다.",
+			"no_country": "거주 국가를 선택하지 않았습니다.",
+			"disabled": "등록할 수 없습니다.",
+			"unknown_country": "잘못된 거주 국가입니다.",
+			"username_taken": "그 아이디는 이미 사용중입니다.",
+			"email_taken": "그 메일주소는 이미 사용중입니다.",
+			"email_sent": "_EMAIL_로 인증 메일을 발송했습니다.",
+			"email_length": "메일주소는 255글자 이내로 입력해 주세요.",
+			"account_created": "_NAME_ 아이디 생성이 완료되었습니다."
+		},
+		"guest_account": {
+			"title": "게스트 아이디",
+			"click_to_register": "등록을 완료하시려면 여기를 클릭하세요.",
+			"complete_registration": "등록 완료",
+			"complete_registration_message": "등록을 완료하시려면 _BOLD_ _EMAIL_ _BOLD_로 발송된 링크를 클릭해서 인증해 주세요."
+		}
+	},
+	"login_page": {
+		"ui": {
+			"play_now": "바로 게임 시작",
+			"login": "로그인",
+			"send_button": "송신",
+			"return_to_login": "로그인 화면으로 돌아가기",
+			"stay_signed_in": "로그인 상태 유지하기",
+			"forgot_password": "비밀번호 재설정",
+			"forgot_username": "아이디 찾기",
+			"country_of_residence": "거주 국가",
+			"agree_terms_of_service": "_LINK_ 이용약관 _LINK_에 동의합니다.",
+			"start_playing_now": "바로 게임 시작"
+		},
+		"popout_messages": {
+			"create_guest_account": {
+				"title": "게스트 아이디 생성",
+				"text": "게스트 아이디를 생성하시면 _LINK_ 이용약관 _LINK_과 _LINK_ 개인정보처리방침 _LINK_에 동의하신 것으로 간주합니다.",
+				"error_title": "게스트 아이디 생성 오류",
+				"error_disabled": "게스트 아이디를 만들 수 없습니다."
+			},
+			"select_country": "거주 국가를 선택해 주세요.",
+			"country_error": "거주 국가 등록 오류",
+			"already_online": {
+				"title": "이미 로그인되어 있습니다.",
+				"text": "다른 세션을 로그아웃하고 로그인을 진행하시겠습니까?"
+			},
+			"guest_timeout": "게스트 아이디의 유효기간이 만료되었습니다. 새로 만들어 주세요."
+		},
+		"text": {
+			"create_account": "아이디 생성",
+			"recover_username_title": "아이디 찾기",
+			"recover_username_text": "등록에 사용하신 메일주소를 입력해 주시면 메일로 아이디를 알려드리겠습니다.",
+			"forgot_password_title": "비밀번호 재설정",
+			"forgot_password_text": "등록에 사용하신 메일주소를 입력해 주세요. 비밀번호 재설정 링크를 보내드리겠습니다.",
+			"reset_password_title": "비밀번호 재설정",
+			"missing_information": "계정 정보가 부족합니다.",
+			"missing_country": "거주 국가를 선택하지 않았습니다. 아래에서 선택해 주세요.",
+			"promo_title": "최고의 애니메이션 음악 퀴즈!",
+			"promo_one": {
+				"title": "끝없이 이어지는 퀴즈",
+				"line_one": "8000개 이상의 애니에서 35,000곡 이상의 노래",
+				"line_two": "플레이할 때마다 달라지는 퀴즈",
+				"line_three": "당신의 MyAnimeList, AniList, Kitsu 리스트로 퀴즈를 커스터마이즈 ",
+				"line_four": "무료 플레이"
+			},
+			"promo_two": {
+				"title": "당신의 방식으로 즐기기",
+				"line_one": "친구와 함계",
+				"line_two": "혼자서 수련",
+				"line_three": "랭크 게임에 도전",
+				"line_four": "던전을 탐험"
+			},
+			"login_queue": {
+				"title": "로그인 대기열",
+				"text": "현재 로그인 서버 접속량이 많습니다. 잠시 후 자동으로 로그인됩니다.",
+				"position": "대기 순서: _SPAN_ 0 _SPAN_"
+			}
+		},
+		"messages": {
+			"account_verified": "아이디가 확인되었습니다. 이제 로그인하실 수 있습니다.",
+			"account_verified_guest": "아이디가 확인되었습니다. 이 탭을 닫아 주세요.",
+			"verification_error": "아이디 확인 오류: 예기치 못한 오류가 발생했습니다.",
+			"unknown_reset_code": "리셋코드가 잘못되었습니다.",
+			"wrong_username_password": "아이디 또는 비밀번호를 잘못 입력하셨습니다.",
+			"email_sent": "메일 발송 완료",
+			"password_updated": "비밀번호를 변경했습니다."
+		},
+		"account_verification": {
+			"title": "아이디 확인",
+			"text_one": "_SPAN_ 아이디 미확인 _SPAN_, _BOLD_ _EMAIL_ _BOLD_로 발송된 메일을 확인해 주세요.",
+			"text_two": "메일을 받지 못하셨나요? 1분정도 기다려도 도착하지 않으면 스팸메일함을 확인해 주세요. 그래도 도착하지 않으면 재송신 또는 아래 입력란에서 메일주소를 변경할 수 있습니다."
+		},
+		"banned_messages": {
+			"title_temp": "아이디 일시 정지",
+			"title_ban": "아이디 정지",
+			"text_one": "당신의 아이디는 부정행위로 인해 정지되었습니다. 플러그인, 코드 스니펫, 사이트 레이아웃 변경 또는 부당한 이득을 얻기 위한 기타 모든 방법을 사용하는 것은 본 게임 이용약관에 위배됩니다.",
+			"text_two": "당신의 아이디는 운영자에 의해 이용약관 위반으로 정지되었습니다. 정지 사유에 대한 자세한 내용은 메일로 안내해 드렸습니다.",
+			"text_three": "당신의 아이디는 부정행위로 인해 정지되었습니다. 플러그인, 코드 스니펫, 사이트 레이아웃 변경 또는 부당한 이득을 얻기 위한 기타 모든 방법을 사용하는 것은 본 게임 이용약관에 위배됩니다.",
+			"text_temp": "이번이 첫 번째 위반이므로 당신의 계정은 일시적으로 정지되었습니다. 하지만 정지조치가 해제된 후에도 부정행위를 계속할 경우 당신의 계정은 영구적으로 정지됩니다.",
+			"text_perm": "이번이 두 번째 위반이므로 당신의 계정은 영구적으로 정지되었습니다.",
+			"text_end": "만약 이 정지가 잘못되었다고 생각하신다면 이 게임의_LINK_ 디스코드 서버 _LINK_의 #open-a-ticket 채널에서 문의 티켓을 생성하실 수 있습니다.",
+			"suspended_until": "정지기간 "
+		}
+	},
+	"main_menu": {
+		"ui": {
+			"news": "뉴스",
+			"stay_connected": "새 소식 채널",
+			"merch_store": "공식 스토어",
+			"song_library": "노래 탐색",
+			"leaderboard": "리더보드"
+		},
+		"carousel": {
+			"social_promo": "디스코드와 패트리온에서 AMQ를 팔로우하고 무료 티켓을 받으세요!",
+			"patreon_promo": "게임을 후원하고 독점 보상을 획득하세요.",
+			"sale_names": {
+				"fall": "가을 세일!",
+				"summer": "여름 세일!",
+				"winter": "겨울 세일!",
+				"spring": "봄 세일!",
+				"halloween": "할로윈 세일!",
+				"christmas": "크리스마스 세일!",
+				"lunar": "설날 세일!",
+				"valentine": "발렌타인 세일!",
+				"summer_games": "하계 올림픽 세일!"
+			},
+			"sale_text": "티켓을 가장 저렴하게 구입하세요!",
+			"skin_header": "한정",
+			"skin_seasons": {
+				"spring": "봄 스킨",
+				"summer": "여름 스킨",
+				"fall": "가을 스킨",
+				"winter": "겨울 스킨",
+				"halloween": "할로윈 스킨",
+				"christmas": "크리스마스 스킨",
+				"lunar": "설날 스킨",
+				"valentine": "발렌타인 스킨",
+				"summer_games": "하계 올림픽 스킨"
+			},
+			"skin_footer": "지금 이용 가능"
+		},
+		"quiz_of_the_day": {
+			"title": "오늘의 퀴즈",
+			"time_slots": "개최 시간",
+			"weekly_schedule": "주간 일정",
+			"current_week": "이번 주",
+			"what_is": "What's the Quiz of the Day?",
+			"what_is_description": "오늘의 퀴즈는 매일 열리며 인원수 제한 없이 참여할 수 있는 다른 플레이어들과 실력을 겨루는 퀴즈입니다. 현재 오늘의 퀴즈는 경쟁이 치열한 랭크 게임, 커뮤니티에서 직접 디자인한 독특하고 재미있는 경험을 제공하도록 구성된 테마 퀴즈, 이렇게 두 가지 모드로 나뉘어 진행됩니다.",
+			"ranked_description": "랭크 게임 설명",
+			"week": "_NUMBER_주차",
+			"week_year": "_NUMBER_주차 _NUMBER_년",
+			"championship": "챔피언십",
+			"championship_description": "매월 랭킹 상위 150명이 챔피언 자리를 놓고 격돌합니다.",
+			"rest_day": "휴식일",
+			"rest_day_description": "챔피언십 다음 날은 오늘의 퀴즈가 개최되지 않습니다.",
+			"ranked": "랭크 게임",
+			"ranked_finished": "랭크 게임 종료",
+			"ranked_types": {
+				"novice": {
+					"title": "초보방",
+					"description": "신규 플레이어 및 초보자를 위한 45곡"
+				},
+				"expert": {
+					"title": "숙련방",
+					"description": "숙련자를 위한 85곡. 추가 랭크 포인트 보상 제공"
+				}
+			},
+			"regions": {
+				"west": { "name": "서부", "shorthand": "서" },
+				"east": { "name": "동부", "shorthand": "동" },
+				"central": { "name": "중부", "shorthand": "중" }
+			},
+			"states": {
+				"ranked": {
+					"offline": "랭크 게임 - 오프라인",
+					"lobby": "랭크 게임 - 대기중",
+					"playing": "랭크 게임 - 플레이중",
+					"completed": "랭크 게임 - 종료",
+					"rest_day": "랭크 게임 - 휴식일"
+				},
+				"themed": {
+					"offline": "테마 퀴즈 - 오프라인",
+					"lobby": "테마 퀴즈 - 대기중",
+					"playing": "테마 퀴즈 - 플레이중",
+					"completed": "테마 퀴즈 - 종료"
+				},
+				"championship": {
+					"offline": "챔피언십 - 오프라인",
+					"lobby": "챔피언십 - 대기중",
+					"playing": "챔피언십 - 플레이중",
+					"completed": "챔피언십 - 종료"
+				}
+			},
+			"week_days": {
+				"monday": "월요일",
+				"tuesday": "화요일",
+				"wednesday": "수요일",
+				"thursday": "목요일",
+				"friday": "금요일",
+				"saturday": "토요일",
+				"sunday": "일요일"
+			},
+			"popout_messages": {
+				"weekly_quiz": {
+					"title": "주간 퀴즈 일정",
+					"text": "주간 퀴즈 일정을 확인하고 각 모드에 대한 자세한 정보를 알아보세요."
+				},
+				"region_time": { "text": "지역과 다음 퀴즈까지 남은 시간" }
+			},
+			"alerts": {
+				"ranked_rules": {
+					"title": "랭크 게임 규칙",
+					"text": "랭크 게임을 플레이하는 것은 당신이 다른 플레이어와 힌트나 정답을 공유하지 않으며 부당한 이득을 주는 도구, 방법, 소프트웨어를 사용하지 않을 것에 동의하신 것으로 간주합니다."
+				}
+			}
+		},
+		"ranked_description": {
+			"title": "랭크 게임 모드",
+			"description": "랭크 게임에 참여하여 친구나 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 게임을 플레이해서 획득한 랭크 포인트로 새로운 독점 보상을 잠금 해제할 수 있습니다. 또한 매월 말에 열리는 지역 챔피언십에서 최고의 플레이어들과 함께 할 기회에 한 걸음 다가가게 됩니다._BREAK_ 랭크 게임에 참가하려면 10레벨 이상이어야 합니다.",
+			"how_it_works": "진행 방식",
+			"regions": "지역",
+			"region_description": "랭크 게임은 세 지역(서부, 중부, 동부)으로 나뉘어 운영됩니다. 각 지역은 리더보드, 시작 시간, 챔피언십이 모두 개별적으로 운영됩니다. 플레이어는 모든 지역의 랭크 게임에 참가할 수 있지만 획득한 랭크 포인트는 해당 지역에만 집계 누적됩니다.",
+			"ranked_game": "랭크 게임",
+			"ranked_game_description_one": "시작시간 30분 전에 메인메뉴에서 초보방 또는 숙련방 랭크 게임 로비에 참가할 수 있습니다. _BREAK_ 초보방은 초보나 라이트 플레이어용이며 주로 쉬움, 보통 난이도의 45곡으로 구성되고 추측 제한 시간은 20초입니다. _BREAK_ 숙련방은 숙련자, 도전적인 플레이어용이며 전부 랜덤으로 85곡이 선택되고 추측 제한 시간은 15초입니다.",
+			"ranked_game_description_two": "각 랭크 게임이 종료될 때마다 정답수에 따라 랭크 포인트를 획득합니다. _BREAK_ 초보방에서는 정답 한 곡당 3점을 획득합니다. _BREAK_ 숙련방에서는 첫 정답 5곡은 4점씩, 다음 정답 5곡은 5점씩, 그 다음은 6점씩 식으로 정답수에 따라 획득하는 포인트가 상승합니다.",
+			"end_of_season": "시즌 종료",
+			"end_of_season_description": "매월 마지막 토요일은 일반 랭크 게임이 아니라 챔피언십이 개최됩니다. 챔피언십은 Expert 랭크 게임과 같은 설정으로 시행되는데 각 지역의 상위 150명만 참가할 수 있습니다. 1등 플레이어는 지역별 챔피언 타이틀을 획득합니다. _BREAK_ 챔피언십 직후의 월요일에는 랭크 포인트가 리셋되고 새로운 시즌이 시작됩니다.",
+			"rules": "Rules",
+			"rules_description": "랭크 게임 모드는 개인의 실력을 시험하는 곳입니다. 그러므로 다른 플레이어와 힌트나 해답을 공유해서는 안됩니다. 또한 부당한 이득을 주는 모든 도구, 방법, 소프트웨어의 사용이 금지됩니다. (이것은 다른 모든 게임 모드에도 동일하게 적용됩니다.) _BREAK_ 위 규칙을 위반할 경우, 아이디가 정지되고 모든 랭크 보상이 제거될 수 있습니다."
+		},
+		"avatar_drive": {
+			"standings": "후원 순위",
+			"recent": "최근 후원",
+			"weekly": "주간",
+			"weekly_short": "주",
+			"monthly": "월간",
+			"monthly_short": "월",
+			"all_time": "전체 누계",
+			"all_time_short": "전체",
+			"donate": "후원",
+			"faq_button": "FAQ",
+			"faq_header": "FAQ",
+			"amount": "후원 액수",
+			"description": "다음 아바타를 결정할 모금 이벤트에 참여하세요! 모금 이벤트가 종료되면 후원 금액을 가장 많이 받은 아바타가 게임에 추가됩니다. 모금 이벤트는 목표 금액 달성 후에도 며칠간 더 지속됩니다.",
+			"faq_what_is": {
+				"title": "아바타 모금 이벤트란?",
+				"text": "아바타 모금 이벤트는 게임을 후원하는 동시에 앞으로 추가될 아바타에 직접 영향을 주는 방법입니다. 시스템은 매우 간단합니다. 후원 시 현재 모금 이벤트 목록에 있는 아바타를 선택하거나 새로운 아바타를 추천할 수 있습니다. 후원 금액은 해당 아바타의 점수로 합산되고, 모금 목표액이 달성되면 가장 높은 점수를 얻은 아바타가 추후 게임에 추가될 아바타로 결정됩니다."
+			},
+			"faq_nomination_type": {
+				"title": "어떤 종류의 아바타를 추천할 수 있나요?",
+				"text": "불쾌감을 주지 않고 게임에 합법적으로 추가될 수 있으며 게임 디자인을 저해하지 않는다면 어떤 아바타든지 자유롭게 추천할 수 있습니다. 모든 아바타 추천은 위에 명시된 가이드라인에 따라 검토되며 적절하지 않은 경우 거부될 수 있습니다."
+			},
+			"faq_existing_avatar": {
+				"title": "기존 캐릭터도 후보로 추천할 수 있나요?",
+				"text": "기존 아바타도 모금 이벤트 후보로 추천할 수 있습니다. 만약 이미 존재하는 아바타가 모금 이벤트에서 우승할 경우, 해당 아바타의 새로운 스킨이 추가됩니다. 스킨의 종류 또한 자유롭게 지정할 수 있습니다. 예를 들어 히비키에게 닌자 복장을 입히고 싶다면 \"닌자 히비키\"를 추천할 수 있습니다."
+			},
+			"donate_towards": "후원하기",
+			"nominated_avatar": "추천 아바타",
+			"new_avatar": "신규 아바타",
+			"avatar_description": "아바타 설명",
+			"avatar_description_placeholder": "간략한 아바타 설명",
+			"nomination": "추천 후보",
+			"anonymous_donation": "익명 후원",
+			"free_donation": "무료 후원 사용",
+			"free_donation_amount": "금액: _NUMBER_€",
+			"approx_dollars": "약 $",
+			"checkout": "결제",
+			"popover": { "no_free_donation": "이번 달 무료 후원은 이미 사용되었습니다." },
+			"alerts": {
+				"invalid_amount": {
+					"title": "후원 금액 오류",
+					"text": {
+						"illegal": "후원 금액을 입력해야 합니다.",
+						"minimum": "최소 후원 금액은 1€입니다"
+					}
+				},
+				"donation_error": { "title": "후원 오류" },
+				"donation_received": {
+					"title": "후원 완료",
+					"text": "게임을 후원해 주셔서 감사합니다!"
+				},
+				"use_free_donation": {
+					"title": "무료 후원 사용",
+					"text": "무료 후원은 한 달에 한 번만 사용할 수 있습니다."
+				}
+			}
+		},
+		"social_rewards": {
+			"title": "소셜 보상",
+			"description": "게임의 디스코드 서버 및 패트리온을 팔로우해 주신 것에 대한 감사 보상으로 팔로우해 주신 채널 당 티켓 8개를 획득하실 수 있습니다. _BREAK_ 디스코드 보상을 받으시려면 _LINK_ 디스코드 서버 _LINK_에 참가하셨는지 확인하세요. _BREAK_ 패트리온 보상을 받으시려면 _LINK_ 패트리온 _LINK_에 가입(무료) 또는 후원하셨는지 확인하세요."
+		},
+		"game_mode": {
+			"title": "게임 모드",
+			"solo": {
+				"title": "싱글 플레이",
+				"description": "나만의 방식으로 혼자 플레이"
+			},
+			"multiplayer": {
+				"title": "멀티 플레이",
+				"description": "친구나 다른 애니메이션 팬들과 함께 플레이"
+			},
+			"community": {
+				"title": "커뮤니티",
+				"description": "다른 유저들이 만든 퀴즈를 플레이하거나 직접 만든 퀴즈를 공유"
+			},
+			"jam": {
+				"title": "잼 퀴즈",
+				"description": "언제든지 자유롭게 입장하고 나갈 수 있는 끝없는 퀴즈"
+			},
+			"nexus": {
+				"title": "넥서스",
+				"description": "싱글 플레이 또는 친구와 함께 독특한 로그라이크 퀴즈 모드 넥서스 던전에 도전"
+			}
+		}
+	},
+	"menu_bar": {
+		"settings": {
+			"language": {
+				"custom": "커스텀",
+				"custom_description": "게임 내 테스트를 위한 번역 파일을 제출해 주세요.",
+				"custom_title": "커스텀 언어 파일",
+				"custom_placeholder": "번역 파일의 URL",
+				"custom_alert_description": "번역 파일의 URL을 제출해 주세요.",
+				"custom_failed_to_load": {
+					"title": "커스텀 언어 로딩 실패",
+					"text": "제출하신 URL에서 커스텀 언어 파일을 로딩하지 못했습니다."
+				},
+				"custom_wrong_format": {
+					"title": "현지화 파일 포맷 오류",
+					"text": "제출하신 언어 파일의 포맷이 바르지 않습니다. 자세한 내용은 브라우저의 개발자 도구 콘솔을 확인해 주세요."
+				}
+			}
+		},
+		"friend_list": {
+			"friends": "친구",
+			"total": "합계",
+			"all": "All",
+			"statuses": {
+				"online": "온라인",
+				"offline": "오프라인",
+				"away": "자리비움",
+				"do_not_disturb": "방해 금지",
+				"invisible": "숨기",
+				"playing_nexus": "_NAME_ 넥서스 플레이 중",
+				"in_nexus_lobby": "_NAME_ 넥서스 로비 참가 중",
+				"in_lobby": "_NAME_ 로비 참가 중",
+				"spectating_quiz": "_NAME_ 퀴즈 관전 중",
+				"in_quiz": "_NAME_ 퀴즈 플레이 중",
+				"mode_names": {
+					"co-op": "협동",
+					"private": "비공개방",
+					"jam": "잼 퀴즈",
+					"event": "이벤트",
+					"solo": "싱글"
+				}
+			},
+			"options": {
+				"report": "신고",
+				"remove_friend": "친구 삭제",
+				"join_game": "게임 참가"
+			},
+			"popout_messages": {
+				"not_in_game": "게임에 참가하지 않았습니다.",
+				"solo_game_invite": "싱글 게임으로는 초대할 수 없습니다."
+			}
+		},
+		"menu": {
+			"patreon": "패트리온",
+			"donate": "후원",
+			"song_history": "출제곡 내역",
+			"settings": "설정",
+			"blocked_players": "차단한 플레이어",
+			"change_password": "비밀번호 변경",
+			"leaderboard": "리더보드",
+			"tutorial": "튜토리얼",
+			"guidelines": "가이드라인",
+			"about": "스태프",
+			"logout": "로그아웃"
+		},
+		"video_host": {
+			"title": "동영상 서버 접속",
+			"description": "동영상 서버별 연결 상황",
+			"click_to_retest": "연결 테스트를 다시 하려면 클릭하세요.",
+			"speed": "속도: _SPANC_ _NUMBER_  _SPANC_",
+			"connection_status": {
+				"good": "좋음",
+				"okay": "보통",
+				"poor": "나쁨",
+				"bad": "매우 나쁨"
+			}
+		}
+	},
+	"player_profile": {
+		"MISSING-profile_image": "Profile Image",
+		"MISSING-avatar": "Avatar",
+		"MISSING-no_badges": "No Badges",
+		"MISSING-profile": "Profile",
+		"MISSING-special_badges": "Special Badges",
+		"MISSING-standard_badges": "Standard Badges",
+		"MISSING-name_effects": "Name Effects",
+		"MISSING-name_color": "Name Color",
+		"MISSING-name_glow": "Name Glow",
+		"MISSING-hidden": "Hidden",
+		"MISSING-account_creation": "Account Creation",
+		"MISSING-songs_played": "Songs Played",
+		"MISSING-guess_rate": "Guess Rate",
+		"MISSING-options": "Options",
+		"MISSING-edit": "Edit",
+		"MISSING-change_nickname": "Change Nickname",
+		"change_nickname_modal": {
+			"MISSING-description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
+			"MISSING-current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
+			"MISSING-check_availability": "Check Availability"
+		},
+		"alerts": {
+			"MISSING-error_getting_profile": "Error Getting Player Profile",
+			"MISSING-unknown_player": "Unknown Player"
+		},
+		"name_effects_entries": {
+			"challenger_color": {
+				"MISSING-name": "Challenger",
+				"MISSING-description": "Unlocked for players who qualified for last month ranked championship"
+			},
+			"challenger_glow": {
+				"MISSING-name": "Challenger",
+				"MISSING-description": "Unlocked for players who got top 50 in last month ranked championship"
+			},
+			"patreon_color": {
+				"MISSING-name": "Patreon",
+				"MISSING-description": "Unlocked for level 3 or higher Patreon backers"
+			},
+			"patreon_glow": {
+				"MISSING-name": "Patreon",
+				"MISSING-description": "Unlocked for level 4 or higher Patreon backers"
+			},
+			"MISSING-month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
+			"MISSING-month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
+			"MISSING-month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
+		}
+	},
+	"badges": {
+		"ranked": {
+			"MISSING-name": "Ranked _TIER_ _YEAR_ _NUMBER_",
+			"MISSING-name_result": "Ranked _TIER_ _YEAR_",
+			"MISSING-description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
+			"MISSING-description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
+			"tiers": {
+				"MISSING-bronze": "Bronze",
+				"MISSING-silver": "Silver",
+				"MISSING-gold": "Gold",
+				"MISSING-platinum": "Platinum",
+				"MISSING-diamond": "Diamond"
+			}
+		},
+		"champion": {
+			"name": {
+				"MISSING-first": "Ranked Champion _YEAR_ _NUMBER_",
+				"MISSING-second": "Ranked Second Place _YEAR_ _NUMBER_",
+				"MISSING-third": "Ranked Third Place _YEAR_ _NUMBER_"
+			},
+			"description": {
+				"MISSING-first": "Won the _YEAR_ season _NUMBER_ championship",
+				"MISSING-second": "Ranked Second Place in the _YEAR_ season _NUMBER_ championship",
+				"MISSING-third": "Ranked Third Place in the _YEAR_ season _NUMBER_ championship"
+			}
+		},
+		"challenger": {
+			"name": {
+				"MISSING-top": "Ranked Expert _YEAR_ _NUMBER_",
+				"MISSING-mid": "Ranked Up-and-Coming _YEAR_ _NUMBER_",
+				"MISSING-qualified": "Ranked Challenger _YEAR_ _NUMBER_"
+			},
+			"description": {
+				"MISSING-qualified": "Qualified for the _YEAR_ season _NUMBER_ championship",
+				"MISSING-top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
+			}
+		},
+		"patreon": {
+			"name": {
+				"MISSING-start": "Patreon Backer",
+				"MISSING-month": "_NUMBER_ Months Patreon Backer",
+				"MISSING-one_year": "1 Year Patreon Backer",
+				"MISSING-multiple_years": "_NUMBER_ Years Patreon Backer"
+			},
+			"MISSING-description": "AMQ Patreon Backer"
+		},
+		"avatar": { "MISSING-name": "_NAME_ Badge", "MISSING-description": "Unlock 10 skins/recolors for _NAME_" },
+		"mod": {
+			"name": { "MISSING-game": "AMQ Moderator", "MISSING-jam": "AMQ Jam Mode Moderator" },
+			"description": {
+				"MISSING-game": "Part of the AMQ Moderator team",
+				"MISSING-jam": "Part of the AMQ Jam Mode Moderator team"
+			}
+		},
+		"aragaimu": {
+			"name": {
+				"MISSING-participant": "Aragaimu _YEAR_ Participant",
+				"MISSING-top32": "Aragaimu _YEAR_ Top 32",
+				"MISSING-top4": "Aragaimu _YEAR_ Top 4"
+			},
+			"description": {
+				"MISSING-participant": "Participated in the Aragaimu _YEAR_ tournament",
+				"MISSING-top32": "Got Top 32 in the Aragaimu _YEAR_ tournament",
+				"MISSING-top4": "Got Top 4 in the Aragaimu _YEAR_ tournament"
+			}
+		}
+	},
+	"patreon_window": {
+		"MISSING-title": "Patreon",
+		"MISSING-description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
+		"reward_examples": {
+			"MISSING-title": "Some of the Patreon Rewards",
+			"MISSING-sneak_peeks": "Sneak Peeks",
+			"MISSING-patreon_badge": "Patreon Badges",
+			"MISSING-custom_emotes": "Custom Emotes",
+			"MISSING-monthly_tickets": "Monthly Tickets"
+		},
+		"MISSING-already_a_backer": "Already a Backer?",
+		"MISSING-link_account": "Link Patreon Account",
+		"MISSING-become_a_backer": "Become a Backer",
+		"MISSING-patreon_linked": "Patreon Linked!",
+		"backer_level": {
+			"MISSING-title": "Backer Level",
+			"MISSING-tier": "Level _NUMBER_",
+			"rewards": { "MISSING-emotes": "_NUMBER_ Emotes", "MISSING-tickets": "_NUMBER_ Tickets" }
+		},
+		"MISSING-badge_level": "Badge Level",
+		"MISSING-badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
+		"MISSING-patreon_page": "Patreon Page",
+		"MISSING-relink": "Relink",
+		"MISSING-update_info": "Update Info",
+		"MISSING-unlink_account": "Unlink Account",
+		"MISSING-linked_account": "Linked Account",
+		"emotes": {
+			"MISSING-title": "Emotes",
+			"MISSING-upload": "Upload",
+			"MISSING-close": "Close",
+			"MISSING-manage": "Manage",
+			"MISSING-empty": "Empty",
+			"states": {
+				"waiting_approval": { "MISSING-name": "Waiting Approval", "MISSING-shorthand": "W" },
+				"active": { "MISSING-name": "Active", "MISSING-shorthand": "A" },
+				"disabled": { "MISSING-name": "Disabled", "MISSING-shorthand": "D" }
+			},
+			"MISSING-error_deleting": "Error Deleting Emote",
+			"upload_emote": {
+				"MISSING-title": "Upload Emote",
+				"description": {
+					"MISSING-line_one": "_BOLD_ Slots Left _BOLD_",
+					"MISSING-line_two": "Standard: _NUMBER_",
+					"MISSING-line_three": "Animated: _NUMBER_"
+				},
+				"MISSING-confirm_button": "Select File",
+				"MISSING-footer": "Accepted File Formats: png (Standard), gif (Animated). Max Filesize: 256kb",
+				"file_too_large": {
+					"MISSING-title": "File Too Big",
+					"MISSING-description": "Max filesize is 256kb. Provided file is _NUMBER_kb"
+				},
+				"no_standard_slot": {
+					"MISSING-title": "No Standard Slot Available",
+					"MISSING-description": "You don't have any empty standard emote slots available"
+				},
+				"no_animated_slot": {
+					"MISSING-title": "No Animated Slot Available",
+					"MISSING-description": "You don't have any empty animated emote slots available"
+				},
+				"selected_image": {
+					"MISSING-title": "Selected Image",
+					"MISSING-image": "Image",
+					"MISSING-resulting_emote": "Resulting Emote",
+					"MISSING-placeholder": "Emote Name",
+					"errors": {
+						"MISSING-no_name": "You must provide an emote name",
+						"MISSING-name_format": "Emote names can only contain letters and numbers",
+						"MISSING-name_length": "Emote names must be at most _NUMBER_ characters"
+					}
+				},
+				"server_rejected": {
+					"MISSING-title": "Error Uploading Emote",
+					"MISSING-description": "The server rejected the emote upload."
+				},
+				"emote_uploaded": {
+					"MISSING-title": "Emote Uploaded",
+					"MISSING-description": "Your emote has been successfully uploaded and is pending approval"
+				}
+			}
+		}
+	},
+	"setting_window": {
+		"MISSING-title": "Settings",
+		"tabs": {
+			"MISSING-game": "Game",
+			"MISSING-anime_list": "Anime List",
+			"MISSING-graphics": "Graphics",
+			"MISSING-audio": "Audio"
+		},
+		"MISSING-language": "Language",
+		"auto_submit": {
+			"MISSING-title": "Auto Submit",
+			"MISSING-description": "Automatically submit your answer when the guess time runs out"
+		},
+		"list_numbering": {
+			"MISSING-title": "List Numbering",
+			"MISSING-description": "Show number of songs played from each players anime list on the scoreboard"
+		},
+		"disable_emotes": {
+			"MISSING-title": "Disable Emotes",
+			"MISSING-description": "Disable emotes from being shown in chats"
+		},
+		"answer_time": {
+			"MISSING-title": "Answer Time",
+			"MISSING-description": "Display players answer time on their avatars"
+		},
+		"anime_link": { "MISSING-title": "Anime Link", "MISSING-description": "The anime site that's linked in song info" },
+		"auto_skip_vote": {
+			"MISSING-title": "Auto Skip Vote",
+			"MISSING-description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
+			"MISSING-guessing_phase": "Guessing Phase",
+			"MISSING-replay_phase": "Replay Phase"
+		},
+		"block_non_friend_actions": {
+			"MISSING-title": "Block Non-Friend Actions",
+			"MISSING-description": "Block social actions from players not on your friends list",
+			"MISSING-direct_messages": "Direct Messages",
+			"MISSING-friend_requests": "Friend Requests",
+			"MISSING-game_invites": "Game Invites"
+		},
+		"anime_names": {
+			"MISSING-title": "Anime Names",
+			"MISSING-description": "Default anime name shown in quizzes",
+			"MISSING-english": "English",
+			"MISSING-romaji": "Romaji"
+		},
+		"team_answer": {
+			"MISSING-title": "Team Answers in Chat",
+			"MISSING-description": "Show your team answers in the chat during team games",
+			"MISSING-never": "Never",
+			"MISSING-out_of_focus": "Out of Focus",
+			"MISSING-always": "Always"
+		},
+		"sound_equalizing": {
+			"MISSING-title": "Sound Equalizing",
+			"MISSING-description": "Equalize volume levels between different songs"
+		},
+		"max_volume": {
+			"MISSING-title": "Max Volume",
+			"MISSING-description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
+		},
+		"auto_hide_video": {
+			"MISSING-title": "Auto Hide Video",
+			"MISSING-description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
+			"MISSING-openings": "Openings",
+			"MISSING-endings": "Endings",
+			"MISSING-inserts": "Inserts",
+			"unwatched": { "MISSING-title": "Unwatched", "MISSING-description": "Videos from anime you haven't watched" },
+			"high_risk": {
+				"MISSING-title": "High Risk",
+				"MISSING-description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
+			}
+		},
+		"anime_list": {
+			"MISSING-description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
+			"share_entries": {
+				"MISSING-title": "Share Entries",
+				"MISSING-description": "Show when a show is from your list"
+			},
+			"show_scores": {
+				"MISSING-title": "Show Scores",
+				"MISSING-description": "Show your anime score for shows on your list"
+			},
+			"MISSING-anilist_username": "AniList Username",
+			"MISSING-mal_username": "MyAnimeList Username",
+			"MISSING-mal_username_short": "MAL Username",
+			"MISSING-kitsu_username": "Kitsu Username",
+			"MISSING-last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+			"update_messages": {
+				"MISSING-update_successful": "Update Successful",
+				"MISSING-update_failed": "Update Failed",
+				"MISSING-list_updated": "List Updated",
+				"MISSING-list_removed": "List Removed",
+				"MISSING-unknown_username": "Unknown Username",
+				"MISSING-mal_private": "MAL List set to private, only public lists can be synced to the game",
+				"MISSING-mal_error": "Error from MAL, please try again later",
+				"MISSING-anilist_error": "Unable to Retrieve List from AniList"
+			},
+			"included_entries": {
+				"MISSING-title": "Included Entries",
+				"types": {
+					"MISSING-watching": "Watching",
+					"MISSING-completed": "Completed",
+					"MISSING-on_hold": "On Hold",
+					"MISSING-dropped": "Dropped",
+					"MISSING-planning": "Planning"
+				}
+			}
+		},
+		"graphics": {
+			"particle_effects": {
+				"MISSING-title": "Particle Effects",
+				"MISSING-description": "Controls the number of particles used in effects, such as the XP animation.",
+				"levels": { "MISSING-off": "Off", "MISSING-low": "Low", "MISSING-high": "High" }
+			},
+			"disable_floating_text": {
+				"MISSING-title": "Disable Floating Text",
+				"MISSING-description": "Floating text won't appear when gaining xp and notes"
+			},
+			"MISSING-name_effects_friend_list": "Name Effects in Friend List"
+		},
+		"audio": {
+			"MISSING-nexus": "Nexus",
+			"MISSING-master": "Master",
+			"MISSING-music": "Music",
+			"MISSING-effects": "Effects"
+		}
+	},
+	"blocked_player_window": { "MISSING-title": "Blocked Player List", "MISSING-remove_button": "Remove" },
+	"change_password_window": {
+		"MISSING-title": "Change Password",
+		"MISSING-current_password": "Current Password",
+		"MISSING-no_current_password": "You must provide your current password",
+		"MISSING-unexpected_error": "Unexpected error, please try again",
+		"MISSING-error_contacting_server": "Error contacting server, please try again later",
+		"MISSING-password_updated": "Password updated successfully",
+		"MISSING-wrong_password": "Current password is incorrect"
+	}
+}
