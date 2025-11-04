@@ -774,7 +774,7 @@
 			"effects": "효과음"
 		}
 	},
-	"blocked_player_window": { "title": "차단 플레이어 목록", "remove_button": "제거" },
+	"blocked_player_window": { "title": "차단한 플레이어 리스트", "remove_button": "제거" },
 	"change_password_window": {
 		"title": "비밀번호 변경",
 		"current_password": "현재 비밀번호",
