@@ -81,7 +81,7 @@
 	},
 	"login_page": {
 		"ui": {
-			"play_now": "바로 게임 시작",
+			"play_now": "바로 시작",
 			"login": "로그인",
 			"send_button": "송신",
 			"return_to_login": "로그인 화면으로 돌아가기",
@@ -168,11 +168,11 @@
 			"news": "뉴스",
 			"stay_connected": "새 소식 채널",
 			"merch_store": "공식 스토어",
-			"song_library": "노래 탐색",
+			"song_library": "노래 정보 탐색",
 			"leaderboard": "리더보드"
 		},
 		"carousel": {
-			"social_promo": "디스코드와 패트리온에서 AMQ를 팔로우하고 무료 티켓을 받으세요!",
+			"social_promo": "디스코드와 패트리온에서 AMQ를 _BREAK_ 팔로우하고 무료 티켓을 받으세요!",
 			"patreon_promo": "게임을 후원하고 독점 보상을 획득하세요.",
 			"sale_names": {
 				"fall": "가을 세일!",
@@ -185,7 +185,7 @@
 				"valentine": "발렌타인 세일!",
 				"summer_games": "하계 올림픽 세일!"
 			},
-			"sale_text": "티켓을 가장 저렴하게 구입하세요!",
+			"sale_text": "저렴한 티켓 구입!",
 			"skin_header": "한정",
 			"skin_seasons": {
 				"spring": "봄 스킨",
@@ -198,7 +198,7 @@
 				"valentine": "발렌타인 스킨",
 				"summer_games": "하계 올림픽 스킨"
 			},
-			"skin_footer": "지금 이용 가능"
+			"skin_footer": "지금 획득 가능"
 		},
 		"quiz_of_the_day": {
 			"title": "오늘의 퀴즈",
@@ -430,7 +430,7 @@
 			"donate": "후원",
 			"song_history": "출제곡 내역",
 			"settings": "설정",
-			"blocked_players": "차단한 플레이어",
+			"blocked_players": "차단 내역",
 			"change_password": "비밀번호 변경",
 			"leaderboard": "리더보드",
 			"tutorial": "튜토리얼",
@@ -452,336 +452,336 @@
 		}
 	},
 	"player_profile": {
-		"MISSING-profile_image": "Profile Image",
-		"MISSING-avatar": "Avatar",
-		"MISSING-no_badges": "No Badges",
-		"MISSING-profile": "Profile",
-		"MISSING-special_badges": "Special Badges",
-		"MISSING-standard_badges": "Standard Badges",
-		"MISSING-name_effects": "Name Effects",
-		"MISSING-name_color": "Name Color",
-		"MISSING-name_glow": "Name Glow",
-		"MISSING-hidden": "Hidden",
-		"MISSING-account_creation": "Account Creation",
-		"MISSING-songs_played": "Songs Played",
-		"MISSING-guess_rate": "Guess Rate",
-		"MISSING-options": "Options",
-		"MISSING-edit": "Edit",
-		"MISSING-change_nickname": "Change Nickname",
+		"profile_image": "프로필 이미지",
+		"avatar": "아바타",
+		"no_badges": "배지 없음",
+		"profile": "프로필",
+		"special_badges": "특별 배지",
+		"standard_badges": "일반 배지",
+		"name_effects": "이름 효과",
+		"name_color": "이름 색상",
+		"name_glow": "광택 효과",
+		"hidden": "숨김",
+		"account_creation": "아이디 생성",
+		"songs_played": "플레이한 곡 수",
+		"guess_rate": "정답률",
+		"options": "옵션",
+		"edit": "편집",
+		"change_nickname": "닉네임 변경",
 		"change_nickname_modal": {
-			"MISSING-description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
-			"MISSING-current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
-			"MISSING-check_availability": "Check Availability"
+			"description": "이름 변경 토큰 1개를 사용해서 닉네임(게임 내 표시되는 이름)을 변경할 수 있습니다. 1년마다 1개씩 이름 변경 토큰을 획득하며 패트리온 레벨4 이상 후원자에게는 매달 추가 토큰 1개가 지급됩니다. _BREAK_ 닉네임을 변경하면 기존 닉네임(아이디 등록시 이름도)은 다른 사람이 사용할 수 있게 됩니다. _BREAK_ 아이디 등록시 이름은 여전히 프로필에서 확인할 수 있습니다.",
+			"current_tokens": "현재 보유중인 토큰 개수: _SPAN_ _NUMBER_ _SPAN_",
+			"check_availability": "이름 중복 확인"
 		},
 		"alerts": {
-			"MISSING-error_getting_profile": "Error Getting Player Profile",
-			"MISSING-unknown_player": "Unknown Player"
+			"error_getting_profile": "플레이어 프로필 정보 취득 오류",
+			"unknown_player": "플레이어 불명"
 		},
 		"name_effects_entries": {
 			"challenger_color": {
-				"MISSING-name": "Challenger",
-				"MISSING-description": "Unlocked for players who qualified for last month ranked championship"
+				"name": "도전자",
+				"description": "지난달 랭크 게임 챔피언십에 진출하면 잠금 해제됩니다."
 			},
 			"challenger_glow": {
-				"MISSING-name": "Challenger",
-				"MISSING-description": "Unlocked for players who got top 50 in last month ranked championship"
+				"name": "도전자",
+				"description": "지난달 랭크 게임 챔피언십 상위 50위까지 잠금 해제됩니다."
 			},
 			"patreon_color": {
-				"MISSING-name": "Patreon",
-				"MISSING-description": "Unlocked for level 3 or higher Patreon backers"
+				"name": "패트리온",
+				"description": "패트리온 레벨3 이상 후원자에게 잠금 해제됩니다."
 			},
 			"patreon_glow": {
-				"MISSING-name": "Patreon",
-				"MISSING-description": "Unlocked for level 4 or higher Patreon backers"
+				"name": "패트리온",
+				"description": "패트리온 레벨4 이상 후원자에게 잠금 해제됩니다."
 			},
-			"MISSING-month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
-			"MISSING-month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
-			"MISSING-month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
+			"month_patreon_current": "패트리온 레벨6 이상 후원자와 이번 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다.",
+			"month_patreon_previous": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다.",
+			"month_patreon_previous_unlocked": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다. 당신은 출시된 달에 후원하셨습니다."
 		}
 	},
 	"badges": {
 		"ranked": {
-			"MISSING-name": "Ranked _TIER_ _YEAR_ _NUMBER_",
-			"MISSING-name_result": "Ranked _TIER_ _YEAR_",
-			"MISSING-description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
-			"MISSING-description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
+			"name": "랭크 게임 _TIER_ _YEAR_ _NUMBER_",
+			"name_result": "랭크 게임 _TIER_ _YEAR_",
+			"description": "_YEAR_ 랭크 게임 시즌 _NUMBER_에서 _TIER_티어를 획득",
+			"description_result": "_YEAR_의 모든 랭크 게임 시즌에서 _TIER_티어를 획득",
 			"tiers": {
-				"MISSING-bronze": "Bronze",
-				"MISSING-silver": "Silver",
-				"MISSING-gold": "Gold",
-				"MISSING-platinum": "Platinum",
-				"MISSING-diamond": "Diamond"
+				"bronze": "브론즈",
+				"silver": "실버",
+				"gold": "골드",
+				"platinum": "플래티넘",
+				"diamond": "다이아몬드"
 			}
 		},
 		"champion": {
 			"name": {
-				"MISSING-first": "Ranked Champion _YEAR_ _NUMBER_",
-				"MISSING-second": "Ranked Second Place _YEAR_ _NUMBER_",
-				"MISSING-third": "Ranked Third Place _YEAR_ _NUMBER_"
+				"first": "랭크 게임 챔피언 _YEAR_ _NUMBER_",
+				"second": "랭크 게임 2위 _YEAR_ _NUMBER_",
+				"third": "랭크 게임 3위 _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"MISSING-first": "Won the _YEAR_ season _NUMBER_ championship",
-				"MISSING-second": "Ranked Second Place in the _YEAR_ season _NUMBER_ championship",
-				"MISSING-third": "Ranked Third Place in the _YEAR_ season _NUMBER_ championship"
+				"first": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 우승",
+				"second": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 2위",
+				"third": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 3위"
 			}
 		},
 		"challenger": {
 			"name": {
-				"MISSING-top": "Ranked Expert _YEAR_ _NUMBER_",
-				"MISSING-mid": "Ranked Up-and-Coming _YEAR_ _NUMBER_",
-				"MISSING-qualified": "Ranked Challenger _YEAR_ _NUMBER_"
+				"top": "랭크 게임 숙련자 _YEAR_ _NUMBER_",
+				"mid": "랭크 게임 유망주 _YEAR_ _NUMBER_",
+				"qualified": "랭크 게임 도전자 _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"MISSING-qualified": "Qualified for the _YEAR_ season _NUMBER_ championship",
-				"MISSING-top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
+				"qualified": "_YEAR_ 시즌 _NUMBER_ 챔피언십 진출",
+				"top": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 상위 _TOP_위"
 			}
 		},
 		"patreon": {
 			"name": {
-				"MISSING-start": "Patreon Backer",
-				"MISSING-month": "_NUMBER_ Months Patreon Backer",
-				"MISSING-one_year": "1 Year Patreon Backer",
-				"MISSING-multiple_years": "_NUMBER_ Years Patreon Backer"
+				"start": "패트리온 후원자",
+				"month": "_NUMBER_ 개월 패트리온 후원자",
+				"one_year": "1년 패트리온 후원자",
+				"multiple_years": "_NUMBER_년 패트리온 후원자"
 			},
-			"MISSING-description": "AMQ Patreon Backer"
+			"description": "AMQ 패트리온 후원자"
 		},
-		"avatar": { "MISSING-name": "_NAME_ Badge", "MISSING-description": "Unlock 10 skins/recolors for _NAME_" },
+		"avatar": { "name": "_NAME_ 배지", "description": "_NAME_의 스킨이나 색상을 10개 잠금 해제" },
 		"mod": {
-			"name": { "MISSING-game": "AMQ Moderator", "MISSING-jam": "AMQ Jam Mode Moderator" },
+			"name": { "game": "AMQ 운영자", "jam": "AMQ 잼 모드 운영자" },
 			"description": {
-				"MISSING-game": "Part of the AMQ Moderator team",
-				"MISSING-jam": "Part of the AMQ Jam Mode Moderator team"
+				"game": "AMQ 운영팀 일원",
+				"jam": "AMQ 잼 모드 운영팀 일원"
 			}
 		},
 		"aragaimu": {
 			"name": {
-				"MISSING-participant": "Aragaimu _YEAR_ Participant",
-				"MISSING-top32": "Aragaimu _YEAR_ Top 32",
-				"MISSING-top4": "Aragaimu _YEAR_ Top 4"
+				"participant": "Aragaimu _YEAR_ 참가자",
+				"top32": "Aragaimu _YEAR_ 32강",
+				"top4": "Aragaimu _YEAR_ 4강"
 			},
 			"description": {
-				"MISSING-participant": "Participated in the Aragaimu _YEAR_ tournament",
-				"MISSING-top32": "Got Top 32 in the Aragaimu _YEAR_ tournament",
-				"MISSING-top4": "Got Top 4 in the Aragaimu _YEAR_ tournament"
+				"participant": "Aragaimu _YEAR_ 토너먼트에 참가",
+				"top32": "Aragaimu _YEAR_ 토너먼트에서 32강 진출",
+				"top4": "Aragaimu _YEAR_ 토너먼트에서 4강 진출"
 			}
 		}
 	},
 	"patreon_window": {
-		"MISSING-title": "Patreon",
-		"MISSING-description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
+		"title": "패트리온",
+		"description": "패트리온에서 AMQ 를 후원하여 운영 및 개발을 지원해 주세요. 여러분과 함께 AMQ를 만들고 공유하는 경험은 정말 놀라웠습니다. 앞으로도 이 게임으로 하고 싶은 것들이 많이 있습니다. 패트리온에서 후원해 주시면 게임 운영 비용뿐만 아니라 지속적인 개발에 큰 도움이 됩니다! 특별한 감사로서 몇가지 독점 보상도 받을 수 있습니다!",
 		"reward_examples": {
-			"MISSING-title": "Some of the Patreon Rewards",
-			"MISSING-sneak_peeks": "Sneak Peeks",
-			"MISSING-patreon_badge": "Patreon Badges",
-			"MISSING-custom_emotes": "Custom Emotes",
-			"MISSING-monthly_tickets": "Monthly Tickets"
+			"title": "주요 패트리온 보상",
+			"sneak_peeks": "최신 기능 미리 보기",
+			"patreon_badge": "패트리온 배지",
+			"custom_emotes": "커스텀 이모티콘",
+			"monthly_tickets": "매월 무료 티켓"
 		},
-		"MISSING-already_a_backer": "Already a Backer?",
-		"MISSING-link_account": "Link Patreon Account",
-		"MISSING-become_a_backer": "Become a Backer",
-		"MISSING-patreon_linked": "Patreon Linked!",
+		"already_a_backer": "이미 후원하셨나요?",
+		"link_account": "패트리온 계정과 연결",
+		"become_a_backer": "후원자 되기",
+		"patreon_linked": "패트리온 연결됨!",
 		"backer_level": {
-			"MISSING-title": "Backer Level",
-			"MISSING-tier": "Level _NUMBER_",
-			"rewards": { "MISSING-emotes": "_NUMBER_ Emotes", "MISSING-tickets": "_NUMBER_ Tickets" }
+			"title": "후원자 레벨",
+			"tier": "레벨 _NUMBER_",
+			"rewards": { "emotes": "_NUMBER_ 이모티콘", "tickets": "_NUMBER_ 티켓" }
 		},
-		"MISSING-badge_level": "Badge Level",
-		"MISSING-badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
-		"MISSING-patreon_page": "Patreon Page",
-		"MISSING-relink": "Relink",
-		"MISSING-update_info": "Update Info",
-		"MISSING-unlink_account": "Unlink Account",
-		"MISSING-linked_account": "Linked Account",
+		"badge_level": "배지 레벨",
+		"badge_level_info": "배지 레벨은 패트리온 레벨2 이상을 연속으로 후원한 개월 수와 같습니다.",
+		"patreon_page": "패트리온 페이지",
+		"relink": "재연결",
+		"update_info": "정보 갱신",
+		"unlink_account": "연결 해제",
+		"linked_account": "연결된 계정",
 		"emotes": {
-			"MISSING-title": "Emotes",
-			"MISSING-upload": "Upload",
-			"MISSING-close": "Close",
-			"MISSING-manage": "Manage",
-			"MISSING-empty": "Empty",
+			"title": "이모티콘",
+			"upload": "업로드",
+			"close": "닫기",
+			"manage": "관리",
+			"empty": "비었음",
 			"states": {
-				"waiting_approval": { "MISSING-name": "Waiting Approval", "MISSING-shorthand": "W" },
-				"active": { "MISSING-name": "Active", "MISSING-shorthand": "A" },
-				"disabled": { "MISSING-name": "Disabled", "MISSING-shorthand": "D" }
+				"waiting_approval": { "name": "신청중", "shorthand": "W" },
+				"active": { "name": "활성", "shorthand": "A" },
+				"disabled": { "name": "비활성", "shorthand": "D" }
 			},
-			"MISSING-error_deleting": "Error Deleting Emote",
+			"error_deleting": "이모티콘 삭제 오류",
 			"upload_emote": {
-				"MISSING-title": "Upload Emote",
+				"title": "이모티콘 업로드",
 				"description": {
-					"MISSING-line_one": "_BOLD_ Slots Left _BOLD_",
-					"MISSING-line_two": "Standard: _NUMBER_",
-					"MISSING-line_three": "Animated: _NUMBER_"
+					"line_one": "_BOLD_ 남은 슬롯 수 _BOLD_",
+					"line_two": "일반: _NUMBER_",
+					"line_three": "애니메이션: _NUMBER_"
 				},
-				"MISSING-confirm_button": "Select File",
-				"MISSING-footer": "Accepted File Formats: png (Standard), gif (Animated). Max Filesize: 256kb",
+				"confirm_button": "파일 선택",
+				"footer": "허용 파일 형식: png (일반), gif (애니메이션). 최대 파일 크기: 256kb",
 				"file_too_large": {
-					"MISSING-title": "File Too Big",
-					"MISSING-description": "Max filesize is 256kb. Provided file is _NUMBER_kb"
+					"title": "파일 크기 초과",
+					"description": "최대 파일 크기는 256kb입니다. 업로드한 파일은 _NUMBER_kb입니다"
 				},
 				"no_standard_slot": {
-					"MISSING-title": "No Standard Slot Available",
-					"MISSING-description": "You don't have any empty standard emote slots available"
+					"title": "일반 슬롯이 부족합니다.",
+					"description": "비어 있는 일반 이모티콘 슬롯이 없습니다."
 				},
 				"no_animated_slot": {
-					"MISSING-title": "No Animated Slot Available",
-					"MISSING-description": "You don't have any empty animated emote slots available"
+					"title": "애니메이션 슬롯이 부족합니다.",
+					"description": "비어 있는 애니메이션 이모티콘 슬롯이 없습니다."
 				},
 				"selected_image": {
-					"MISSING-title": "Selected Image",
-					"MISSING-image": "Image",
-					"MISSING-resulting_emote": "Resulting Emote",
-					"MISSING-placeholder": "Emote Name",
+					"title": "선택된 이미지",
+					"image": "이미지",
+					"resulting_emote": "이모티콘 미리보기",
+					"placeholder": "이모티콘 이름",
 					"errors": {
-						"MISSING-no_name": "You must provide an emote name",
-						"MISSING-name_format": "Emote names can only contain letters and numbers",
-						"MISSING-name_length": "Emote names must be at most _NUMBER_ characters"
+						"no_name": "이모티콘 이름을 입력해 주세요.",
+						"name_format": "이모티콘 이름은 영숫자만 사용 가능합니다.",
+						"name_length": "이모티콘 이름은 _NUMBER_자 이내로 입력해 주세요."
 					}
 				},
 				"server_rejected": {
-					"MISSING-title": "Error Uploading Emote",
-					"MISSING-description": "The server rejected the emote upload."
+					"title": "이모티콘 업로드 오류",
+					"description": "서버거 이모티콘 업로드를 거부했습니다."
 				},
 				"emote_uploaded": {
-					"MISSING-title": "Emote Uploaded",
-					"MISSING-description": "Your emote has been successfully uploaded and is pending approval"
+					"title": "이모티콘 업로드 완료",
+					"description": "이모티콘 업로드가 완료되었으며 승인을 기다리고 있습니다"
 				}
 			}
 		}
 	},
 	"setting_window": {
-		"MISSING-title": "Settings",
+		"title": "설정",
 		"tabs": {
-			"MISSING-game": "Game",
-			"MISSING-anime_list": "Anime List",
-			"MISSING-graphics": "Graphics",
-			"MISSING-audio": "Audio"
+			"game": "게임",
+			"anime_list": "애니메이션 리스트",
+			"graphics": "그래픽",
+			"audio": "음향"
 		},
-		"MISSING-language": "Language",
+		"language": "언어",
 		"auto_submit": {
-			"MISSING-title": "Auto Submit",
-			"MISSING-description": "Automatically submit your answer when the guess time runs out"
+			"title": "자동 제출",
+			"description": "추측 제한 시간이 종료되면 입력된 답을 자동으로 제출합니다."
 		},
 		"list_numbering": {
-			"MISSING-title": "List Numbering",
-			"MISSING-description": "Show number of songs played from each players anime list on the scoreboard"
+			"title": "리스트의 곡 수",
+			"description": "점수판에 각 플레이어의 애니메이션 리스트에서 출제된 곡 수를 표시"
 		},
 		"disable_emotes": {
-			"MISSING-title": "Disable Emotes",
-			"MISSING-description": "Disable emotes from being shown in chats"
+			"title": "이모티콘 끄기",
+			"description": "채팅에 표시되는 이모티콘을 비활성화"
 		},
 		"answer_time": {
-			"MISSING-title": "Answer Time",
-			"MISSING-description": "Display players answer time on their avatars"
+			"title": "응답 시간",
+			"description": "플레이어의 아바타에 답을 입력한 시간 표시"
 		},
-		"anime_link": { "MISSING-title": "Anime Link", "MISSING-description": "The anime site that's linked in song info" },
+		"anime_link": { "title": "애니메이션 링크", "description": "곡 정보에 링크되는 애니메이션 사이트" },
 		"auto_skip_vote": {
-			"MISSING-title": "Auto Skip Vote",
-			"MISSING-description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
-			"MISSING-guessing_phase": "Guessing Phase",
-			"MISSING-replay_phase": "Replay Phase"
+			"title": "자동 스킵 투표",
+			"description": "정답 입력 후나 리플레이 단계에서 2초 후 자동으로 스킵에 투표",
+			"guessing_phase": "추측 단계",
+			"replay_phase": "리플레이 단계"
 		},
 		"block_non_friend_actions": {
-			"MISSING-title": "Block Non-Friend Actions",
-			"MISSING-description": "Block social actions from players not on your friends list",
-			"MISSING-direct_messages": "Direct Messages",
-			"MISSING-friend_requests": "Friend Requests",
-			"MISSING-game_invites": "Game Invites"
+			"title": "친구 이외 거부 설정",
+			"description": "친구 이외의 플레이어로부터 소셜 활동 차단",
+			"direct_messages": "쪽지",
+			"friend_requests": "친구 요청",
+			"game_invites": "게임 초대"
 		},
 		"anime_names": {
-			"MISSING-title": "Anime Names",
-			"MISSING-description": "Default anime name shown in quizzes",
-			"MISSING-english": "English",
-			"MISSING-romaji": "Romaji"
+			"title": "애니메이션 제목",
+			"description": "퀴즈에 표시되는 기본 애니메이션 제목 형식",
+			"english": "영어",
+			"romaji": "로마자"
 		},
 		"team_answer": {
-			"MISSING-title": "Team Answers in Chat",
-			"MISSING-description": "Show your team answers in the chat during team games",
-			"MISSING-never": "Never",
-			"MISSING-out_of_focus": "Out of Focus",
-			"MISSING-always": "Always"
+			"title": "채팅에 팀원이 입력한 답 표시",
+			"description": "팀 게임 중 채팅에 팀원이 입력한 답 표시",
+			"never": "끔",
+			"out_of_focus": "포커스 밖일 때",
+			"always": "항상"
 		},
 		"sound_equalizing": {
-			"MISSING-title": "Sound Equalizing",
-			"MISSING-description": "Equalize volume levels between different songs"
+			"title": "음량 평준화",
+			"description": "각 노래의 음량 레벨을 균일하게 조정"
 		},
 		"max_volume": {
-			"MISSING-title": "Max Volume",
-			"MISSING-description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
+			"title": "최대 음량",
+			"description": "음량 평준화가 적용될 수 있는 최대 볼륨입니다. 이 값을 높이면 전체 소리는 커지지만 조용한 노래는 평준화 효과가 잘 적용되지 않을 수 있습니다."
 		},
 		"auto_hide_video": {
-			"MISSING-title": "Auto Hide Video",
-			"MISSING-description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
-			"MISSING-openings": "Openings",
-			"MISSING-endings": "Endings",
-			"MISSING-inserts": "Inserts",
-			"unwatched": { "MISSING-title": "Unwatched", "MISSING-description": "Videos from anime you haven't watched" },
+			"title": "영상 자동 숨김",
+			"description": "선택한 카테고리의 영상은 자동으로 숨겨지며 리플레이 단계에서 영상을 클릭하면 볼 수 있습니다.",
+			"openings": "오프닝",
+			"endings": "엔딩",
+			"inserts": "삽입곡",
+			"unwatched": { "title": "미시청", "description": "시청하지 않은 애니메이션의 영상" },
 			"high_risk": {
-				"MISSING-title": "High Risk",
-				"MISSING-description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
+				"title": "고위험",
+				"description": "스포일러 또는 부적절한 내용을 포함할 가능성이 높은 영상. 플레이어 통계에 기반함."
 			}
 		},
 		"anime_list": {
-			"MISSING-description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
+			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 게임이 “시청함” 설정시 당신의 애니메이션 리스트를 기반으로 곡을 선택합니다. _BREAK_ 리스트는 매주 또는 업데이트 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 업데이트하세요.",
 			"share_entries": {
-				"MISSING-title": "Share Entries",
-				"MISSING-description": "Show when a show is from your list"
+				"title": "엔트리 공유",
+				"description": "해당 작품이 리스트에 있는지 보여줌"
 			},
 			"show_scores": {
-				"MISSING-title": "Show Scores",
-				"MISSING-description": "Show your anime score for shows on your list"
+				"title": "평점 표시",
+				"description": "리스트에 있는 애니메이션의 평점을 보여줌"
 			},
-			"MISSING-anilist_username": "AniList Username",
-			"MISSING-mal_username": "MyAnimeList Username",
-			"MISSING-mal_username_short": "MAL Username",
-			"MISSING-kitsu_username": "Kitsu Username",
-			"MISSING-last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+			"anilist_username": "AniList 사용자 이름",
+			"mal_username": "MyAnimeList 사용자 이름",
+			"mal_username_short": "MAL 사용자 이름",
+			"kitsu_username": "Kitsu 사용자 이름",
+			"last_updated": "_BOLD_ 마지막 갱신: _BOLD_ _SPAN_ _DATE_ _SPAN_",
 			"update_messages": {
-				"MISSING-update_successful": "Update Successful",
-				"MISSING-update_failed": "Update Failed",
-				"MISSING-list_updated": "List Updated",
-				"MISSING-list_removed": "List Removed",
-				"MISSING-unknown_username": "Unknown Username",
-				"MISSING-mal_private": "MAL List set to private, only public lists can be synced to the game",
-				"MISSING-mal_error": "Error from MAL, please try again later",
-				"MISSING-anilist_error": "Unable to Retrieve List from AniList"
+				"update_successful": "갱신 완료",
+				"update_failed": "갱신 실패",
+				"list_updated": "리스트가 갱신되었습니다.",
+				"list_removed": "리스트가 제거되었습니다.",
+				"unknown_username": "사용자 이름 불명",
+				"mal_private": "MAL 리스트가 비공개 상태입니다. 공개 리스트만 게임에 연동할 수 있습니다.",
+				"mal_error": "MAL에서 오류가 발생했습니다. 잠시 후 재시도해 주세요.",
+				"anilist_error": "AniList에서 리스트를 가져오지 못했습니다."
 			},
 			"included_entries": {
-				"MISSING-title": "Included Entries",
+				"title": "포함된 엔트리",
 				"types": {
-					"MISSING-watching": "Watching",
-					"MISSING-completed": "Completed",
-					"MISSING-on_hold": "On Hold",
-					"MISSING-dropped": "Dropped",
-					"MISSING-planning": "Planning"
+					"watching": "시청중",
+					"completed": "시청완료",
+					"on_hold": "보류중",
+					"dropped": "하차",
+					"planning": "시청예정"
 				}
 			}
 		},
 		"graphics": {
 			"particle_effects": {
-				"MISSING-title": "Particle Effects",
-				"MISSING-description": "Controls the number of particles used in effects, such as the XP animation.",
-				"levels": { "MISSING-off": "Off", "MISSING-low": "Low", "MISSING-high": "High" }
+				"title": "파티클 효과",
+				"description": "경험치 애니메이션 등의 효과에 사용되는 파티클의 개수를 조절합니다.",
+				"levels": { "off": "끔", "low": "적음", "high": "많음" }
 			},
 			"disable_floating_text": {
-				"MISSING-title": "Disable Floating Text",
-				"MISSING-description": "Floating text won't appear when gaining xp and notes"
+				"title": "플로팅 텍스트 비활성화",
+				"description": "경험치와 노트 획득시 플로팅 텍스트가 표시되지 않습니다."
 			},
-			"MISSING-name_effects_friend_list": "Name Effects in Friend List"
+			"name_effects_friend_list": "친구 리스트의 이름 효과"
 		},
 		"audio": {
-			"MISSING-nexus": "Nexus",
-			"MISSING-master": "Master",
-			"MISSING-music": "Music",
-			"MISSING-effects": "Effects"
+			"nexus": "넥서스",
+			"master": "마스터",
+			"music": "음악",
+			"effects": "효과음"
 		}
 	},
-	"blocked_player_window": { "MISSING-title": "Blocked Player List", "MISSING-remove_button": "Remove" },
+	"blocked_player_window": { "title": "차단 플레이어 목록", "remove_button": "제거" },
 	"change_password_window": {
-		"MISSING-title": "Change Password",
-		"MISSING-current_password": "Current Password",
-		"MISSING-no_current_password": "You must provide your current password",
-		"MISSING-unexpected_error": "Unexpected error, please try again",
-		"MISSING-error_contacting_server": "Error contacting server, please try again later",
-		"MISSING-password_updated": "Password updated successfully",
-		"MISSING-wrong_password": "Current password is incorrect"
+		"title": "비밀번호 변경",
+		"current_password": "현재 비밀번호",
+		"no_current_password": "현재 비밀번호를 입력해 주세요.",
+		"unexpected_error": "예기치 못한 오류. 다시 시도해 주세요.",
+		"error_contacting_server": "서버 접속 오류. 잠시 후 다시 시도해 주세요.",
+		"password_updated": "비밀번호가 변경되었습니다.",
+		"wrong_password": "현재 비밀번호가 잘못되었습니다."
 	}
 }
