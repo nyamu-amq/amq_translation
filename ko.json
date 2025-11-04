@@ -46,8 +46,8 @@
 			"guest_account": "게스트 아이디로 사용 불가",
 			"guest_account_text": "이 기능은 게스트 아이디로 이용하실 수 없습니다.",
 			"block_player": {
-				"title": "_NAME_ 사용자 차단",
-				"text": "차단시 해당 사용자의 메시지나 친구/게임초대가 표시되지 않습니다.",
+				"title": "_NAME_ 차단",
+				"text": "차단하면 해당 플레이어의 메시지나 친구/게임 초대가 표시되지 않습니다.",
 				"confirm": "차단",
 				"cancel": "취소"
 			}
@@ -119,7 +119,7 @@
 			"promo_title": "최고의 애니메이션 음악 퀴즈!",
 			"promo_one": {
 				"title": "끝없이 이어지는 퀴즈",
-				"line_one": "8000개 이상의 애니에서 35,000곡 이상의 노래",
+				"line_one": "8,000개 이상의 애니에서 35,000곡 이상의 노래",
 				"line_two": "플레이할 때마다 달라지는 퀴즈",
 				"line_three": "당신의 MyAnimeList, AniList, Kitsu 리스트로 퀴즈를 커스터마이즈 ",
 				"line_four": "무료 플레이"
@@ -277,7 +277,7 @@
 		},
 		"ranked_description": {
 			"title": "랭크 게임 모드",
-			"description": "랭크 게임에 참여하여 친구나 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 게임을 플레이해서 획득한 랭크 포인트로 새로운 독점 보상을 잠금 해제하고 매월 말에 열리는 지역 챔피언십에 참가할 기회에 가까와지게 됩니다. _BREAK_ 랭크 게임에 참가하려면 10레벨 이상이어야 합니다.",
+			"description": "랭크 게임에 참여하여 친구나 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 게임을 플레이해서 획득한 랭크 포인트로 새로운 독점 보상을 잠금 해제하고 매월 말에 열리는 지역 챔피언십에 참가할 기회에 가까와집니다. _BREAK_ 랭크 게임에 참가하려면 10레벨 이상이어야 합니다.",
 			"how_it_works": "진행 방식",
 			"regions": "지역",
 			"region_description": "랭크 게임은 세 지역(서부, 중부, 동부)으로 나뉘어 운영됩니다. 각 지역은 리더보드, 시작 시간, 챔피언십이 모두 개별적으로 운영됩니다. 플레이어는 모든 지역의 랭크 게임에 참가할 수 있지만 획득한 랭크 포인트는 해당 지역에만 집계 누적됩니다.",
@@ -358,11 +358,11 @@
 			},
 			"multiplayer": {
 				"title": "멀티 플레이",
-				"description": "친구나 다른 사람들과 함께 플레이"
+				"description": "친구나 다른 플레이어들과 함께 플레이"
 			},
 			"community": {
 				"title": "커뮤니티",
-				"description": "다른 유저들이 만든 퀴즈를 플레이하거나 직접 만든 퀴즈를 공유"
+				"description": "다른 플레이어들이 만든 퀴즈를 플레이하거나 직접 만든 퀴즈를 공유"
 			},
 			"jam": {
 				"title": "잼 퀴즈",
@@ -428,10 +428,10 @@
 		"menu": {
 			"patreon": "패트리온",
 			"donate": "후원",
-			"song_history": "출제곡 내역",
+			"song_history": "출제곡내역",
 			"settings": "설정",
-			"blocked_players": "차단 내역",
-			"change_password": "비밀번호 변경",
+			"blocked_players": "차단내역",
+			"change_password": "비밀번호변경",
 			"leaderboard": "리더보드",
 			"tutorial": "튜토리얼",
 			"guidelines": "가이드라인",
@@ -469,8 +469,8 @@
 		"edit": "편집",
 		"change_nickname": "닉네임 변경",
 		"change_nickname_modal": {
-			"description": "이름 변경 토큰 1개를 사용해서 닉네임(게임 내 표시되는 이름)을 변경할 수 있습니다. 1년마다 1개씩 이름 변경 토큰을 획득하며 패트리온 레벨4 이상 후원자에게는 매달 추가 토큰 1개가 지급됩니다. _BREAK_ 닉네임을 변경하면 기존 닉네임(아이디 등록시 이름도)은 다른 사람이 사용할 수 있게 됩니다. _BREAK_ 아이디 등록시 이름은 여전히 프로필에서 확인할 수 있습니다.",
-			"current_tokens": "현재 보유중인 토큰 개수: _SPAN_ _NUMBER_ _SPAN_",
+			"description": "이름 변경 토큰 1개를 사용해서 닉네임(게임 내 표시되는 이름)을 변경할 수 있습니다. 이름 변경 토큰은 1년마다 1개씩 획득하며 패트리온 레벨4 이상 후원자에게는 매달 추가 토큰 1개가 지급됩니다. _BREAK_ 닉네임을 변경하면 기존 닉네임(아이디 등록시 이름 포함)은 다른 사람이 사용할 수 있게 됩니다. _BREAK_ 아이디 등록시 이름은 여전히 프로필에서 확인할 수 있습니다.",
+			"current_tokens": "현재 보유 토큰: _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "이름 중복 확인"
 		},
 		"alerts": {
@@ -480,7 +480,7 @@
 		"name_effects_entries": {
 			"challenger_color": {
 				"name": "도전자",
-				"description": "지난달 랭크 게임 챔피언십에 진출하면 잠금 해제됩니다."
+				"description": "지난달 랭크 게임 챔피언십에 진출한 경우 잠금 해제됩니다."
 			},
 			"challenger_glow": {
 				"name": "도전자",
@@ -503,8 +503,8 @@
 		"ranked": {
 			"name": "랭크 게임 _TIER_ _YEAR_ _NUMBER_",
 			"name_result": "랭크 게임 _TIER_ _YEAR_",
-			"description": "_YEAR_ 랭크 게임 시즌 _NUMBER_에서 _TIER_티어를 획득",
-			"description_result": "_YEAR_의 모든 랭크 게임 시즌에서 _TIER_티어를 획득",
+			"description": "_YEAR_ 랭크 게임 시즌 _NUMBER_에서 _TIER_티어 획득",
+			"description_result": "_YEAR_ 랭크 게임 모든 시즌에서 _TIER_티어 획득",
 			"tiers": {
 				"bronze": "브론즈",
 				"silver": "실버",
@@ -520,9 +520,9 @@
 				"third": "랭크 게임 3위 _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"first": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 우승",
-				"second": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 2위",
-				"third": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 3위"
+				"first": "_YEAR_ 랭크 게임 시즌 _NUMBER_ 챔피언십에서 우승",
+				"second": "_YEAR_ 랭크 게임 시즌 _NUMBER_ 챔피언십에서 2위",
+				"third": "_YEAR_ 랭크 게임 시즌 _NUMBER_ 챔피언십에서 3위"
 			}
 		},
 		"challenger": {
@@ -532,8 +532,8 @@
 				"qualified": "랭크 게임 도전자 _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"qualified": "_YEAR_ 시즌 _NUMBER_ 챔피언십 진출",
-				"top": "_YEAR_ 시즌 _NUMBER_ 챔피언십에서 상위 _TOP_위"
+				"qualified": "_YEAR_ 랭크 게임 시즌 _NUMBER_ 챔피언십에 진출",
+				"top": "_YEAR_ 랭크 게임 시즌 _NUMBER_ 챔피언십에서 상위 _TOP_위"
 			}
 		},
 		"patreon": {
@@ -561,8 +561,8 @@
 			},
 			"description": {
 				"participant": "Aragaimu _YEAR_ 토너먼트에 참가",
-				"top32": "Aragaimu _YEAR_ 토너먼트에서 32강 진출",
-				"top4": "Aragaimu _YEAR_ 토너먼트에서 4강 진출"
+				"top32": "Aragaimu _YEAR_ 토너먼트 32강 진출",
+				"top4": "Aragaimu _YEAR_ 토너먼트 4강 진출"
 			}
 		}
 	},
@@ -618,11 +618,11 @@
 					"description": "최대 파일 크기는 256kb입니다. 업로드한 파일은 _NUMBER_kb입니다"
 				},
 				"no_standard_slot": {
-					"title": "일반 슬롯이 부족합니다.",
+					"title": "일반 슬롯 부족",
 					"description": "비어 있는 일반 이모티콘 슬롯이 없습니다."
 				},
 				"no_animated_slot": {
-					"title": "애니메이션 슬롯이 부족합니다.",
+					"title": "애니메이션 슬롯 부족",
 					"description": "비어 있는 애니메이션 이모티콘 슬롯이 없습니다."
 				},
 				"selected_image": {
@@ -632,17 +632,17 @@
 					"placeholder": "이모티콘 이름",
 					"errors": {
 						"no_name": "이모티콘 이름을 입력해 주세요.",
-						"name_format": "이모티콘 이름은 영숫자만 사용 가능합니다.",
+						"name_format": "이모티콘 이름은 영문, 숫자만 사용 가능합니다.",
 						"name_length": "이모티콘 이름은 _NUMBER_자 이내로 입력해 주세요."
 					}
 				},
 				"server_rejected": {
 					"title": "이모티콘 업로드 오류",
-					"description": "서버거 이모티콘 업로드를 거부했습니다."
+					"description": "서버가 이모티콘 업로드를 거부했습니다."
 				},
 				"emote_uploaded": {
 					"title": "이모티콘 업로드 완료",
-					"description": "이모티콘 업로드가 완료되었으며 승인을 기다리고 있습니다"
+					"description": "이모티콘 업로드가 완료되었으며 운영자의 승인을 기다리고 있습니다"
 				}
 			}
 		}
@@ -662,46 +662,46 @@
 		},
 		"list_numbering": {
 			"title": "리스트의 곡 수",
-			"description": "점수판에 각 플레이어의 애니메이션 리스트에서 출제된 곡 수를 표시"
+			"description": "점수판에 각 플레이어의 애니메이션 리스트에서 출제된 곡 수를 표시합니다."
 		},
 		"disable_emotes": {
 			"title": "이모티콘 끄기",
-			"description": "채팅창에 표시되는 이모티콘을 비활성화"
+			"description": "채팅창에 표시되는 이모티콘을 비활성화합니다."
 		},
 		"answer_time": {
 			"title": "응답 시간",
-			"description": "답을 입력한 시간을 플레이어의 아바타에 표시"
+			"description": "답을 입력한 시간을 플레이어의 아바타에 표시합니다."
 		},
-		"anime_link": { "title": "애니메이션 링크", "description": "곡 정보에 링크되는 애니메이션 사이트" },
+		"anime_link": { "title": "애니메이션 링크", "description": "곡 정보에 링크되는 애니메이션 사이트를 지정합니다." },
 		"auto_skip_vote": {
 			"title": "자동 스킵 투표",
-			"description": "정답 입력 후나 리플레이 단계에서 2초 후 자동으로 스킵에 투표",
+			"description": "정답 입력 후나 리플레이 단계에서 2초 후 자동으로 스킵에 투표합니다.",
 			"guessing_phase": "추측 단계",
 			"replay_phase": "리플레이 _BREAK_ 단계"
 		},
 		"block_non_friend_actions": {
 			"title": "친구 이외 차단",
-			"description": "친구가 아닌 플레이어의 소셜 활동 차단",
+			"description": "친구가 아닌 플레이어의 소셜 활동을 차단합니다.",
 			"direct_messages": "쪽지",
 			"friend_requests": "친구 요청",
 			"game_invites": "게임 초대"
 		},
 		"anime_names": {
 			"title": "애니메이션 제목",
-			"description": "퀴즈에 표시되는 기본 애니메이션 제목 형식",
+			"description": "퀴즈에 표시되는 기본 애니메이션 제목 형식을 지정합니다.",
 			"english": "영어",
 			"romaji": "로마자"
 		},
 		"team_answer": {
 			"title": "팀원의 답을 채팅창에 표시",
-			"description": "팀 게임 중 채팅창에 팀원이 입력한 답 표시",
+			"description": "팀 게임 중 채팅창에 팀원이 입력한 답을 표시합니다.",
 			"never": "끔",
 			"out_of_focus": "포커스 밖",
 			"always": "항상"
 		},
 		"sound_equalizing": {
 			"title": "음량 평준화",
-			"description": "각 노래의 음량 레벨을 균일하게 조정"
+			"description": "각 노래의 음량 레벨을 균일하게 조정합니다."
 		},
 		"max_volume": {
 			"title": "최대 음량",
@@ -716,18 +716,18 @@
 			"unwatched": { "title": "미시청", "description": "시청하지 않은 애니메이션의 영상" },
 			"high_risk": {
 				"title": "고위험",
-				"description": "스포일러 또는 부적절한 내용을 포함할 가능성이 높은 영상. 플레이어 통계에 기반함."
+				"description": "스포일러 또는 부적절한 내용을 포함할 가능성이 높은 영상. 플레이어 통계에 기반합니다."
 			}
 		},
 		"anime_list": {
-			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 “시청함” 설정시 당신의 애니메이션 리스트를 기반으로 곡을 선택합니다. _BREAK_ 리스트는 매주 또는 업데이트 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 업데이트하세요.",
+			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 “시청함” 설정시 게임 출제곡이 당신의 애니메이션 리스트를 기반으로 선택됩니다. _BREAK_ 리스트는 매주 자동으로 또는 업데이트 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 업데이트하세요.",
 			"share_entries": {
 				"title": "엔트리 공유",
-				"description": "해당 작품이 리스트에 있는지 보여줌"
+				"description": "해당 작품이 리스트에 있는지 보여줍니다."
 			},
 			"show_scores": {
 				"title": "평점 표시",
-				"description": "리스트에 있는 애니메이션의 평점을 보여줌"
+				"description": "리스트에 있는 애니메이션의 평점을 보여줍니다."
 			},
 			"anilist_username": "AniList 사용자 이름",
 			"mal_username": "MyAnimeList 사용자 이름",
@@ -755,7 +755,7 @@
 				}
 			}
 		},
-		"graphics": {
+		"graphics": {	
 			"particle_effects": {
 				"title": "파티클 효과",
 				"description": "경험치 애니메이션 등의 효과에 사용되는 파티클의 개수를 조절합니다.",
