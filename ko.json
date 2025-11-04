@@ -81,7 +81,7 @@
 	},
 	"login_page": {
 		"ui": {
-			"play_now": "바로 시작",
+			"play_now": "빠른 시작",
 			"login": "로그인",
 			"send_button": "송신",
 			"return_to_login": "로그인 화면으로 돌아가기",
@@ -95,7 +95,7 @@
 		"popout_messages": {
 			"create_guest_account": {
 				"title": "게스트 아이디 생성",
-				"text": "게스트 아이디를 생성하시면 _LINK_ 이용약관 _LINK_과 _LINK_ 개인정보처리방침 _LINK_에 동의하신 것으로 간주합니다.",
+				"text": "게스트 아이디를 생성하시면 _LINK_ 이용약관 _LINK_과 _BREAK_ _LINK_ 개인정보처리방침 _LINK_에 동의하신 것으로 간주합니다.",
 				"error_title": "게스트 아이디 생성 오류",
 				"error_disabled": "게스트 아이디를 만들 수 없습니다."
 			},
@@ -110,9 +110,9 @@
 		"text": {
 			"create_account": "아이디 생성",
 			"recover_username_title": "아이디 찾기",
-			"recover_username_text": "등록에 사용하신 메일주소를 입력해 주시면 메일로 아이디를 알려드리겠습니다.",
+			"recover_username_text": "등록에 사용하신 메일주소를 입력해 주시면 _BREAK_ 메일로 아이디를 알려드리겠습니다.",
 			"forgot_password_title": "비밀번호 재설정",
-			"forgot_password_text": "등록에 사용하신 메일주소를 입력해 주세요. 비밀번호 재설정 링크를 보내드리겠습니다.",
+			"forgot_password_text": "등록에 사용하신 메일주소를 입력해 주시면 _BREAK_ 비밀번호 재설정 링크를 보내드리겠습니다.",
 			"reset_password_title": "비밀번호 재설정",
 			"missing_information": "계정 정보가 부족합니다.",
 			"missing_country": "거주 국가를 선택하지 않았습니다. 아래에서 선택해 주세요.",
@@ -126,7 +126,7 @@
 			},
 			"promo_two": {
 				"title": "당신의 방식으로 즐기기",
-				"line_one": "친구와 함계",
+				"line_one": "친구와 함께",
 				"line_two": "혼자서 수련",
 				"line_three": "랭크 게임에 도전",
 				"line_four": "던전을 탐험"
@@ -140,7 +140,7 @@
 		"messages": {
 			"account_verified": "아이디가 확인되었습니다. 이제 로그인하실 수 있습니다.",
 			"account_verified_guest": "아이디가 확인되었습니다. 이 탭을 닫아 주세요.",
-			"verification_error": "아이디 확인 오류: 예기치 못한 오류가 발생했습니다.",
+			"verification_error": "아이디 인증 오류: 예기치 못한 오류가 발생했습니다.",
 			"unknown_reset_code": "리셋코드가 잘못되었습니다.",
 			"wrong_username_password": "아이디 또는 비밀번호를 잘못 입력하셨습니다.",
 			"email_sent": "메일 발송 완료",
@@ -160,7 +160,7 @@
 			"text_temp": "이번이 첫 번째 위반이므로 당신의 계정은 일시적으로 정지되었습니다. 하지만 정지조치가 해제된 후에도 부정행위를 계속할 경우 당신의 계정은 영구적으로 정지됩니다.",
 			"text_perm": "이번이 두 번째 위반이므로 당신의 계정은 영구적으로 정지되었습니다.",
 			"text_end": "만약 이 정지가 잘못되었다고 생각하신다면 이 게임의_LINK_ 디스코드 서버 _LINK_의 #open-a-ticket 채널에서 문의 티켓을 생성하실 수 있습니다.",
-			"suspended_until": "정지기간 "
+			"suspended_until": "정지기간"
 		}
 	},
 	"main_menu": {
@@ -358,7 +358,7 @@
 			},
 			"multiplayer": {
 				"title": "멀티 플레이",
-				"description": "친구나 다른 애니메이션 팬들과 함께 플레이"
+				"description": "친구나 다른 사람들과 함께 플레이"
 			},
 			"community": {
 				"title": "커뮤니티",
@@ -666,11 +666,11 @@
 		},
 		"disable_emotes": {
 			"title": "이모티콘 끄기",
-			"description": "채팅에 표시되는 이모티콘을 비활성화"
+			"description": "채팅창에 표시되는 이모티콘을 비활성화"
 		},
 		"answer_time": {
 			"title": "응답 시간",
-			"description": "플레이어의 아바타에 답을 입력한 시간 표시"
+			"description": "플레이어의 아바타에 답 입력 시간 표시"
 		},
 		"anime_link": { "title": "애니메이션 링크", "description": "곡 정보에 링크되는 애니메이션 사이트" },
 		"auto_skip_vote": {
@@ -680,8 +680,8 @@
 			"replay_phase": "리플레이 단계"
 		},
 		"block_non_friend_actions": {
-			"title": "친구 이외 거부 설정",
-			"description": "친구 이외의 플레이어로부터 소셜 활동 차단",
+			"title": "친구 외 차단",
+			"description": "친구가 아닌 플레이어의 소셜 활동 차단",
 			"direct_messages": "쪽지",
 			"friend_requests": "친구 요청",
 			"game_invites": "게임 초대"
@@ -693,10 +693,10 @@
 			"romaji": "로마자"
 		},
 		"team_answer": {
-			"title": "채팅에 팀원이 입력한 답 표시",
-			"description": "팀 게임 중 채팅에 팀원이 입력한 답 표시",
+			"title": "팀원의 답을 채팅창에 표시",
+			"description": "팀 게임 중 채팅창에 팀원이 입력한 답 표시",
 			"never": "끔",
-			"out_of_focus": "포커스 밖일 때",
+			"out_of_focus": "포커스 밖",
 			"always": "항상"
 		},
 		"sound_equalizing": {
