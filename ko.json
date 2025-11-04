@@ -28,7 +28,7 @@
 			"loading": "로딩중",
 			"play": "플레이",
 			"use_button": "사용",
-			"claim_button": "취득",
+			"claim_button": "획득",
 			"chat": "채팅",
 			"block": "차단",
 			"send_friend_request": "친구 신청",
@@ -85,7 +85,7 @@
 			"login": "로그인",
 			"send_button": "송신",
 			"return_to_login": "로그인 화면으로 돌아가기",
-			"stay_signed_in": "로그인 상태 유지하기",
+			"stay_signed_in": "로그인 상태 유지",
 			"forgot_password": "비밀번호 재설정",
 			"forgot_username": "아이디 찾기",
 			"country_of_residence": "거주 국가",
@@ -95,7 +95,7 @@
 		"popout_messages": {
 			"create_guest_account": {
 				"title": "게스트 아이디 생성",
-				"text": "게스트 아이디를 생성하시면 _LINK_ 이용약관 _LINK_과 _BREAK_ _LINK_ 개인정보처리방침 _LINK_에 동의하신 것으로 간주합니다.",
+				"text": "게스트 아이디를 생성하시면 _LINK_ 이용약관 _LINK_과 _LINK_ 개인정보처리방침 _LINK_에 동의하신 것으로 간주합니다.",
 				"error_title": "게스트 아이디 생성 오류",
 				"error_disabled": "게스트 아이디를 만들 수 없습니다."
 			},
@@ -110,9 +110,9 @@
 		"text": {
 			"create_account": "아이디 생성",
 			"recover_username_title": "아이디 찾기",
-			"recover_username_text": "등록에 사용하신 메일주소를 입력해 주시면 _BREAK_ 메일로 아이디를 알려드리겠습니다.",
+			"recover_username_text": "등록에 사용하신 메일주소를 입력해 주시면 메일로 아이디를 알려드리겠습니다.",
 			"forgot_password_title": "비밀번호 재설정",
-			"forgot_password_text": "등록에 사용하신 메일주소를 입력해 주시면 _BREAK_ 비밀번호 재설정 링크를 보내드리겠습니다.",
+			"forgot_password_text": "등록에 사용하신 메일주소를 입력해 주시면 비밀번호 재설정 링크를 보내드리겠습니다.",
 			"reset_password_title": "비밀번호 재설정",
 			"missing_information": "계정 정보가 부족합니다.",
 			"missing_country": "거주 국가를 선택하지 않았습니다. 아래에서 선택해 주세요.",
@@ -172,7 +172,7 @@
 			"leaderboard": "리더보드"
 		},
 		"carousel": {
-			"social_promo": "디스코드와 패트리온에서 AMQ를 _BREAK_ 팔로우하고 무료 티켓을 받으세요!",
+			"social_promo": "디스코드와 패트리온에서 AMQ를 팔로우하고 무료 티켓을 받으세요!",
 			"patreon_promo": "게임을 후원하고 독점 보상을 획득하세요.",
 			"sale_names": {
 				"fall": "가을 세일!",
@@ -277,7 +277,7 @@
 		},
 		"ranked_description": {
 			"title": "랭크 게임 모드",
-			"description": "랭크 게임에 참여하여 친구나 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 게임을 플레이해서 획득한 랭크 포인트로 새로운 독점 보상을 잠금 해제할 수 있습니다. 또한 매월 말에 열리는 지역 챔피언십에서 최고의 플레이어들과 함께 할 기회에 한 걸음 다가가게 됩니다._BREAK_ 랭크 게임에 참가하려면 10레벨 이상이어야 합니다.",
+			"description": "랭크 게임에 참여하여 친구나 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 게임을 플레이해서 획득한 랭크 포인트로 새로운 독점 보상을 잠금 해제하고 매월 말에 열리는 지역 챔피언십에 참가할 기회에 가까와지게 됩니다. _BREAK_ 랭크 게임에 참가하려면 10레벨 이상이어야 합니다.",
 			"how_it_works": "진행 방식",
 			"regions": "지역",
 			"region_description": "랭크 게임은 세 지역(서부, 중부, 동부)으로 나뉘어 운영됩니다. 각 지역은 리더보드, 시작 시간, 챔피언십이 모두 개별적으로 운영됩니다. 플레이어는 모든 지역의 랭크 게임에 참가할 수 있지만 획득한 랭크 포인트는 해당 지역에만 집계 누적됩니다.",
@@ -326,7 +326,7 @@
 			"free_donation_amount": "금액: _NUMBER_€",
 			"approx_dollars": "약 $",
 			"checkout": "결제",
-			"popover": { "no_free_donation": "이번 달 무료 후원은 이미 사용되었습니다." },
+			"popover": { "no_free_donation": "이번 달 무료 후원은 이미 사용하셨습니다." },
 			"alerts": {
 				"invalid_amount": {
 					"title": "후원 금액 오류",
@@ -394,7 +394,7 @@
 		},
 		"friend_list": {
 			"friends": "친구",
-			"total": "합계",
+			"total": "총 접속자",
 			"all": "All",
 			"statuses": {
 				"online": "온라인",
@@ -568,17 +568,17 @@
 	},
 	"patreon_window": {
 		"title": "패트리온",
-		"description": "패트리온에서 AMQ 를 후원하여 운영 및 개발을 지원해 주세요. 여러분과 함께 AMQ를 만들고 공유하는 경험은 정말 놀라웠습니다. 앞으로도 이 게임으로 하고 싶은 것들이 많이 있습니다. 패트리온에서 후원해 주시면 게임 운영 비용뿐만 아니라 지속적인 개발에 큰 도움이 됩니다! 특별한 감사로서 몇가지 독점 보상도 받을 수 있습니다!",
+		"description": "패트리온에서 AMQ 를 후원하여 운영 및 개발을 지원해 주세요. 여러분과 함께 AMQ를 만들고 공유하는 경험은 정말 놀라웠습니다. 앞으로도 이 게임으로 하고 싶은 것들이 많이 있습니다. 패트리온에서 후원해 주시면 게임 운영 비용뿐만 아니라 지속적인 개발에 큰 도움이 됩니다! 특별한 보답으로 몇가지 독점 보상도 받을 수 있습니다!",
 		"reward_examples": {
 			"title": "주요 패트리온 보상",
-			"sneak_peeks": "최신 기능 미리 보기",
+			"sneak_peeks": "최신 기능 맛보기",
 			"patreon_badge": "패트리온 배지",
 			"custom_emotes": "커스텀 이모티콘",
-			"monthly_tickets": "매월 무료 티켓"
+			"monthly_tickets": "매달 무료 티켓"
 		},
 		"already_a_backer": "이미 후원하셨나요?",
-		"link_account": "패트리온 계정과 연결",
-		"become_a_backer": "후원자 되기",
+		"link_account": "패트리온 계정 연결",
+		"become_a_backer": "후원하기",
 		"patreon_linked": "패트리온 연결됨!",
 		"backer_level": {
 			"title": "후원자 레벨",
@@ -651,7 +651,7 @@
 		"title": "설정",
 		"tabs": {
 			"game": "게임",
-			"anime_list": "애니메이션 리스트",
+			"anime_list": "리스트",
 			"graphics": "그래픽",
 			"audio": "음향"
 		},
@@ -670,17 +670,17 @@
 		},
 		"answer_time": {
 			"title": "응답 시간",
-			"description": "플레이어의 아바타에 답 입력 시간 표시"
+			"description": "답을 입력한 시간을 플레이어의 아바타에 표시"
 		},
 		"anime_link": { "title": "애니메이션 링크", "description": "곡 정보에 링크되는 애니메이션 사이트" },
 		"auto_skip_vote": {
 			"title": "자동 스킵 투표",
 			"description": "정답 입력 후나 리플레이 단계에서 2초 후 자동으로 스킵에 투표",
 			"guessing_phase": "추측 단계",
-			"replay_phase": "리플레이 단계"
+			"replay_phase": "리플레이 _BREAK_ 단계"
 		},
 		"block_non_friend_actions": {
-			"title": "친구 외 차단",
+			"title": "친구 이외 차단",
 			"description": "친구가 아닌 플레이어의 소셜 활동 차단",
 			"direct_messages": "쪽지",
 			"friend_requests": "친구 요청",
@@ -720,7 +720,7 @@
 			}
 		},
 		"anime_list": {
-			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 게임이 “시청함” 설정시 당신의 애니메이션 리스트를 기반으로 곡을 선택합니다. _BREAK_ 리스트는 매주 또는 업데이트 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 업데이트하세요.",
+			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 “시청함” 설정시 당신의 애니메이션 리스트를 기반으로 곡을 선택합니다. _BREAK_ 리스트는 매주 또는 업데이트 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 업데이트하세요.",
 			"share_entries": {
 				"title": "엔트리 공유",
 				"description": "해당 작품이 리스트에 있는지 보여줌"
