@@ -333,7 +333,7 @@
 				"donation_received": { "title": "후원 완료", "text": "게임을 후원해 주셔서 감사합니다!" },
 				"use_free_donation": { "title": "무료 후원 사용", "text": "무료 후원은 한 달에 한 번만 사용할 수 있습니다." }
 			},
-			"title": "아바타 모금 이벤트"
+			"title": "아바타 모금"
 		},
 		"social_rewards": {
 			"title": "소셜 보상",
@@ -758,7 +758,7 @@
 	},
 	"about_window": {
 		"title": "스태프",
-		"developed_by": "개발사 _NAME_",
+		"developed_by": "_NAME_ 개발",
 		"development": "개발자",
 		"art": "아트",
 		"sound_and_audio": "사운드와 음향",
@@ -851,7 +851,7 @@
 			"standard": { "title": "일반", "description": "노트를 사용하여 획득 가능한 콘텐츠 표시" }
 		},
 		"background": "배경",
-		"toggle": { "on": "장식 켜짐", "off": "장식 꺼짐" },
+		"toggle": { "on": "소품 표시", "off": "소품 숨김" },
 		"poses": "포즈",
 		"pose_names": {
 			"base": "기본",
@@ -866,7 +866,7 @@
 			"missing_skin": "스킨 보너스 없음",
 			"background_locked": "배경 잠김",
 			"use": "사용",
-			"unavailable": "사용 불가",
+			"unavailable": "획득 불가",
 			"decoration_not_unlocked": "잠금 해제되지 않은 장식",
 			"unlock": "잠김"
 		},
@@ -988,7 +988,7 @@
 			"decorations": "장식",
 			"errors": {
 				"failed_to_create_payment": "결제 오류가 발생했습니다. 다시 시도해 주세요.",
-				"unlimited_slots_already_unlocked": "무제한 슬롯은 이미 보유중입니다.",
+				"unlimited_slots_already_unlocked": "상시 슬롯은 이미 보유중입니다.",
 				"insufficient_notes": "노트 부족",
 				"insufficient_notes_message": "이 아이템을 잠금 해제하기 위한 노트가 부족합니다.",
 				"insufficient_rhythm": "리듬 부족",
@@ -998,7 +998,7 @@
 		},
 		"toggle_favorite": "즐겨찾기 설정",
 		"avatar_states": {
-			"unavailable": "사용 불가",
+			"unavailable": "획득 불가",
 			"limited": "기간 한정",
 			"exclusive": "독점",
 			"standard": "일반",
@@ -1018,211 +1018,211 @@
 	},
 	"avatar_lore": {
 		"hibiki": {
-			"thief": "히비키는 천하태평하고 낙천적인 모험가로 유명합니다. 그녀의 특기는 아무도 몰래 들어가서 나올 때는 들어갈 때보다 더 많은 것을 챙겨 나오는 것이죠. 이 기술을 동네 선술집에서 자주 자랑하곤 합니다.",
-			"monster_trainer": "히비키는 한곳에 오래 머무르는 성격이 아니었기에 파트너 히네코를 만나자마자 세계 탐험을 떠난 것은 누구에게도 놀라운 일이 아니었습니다. 두 사람은 함께 강력한 팀을 이루어 빠르게 명성을 쌓고 있습니다.",
-			"fast_food_employee": "새로운 도시에 도착한 히비키는 당장 새 일자리를 구해야 했습니다. 운 좋게도 지역 패스트푸드점에서 좋은 일자리를 얻은 그녀는 현재 멋진 동료들과 함께 일하며 다음 여정을 준비하는 시간을 보내고 있습니다."
+			"thief": "히비키는 천하태평하고 해맑은 모험가로 잘 알려져 있어요. 그녀는 들어가면 안 되는 곳에 몰래 숨어들어가서도 나올 땐 들어갈 때보다 더 많은 것을 챙겨 나오는 재주가 있답니다. 이걸 마을 선술집에서 자주 자랑하곤 해요.",
+			"monster_trainer": "오래도록 한곳에 정착할 사람이 아니었기에 히비키가 파트너 히네코를 만나자마자 세계 탐험을 떠난 것은 누구에게도 놀라운 일이 아니었어요. 두 사람은 함께 강력한 팀을 이루어 빠르게 명성을 쌓아 나가고 있어요.",
+			"fast_food_employee": "새로운 도시에 도착한 히비키는 당장 새 일자리를 찾아야 했어요. 다행히 근처 패스트푸드점에서 훌륭한 직장을 구했고, 지금은 멋진 동료들과 함께 일하며 다음 여정을 준비하는 시간을 보내고 있어요."
 		},
 		"honoka": {
-			"standard": "건강이 좋지 않아 평생을 가족 영지에서 보낸 호노카의 곁에는 오직 책과 개인 하녀 쿄코뿐이었습니다. 하지만 최근 우연히 리츠를 만나 친구가 되면서 그녀의 삶에 새로운 변화가 생겼습니다.",
-			"druid": "호노카는 드루이드 국가 출신입니다. 그녀가 지금 하고 있는 세계 여행은 부족의 초보 학자들이 반드시 통과해야 하는 마지막 시험이자 새로운 지식을 찾는 여정입니다. 이 왕국에서는 지역 기사인 쿄코가 안내를 맡아 함께하고 있습니다."
+			"standard": "건강이 좋지 않았던 호노카는 인생의 대부분을 가족 영지에서 보냈어요. 오직 책과 개인 하녀 쿄코만이 그녀의 친구였죠. 그러다 최근 우연히 리츠를 만나 두 사람이 친구가 되었답니다.",
+			"druid": "호노카는 드루이드 국가 출신이지만 현재는 새로운 지식을 찾아 세계를 여행하고 있어요. 이 여행은 부족의 초보 학자들이 통과해야 하는 마지막 시험이랍니다. 그녀의 여정에는 이 왕국에서 안내를 맡은 기사 쿄코가 함께하고 있어요."
 		},
 		"kyouko": {
-			"standard": "쿄코는 호노카의 개인 하녀로 수년 동안 일했습니다. 활동적인 성격과 덜렁거리는 천성 때문에 여러 사고를 일으켰지만 호노카와의 끈끈한 우정 덕분에 해고되지 않을 수 있었습니다.",
-			"knight": "왕실 근위대 신입인 쿄코는 동맹 드루이드 부족의 학자인 호노카가 전국을 여행하는 것을 돕는 임무를 맡았습니다. 현재 그녀는 호노카의 경호원이자 안내자 역할을 하며 여정을 보내고 있습니다.",
-			"bodyguard": "보안상의 이유로 하녀 직에서 해고된 쿄코는, 계속 호노카를 돕고 싶어 보디가드가 되기 위해 공부했습니다. 덜렁거림 때문에 자주 문제가 생기지만 호노카는 쿄코와 함께 있는 것을 좋아해서 그녀의 실수를 눈감아주고 있습니다."
+			"standard": "쿄코는 호노카의 개인 하녀로 수년 동안 일해 왔어요. 그녀의 활동적인 성격과 천성적인 덜렁거림 때문에 여러 사고를 일으켰지만 호노카와의 우정 덕분에 해고되지 않을 수 있었어요.",
+			"knight": "왕실 근위대의 최신 멤버인 쿄코는 동맹 드루이드 부족의 학자인 호노카가 전국을 여행하는 것을 돕는 임무를 맡았어요. 이제 그녀는 호노카의 경호원이자 안내자 역할을 하며 여정을 보내고 있답니다.",
+			"bodyguard": "보안상의 이유로 쿄코는 호노카의 하녀 직에서 해고되었어요. 하지만 여전히 호노카를 돕고 싶었던 쿄코는 보디가드가 되기 위해 공부했어요. 덜렁거림이 종종 문제를 일으키기는 하지만 호노카는 쿄코와 함께 있는 것을 좋아해서 그녀의 실수를 눈감아주고 있답니다."
 		},
 		"ritsu": {
-			"MISSING-standard": "An energetic high school student with a passion for music, and club president of her school's music club. Ritsu is often found attending live concerts around the city, and it was at one of these she met and befriended an out of place Honoka.",
-			"MISSING-bard": "Ritsu was never a fan of the quiet life at her family’s farm, so when she got the chance, she ran away with a group of travelling entertainers. She now travels from town to town, sharing her music and exploring the world.",
-			"MISSING-park_ranger": "As a young girl, Ritsu fell in love with the nature in national parks on an overseas vacation. So after finishing her education, she joined the park ranger program, and now spends her days protecting the wild nature in the parks.",
-			"MISSING-kitsune": "In a certain city, there’s an urban legend about a Kitsune who hangs out around the city, joining in on the fun events going on. Ritsu has heard the rumor, but is unaware of the Kitsune bound to her, who sneaks out in her body from time to time.",
-			"MISSING-summer_games": "In what quickly have become a yearly tradition, athletes from all the different worlds meet up every summer to compete in friendly competition. This year, Ritsu is one of the favorites for winning the 100-meter sprint.",
-			"MISSING-queen": "Ritsu didn’t expect to end up as the queen of the country, but after a sudden turn of events she ended up with the crown. Although it’s all very new to her, she puts on a confident look, dedicated to not repeat her predecessors mistakes."
+			"standard": "음악에 대한 열정이 넘치는 활동적인 고등학생이자 학교 음악 동아리의 회장이에요. 리츠는 도시의 라이브 콘서트를 찾아다니는 경우가 많은데 바로 그중 한곳에서 왠지 낯설어 보이는 호노카를 만나 친구가 되었답니다.",
+			"bard": "리츠는 가족 농장의 조용하고 평범한 생활에 전혀 흥미를 느끼지 못했어요. 그래서 기회가 생기자마자 유랑 예술가 그룹과 함께 가출했죠. 지금은 여러 마을을 돌아다니며 자신의 음악을 들려주고 세상을 탐험하고 있어요.",
+			"park_ranger": "어린 시절 해외여행 중 국립공원의 자연에 깊이 매료된 리츠는 교육을 마친 후 공원 관리원 프로그램에 지원했어요. 현재는 공원에서 야생 자연을 보호하며 하루하루를 보내고 있답니다.",
+			"kitsune": "어떤 도시에는 재미있는 축제가 열리는 곳마다 나타나 어울린다는 키츠네에 대한 도시 전설이 있어요. 리츠도 그 소문은 들었지만 정작 자신에게 묶여서 가끔 몸을 빌려 몰래 나가는 키츠네의 존재는 전혀 눈치채지 못하고 있답니다.",
+			"summer_games": "이제 거의 연례행사처럼 매년 여름이면 각기 다른 세계에서 온 운동선수들이 모여 친선 대회가 열리고 있어요. 올해 리츠는 100미터 단거리 경주에서 유력한 우승후보 중 한 명이랍니다.",
+			"queen": "리츠는 자신이 나라의 여왕이 될 거라고는 예상치 못했지만 갑작스러운 상황 변화 끝에 왕관을 쓰게 되었어요. 모든 것이 낯설고 새롭지만 이전 통치자들의 실수를 되풀이하지 않겠다는 다짐으로 자신감 있는 모습을 보이고 있답니다."
 		},
 		"hikari": {
-			"MISSING-standard": "As a young easy going person, Hikari enjoys his simple life as a high school math teacher. He’s also ended up as the club advisor for the music club led by Ritsu, since her leadership allows him to spend most of the time relaxing.",
-			"MISSING-scholar": "As a leading scholar at the royal academy, most would suspect Hikari to spend his days buried in dusty old tomes, and not exploring ancient ruins in search for lost arcane knowledge from past civilizations.",
-			"MISSING-fireman": "As a boy, Hikari was saved by a firefighter, which sparked his love for the job. He’s now a beloved firefighter in his local community, spending his days helping the locals and saving people when accidents occur."
+			"standard": "털털하고 여유로운 성격의 히카리는 고등학교 수학 교사로서 소박한 삶을 즐기고 있어요. 그는 리츠가 이끄는 음악 동아리의 고문 교사 역할도 맡았는데 리츠의 뛰어난 리더십 덕분에 대부분의 시간을 편안하게 쉬면서 보낼 수 있답니다.",
+			"scholar": "왕립 아카데미의 수석 학자인 히카리라면 대부분 사람들이 먼지 쌓인 고서에 파묻혀 지낼 거라고 짐작할 거예요. 하지만 그는 고대 문명의 잃어버린 마법 지식을 찾아 고대 유적을 탐험하는 일에 더 많은 시간을 쓰고 있답니다.",
+			"fireman": "어렸을 때 소방관에게 구조되었던 히카리는 그때부터 소방관이라는 직업을 사랑하게 되었어요. 이제 그는 지역 사회에서 사랑받는 소방관이 되어 사고가 발생하면 사람들을 구하고 주민들을 돕는 나날들을 보내고 있습니다."
 		},
 		"komugi": {
-			"MISSING-standard": "A local fox spirit of a half forgotten shrine in the countryside, Komugi is known for pulling pranks on the locals. Her shrine rarely gets visitors due to a larger shrine nearby, so she enjoys the visits she gets from Noel.",
-			"MISSING-tribal_sorcerer": "Coming from a tribe of kitsune, Komugi mastered the art of fire sorcery at an early age. But after growing bored of the peaceful village life, she set out looking for adventure and fun.",
-			"MISSING-pirate": "Known as a friend in port and a menace to all who run across her at sea. Komugi is a highly sought-after pirate for hire by anyone who has enough gold and adventures grand enough to satisfy her."
+			"standard": "시골에 있는 반쯤 잊힌 사당의 여우 신령인 코무기는 주민들에게 장난을 치는 것으로 유명해요. 근처에 더 큰 사당이 있어서 코무기의 사당은 방문객이 거의 없지만 노엘이 찾아올 때마다 즐거워한답니다.",
+			"tribal_sorcerer": "키츠네족 출신인 코무기는 어린 나이에 화염 마법을 터득했어요. 하지만 평화로운 마을 생활이 지루해지자 모험과 재미를 찾아 길을 나섰답니다",
+			"pirate": "항구에서는 친구, 바다에서는 마주치는 모든 이들에게 골칫거리로 악명 높은 코무기는 충분한 금화와 그녀를 만족시킬 만큼 거대한 모험을 가진 사람이라면 누구나 고용하고 싶어 하는 인기 해적이에요."
 		},
 		"noel": {
-			"MISSING-standard": "As a self proclaimed master detective, Noel finds mysteries and riddles to solve in everything, no case is too big for detective Noel! After finding an old forgotten shrine, she now also drags its spirit Komugi along on her \"detective work\".",
-			"MISSING-brawler": "Noel never liked the strict nature of the temple she grew up in, so when she got the chance, she ran away to explore the world. She has now teamed up with Komugi, and together they travel around, getting into all kinds of adventures.",
-			"MISSING-catgirl": "During a case, Noel ended up possessed by a bakeneko. It wasn’t powerful enough to control Noel, but it still influenced her demeanor and made her sprout cat ears and tail, much to the dismay of Komugi who had to cover it all up."
+			"standard": "자칭 명탐정 노엘은 주변의 모든 것에서 미스터리와 수수께끼를 찾아내요. 노엘 탐정에게 너무 큰 사건이란 없죠! 그녀는 오래전에 잊힌 사당을 발견한 후 그곳의 신령 코무기를 자신의 \"탐정 활동\"에 강제로 끌고 다니고 있답니다.",
+			"brawler": "노엘은 자신이 자란 사원의 엄격한 분위기를 전혀 좋아하지 않았어요. 그래서 기회가 생기자마자 세상을 탐험하기 위해 도망쳤죠. 지금은 코무기와 함께 여행하며 온갖 모험에 뛰어들고 있답니다.",
+			"catgirl": "어떤 사건을 조사하던 노엘은 바케네코에게 빙의되었어요. 요괴가 노엘을 완전히 지배할 정도는 아니었지만 그 영향으로 노엘의 태도가 달라지고 고양이 귀와 꼬리가 솟아났죠. 이 모든 것을 숨겨야 했던 코무기는 무척 곤란해했어요."
 		},
 		"kuriko": {
-			"MISSING-standard": "Even among witches, Kuriko is seen as especially powerful, but her carefree attitude often keeps her from using her full powers. She can often be found having fun during the conflicts between technology and magic that occur in her world.",
-			"MISSING-sorceress": "Hailing from a nomadic tribe in the far southern countries, Kuriko has traveled all the way to the kingdom on a mission to spread the word of her people, but more often she ends up tricking people into joining her on crazy adventures."
+			"standard": "쿠리코는 마녀들 사이에서도 특히 강력하다고 평가받아요. 하지만 그녀의 태평한 성격 때문에 자신의 모든 힘을 사용하는 일이 거의 없답니다. 그녀는 자신이 사는 세계에서 벌어지는 기술과 마법 간의 갈등 속에서 종종 재미를 찾으며 시간을 보내고 있어요.",
+			"sorceress": "먼 남쪽 나라의 유목 민족 출신인 쿠리코는 그들의 소식을 전하기 위해 먼 왕국까지 여행했어요. 하지만 소식을 전하는 것보다는 사람들을 꾀어 엉뚱하고 말도 안 되는 모험에 끌어들이는 경우가 더 많답니다."
 		},
 		"miyu": {
-			"MISSING-standard": "As a bright and cheerful girl, Miyu lived an uneventful life until her last year of middle school when she found a star shaped gem which allowed her to materialise her dormant magical powers.",
-			"MISSING-valkyrie": "Miyu showed immense potential with magic at an early age, and was recruited as an royal magical knight, where her powers quickly earned her the rank of high knight and the nickname Valkyrie.",
-			"MISSING-ice_princess": "During one of her battles, Miyu ended up defending a tribe of ice sprites, who as Miyu was about to be defeated, bestowed their powers to her. Transforming her into a magical ice princess, giving her the power to defeat the enemy.",
-			"MISSING-idol": "After a mysterious evil organization infiltrated the idol industry, Miyu had to go undercover as an idol, to figure out and put a stop to their evil schemes. So, assisted by her magic, Miyu took to the stage as a world known idol.",
-			"MISSING-summer_games": "Being a timid girl, people didn’t have much trust in Miyu being able to become a professional gymnast. But her talent and hard work proved them all wrong, and she’s now ready to display her skills at the yearly summer games."
+			"standard": "밝고 쾌활한 소녀 미유는 중학교 마지막 해에 별 모양의 보석을 발견하기 전까지 평범한 일상을 보냈어요. 그 보석 덕분에 잠재되어 있던 그녀의 마법 능력이 발현될 수 있었죠.",
+			"valkyrie": "어렸을 때부터 마법에 엄청난 잠재력을 보인 미유는 왕실 마법 기사로 발탁되었어요. 그녀는 뛰어난 능력 덕분에 빠르게 하이 나이트 직급으로 승진하며 발키리라는 별명을 얻었답니다.",
+			"ice_princess": "한 전투에서 미유는 얼음 정령 부족을 방어하게 되었어요. 그녀가 패배할 위기에 몰리자 정령들은 자신들의 힘을 미유에게 부여했죠. 그 힘으로 미유는 마법의 얼음 공주로 변신하여 적을 물리칠 수 있었답니다.",
+			"idol": "수수께끼의 악의 조직이 아이돌 산업에 마수를 펼치고 있었고, 미유는 그들의 사악한 계획을 파악하고 막기 위해 아이돌로 위장해야 했어요. 마법의 도움을 받아 미유는 이제 세계적인 아이돌로서 무대에 서고 있답니다.",
+			"summer_games": "미유는 원래 소심한 소녀였기 때문에 전문 체조 선수가 될 거라고 생각한 사람은 많지 않았어요. 하지만 그녀는 재능과 노력을 통해 모두의 예상을 뒤엎었고 이제 연례 여름 대회에서 자신의 기량을 보여줄 준비를 마쳤답니다."
 		},
 		"shiina": {
-			"MISSING-standard": "Spending her childhood watching idols on television, Shiina dreamed of becoming one herself. Her dream finally started to come true as she began in highschool and was able to land the job as a local idol for her city."
+			"standard": "어린 시절 TV에서 아이돌을 보며 자란 시이나는 자신이 직접 아이돌이 되는 꿈을 꾸었어요. 그녀의 꿈은 고등학교에 입학하면서 마침내 현실이 되기 시작했고 자신이 사는 도시의 지역 아이돌이라는 직업을 얻을 수 있었답니다."
 		},
 		"mizuki": {
-			"MISSING-standard": "Mizuki serves as the shrine maiden at her popular shrine, sharing her blessing with its many visitors. Blessings which often end up in her favor. She often gets visits from Komugi who’s annoyed that the shrine is leaving Komugi’s forgotten.",
-			"MISSING-high_priest": "Being the High Priest of her tribe, Mizuki was enjoying her life. That all changed when Komugi broke the rules and left the tribe, forcing Mizuki to set out to bring her back. She now travels around the world, trying to catch Komugi."
+			"standard": "미즈키는 인기 있는 자신의 사당에서 무녀로 일하며 많은 방문객을 축복해 줍니다. 그런데 그 축복의 결과는 종종 미즈키에게 유리하게 돌아가곤 합니다. 미즈키의 사당 때문에 자신의 사당이 잊히는 것에 화가 난 코무기가 자주 찾아온답니다.",
+			"high_priest": "부족의 대제사장이었던 미즈키는 평온한 삶을 즐기고 있었어요. 하지만 코무기가 부족의 규칙을 깨고 떠나자 모든 것이 바뀌었고 미즈키는 그녀를 되찾아오기 위해 길을 떠날 수밖에 없었어요. 현재 미즈키는 코무기를 잡기 위해 세계를 돌아다니고 있답니다."
 		},
 		"marine": {
-			"MISSING-standard": "Due to her hardworking, stubborn and proud nature, Marine broke several records when she reached the rank of captain at her early age. A rank she has proven worthy of, after winning several battles against the neighboring magical nations.",
-			"MISSING-buccaneer": "Most people look twice when meeting Marine for the first time, but few who comment on her size live to tell the tale. Any doubts in her skills also quickly disappear after seeing her jump between decks, grinning as she brandishes her lance."
+			"standard": "성실하고 고집이 세며 자존심 강한 성격 덕분에 마린은 어린 나이에 선장 자리에 오르면서 여러 기록을 갈아치웠어요. 그녀는 이웃 마법 국가들과의 여러 전투에서 승리하며 자신이 선장에 걸맞은 인물임을 스스로 증명했답니다..",
+			"buccaneer": "마린을 처음 만난 사람들은 놀라서 다시 한 번 쳐다보지만 그녀의 체구를 함부로 언급한 사람들 중 살아남은 이는 거의 없어요. 그녀가 창을 들고 활짝 웃으며 갑판 사이를 뛰어넘는 모습을 보면 그녀의 실력에 대한 어떤 의구심도 순식간에 사라질 거예요."
 		},
 		"akira": {
-			"MISSING-standard": "A lot of Akira’s fans wouldn't expect that the normally cool and composed idol grew up as the oldest of several siblings. Working several jobs to help support them, until he by coincidence was scouted by a major idol agency.",
-			"MISSING-samurai": "As the crown prince of an eastern country, Akira wanted to experience the world before having to take over as a ruler. But being the crown prince, he has to travel in secret, to avoid getting caught in local politics."
+			"standard": "평소에는 쿨하고 침착한 아이돌인 아키라가 사실은 여러 형제자매 중 장남이라는 사실을 그의 많은 팬들은 예상하지 못할 거예요. 그는 가족을 부양하기 위해 여러 가지 일을 하던 중 우연히 대형 아이돌 기획사에 스카우트되었답니다.",
+			"samurai": "동방 국가의 왕세자인 아키라는 통치자가 되기 전에 세상을 경험하고 싶었어요. 하지만 왕세자라는 신분 때문에 정치에 얽히는 것을 피하고자 비밀리에 여행해야 한답니다."
 		},
 		"rinko": {
-			"MISSING-standard": "To most of her classmates, Rinko appears as a normal hard working high school student, they wouldn’t expect her to be a big fan of gothic lolita, who spends most weekends dressing up and attending events."
+			"standard": "대부분의 반 친구들에게 린코는 평범하고 성실한 고등학생으로 보여요. 하지만 그녀가 주말마다 고딕 로리타 복장을 하고 행사에 참여하는 열렬한 팬이라는 사실은 아무도 모를 거예요."
 		},
 		"alisa": {
-			"MISSING-standard": "Most people know Alisa as a gentle and proud girl, but due to her immense talent with the sword and magic she’s often leading the charge against the technological nations. She is also one of the few people who can stand Kuriko’s antics."
+			"standard": "대부분의 사람들은 아리사를 상냥하고 자존심 강한 소녀라고 생각해요. 하지만 검술과 마법에 엄청난 재능을 가진 덕분에 기술 국가들과의 전투에서는 자주 앞장서서 싸우는 편이죠. 그녀는 쿠리코의 엉뚱한 행동을 참아주는 몇 안 되는 사람 중 하나예요."
 		},
 		"chika": {
-			"MISSING-standard": "As a self proclaimed genius and master scientist, Chika lets nothing stand between her and her next experiment! This has earned her a bit of a reputation at her school, where she’s the president of the science club."
+			"standard": "자칭 천재이자 마스터 과학자인 치카는 자신의 실험을 위해서라면 어떤 방해요소도 그냥 놔두지 않아요. 이런 성격 때문에 그녀는 학교에서 과학 동아리 회장으로 있으면서도 특이한 평판을 얻고 있답니다."
 		},
 		"yumemi": {
-			"MISSING-standard": "Yumemi is usually found sleeping at any chance she gets. Most people are therefore surprised when they hear she’s the vice president of the science club, though she only joined to help her childhood friend Chika get enough members."
+			"standard": "유메미는 보통 틈만 나면 잠을 자요. 그래서 그녀가 과학 동아리의 부회장이라는 말을 들은 사람들은 대부분 놀라곤 하죠. 사실 유메미는 단지 소꿉친구인 치카가 부원 수를 채우는 것을 돕기 위해 동아리에 가입했을 뿐이랍니다."
 		},
 		"katsu": {
-			"MISSING-standard": "Being a prominent player of the Zetto card game, Katsu is trying to collect the ancient precursor cards, which are said to hold the power to change the world. This often leads to battle against a shadowy organization who’re also seeking them."
+			"standard": "유명한 젯토 카드 게임 플레이어인 카츠는 세상을 바꿀 힘이 있다고 전해지는 고대 전조 카드를 모으려고 노력하고 있어요. 그래서 같은 카드를 찾는 그림자 조직과 자주 맞서 싸우게 된답니다."
 		},
 		"riku": {
-			"MISSING-standard": "Riku is known by most as Rika, a famous live streamer and vlogger who’s known for getting access to places he’s not supposed to be. Riku himself mainly just enjoys the thrill of exploring and sharing his antics."
+			"standard": "리쿠는 대부분 사람들에게는 리카라는 이름의 유명한 라이브 스트리머이자 브이로거로 알려져 있어요. 그는 들어가서는 안 되는 곳에 숨어들어가는 것으로 유명하죠. 리쿠 자신은 탐험하는 짜릿함과 자신의 엉뚱한 행동을 함께 하는 것 자체를 즐기고 있답니다."
 		},
 		"yuki": {
-			"MISSING-standard": "As a young girl, Yuki fell in love with the cheerful Christmas atmosphere. So she’s often found at cosplay events giving out presents to kids and friends. It was at one of these events she met and befriended Rinko."
+			"standard": "어린 시절 유키는 활기찬 크리스마스 분위기에 푹 빠졌어요. 그래서 코스프레 행사에서 아이들과 친구들에게 선물을 나누어 주는 모습을 볼 수 있답니다. 그녀가 린코를 만나 친구가 된 것도 바로 이 행사였어요."
 		},
 		"fuwagi": {
-			"MISSING-standard": "Most people know Fuwagi as a lucky rabbit, as luck seems to conspire with her to get her out of any situation she finds herself in. Though, she views herself as unlucky, as it’s bad luck that gets her into those situations.",
-			"MISSING-traveling_merchant": "Known as the lucky bunny, Fuwagi travels from town to town selling her wares. She got the lucky nickname because misfortune never affects her goods, but she views herself as unlucky, as every permanent store she sets up is destroyed in some accident."
+			"standard": "대부분의 사람들은 후와기를 행운의 토끼라고 생각해요. 그녀가 어떤 상황에 처하든 운이 따라서 그녀를 구해주기 때문이죠. 하지만 정작 후와기 본인은 자신을 불운하다고 생각해요. 그 상황에 빠지는 것 자체가 운이 나쁘다고 생각하기 때문이랍니다.",
+			"traveling_merchant": "행운의 토끼로 알려진 후와기는 마을마다 다니며 물건을 팔아요. 그녀의 상품에는 불운이 전혀 영향을 미치지 않아서 행운이라는 별명을 얻었죠. 하지만 그녀가 차리는 가게마다 모종의 사고로 파괴되기 때문에 정작 본인은 자신을 불운하다고 생각하고 있답니다."
 		},
 		"yuuna": {
-			"MISSING-standard": "Being the child of a famous chef, Yuuna fell in love with the art of cooking at a young age. She now travels the world, on a journey to hone her skills and prove she can live up to her mom’s legacy.",
-			"MISSING-painter": "Loving to explore and experience the world, Yuuna set out on a trip across the globe to discover its beauty. She travels leisurely from place to place, taking the time to capture the surrounding beauty on her canvas."
+			"standard": "유명한 요리사의 딸인 유우나는 어린 나이에 요리에 대한 열정을 갖게 되었어요. 그녀는 지금 어머니의 명성에 걸맞은 실력을 갖추고 있음을 증명하기 위해 전 세계를 여행하며 기술을 연마하고 있답니다.",
+			"painter": "세계를 탐험하고 경험하는 것을 좋아하는 유우나는 그 아름다움을 발견하기 위해 세계 여행을 떠났어요. 그녀는 이곳저곳 여유롭게 여행하며 주변의 아름다움을 캔버스에 담는 시간을 보내고 있답니다."
 		},
 		"haruki": {
-			"MISSING-standard": "Being closely attuned to nature, Haruki is one of the most powerful one-tailed kitsune and can even rival some nine tails. He’s often tasked with breaking up the fights between Komugi and Mizuki, a task he loathes."
+			"standard": "자연과 가까이 연결되어 있는 하루키는 가장 강력한 한 꼬리 키츠네 중 한 명이에요. 심지어 일부 아홉 꼬리 키츠네들과 맞먹을 정도죠. 그는 종종 코무기와 미즈키 사이의 싸움을 말리는 일을 맡지만 그것에는 정말 진절머리가 난답니다."
 		},
 		"asuka": {
-			"MISSING-standard": "Asuka’s skills in the sky have earned her the title of flying ace, and is therefore often called into battle against the neighboring countries. Personally, Asuka couldn’t care less about the war, and is just happy to fly freely through the sky."
+			"standard": "아스카는 뛰어난 비행 실력 덕분에 하늘의 에이스라는 칭호를 얻었어요. 그래서 이웃 나라들과의 전투에 자주 소집되죠. 하지만 아스카 본인은 전쟁에 대해서는 전혀 신경 쓰지 않아요. 그저 하늘을 자유롭게 나는 것만이 행복할 뿐이랍니다."
 		},
 		"fira": {
-			"MISSING-standard": "Fira wields immense powers as the heir to the dark dragon clan. Though, as she can’t stand the politics, she ran away from her home and is currently staying at Fuwagi’s house. Much to the dismay of Fuwagi who doesn’t dare ask her to leave."
+			"standard": "암흑 드래곤 일족의 후계자인 피라는 엄청난 힘을 휘둘러요. 하지만 정치 싸움을 견디지 못해서 집을 뛰쳐나왔고 현재 후와기의 집에서 머물고 있답니다. 후와기는 감히 그녀에게 나가 달라고 말하지 못하고 속으로 매우 난감해하고 있어요."
 		},
 		"naomi": {
-			"MISSING-standard": "Due to her direct attitude and nature, Naomi quickly became the leader of the delinquent group at her school. Though she doesn’t seek out fights, she often ends up in them, as she isn’t one to hold back if others starts one."
+			"standard": "직설적인 태도와 성격 덕분에 나오미는 학교의 불량 그룹 리더가 되었어요. 그녀는 싸움을 찾아다니지는 않지만 다른 사람들이 싸움을 걸어오면 절대 물러서지 않는 성격이라 종종 싸움에 휘말리곤 한답니다."
 		},
 		"kumiko": {
-			"MISSING-standard": "Kumiko has been haunting her local village and pulling pranks on its inhabitants since she died over a century ago. Even though she’s known as a prankster, she’s well liked by the villagers and part of the local legends."
+			"standard": "쿠미코는 100년도 더 전에 세상을 떠난 이후로 자신이 살던 마을을 떠돌아다니며 주민들에게 장난을 치고 있어요. 장난꾸러기로 알려져 있지만 마을 사람들에게는 인기가 많아 지역 전설 중 하나가 되었답니다."
 		},
 		"sachiko": {
-			"MISSING-standard": "Due to Sachiko's leadership, her squad has become known as an elite squad, carrying out critical tasks in the war against the magical nation. She also got a rivalry going with Marine, trying to prove the army’s importance over the navy."
+			"standard": "사치코의 리더십 덕분에 그녀의 소대는 엘리트 소대로 알려져 마법 국가와의 전쟁에서 중요한 임무들을 수행하고 있어요. 그녀는 또한 육군이 해군보다 중요하다는 것을 증명하려고 마린과 라이벌 관계를 형성하고 있답니다."
 		},
 		"kasumi": {
-			"MISSING-standard": "Kasumi comes from a secluded clan that has hunted evil yokai since ancient time. She recently finished her training and became a kunochi of the clan, though her inexperience still shown when she’s out on missions."
+			"standard": "카스미는 고대부터 사악한 요괴를 사냥해 온 비밀 일족 출신이에요. 최근 그녀는 훈련을 마치고 일족의 쿠노이치가 되었지만 임무를 나갈 때마다 여전히 미숙한 모습을 보이고 있답니다."
 		},
 		"shin": {
-			"MISSING-standard": "Shin is known locally as a street cat, as he enjoys spending his time exploring the urban environment of his home city and interacting with the different people in it. Though, his curiosity does land him in trouble from time to time.",
-			"MISSING-maid": "Some friends wanted to pull a prank on Shin, and tricked him into helping out at a local maid café. But much to their surprise and dismay, Shin ended up being an extremely skillful maid, quickly becoming the café’s most popular."
+			"standard": "신은 자신이 사는 도시를 탐험하고 그 속의 다양한 사람들과 교류하는 것을 즐겨서 주위 사람들에게 길고양이로 알려져 있어요. 다만 그의 호기심 때문에 종종 곤경에 처하기도 한답니다.",
+			"maid": "신은 친구들이 계획한 장난에 속아 근처 메이드 카페에서 일손을 돕게 되었어요. 그런데 놀랍게도 신은 엄청나게 능숙한 메이드가 되었고 빠르게 카페에서 가장 인기 있는 직원으로 등극했답니다. 친구들은 이 사실에 깜짝 놀라 당황했어요."
 		},
 		"lilith": {
-			"MISSING-standard": "Lilith comes from a long line of ancient vampires, but currently enjoy a normal high school life. Though she doesn’t hide her vampire origins, people around her doesn’t believe it, and just thinks it’s a quick of her personality.",
-			"MISSING-school_girl": "Living her highschool life to her fullest, Lilith looks almost like any other energetic highschool girl, beside the fact she’s a vampire. While she doesn’t hide this, everyone around her just thinks she’s joking around."
+			"standard": "리리스는 유서 깊은 고대 뱀파이어 출신이지만 현재는 평범한 고등학교 생활을 즐기고 있어요. 그녀는 뱀파이어 출신임을 숨기지는 않지만 주위 사람들은 그 사실을 믿지 않고 그저 그녀의 개성이나 독특한 성격이라고 생각한답니다.",
+			"school_girl": "고등학교 생활을 마음껏 즐기고 있는 리리스는 뱀파이어라는 사실만 빼면 여느 활동적인 여고생과 다를 바 없어 보여요. 그녀가 이 사실을 숨기지 않더라도 주변 사람들은 모두 농담하는 거라고 생각하죠."
 		},
 		"mao": {
-			"MISSING-standard": "Mao was born with the reincarnated demon kings spirit sealed inside her, granting her the ability to tab into his powers, power which might corrupt her and free the demon king. Or that’s what she’ll tell you when you ask what she’s doing.",
-			"MISSING-student_president": "After a random series of events, Mao ended up as the student council president of her school. Taking up the responsibility, she’s now ready to rule the school with an iron fist and show everyone how a true student president acts!",
-			"MISSING-demon_lord": "Suddenly finding themselves summoned to another world as a demon lord would shock a lot of people, but not Mao, who relished in finally having the power she always dreamed of. Though, she still has to learn how to use them."
+			"standard": "마오는 환생한 데몬 킹의 영혼이 봉인된 채 태어났어요. 이로 인해 마오에게는 데몬 킹의 힘을 끌어다 쓸 수 있는 능력이 있지만 그 힘이 그녀를 타락시키고 데몬 킹을 해방할 수도 있죠. 라는 것이 마오에게 지금 무엇을 하고 있냐고 물었을 때 그녀가 해줄 대답이랍니다.",
+			"student_president": "마오는 우연한 사건들이 겹치고 겹쳐서 학생회장이 되었어요. 책임감을 갖고 이 자리를 맡은 그녀는 이제 카리스마로 학교를 지배하고 진정한 학생회장이 어떤 사람인지 모두에게 보여줄 준비가 되어 있답니다!",
+			"demon_lord": "대부분의 사람들은 갑자기 다른 세계로 소환되어 마왕이 되면 충격을 받겠지만 마오는 그렇지 않아요. 그녀는 오랫동안 꿈꿔왔던 힘을 마침내 갖게 되어서 기뻐하고 있답니다. 물론 아직은 그 힘을 사용하는 법을 배워야 하지만요."
 		},
 		"kei": {
-			"MISSING-standard": "Being born without magical talent, Kei decided to dedicate herself to developing trinkets and gadgets, utilizing the magical artifacts found in her country. Due to the conflict with the nearby technological nations, this have earned her both friends and foes."
+			"standard": "케이는 선천적인 마법 재능이 없었기에 자신의 나라에서 발견되는 마법 유물을 활용하여 작은 장치와 도구를 개발하는 일에 전념하기로 했어요. 그녀의 이런 활동은 이웃 기술 국가들과의 갈등 때문에 그녀에게 친구와 적을 모두 만들어 주었답니다."
 		},
 		"akane": {
-			"MISSING-standard": "As the leader of a clan of lamia, Akane decided to stay neutral in the ongoing conflicts between the magical and science nations. Though her and clan members does sometime lend their skills of seduction to the magical nations."
+			"standard": "라미아 일족의 리더인 아카네는 현재 진행 중인 마법 국가와 과학 국가 간의 분쟁에서 중립을 지키기로 결정했어요. 하지만 때때로 그녀와 일족 구성원들은 자신들의 유혹 스킬을 마법 국가들에게 빌려주기도 한답니다."
 		},
 		"umi": {
-			"MISSING-standard": "Umi visited the marine city Venity at a young age, and was instantly charmed by its calm beauty. So when Umi grew up, she decided to move to Venity, where she now enjoys life as a gondolier in her favorite city.",
-			"MISSING-drummer": "Most people know Umi as an elegant gondolier, so they’re pretty surprised the first time they see her let loose as the drummer of The Wave, letting out all that energy she keeps under wrap during her gondolier work."
+			"standard": "어린 나이에 해양 도시 베니티를 방문했던 우미는 그곳의 평온한 아름다움에 곧바로 매료되었어요. 그래서 성인이 된 후 베니티로 이주했고 지금은 그녀가 가장 좋아하는 도시에서 곤돌라 안내원으로서 삶을 즐기고 있답니다.",
+			"drummer": "대부분의 사람들은 우미를 우아한 곤돌라 안내원으로 알고 있어서 그녀가 더 웨이브라는 밴드의 드러머로 봉인해 뒀던 에너지를 모두 폭발시키며 연주하는 모습을 처음 보면 무척 놀란답니다."
 		},
 		"etsuko": {
-			"MISSING-standard": "Watching her mother, a professional athlete, Etsuko fell in love with track and field sports. Though her hard work and skills, she’s now looking towards qualifying to the national championship as her school's ace runner."
+			"standard": "프로 운동선수인 어머니를 보며 자란 에츠코는 육상 종목에 푹 빠졌어요. 그녀는 이제 노력과 실력을 바탕으로 학교의 에이스 주자로서 전국 선수권 대회 출전을 목표로 하고 있답니다."
 		},
 		"yasuko": {
-			"MISSING-standard": "Yasuko enjoys her life in Venity, working at one of the city major companies. While many of her colleagues rushes around, Yasuko take life slowly, making sure to often sample the cities hot spring, often inviting Umi along."
+			"standard": "야스코는 해양 도시 베니티의 주요 기업 중 한 곳에서 일하며 자신의 삶을 즐기고 있어요. 동료들은 바쁘게 뛰어다니지만 야스코는 인생을 천천히 즐기는 스타일이라 도시의 온천을 자주 이용하고 우미에게도 함께 가자고 권하곤 한답니다."
 		},
 		"yin_yan": {
-			"MISSING-standard": "Twins are a rare occurrence in the Kitsune world, so Yin and Yan were seen as a divine blessing by their clan. They now work as messengers for the clan, traveling the country bringing messages between its members.",
-			"MISSING-mahou_shoujo": "After getting caught up in one of Miyu’s battle, the twins Yin and Yan ended up catching a magical gem, allowing one of them to transform into a magical girl, while the other take the shape of a fox. Power they use to fight together with Miyu."
+			"standard": "키츠네 세계에서 쌍둥이는 흔치 않은 일이라 인과 얀은 일족에게 신의 축복으로 여겨졌어요. 이들은 현재 일족의 구성원들 사이에 메시지를 전달하며 나라를 여행하는 전령 역할을 하고 있답니다.",
+			"mahou_shoujo": "미유의 전투에 휘말린 쌍둥이 인과 얀은 마법의 보석을 얻게 되었어요. 이 보석 덕분에 한 명은 마법 소녀로 변신하고 다른 한 명은 여우의 모습을 취할 수 있게 되었죠. 이들은 이 힘을 이용해 미유와 함께 싸우고 있답니다."
 		},
 		"ayu": {
-			"MISSING-standard": "Ayu was never one for following the norm or caring much about other people's expectations. As a self-proclaimed life enjoyer, she enjoys her days relaxing with her friends and hanging out in the city after school."
+			"standard": "아유는 규범을 따르거나 다른 사람들의 기대에 신경 쓰는 스타일이 아니었어요. 스스로를 인생을 즐기는 사람이라 칭하는 그녀는 방과 후에 친구들과 함께 도시에서 어울리며 여유롭게 하루하루를 보내고 있답니다."
 		},
 		"miku": {
-			"MISSING-standard": "Known by her fellow soldiers as their cheerful goddess of victory, Miku boast her skill as head strategist of magic nation's flying forces, while not shying away from leading from the front lines. To the dismay of the technological nations."
+			"standard": "동료 병사들에게 활기찬 승리의 여신으로 알려진 미쿠는 마법 국가 비행 부대의 수석 전술가로서의 실력을 자랑해요. 그녀는 최전선에서 직접 병력을 이끄는 일도 마다하지 않죠. 이는 기술 국가들에게는 큰 근심거리가 된답니다."
 		},
 		"eksu": {
-			"MISSING-standard": "Eksu was created in an experiment that was discarded as a failure, so when Eksu materialized she found herself alone in an urban city. She quickly learned to stay hidden, but enjoys lurking around the city, watching the lights and people."
+			"standard": "엑스는 실패작으로 폐기된 실험에서 창조되었어요. 그래서 엑스가 실체화되었을 때 그녀는 도시 한복판에 홀로 남겨졌죠. 그녀는 재빨리 숨어 지내는 법을 익혔지만 도시를 몰래 돌아다니며 불빛과 사람들을 관찰하는 것을 즐긴답니다."
 		},
 		"victoria": {
-			"MISSING-standard": "Victoria went to a private school for rich ladies in England, while she enjoyed her time there, she always found it too restrictive. She now often joins her family on business trips, where she gets to experience others and share her own culture."
+			"standard": "빅토리아는 영국의 부유한 영애들이 다니는 사립 학교에 다녔어요. 그곳에서의 시간을 즐기기는 했지만 항상 너무 제약이 많다고 느꼈죠. 그녀는 이제 가족의 출장을 따라다니며 타 문화를 경험하고 자신의 문화를 나누는 시간을 갖고 있답니다."
 		},
 		"kiki": {
-			"MISSING-standard": "Kiki’s family disagreed with her pursuing an education in music, but Kiku still enrolled in the music program at a large university. A decision she hasn’t regretted, as she spends her days studying and playing the music she loves."
+			"standard": "키쿠의 가족은 그녀가 음악을 공부하는 것에 반대했지만 키쿠는 대학교에 음악 전공으로 등록했어요. 그녀는 자신이 사랑하는 음악을 공부하고 연주하며 하루하루를 보내고 있기 때문에 이 결정을 후회하지 않는답니다."
 		},
 		"sera": {
-			"MISSING-standard": "Living in the celestial realm, many angels don’t spend much time thinking about the mortal world, but Sera have always had a fascination of humans, loving to observe them, and sometimes sneaking down to the mortal world."
+			"standard": "천상계에 사는 많은 천사들은 인간 세계에 대해 크게 신경 쓰지 않아요. 하지만 세라는 늘 인간에게 매료되어 그들을 관찰하는 것을 좋아했고 가끔은 몰래 인간 세계로 내려가기도 했답니다."
 		},
 		"ignis": {
-			"MISSING-standard": "Ignis the Flaming Justice is a well known hero who defends the masses when evil is afoot. Though many people have meet Ignis, no one have been able to figure out who’s behind the mask, and he has yet to share the secret with anyone.",
-			"MISSING-adventurer": "Ignis is known as a mysterious adventurer that rushes to the aid of people in need, no matter if it’s a caravan getting ambushed by monsters or farmers being harassed by corrupt knights, as he travels through the kingdom."
+			"standard": "불꽃의 정의 이그니스는 악의 기운이 감돌 때마다 사람들을 지켜주는 유명한 영웅이에요. 많은 사람들이 이그니스를 만났지만 가면 뒤의 정체가 누구인지 아무도 알아내지 못했고 그는 누구에게도 이 비밀을 알려주지 않았답니다.",
+			"adventurer": "이그니스는 곤경에 처한 사람들을 돕기 위해 달려가는 신비한 모험가로 알려져 있어요. 괴물들의 습격을 받는 상인들이든 부패한 기사들에게 시달리는 농부들이든 그가 왕국을 여행하며 만나는 도움이 필요한 사람이라면 누구에게나 달려간답니다."
 		},
 		"rin": {
-			"MISSING-standard": "Having a hard time with bullies in school, Rin quickly accepted when a strange entity offered her magical powers. Drunk on her new powers, Rin started enacting revenge on her former bullies, often leading her to clash with Miyu."
+			"standard": "학교에서 괴롭힘을 당하며 힘든 날들을 보내던 린은 낯선 존재가 마법 능력을 제안했을 때 재빨리 이를 받아들였어요. 새로운 힘에 도취된 린은 이전의 괴롭히던 사람들에게 복수를 시작했고 이 때문에 종종 미유와 충돌하게 된답니다."
 		},
 		"emiri": {
-			"MISSING-standard": "Looking forward to enjoying her dream high school life, Emiri was shocked to find Chika and Yumemi in her class. Their crazy antics often end up dragging her into them, interrupting her idea of the perfect high school life."
+			"standard": "꿈에 그리던 고등학교 생활을 기대했던 에미리는 치카와 유메미가 같은 반이라는 사실에 충격을 받았어요. 에미리는 그들의 엉뚱한 장난 때문에 자신이 바라던 완벽한 고등학교 생활을 방해받고 종종 그 일에 휘말리곤 한답니다."
 		},
 		"ichika": {
-			"MISSING-standard": "Scouted while in high school, Ichika turned out to be a prodigy in the field of acting. Quickly growing to become one of Japans most famous actors. Ichika herself loves bringing characters to life, and working with people in the industry."
+			"standard": "고등학교 시절 스카우트된 이치카는 천재적인 연기의 재능을 보여줬어요. 빠르게 성장하여 일본에서 가장 유명한 배우 중 한 명이 되었죠. 이치카 본인은 캐릭터에 생명을 불어넣는 것과 업계 사람들과 함께 일하는 것을 매우 좋아한답니다."
 		},
 		"neoko": {
-			"MISSING-standard": "Neoko surprised everyone with her sudden appearance on the v-tuber scene, quickly gaining a large audience who enjoy her quirky and passionate live-streaming. She now streams regularly, enjoying hanging out with chat and sharing her passions."
+			"standard": "네오코는 버튜버 세계에 혜성같이 나타나 모두를 놀라게 했어요. 그녀의 엉뚱하고 열정적인 라이브 스트리밍을 즐기는 많은 시청자들을 빠르게 확보했죠. 그녀는 지금 정기적으로 방송하며 시청자들과 교류하고 자신의 열정을 함께 하는 것을 즐기고 있답니다."
 		},
 		"elika": {
-			"MISSING-standard": "Elika enjoy a quiet life in the French countryside, where she loves to emerge herself in detective novels. She often shares the story she reads with her younger cousin and pen pal Noel, who currently live in the far away land of Japan."
+			"standard": "에리카는 프랑스 시골에서 조용히 지내며 탐정 소설에 몰입하는 것을 좋아해요. 그녀는 자주 읽은 이야기들을 멀리 떨어진 일본에 사는 어린 사촌이자 펜팔 친구인 노엘과 함께 하곤 한답니다."
 		},
 		"mofuji": {
-			"MISSING-standard": "Mofuji runs a small café in the countryside, but the location is often caught up in the battles between the technological and magic nations. Mofuji doesn’t mind this, and often keeps the café open while bombs and spell rains down around it."
+			"standard": "모후지는 시골에서 작은 카페를 운영하고 있지만 이 곳은 기술 국가와 마법 국가 사이의 전투에 종종 휘말려요. 모후지는 폭탄과 마법이 주변에 쏟아져도 신경쓰지 않고 카페 문을 열어두곤 한답니다."
 		},
 		"arai": {
-			"MISSING-standard": "Arai runs her own underground quiz tournaments, which have made her infamous in some circles and famous in others. Despite the questionability of her being both the host and a participant, her tournaments draw huge crowds."
+			"standard": "아라이는 지하 퀴즈 대회를 운영하고 있으며 이 때문에 어떤 그룹에서는 악명 높고 어떤 그룹에서는 유명해요. 주최자와 참가자를 겸하는 그녀의 역할에 의문이 제기되기도 하지만 그녀의 대회는 엄청난 인파를 끌어모은답니다."
 		},
 		"yua": {
-			"MISSING-standard": "Since high school, Yua has lowed tailoring and dressmaking, with a huge passion for wedding gowns. She secretly loves dressing up in them, dreaming of getting wed one day, but would die of embarrassment if her friends found out."
+			"standard": "유아는 고등학교 때부터 재봉과 의상 제작, 특히 웨딩드레스에 큰 열정을 가져왔어요. 그녀는 웨딩드레스를 몰래 입어보는 것을 좋아하며 언젠가 결혼하는 꿈을 꾸지만 친구들이 이 사실을 알면 창피해서 죽을 것 같다고 생각한답니다."
 		},
 		"kaori": {
-			"MISSING-standard": "Kaori just started highschool where she’s the quiet and nervous girl in her class, but get her talking about frogs and she forgets all that. She managed to make a couple of good friends, who have to live with Kaori trying to buy all frog merch she finds."
+			"standard": "카오리는 고등학교에 갓 입학한 조용하고 소심한 여학생이지만 개구리 이야기가 나오면 소심함을 모조리 잊어버려요. 몇몇 좋은 친구들을 사귀었는데 그 친구들은 카오리가 발견하는 모든 개구리 상품을 사려고 하는 것을 감수해야 한답니다."
 		},
 		"saki": {
-			"MISSING-standard": "Due to being born with albinism, Saki spent most of her life indoors reading books. This has given her a lot of knowledge for her young age, something she loves to show off and can be rather cocky about."
+			"standard": "백색증을 갖고 태어난 사키는 평생을 실내에서 책을 읽으며 보냈어요. 덕분에 어린 나이에도 많은 지식을 갖게 되었는데 그녀는 이것을 자랑하기 좋아하며 건방진 태도를 보이기도 한답니다."
 		},
 		"hanabi": {
-			"MISSING-standard": "Hanabi is the proud hair to the red dragon clan, and doesn’t accept any disrespect towards it. She can’t stand the rivaling dark dragon clan, except for Fira, who she think is insanely cute and will do anything to protect."
+			"standard": "하나비는 레드 드래곤 일족의 자랑스러운 후계자이며 일족에 대한 그 어떤 무례함도 용납하지 않아요. 그녀는 라이벌인 다크 드래곤 일족을 싫어하지만 피라만큼은 예외죠. 그녀는 피라가 엄청나게 귀엽다고 생각하며 그녀를 보호하기 위해서라면 무엇이든 할 것이랍니다."
 		},
 		"fukami": {
-			"MISSING-standard": "While her kind usually takes part in the conflicts between the magic and technology nations, Fukami doesn’t care much about them. But much to the dismay of Marine, she loves sneaking into the technology nations to steal their fun toys."
+			"standard": "그녀의 종족은 보통 마법 국가와 기술 국가 간의 분쟁에 참여하지만 후카미는 그 싸움에 별로 관심이 없어요. 하지만 마린이 매우 불쾌해하더라도 그녀는 재미있는 장난감들을 훔치기 위해 기술 국가에 몰래 잠입하는 것을 즐긴답니다."
 		},
 		"asahi": {
-			"MISSING-standard": "Asahi is the captain of her school's track team, and got a reputation as a tough person who always speak her mind. But she’s actually rather chill, and enjoys her high school days hanging out with her friends without too much drama."
+			"standard": "아사히는 학교 육상팀의 주장이며 항상 자기 생각을 거침없이 말하는 터프한 사람으로 알려져 있어요. 하지만 실은 꽤 여유로운 성격이며 별다른 문제 없이 친구들과 어울리며 고등학교 생활을 즐기고 있답니다."
 		},
 		"unknown": "불명"
 	}
