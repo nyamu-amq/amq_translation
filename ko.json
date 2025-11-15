@@ -1601,7 +1601,7 @@
 		"game_mode_settings_display": "_NAME_ 게임 세팅",
 		"algorithm_block_settings": "알고리즘 차단 설정",
 		"randomize": "랜덤 설정",
-		"custom": "사용자 설정",
+		"custom": "커스텀",
 		"empty": "미설정",
 		"search": "검색",
 		"random": "랜덤",
@@ -1669,7 +1669,7 @@
 		},
 		"number_of_players": { "title": "플레이어 수", "unlimited": "무제한" },
 		"number_of_songs": { "title": "노래 수" },
-		"team_size": { "title": "팀 크기", "solo": "개인전" },
+		"team_size": { "title": "팀 크기", "solo": "솔로" },
 		"song_selection": {
 			"title": "노래 선택",
 			"description": "출제곡이 선택되는 방식입니다. 시청완료는 최소 1명의 플레이어가 시청한 애니메이션이 포함됩니다.",
@@ -1680,7 +1680,7 @@
 		},
 		"watched_distribution": {
 			"title": "시청완료 분포",
-			"description": "플레이어 사이에서 시청완료 노래가 선택되는 정도입니다. 완전 랜덤, 더 큰 리스트에서 더 많이 출제되는 방식, 각 목록에서 같은 수를 가져오는 방식 중 하나를 선택할 수 있습니다.",
+			"description": "플레이어 사이에서 시청완료 노래가 선택되는 정도입니다. 완전 랜덤, 더 큰 리스트에서 더 많이 출제되는 가중치, 각 목록에서 같은 수를 가져오는 균등 중 하나를 선택할 수 있습니다.",
 			"random": "랜덤",
 			"weighted": "가중치",
 			"equal": "균등"
@@ -1989,7 +1989,7 @@
 				"random": "랜덤",
 				"mix": "혼합",
 				"watched": "시청완료",
-				"custom": "사용자 설정"
+				"custom": "커스텀"
 			},
 			"room_closed": "방 닫힘",
 			"password": {
