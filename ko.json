@@ -8,7 +8,7 @@
 			"password": "비밀번호",
 			"email": "메일주소",
 			"repeat_password": "비밀번호 재입력",
-			"back_button": "돌아가기",
+			"back_button": "뒤로",
 			"resend_button": "재송신",
 			"register_button": "등록",
 			"change_button": "변경",
@@ -1982,7 +1982,7 @@
 				"last_man_standing": "최후의 생존자",
 				"quick_draw": "퀵 드로우",
 				"boss_fight": "보스전",
-				"amq_awards": "AMQ Awards",
+				"amq_awards": "AMQ 시상식",
 				"standard": "일반"
 			},
 			"song_selection": {
