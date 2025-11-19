@@ -1,5 +1,10 @@
 {
-	"meta": { "language_name": "Korean", "language_name_native": "한국어", "language_code": "ko", "creators": "nyamu" },
+	"meta": {
+		"language_name": "Korean",
+		"language_name_native": "한국어",
+		"language_code": "ko",
+		"creators": "nyamu"
+	},
 	"common": {
 		"ui": {
 			"translation_coverage": "번역된 텍스트 비율",
@@ -220,13 +225,28 @@
 			"ranked": "랭크 게임",
 			"ranked_finished": "랭크 게임 종료",
 			"ranked_types": {
-				"novice": { "title": "초보방", "description": "신규 플레이어 및 초보자를 위한 45곡" },
-				"expert": { "title": "숙련방", "description": "숙련자를 위한 85곡. 추가 랭크 포인트 보상 제공" }
+				"novice": {
+					"title": "초보방",
+					"description": "신규 플레이어 및 초보자를 위한 45곡"
+				},
+				"expert": {
+					"title": "숙련방",
+					"description": "숙련자를 위한 85곡. 추가 랭크 포인트 보상 제공"
+				}
 			},
 			"regions": {
-				"west": { "name": "서부", "shorthand": "서" },
-				"east": { "name": "동부", "shorthand": "동" },
-				"central": { "name": "중부", "shorthand": "중" }
+				"west": {
+					"name": "서부",
+					"shorthand": "서"
+				},
+				"east": {
+					"name": "동부",
+					"shorthand": "동"
+				},
+				"central": {
+					"name": "중부",
+					"shorthand": "중"
+				}
 			},
 			"states": {
 				"ranked": {
@@ -263,7 +283,9 @@
 					"title": "주간 퀴즈 일정",
 					"text": "주간 퀴즈 일정을 확인하고 각 모드에 대한 자세한 정보를 알아보세요."
 				},
-				"region_time": { "text": "지역과 다음 퀴즈까지 남은 시간" }
+				"region_time": {
+					"text": "지역과 다음 퀴즈까지 남은 시간"
+				}
 			},
 			"alerts": {
 				"ranked_rules": {
@@ -323,19 +345,35 @@
 			"free_donation": "무료 후원 사용",
 			"free_donation_amount": "금액: _NUMBER_€",
 			"checkout": "결제",
-			"popover": { "no_free_donation": "이번 달 무료 후원은 이미 사용하셨습니다." },
+			"popover": {
+				"no_free_donation": "이번 달 무료 후원은 이미 사용하셨습니다."
+			},
 			"alerts": {
 				"invalid_amount": {
 					"title": "후원 금액 오류",
-					"text": { "illegal": "후원 금액을 입력해야 합니다.", "minimum": "최소 후원 금액은 1€입니다" }
+					"text": {
+						"illegal": "후원 금액을 입력해야 합니다.",
+						"minimum": "최소 후원 금액은 1€입니다"
+					}
 				},
-				"donation_error": { "title": "후원 오류" },
-				"donation_received": { "title": "후원 완료", "text": "게임을 후원해 주셔서 감사합니다!" },
-				"use_free_donation": { "title": "무료 후원 사용", "text": "무료 후원은 한 달에 한 번만 사용할 수 있습니다." }
+				"donation_error": {
+					"title": "후원 오류"
+				},
+				"donation_received": {
+					"title": "후원 완료",
+					"text": "게임을 후원해 주셔서 감사합니다!"
+				},
+				"use_free_donation": {
+					"title": "무료 후원 사용",
+					"text": "무료 후원은 한 달에 한 번만 사용할 수 있습니다."
+				}
 			},
 			"title": "아바타 모금",
 			"approx_dollars_2": "약. $_SPAN_ _NUMBER_ _SPAN_",
-			"donation_choice_text": { "nomination": "추천", "secondary_choice": "대체 선택" }
+			"donation_choice_text": {
+				"nomination": "추천",
+				"secondary_choice": "대체 후보"
+			}
 		},
 		"social_rewards": {
 			"title": "소셜 보상",
@@ -343,13 +381,22 @@
 		},
 		"game_mode": {
 			"title": "게임 모드",
-			"solo": { "title": "싱글 플레이", "description": "나만의 방식으로 혼자 플레이" },
-			"multiplayer": { "title": "멀티 플레이", "description": "친구나 다른 플레이어들과 함께 플레이" },
+			"solo": {
+				"title": "싱글 플레이",
+				"description": "나만의 방식으로 혼자 플레이"
+			},
+			"multiplayer": {
+				"title": "멀티 플레이",
+				"description": "친구나 다른 플레이어들과 함께 플레이"
+			},
 			"community": {
 				"title": "커뮤니티",
 				"description": "다른 플레이어들이 만든 퀴즈를 플레이하거나 직접 만든 퀴즈를 공유"
 			},
-			"jam": { "title": "잼 퀴즈", "description": "언제든지 자유롭게 입장하고 나갈 수 있는 끝없는 퀴즈" },
+			"jam": {
+				"title": "잼 퀴즈",
+				"description": "언제든지 자유롭게 입장하고 나갈 수 있는 끝없는 퀴즈"
+			},
 			"nexus": {
 				"title": "넥서스",
 				"description": "싱글 플레이 또는 친구와 함께 독특한 로그라이크 퀴즈 모드 넥서스 던전에 도전"
@@ -398,7 +445,11 @@
 					"quiz_of_the_day": "오늘의 퀴즈"
 				}
 			},
-			"options": { "report": "신고", "remove_friend": "친구 삭제", "join_game": "게임 참가" },
+			"options": {
+				"report": "신고",
+				"remove_friend": "친구 삭제",
+				"join_game": "게임 참가"
+			},
 			"popout_messages": {
 				"not_in_game": "게임에 참가하지 않았습니다.",
 				"solo_game_invite": "싱글 게임으로는 초대할 수 없습니다."
@@ -422,7 +473,12 @@
 			"description": "동영상 서버별 속도 상황",
 			"click_to_retest": "속도 테스트를 다시 하려면 클릭하세요.",
 			"speed": "속도: _SPANC_ _NUMBER_  _SPANC_",
-			"connection_status": { "good": "좋음", "okay": "보통", "poor": "나쁨", "bad": "매우 나쁨" }
+			"connection_status": {
+				"good": "좋음",
+				"okay": "보통",
+				"poor": "나쁨",
+				"bad": "매우 나쁨"
+			}
 		}
 	},
 	"player_profile": {
@@ -463,7 +519,10 @@
 				"no_token": "사용 가능한 이름 변경 토큰이 없습니다."
 			}
 		},
-		"alerts": { "error_getting_profile": "플레이어 프로필 정보 취득 오류", "unknown_player": "플레이어 불명" },
+		"alerts": {
+			"error_getting_profile": "플레이어 프로필 정보 취득 오류",
+			"unknown_player": "플레이어 불명"
+		},
 		"name_effects_entries": {
 			"challenger_color": {
 				"name": "도전자",
@@ -473,8 +532,14 @@
 				"name": "도전자",
 				"description": "지난달 랭크 게임 챔피언십 상위 50위까지 잠금 해제됩니다."
 			},
-			"patreon_color": { "name": "패트리온", "description": "패트리온 레벨3 이상 후원자에게 잠금 해제됩니다." },
-			"patreon_glow": { "name": "패트리온", "description": "패트리온 레벨4 이상 후원자에게 잠금 해제됩니다." },
+			"patreon_color": {
+				"name": "패트리온",
+				"description": "패트리온 레벨3 이상 후원자에게 잠금 해제됩니다."
+			},
+			"patreon_glow": {
+				"name": "패트리온",
+				"description": "패트리온 레벨4 이상 후원자에게 잠금 해제됩니다."
+			},
 			"month_patreon_current": "패트리온 레벨6 이상 후원자와 이번 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다.",
 			"month_patreon_previous": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다.",
 			"month_patreon_previous_unlocked": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다. 당신은 출시된 달에 후원하셨습니다."
@@ -486,7 +551,13 @@
 			"name_result": "랭크 게임 _TIER_ _YEAR_",
 			"description": "랭크 게임 _YEAR_ 시즌 _NUMBER_에서 _TIER_티어 획득",
 			"description_result": "랭크 게임 _YEAR_ 모든 시즌에서 _TIER_티어 획득",
-			"tiers": { "bronze": "브론즈", "silver": "실버", "gold": "골드", "platinum": "플래티넘", "diamond": "다이아몬드" }
+			"tiers": {
+				"bronze": "브론즈",
+				"silver": "실버",
+				"gold": "골드",
+				"platinum": "플래티넘",
+				"diamond": "다이아몬드"
+			}
 		},
 		"champion": {
 			"name": {
@@ -520,10 +591,19 @@
 			},
 			"description": "AMQ 패트리온 후원자"
 		},
-		"avatar": { "name": "_NAME_ 배지", "description": "_NAME_의 스킨이나 색상을 10개 잠금 해제" },
+		"avatar": {
+			"name": "_NAME_ 배지",
+			"description": "_NAME_의 스킨이나 색상을 10개 잠금 해제"
+		},
 		"mod": {
-			"name": { "game": "AMQ 운영자", "jam": "AMQ 잼 모드 운영자" },
-			"description": { "game": "AMQ 운영팀 일원", "jam": "AMQ 잼 모드 운영팀 일원" }
+			"name": {
+				"game": "AMQ 운영자",
+				"jam": "AMQ 잼 모드 운영자"
+			},
+			"description": {
+				"game": "AMQ 운영팀 일원",
+				"jam": "AMQ 잼 모드 운영팀 일원"
+			}
 		},
 		"aragaimu": {
 			"name": {
@@ -555,7 +635,10 @@
 		"backer_level": {
 			"title": "후원자 레벨",
 			"tier": "레벨 _NUMBER_",
-			"rewards": { "emotes": "_NUMBER_ 이모티콘", "tickets": "_NUMBER_ 티켓" }
+			"rewards": {
+				"emotes": "_NUMBER_ 이모티콘",
+				"tickets": "_NUMBER_ 티켓"
+			}
 		},
 		"badge_level": "배지 레벨",
 		"badge_level_info": "배지 레벨은 패트리온 레벨2 이상을 연속으로 후원한 개월 수와 같습니다.",
@@ -571,9 +654,18 @@
 			"manage": "관리",
 			"empty": "비었음",
 			"states": {
-				"waiting_approval": { "name": "신청중", "shorthand": "W" },
-				"active": { "name": "활성", "shorthand": "A" },
-				"disabled": { "name": "비활성", "shorthand": "D" }
+				"waiting_approval": {
+					"name": "신청중",
+					"shorthand": "W"
+				},
+				"active": {
+					"name": "활성",
+					"shorthand": "A"
+				},
+				"disabled": {
+					"name": "비활성",
+					"shorthand": "D"
+				}
 			},
 			"error_deleting": "이모티콘 삭제 오류",
 			"upload_emote": {
@@ -584,12 +676,15 @@
 					"line_three": "애니메이션: _NUMBER_"
 				},
 				"confirm_button": "파일 선택",
-				"footer": "허용 파일 형식: png (일반), gif (애니메이션). 최대 파일 크기: 256kb",
+				"footer": "허용 파일 형식: png (일반), gif (애니메이션). 최대 파일 크기: 256KB",
 				"file_too_large": {
 					"title": "파일 크기 초과",
-					"description": "최대 파일 크기는 256kb입니다. 업로드한 파일은 _NUMBER_kb입니다."
+					"description": "최대 파일 크기는 256KB입니다. 업로드한 파일은 _NUMBER_KB입니다."
 				},
-				"no_standard_slot": { "title": "일반 슬롯 부족", "description": "비어 있는 일반 이모티콘 슬롯이 없습니다." },
+				"no_standard_slot": {
+					"title": "일반 슬롯 부족",
+					"description": "비어 있는 일반 이모티콘 슬롯이 없습니다."
+				},
 				"no_animated_slot": {
 					"title": "애니메이션 슬롯 부족",
 					"description": "비어 있는 애니메이션 이모티콘 슬롯이 없습니다."
@@ -605,7 +700,10 @@
 						"name_length": "이모티콘 이름은 _NUMBER_자 이내로 입력해 주세요."
 					}
 				},
-				"server_rejected": { "title": "이모티콘 업로드 오류", "description": "서버가 이모티콘 업로드를 거부했습니다." },
+				"server_rejected": {
+					"title": "이모티콘 업로드 오류",
+					"description": "서버가 이모티콘 업로드를 거부했습니다."
+				},
 				"emote_uploaded": {
 					"title": "이모티콘 업로드 완료",
 					"description": "이모티콘 업로드가 완료되었으며 운영자의 승인을 기다리고 있습니다."
@@ -615,16 +713,33 @@
 	},
 	"setting_window": {
 		"title": "설정",
-		"tabs": { "game": "게임", "anime_list": "리스트", "graphics": "그래픽", "audio": "음향" },
+		"tabs": {
+			"game": "게임",
+			"anime_list": "리스트",
+			"graphics": "그래픽",
+			"audio": "음향"
+		},
 		"language": "언어",
-		"auto_submit": { "title": "자동 제출", "description": "답변 시간이 종료되면 입력된 답을 자동으로 제출합니다." },
+		"auto_submit": {
+			"title": "자동 제출",
+			"description": "답변 시간이 종료되면 입력된 답을 자동으로 제출합니다."
+		},
 		"list_numbering": {
 			"title": "리스트의 곡 수",
 			"description": "점수판에 각 플레이어의 애니메이션 리스트에서 출제된 곡 수를 표시합니다."
 		},
-		"disable_emotes": { "title": "이모티콘 끄기", "description": "채팅창에 표시되는 이모티콘을 비활성화합니다." },
-		"answer_time": { "title": "응답 시간", "description": "답을 입력한 시간을 플레이어의 아바타에 표시합니다." },
-		"anime_link": { "title": "애니메이션 링크", "description": "곡 정보에 링크되는 애니메이션 사이트를 지정합니다." },
+		"disable_emotes": {
+			"title": "이모티콘 끄기",
+			"description": "채팅창에 표시되는 이모티콘을 비활성화합니다."
+		},
+		"answer_time": {
+			"title": "응답 시간",
+			"description": "답을 입력한 시간을 플레이어의 아바타에 표시합니다."
+		},
+		"anime_link": {
+			"title": "애니메이션 링크",
+			"description": "곡 정보에 링크되는 애니메이션 사이트를 지정합니다."
+		},
 		"auto_skip_vote": {
 			"title": "자동 스킵 투표",
 			"description": "정답 입력 후나 리플레이 단계에서 2초 후 자동으로 스킵에 투표합니다.",
@@ -651,7 +766,10 @@
 			"out_of_focus": "포커스 밖",
 			"always": "항상"
 		},
-		"sound_equalizing": { "title": "음량 평준화", "description": "각 노래의 음량 레벨을 균일하게 조정합니다." },
+		"sound_equalizing": {
+			"title": "음량 평준화",
+			"description": "각 노래의 음량 레벨을 균일하게 조정합니다."
+		},
 		"max_volume": {
 			"title": "최대 음량",
 			"description": "음량 평준화가 적용될 수 있는 최대 볼륨입니다. 이 값을 높이면 전체 소리는 커지지만 조용한 노래는 평준화 효과가 잘 적용되지 않을 수 있습니다."
@@ -662,16 +780,25 @@
 			"openings": "오프닝",
 			"endings": "엔딩",
 			"inserts": "삽입곡",
-			"unwatched": { "title": "미시청", "description": "시청하지 않은 애니메이션의 영상" },
+			"unwatched": {
+				"title": "미시청",
+				"description": "시청하지 않은 애니메이션의 영상"
+			},
 			"high_risk": {
 				"title": "고위험",
 				"description": "스포일러 또는 부적절한 내용을 포함할 가능성이 높은 영상. 플레이어 통계에 기반합니다."
 			}
 		},
 		"anime_list": {
-			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 “시청완료” 설정시 게임 출제곡이 당신의 애니메이션 리스트 기반으로 선택됩니다. _BREAK_ 리스트는 매주 자동으로 또는 갱신 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 갱신하세요.",
-			"share_entries": { "title": "엔트리 공유", "description": "해당 작품이 리스트에 있는지 보여줍니다." },
-			"show_scores": { "title": "평점 표시", "description": "리스트에 있는 애니메이션의 평점을 보여줍니다." },
+			"description": "AniList, MyAnimeList, Kitsu의 리스트를 연동하면 “시청함” 설정시 게임 출제곡이 당신의 애니메이션 리스트 기반으로 선택됩니다. _BREAK_ 리스트는 매주 자동으로 또는 갱신 버튼을 클릭하면 갱신됩니다. 리스트를 제거하려면 사용자 이름을 지우고 갱신하세요.",
+			"share_entries": {
+				"title": "엔트리 공유",
+				"description": "해당 작품이 리스트에 있는지 보여줍니다."
+			},
+			"show_scores": {
+				"title": "평점 표시",
+				"description": "리스트에 있는 애니메이션의 평점을 보여줍니다."
+			},
 			"anilist_username": "AniList 사용자 이름",
 			"mal_username": "MyAnimeList 사용자 이름",
 			"mal_username_short": "MAL 사용자 이름",
@@ -702,7 +829,11 @@
 			"particle_effects": {
 				"title": "파티클 효과",
 				"description": "경험치 애니메이션 등의 효과에 사용되는 파티클의 개수를 조절합니다.",
-				"levels": { "off": "끔", "low": "적음", "high": "많음" }
+				"levels": {
+					"off": "끔",
+					"low": "적음",
+					"high": "많음"
+				}
 			},
 			"disable_floating_text": {
 				"title": "플로팅 텍스트 비활성화",
@@ -710,9 +841,17 @@
 			},
 			"name_effects_friend_list": "친구 리스트의 이름 효과"
 		},
-		"audio": { "nexus": "넥서스", "master": "마스터", "music": "음악", "effects": "효과음" }
+		"audio": {
+			"nexus": "넥서스",
+			"master": "마스터",
+			"music": "음악",
+			"effects": "효과음"
+		}
 	},
-	"blocked_player_window": { "title": "차단한 플레이어 리스트", "remove_button": "제거" },
+	"blocked_player_window": {
+		"title": "차단한 플레이어 리스트",
+		"remove_button": "제거"
+	},
 	"change_password_window": {
 		"title": "비밀번호 변경",
 		"current_password": "현재 비밀번호",
@@ -745,7 +884,11 @@
 			"workshop": "워크샵",
 			"rune_setup": "룬 셋업"
 		},
-		"status": { "locked": "잠김", "unlocked": "해제됨", "completed": "완료" }
+		"status": {
+			"locked": "잠김",
+			"unlocked": "해제됨",
+			"completed": "완료"
+		}
 	},
 	"guidelines_window": {
 		"title": "가이드라인",
@@ -837,22 +980,53 @@
 			"auto_switch": {
 				"description": "각 게임 종료시마다 즐겨찾기로 설정된 아바타 중 하나로 자동 전환합니다.",
 				"auto_switch": "자동 전환",
-				"mode": { "random": "랜덤", "off": "끔", "cycle": "순환" }
+				"mode": {
+					"random": "랜덤",
+					"off": "끔",
+					"cycle": "순환"
+				}
 			}
 		},
 		"filters": {
-			"locked": { "title": "잠김", "description": "잠금 해제되지 않은 콘텐츠 표시" },
-			"unlocked": { "title": "잠금 해제됨", "description": "잠금 해제된 콘텐츠 표시" },
-			"available": { "title": "획득 가능", "description": "상점에서 잠금 해제 가능한 콘텐츠 표시" },
-			"unavailable": { "title": "획득 불가능", "description": "현재 상점에서 잠금 해제 불가능한 콘텐츠 표시" },
-			"limited": { "title": "기간 한정", "description": "제한된 기간 동안에만 획득 가능한 콘텐츠 표시" },
-			"unlimited": { "title": "제한 없음", "description": "언제든지 획득 가능한 콘텐츠 표시" },
-			"exclusive": { "title": "독점", "description": "티켓 시스템으로만 획득 가능한 콘텐츠 표시" },
-			"standard": { "title": "일반", "description": "노트를 사용하여 획득 가능한 콘텐츠 표시" },
+			"locked": {
+				"title": "잠김",
+				"description": "잠금 해제되지 않은 콘텐츠 표시"
+			},
+			"unlocked": {
+				"title": "잠금 해제됨",
+				"description": "잠금 해제된 콘텐츠 표시"
+			},
+			"available": {
+				"title": "획득 가능",
+				"description": "상점에서 잠금 해제 가능한 콘텐츠 표시"
+			},
+			"unavailable": {
+				"title": "획득 불가능",
+				"description": "현재 상점에서 잠금 해제 불가능한 콘텐츠 표시"
+			},
+			"limited": {
+				"title": "기간 한정",
+				"description": "제한된 기간 동안에만 획득 가능한 콘텐츠 표시"
+			},
+			"unlimited": {
+				"title": "제한 없음",
+				"description": "언제든지 획득 가능한 콘텐츠 표시"
+			},
+			"exclusive": {
+				"title": "독점",
+				"description": "티켓 시스템으로만 획득 가능한 콘텐츠 표시"
+			},
+			"standard": {
+				"title": "일반",
+				"description": "노트를 사용하여 획득 가능한 콘텐츠 표시"
+			},
 			"title": "필터"
 		},
 		"background": "배경",
-		"toggle": { "on": "소품 표시", "off": "소품 숨김" },
+		"toggle": {
+			"on": "소품 표시",
+			"off": "소품 숨김"
+		},
 		"poses": "포즈",
 		"pose_names": {
 			"base": "기본",
@@ -888,30 +1062,51 @@
 			"tickets": "티켓",
 			"avatar_token": "아바타 토큰",
 			"avatar_tokens": "아바타 토큰",
-			"menu": { "use": "사용", "history": "내역", "buy": "구매", "gift": "선물" },
+			"menu": {
+				"use": "사용",
+				"history": "내역",
+				"buy": "구매",
+				"gift": "선물"
+			},
 			"redeem_code": "티켓 코드 사용",
-			"ticket_code_input": { "title": "티켓 코드 입력", "placeholder": "티켓 코드", "redeem": "사용" },
+			"ticket_code_input": {
+				"title": "티켓 코드 입력",
+				"placeholder": "티켓 코드",
+				"redeem": "사용"
+			},
 			"invalid_ticket_code": "잘못된 티켓 코드",
 			"ticket_code_redeemed_message": {
 				"title": "티켓 코드 사용됨!",
 				"description": "티켓 _NUMBER_개와 토큰 _NUMBER2_개를 수령했습니다."
 			},
 			"approx_dollar": "약 $_NUMBER_",
-			"patreon_promo": { "line_one": "패트리온에서 후원하세요.", "line_two": "가장 효율적인 가격으로 티켓 획득!" },
+			"patreon_promo": {
+				"line_one": "패트리온에서 후원하세요.",
+				"line_two": "가장 효율적인 가격으로 티켓 획득!"
+			},
 			"one_ticket": "티켓 1개",
 			"ticket_pack": "_NUMBER_ 묶음",
 			"gift_target": "선물 대상",
 			"gift_no_target_message": "선물할 친구 선택",
 			"gift_clear": "해제",
-			"gift_message": { "title": "_NAME_에게 티켓 선물 구입", "placeholder": "선물 메시지: _MESSAGE_" },
-			"no_gift_target_message": { "title": "선물 대상이 선택되지 않음", "description": "아래에서 선택하세요" },
+			"gift_message": {
+				"title": "_NAME_에게 티켓 선물 구입",
+				"placeholder": "선물 메시지: _MESSAGE_"
+			},
+			"no_gift_target_message": {
+				"title": "선물 대상이 선택되지 않음",
+				"description": "아래에서 선택하세요"
+			},
 			"gift_no_friends": {
 				"title": "친구 리스트에 친구 없음",
 				"description": "친구 리스트에 있는 친구에게만 티켓을 선물할 수 있습니다."
 			},
 			"no_past_rolls": "티켓 뽑기 _BREAK_ 기록 없음",
 			"one_roll": "1번 뽑기",
-			"ten_roll": { "title": "10번 뽑기", "description": "희귀 이상 아이템 확정!" },
+			"ten_roll": {
+				"title": "10번 뽑기",
+				"description": "희귀 이상 아이템 확정!"
+			},
 			"token_description": "아바타를 선택하면 _BREAK_ 모든 뽑기에서 _BREAK_ 50%의 확률로 등장",
 			"token_description_dropdown": "위에서 아바타를 선택하면 모든 뽑기에서 해당 아바타가 나올 확률이 50%로 증가합니다. ",
 			"roll": "뽑기",
@@ -994,12 +1189,23 @@
 			"standard": "일반",
 			"unique": "고유"
 		},
-		"decoration_buttons": { "front": "앞", "back": "뒤" },
-		"item_types": { "emote": "이모티콘", "background": "배경", "decoration": "장식", "skin": "스킨" },
+		"decoration_buttons": {
+			"front": "앞",
+			"back": "뒤"
+		},
+		"item_types": {
+			"emote": "이모티콘",
+			"background": "배경",
+			"decoration": "장식",
+			"skin": "스킨"
+		},
 		"ticket_reward_tier": "티켓 보상 등급 _TIER_",
 		"rhythm_price": "리듬 가격",
 		"silver_hibike_description": "출시 주간 동안 게임에 접속하거나 모든 아바타의 기본 스킨 색상을 잠금 해제하면 이 고유 출시 스킨 색상을 잠금 해제할 수 있습니다.",
-		"emote_previews": { "chat": "채팅", "profile": "프로필" }
+		"emote_previews": {
+			"chat": "채팅",
+			"profile": "프로필"
+		}
 	},
 	"avatar_lore": {
 		"hibiki": {
@@ -1222,7 +1428,7 @@
 		},
 		"expand_confirmation": {
 			"title": "영상/MP3 라이브러리 확장",
-			"description": "누락된 mp3나 영상 링크를 추가하여 라이브러리 확장을 도와주세요. 라이브러리에 없는 노래는 AMQ 디스코드에서 추가를 요청할 수 있습니다."
+			"description": "누락된 MP3나 영상 링크를 추가하여 라이브러리 확장을 도와주세요. 라이브러리에 없는 노래는 AMQ 디스코드에서 추가를 요청할 수 있습니다."
 		},
 		"video_preview": "영상 미리보기",
 		"views": "보기:",
@@ -1232,10 +1438,10 @@
 		"new_songs_description": "게임에 새로 추가된 노래 200곡 보기",
 		"recent_wrong": "최근 오답",
 		"recent_wrong_description": "최근 정답을 맞히지 못한 노래 보기",
-		"no_upload_message": "영상/mp3 데이터베이스에 정보 없음",
+		"no_upload_message": "영상/MP3 데이터베이스에 정보 없음",
 		"upload_message_success": {
 			"title": "URL 추가됨",
-			"description": "영상/mp3는 운영자의 승인 후 게임에 추가됩니다."
+			"description": "영상/MP3는 운영자의 승인 후 게임에 추가됩니다."
 		},
 		"upload_message_failure": {
 			"title": "URL 추가 불가",
@@ -1258,10 +1464,10 @@
 			"video_passed_check": "영상 검사 통과",
 			"error_loading_video": "영상 로딩 오류",
 			"submitting_video": "영상 전송중",
-			"mp3_before_video": "mp3는 영상 버전이 승인된 후에 업로드 가능합니다."
+			"mp3_before_video": "MP3는 영상 버전이 승인된 후에 업로드 가능합니다."
 		},
 		"filters": {
-			"watched": "시청완료",
+			"watched": "시청함",
 			"unwatched": "미시청",
 			"openings": "오프닝",
 			"endings": "엔딩",
@@ -1279,7 +1485,11 @@
 				"instrumental": "연주곡",
 				"character": "캐릭터 송"
 			},
-			"upload_status": { "title": "업로드 상태", "uploaded": "업로드됨", "missing": "누락" },
+			"upload_status": {
+				"title": "업로드 상태",
+				"uploaded": "업로드됨",
+				"missing": "누락"
+			},
 			"more_filters": "고급 필터"
 		},
 		"search_targets": {
@@ -1294,8 +1504,17 @@
 		"strict_description": "아티스트/작곡가/편곡가를 검색할 때 해당 아티스트가 속한 그룹을 포함하지 않습니다.",
 		"search": "검색",
 		"anime_entry": {
-			"song_counts": { "op": "OP _NUMBER_", "ed": "ED _NUMBER_", "insert": "IN _NUMBER_" },
-			"vintage": { "winter": "겨울 _YEAR_", "spring": "봄 _YEAR_", "summer": "여름 _YEAR_", "fall": "가을 _YEAR_" },
+			"song_counts": {
+				"op": "OP _NUMBER_",
+				"ed": "ED _NUMBER_",
+				"insert": "IN _NUMBER_"
+			},
+			"vintage": {
+				"winter": "겨울 _YEAR_",
+				"spring": "봄 _YEAR_",
+				"summer": "여름 _YEAR_",
+				"fall": "가을 _YEAR_"
+			},
 			"genre": "장르",
 			"names": "이름",
 			"tags": "태그",
@@ -1303,7 +1522,11 @@
 			"more_info": "상세 정보"
 		},
 		"song_entry": {
-			"type": { "op": "OP_NUMBER_", "ed": "ED_NUMBER_", "in": "IN" },
+			"type": {
+				"op": "OP_NUMBER_",
+				"ed": "ED_NUMBER_",
+				"in": "IN"
+			},
 			"dub": "더빙",
 			"rebroadcast": "재방송",
 			"composer": "작곡가",
@@ -1324,11 +1547,18 @@
 			},
 			"submit": "제출",
 			"insert_litterbox_url": "Litterbox URL을 입력하세요",
-			"like_options": { "like": "좋아요", "dislike": "싫어요", "unset": "미설정" },
+			"like_options": {
+				"like": "좋아요",
+				"dislike": "싫어요",
+				"unset": "미설정"
+			},
 			"upload_state_messages": {
 				"missing": "누락",
 				"pending": "승인 대기 중",
-				"uploaded": { "title": "업로드됨", "description": "클릭해서 보기" }
+				"uploaded": {
+					"title": "업로드됨",
+					"description": "클릭해서 보기"
+				}
 			},
 			"anime_header": "애니:"
 		},
@@ -1349,15 +1579,15 @@
 			},
 			"file_format": {
 				"title": "어떤 파일 형식이 허용되나요?",
-				"text": "영상 파일은 webm 형식, 음성 파일은 mp3 형싱이어야 합니다. 다른 형식은 자동 검사로 거부됩니다."
+				"text": "영상 파일은 webm 형식, 음성 파일은 mp3 형식이어야 합니다. 다른 형식은 자동 검사로 거부됩니다."
 			},
 			"quality_requirements": {
 				"title": "픔질에 대한 요구사항이 있나요?",
-				"text": "노래는 원본 버전에서 피치가 바뀌거나 속도가 빨라지거나 느려지는 등 어떤 방식으로도 변조되어서는 안 됩니다. 노래 시작이나 끝 부분의 무음은 잘라내야 합니다. 마찬가지로 노래 끝부분의 늘어지는 음도 잘라내야 합니다. 또한 업로드 파일의 비트레이트는 6.2 kbps를 초과해서는 안 됩니다. _BREAK_ 영상 역시 충분히 좋은 품질이어야 하며 자막이 포함되어서는 안 됩니다. 단, 오래되거나 희귀한 작품에서 더 나은 품질의 영상을 구할 수 없는 경우에는 예외가 허용될 수 있습니다."
+				"text": "노래는 원본 버전에서 피치가 바뀌거나 속도가 빨라지거나 느려지는 등 어떤 방식으로도 변조되어서는 안 됩니다. 노래 시작이나 끝 부분의 무음은 잘라내야 합니다. 마찬가지로 노래 끝부분의 늘어지는 음도 잘라내야 합니다. 또한 업로드 파일의 비트레이트는 6.2 Kbps를 초과해서는 안 됩니다. _BREAK_ 영상 역시 충분히 좋은 품질이어야 하며 자막이 포함되어서는 안 됩니다. 단, 오래되거나 희귀한 작품에서 더 나은 품질의 영상을 구할 수 없는 경우에는 예외가 허용될 수 있습니다."
 			},
 			"volume_requirements": {
 				"title": "볼륨에 대한 요구사항이 있나요?",
-				"text": "업로드되는 파일의 평균 볼륨은 -20에서 -17데시벨 사이여야 합니다. 최대 볼륨은 -0.5데시벨을 초과하지 않는 것이 이상적이며 가능하다면 -5데시벨 정도가 좋습니다."
+				"text": "업로드되는 파일의 평균 볼륨은 -20에서 -17dB 사이여야 합니다. 최대 볼륨은 -0.5dB을 초과하지 않는 것이 이상적이며 가능하다면 -5dB 정도가 좋습니다."
 			},
 			"what_are_keyframes": {
 				"title": "키프레임이란 무엇인가요?",
@@ -1382,7 +1612,7 @@
 		}
 	},
 	"anime_types": {
-		"tv": "TV _NUMBER_",
+		"tv": "TV판 _NUMBER_",
 		"season": "시즌 _NUMBER_",
 		"movie": "극장판 _NUMBER_",
 		"ova": "OVA _NUMBER_",
@@ -1404,8 +1634,14 @@
 		"other_names": "다른 이름",
 		"members": "멤버",
 		"member_of": "소속된 곳",
-		"group": { "title": "그룹", "shorthand": "G" },
-		"artist": { "title": "아티스트", "shorthand": "A" }
+		"group": {
+			"title": "그룹",
+			"shorthand": "G"
+		},
+		"artist": {
+			"title": "아티스트",
+			"shorthand": "A"
+		}
 	},
 	"community_quiz_window": {
 		"title": "커뮤니티 퀴즈",
@@ -1417,22 +1653,41 @@
 			"friends": "친구",
 			"my_quizzes": "내 퀴즈"
 		},
-		"sorting": { "trending": "인기", "newest": "최신", "most_liked": "좋아요", "most_played": "플레이" },
+		"sorting": {
+			"trending": "인기",
+			"newest": "최신",
+			"most_liked": "좋아요",
+			"most_played": "플레이"
+		},
 		"search_for_quizzes": "퀴즈 검색",
-		"song_types": { "op": "OP", "ed": "ED", "in": "IN" },
-		"difficulties": { "easy": "쉬움", "medium": "보통", "hard": "어려움" },
+		"song_types": {
+			"op": "OP",
+			"ed": "ED",
+			"in": "IN"
+		},
+		"difficulties": {
+			"easy": "쉬움",
+			"medium": "보통",
+			"hard": "어려움"
+		},
 		"upload_time": {
 			"last_24_hours": "최근 24시간",
 			"last_week": "최근 1주",
 			"last_month": "최근 1달",
 			"all_time": "전체 기간"
 		},
-		"play_state": { "played": "플레이함", "unplayed": "미플레이" },
+		"play_state": {
+			"played": "플레이함",
+			"unplayed": "미플레이"
+		},
 		"slots_available": "가능한 슬롯",
 		"buy_slots": "슬롯 구입",
 		"buy_quiz_slots": "퀴즈 슬롯 구입",
 		"unlimited_slots": "무제한",
-		"one_slot_entry": { "title": "슬롯 1개", "description": "퀴즈 슬롯 1개를 영구적으로 해제합니다." },
+		"one_slot_entry": {
+			"title": "슬롯 1개",
+			"description": "퀴즈 슬롯 1개를 영구적으로 해제합니다."
+		},
 		"unlimited_slot_entry": {
 			"title": "무제한",
 			"description": "1회 결제로 무제한 슬롯을 영구 하제합니다.",
@@ -1451,7 +1706,10 @@
 			"song_types": "노래 타입:",
 			"difficulty": "난이도:",
 			"selection": "선곡방식:",
-			"selection_types": { "random": "랜덤", "watched": "시청완료" }
+			"selection_types": {
+				"random": "랜덤",
+				"watched": "시청함"
+			}
 		},
 		"highscores": {
 			"title": "최고점수",
@@ -1478,17 +1736,33 @@
 				"title": "퀴즈 복제 오류",
 				"description": "퀴즈를 복제하는 중 오류가 발생했습니다. 나중에 다시 시도해 주세요."
 			},
-			"quiz_cloned": { "title": "퀴즈 복제 완료", "description": "퀴즈가 성공적으로 복제되었습니다." },
-			"quiz_reported": { "title": "신고된 퀴즈", "description": "해당 퀴즈가 운영자에게 신고되어 검토중입니다." },
-			"quiz_deleted": { "title": "퀴즈 삭제 완료", "description": "퀴즈가 성공적으로 삭제되었습니다." },
+			"quiz_cloned": {
+				"title": "퀴즈 복제 완료",
+				"description": "퀴즈가 성공적으로 복제되었습니다."
+			},
+			"quiz_reported": {
+				"title": "신고된 퀴즈",
+				"description": "해당 퀴즈가 운영자에게 신고되어 검토중입니다."
+			},
+			"quiz_deleted": {
+				"title": "퀴즈 삭제 완료",
+				"description": "퀴즈가 성공적으로 삭제되었습니다."
+			},
 			"slot_unlocked": "퀴즈 슬롯 해제",
 			"unlimited_slots_unlocked": "무제한 퀴즈 슬롯이 잠금 해제되었습니다.",
 			"no_slots_available": {
 				"title": "사용 가능한 슬롯 없음",
 				"description": "현재 모든 퀴즈 슬롯이 사용중입니다. 새 퀴즈를 만들기 전에 슬롯을 추가로 해제하거나 오래된 퀴즈를 삭제하세요."
 			},
-			"delete_quiz_confirmation": { "title": "퀴즈 삭제", "description": "이 퀴즈를 영구적으로 삭제하시겠습니까?" },
-			"clone_quiz": { "title": "퀴즈 복제", "input_text": "새 이름", "confirm_button": "복제" },
+			"delete_quiz_confirmation": {
+				"title": "퀴즈 삭제",
+				"description": "이 퀴즈를 영구적으로 삭제하시겠습니까?"
+			},
+			"clone_quiz": {
+				"title": "퀴즈 복제",
+				"input_text": "새 이름",
+				"confirm_button": "복제"
+			},
 			"publish_quiz_confirmation": {
 				"title": "퀴즈 공개",
 				"description": "공개된 퀴즈는 누구나 플레이할 수 있으며 공개 후에는 더 이상 수정하거나 삭제할 수 없습니다.",
@@ -1499,7 +1773,10 @@
 				"input_text": "이 퀴즈를 신고하는 이유를 알려주세요.",
 				"confirm_button": "신고"
 			},
-			"report_failed": { "title": "신고 실패", "description": "퀴즈를 신고하는 이유를 반드시 입력해야 합니다." },
+			"report_failed": {
+				"title": "신고 실패",
+				"description": "퀴즈를 신고하는 이유를 반드시 입력해야 합니다."
+			},
 			"error_sharing": {
 				"title": "퀴즈 공유 오류",
 				"description": "퀴즈를 공유하는 중에 오류가 발생했습니다. 나중에 다시 시도해 주세요."
@@ -1516,7 +1793,10 @@
 				"title": "공개 한도 초과",
 				"description": "24시간 이내에 공개할 수 있는 최대 퀴즈 수(10개)에 도달했습니다. 나중에 다시 시도해 주세요."
 			},
-			"quiz_published": { "title": "퀴즈 공개 완료", "description": "퀴즈가 성공적으로 공개되었습니다." }
+			"quiz_published": {
+				"title": "퀴즈 공개 완료",
+				"description": "퀴즈가 성공적으로 공개되었습니다."
+			}
 		},
 		"popovers": {
 			"share": "이 퀴즈를 친구와 공유",
@@ -1524,7 +1804,11 @@
 			"creation_date": "생성일",
 			"quiz_id": "퀴즈 ID"
 		},
-		"checkout": { "unlock": "커뮤니티 퀴즈 슬롯 잠금 해제", "one_slot": "슬롯 1개", "unlimited": "무제한 슬롯" },
+		"checkout": {
+			"unlock": "커뮤니티 퀴즈 슬롯 잠금 해제",
+			"one_slot": "슬롯 1개",
+			"unlimited": "무제한 슬롯"
+		},
 		"host_community_quiz": {
 			"title": "커뮤니티 퀴즈 호스팅",
 			"room_type": "방 타입",
@@ -1549,10 +1833,19 @@
 				"title": "금메달",
 				"description": "이 퀴즈에서 정답률 80% 이상입니다! 다음 목표 다이아몬드는 100% 입니다."
 			},
-			"diamond": { "title": "다이아몬드 메달", "description": "이 퀴즈에서 정답률 100% 입니다!" }
+			"diamond": {
+				"title": "다이아몬드 메달",
+				"description": "이 퀴즈에서 정답률 100% 입니다!"
+			}
 		},
-		"create_new_quiz_tile": { "message": "새 퀴즈를 만듭니다.", "title": "새 퀴즈" },
-		"unlock_at_tile": { "message": "_NUMBER_레벨에 잠금 해제", "title": "잠김" }
+		"create_new_quiz_tile": {
+			"message": "새 퀴즈를 만듭니다.",
+			"title": "새 퀴즈"
+		},
+		"unlock_at_tile": {
+			"message": "_NUMBER_레벨에 잠금 해제",
+			"title": "잠김"
+		}
 	},
 	"community_quiz_tags": {
 		"training": "트레이닝",
@@ -1565,9 +1858,22 @@
 		"setup_game": "게임 설정",
 		"select_settings_to_load": "불러올 설정 선택",
 		"load_from_code": "코드로 불러오기",
-		"tabs": { "quick": "빠른 설정", "advanced": "고급 설정", "save": "세이브", "load": "로드" },
-		"categories": { "mode": "모드", "general": "일반", "quiz": "퀴즈", "anime": "애니" },
-		"quiz_mode": { "standard_quiz": "일반 퀴즈", "community_quiz": "커뮤니티 퀴즈" },
+		"tabs": {
+			"quick": "빠른 설정",
+			"advanced": "고급 설정",
+			"save": "세이브",
+			"load": "로드"
+		},
+		"categories": {
+			"mode": "모드",
+			"general": "일반",
+			"quiz": "퀴즈",
+			"anime": "애니"
+		},
+		"quiz_mode": {
+			"standard_quiz": "일반 퀴즈",
+			"community_quiz": "커뮤니티 퀴즈"
+		},
 		"buttons": {
 			"exit": "나가기",
 			"host": "방 만들기",
@@ -1602,13 +1908,22 @@
 		"swap_button_description": "커뮤니티 퀴즈/일반 퀴즈 전환",
 		"game_mode": {
 			"title": "게임 모드",
-			"standard": { "title": "일반 퀴즈", "description": "맞힌 노래 수로 경쟁합니다." },
+			"standard": {
+				"title": "일반 퀴즈",
+				"description": "맞힌 노래 수로 경쟁합니다."
+			},
 			"hint": {
 				"title": "힌트",
 				"description": "노래에 대한 힌트를 얻을 수 있지만 힌트를 사용하면 획득 점수가 줄어듭니다."
 			},
-			"quick_draw": { "title": "퀵 드로우", "description": "노래를 더 빨리 맞힐수록 더 많은 점수를 얻습니다." },
-			"lives": { "title": "라이프", "description": "라이프를 가지고 시작하며 답을 틀릴 때마다 하나씩 감소합니다." },
+			"quick_draw": {
+				"title": "퀵 드로우",
+				"description": "노래를 더 빨리 맞힐수록 더 많은 점수를 얻습니다."
+			},
+			"lives": {
+				"title": "라이프",
+				"description": "라이프를 가지고 시작하며 답을 틀릴 때마다 하나씩 감소합니다."
+			},
 			"battle_royale": {
 				"title": "배틀 로얄",
 				"description": "루팅 단계에서 시작하여 퀴즈에 나올 곡이 포함된 작품들을 수집합니다."
@@ -1632,14 +1947,26 @@
 			"add_to_advanced": "고급 필터에 추가"
 		},
 		"season_selector": {
-			"winter": { "title": "겨울", "shorthand": "W" },
-			"spring": { "title": "봄", "shorthand": "S" },
-			"summer": { "title": "여름", "shorthand": "S" },
-			"fall": { "title": "가을", "shorthand": "F" }
+			"winter": {
+				"title": "겨울",
+				"shorthand": "W"
+			},
+			"spring": {
+				"title": "봄",
+				"shorthand": "S"
+			},
+			"summer": {
+				"title": "여름",
+				"shorthand": "S"
+			},
+			"fall": {
+				"title": "가을",
+				"shorthand": "F"
+			}
 		},
 		"anime_type": {
 			"title": "타입",
-			"tv": "TV",
+			"tv": "TV판",
 			"movie": "극장판",
 			"ova": "OVA",
 			"ona": "ONA",
@@ -1648,28 +1975,36 @@
 		},
 		"genre": {
 			"title": "장르",
-			"description": "장르는 AniList에 등록된 정보를 기반으로 결정됩니다. 옵션 장르를 사용하면 애니메이션은 최소 1개의 옵션 장르가 포함되어야 합니다."
+			"description": "장르는 AniList에 등록된 정보를 기반으로 결정됩니다. 옵션 장르를 사용하면 최소 1개의 옵션 장르가 포함된 애니메이션이 선택됩니다."
 		},
 		"tags": {
 			"title": "태그",
-			"description": "태그는 AniList에 등록된 정보를 기반으로 결정됩니다. 옵션 태그를 사용하면 애니메이션은 최소 1개의 옵션 태그가 포함되어야 합니다."
+			"description": "태그는 AniList에 등록된 정보를 기반으로 결정됩니다. 옵션 태그를 사용하면 최소 1개의 옵션 태그가 포함된 애니메이션이 선택합니다."
 		},
-		"number_of_players": { "title": "플레이어 수", "unlimited": "무제한" },
-		"number_of_songs": { "title": "노래 수" },
-		"team_size": { "title": "팀 크기", "solo": "솔로" },
+		"number_of_players": {
+			"title": "플레이어 수",
+			"unlimited": "무제한"
+		},
+		"number_of_songs": {
+			"title": "노래 수"
+		},
+		"team_size": {
+			"title": "팀 크기",
+			"solo": "솔로"
+		},
 		"song_selection": {
 			"title": "노래 선택",
-			"description": "출제곡이 선택되는 방식입니다. 시청완료는 최소 1명의 플레이어가 시청한 애니메이션이 포함됩니다.",
-			"watched": "시청완료",
+			"description": "출제곡이 선택되는 방식입니다. “시청함”은 최소 1명의 플레이어가 시청한 애니메이션이 포함됩니다.",
+			"watched": "시청함",
 			"unwatched": "미시청",
 			"random": "랜덤",
 			"mix": "혼합"
 		},
 		"watched_distribution": {
-			"title": "시청완료 분포",
-			"description": "플레이어 사이에서 시청완료 노래가 선택되는 정도입니다. 완전 랜덤, 더 큰 리스트에서 더 많이 출제되는 가중치, 각 목록에서 같은 수를 가져오는 균등 중 하나를 선택할 수 있습니다.",
+			"title": "시청함 분포",
+			"description": "“시청함” 설정시 각 플레이어들의 리스트에서 노래가 선택되는 정도입니다. 완전 랜덤, 더 큰 리스트에서 더 많이 출제되는 가중치, 각 리스트에서 같은 수를 가져오는 균등 중 하나를 선택할 수 있습니다.",
 			"random": "랜덤",
-			"weighted": "가중치",
+			"weighted": "크기 비례",
 			"equal": "균등"
 		},
 		"song_types": {
@@ -1682,10 +2017,22 @@
 		"song_categories": {
 			"title": "노래 분류",
 			"description": "각 노래 타입별로 어떤 노래 분류를 선택할지 필터링합니다. 아래 카테고리 위에 마우스를 올리면 설명을 볼 수 있습니다.",
-			"standard": { "title": "일반", "description": "다른 분류에 속하지 않은 노래" },
-			"chanting": { "title": "챈팅", "description": "주요 보컬이 챈팅만으로 이루어진 노래" },
-			"instrumental": { "title": "연주곡", "description": "보컬이 없는 노래" },
-			"character": { "title": "캐릭터", "description": "음악 공연 장면 외에서 캐릭터가 부른 노래" },
+			"standard": {
+				"title": "일반",
+				"description": "다른 분류에 속하지 않은 노래"
+			},
+			"chanting": {
+				"title": "챈팅",
+				"description": "주요 보컬이 챈팅만으로 이루어진 노래"
+			},
+			"instrumental": {
+				"title": "연주곡",
+				"description": "보컬이 없는 노래"
+			},
+			"character": {
+				"title": "캐릭터",
+				"description": "정식 음악 공연 장면 외에서 캐릭터가 부른 노래"
+			},
 			"inserts": "삽입곡",
 			"one_opening_type_must_be_selected": "오프닝곡의 분류를 최소 1개 이상 선택해야 합니다.",
 			"one_ending_type_must_be_selected": "엔딩곡의 분류를 최소 1개 이상 선택해야 합니다.",
@@ -1693,12 +2040,18 @@
 		},
 		"scoring": {
 			"title": "점수 방식",
-			"count": { "title": "정답수", "description": "플레이어는 정답 1개 당 1점을 얻습니다." },
+			"count": {
+				"title": "정답수",
+				"description": "플레이어는 정답 1개 당 1점을 얻습니다."
+			},
 			"hint": {
 				"title": "힌트",
 				"description": "플레이어는 노래의 힌트를 얻을 수 있지만 힌트를 사용하면 획득하는 점수가 줄어듭니다."
 			},
-			"speed": { "title": "속도", "description": "정답을 빨리 맞힐수록 더 많은 점수를 얻습니다." },
+			"speed": {
+				"title": "속도",
+				"description": "정답을 빨리 맞힐수록 더 많은 점수를 얻습니다."
+			},
 			"lives": {
 				"title": "라이프",
 				"description": "플레이어는 정해진 수의 라이프를 가지고 시작하며 다른 플레이어가 맞힌 노래를 틀릴 때마다 1개의 라이프를 잃습니다."
@@ -1711,7 +2064,10 @@
 		"show_selection": {
 			"title": "작품 선택",
 			"description": "작품이 선택되는 방식입니다.",
-			"auto": { "title": "자동", "description": "설정된 범위 내에서 랜덤으로 선택됩니다." },
+			"auto": {
+				"title": "자동",
+				"description": "설정된 범위 내에서 작품이 랜덤으로 선택됩니다."
+			},
 			"looting": {
 				"title": "루팅",
 				"description": "퀴즈 시작 전에 플레이어들이 직접 이동하며 퀴즈에 사용될 작품들을 줍는 루팅 단계를 진행합니다."
@@ -1724,11 +2080,23 @@
 				"title": "타이핑",
 				"description": "플레이어가 답을 직접 입력하며 드롭다운 메뉴에서 추천되는 답을 선택할 수 있습니다."
 			},
-			"mix": { "title": "혼합", "description": "모든 플레이어는 타이핑과 객관식 중 하나를 스스로 선택할 수 있습니다." },
-			"multiple_choice": { "title": "객관식", "description": "플레이어는 주어진 4개의 보기 중에서 답을 선택합니다." }
+			"mix": {
+				"title": "혼합",
+				"description": "모든 플레이어는 타이핑과 객관식 중 하나를 스스로 선택할 수 있습니다."
+			},
+			"multiple_choice": {
+				"title": "객관식",
+				"description": "플레이어는 주어진 4개의 보기 중에서 답을 선택합니다."
+			}
 		},
-		"lives": { "title": "라이프", "description": "게임 시작시 플레이어가 가지는 라이프 수" },
-		"boss_lives": { "title": "보스 라이프", "description": "보스 플레이어가 가지는 라이프 수" },
+		"lives": {
+			"title": "라이프",
+			"description": "게임 시작시 플레이어가 가지는 라이프 수"
+		},
+		"boss_lives": {
+			"title": "보스 라이프",
+			"description": "보스 플레이어가 가지는 라이프 수"
+		},
 		"boss_power_ups": {
 			"title": "보스 파워업",
 			"description": "보스 플레이어가 사용할 수 있는 각기 다른 파워업 개수."
@@ -1772,7 +2140,10 @@
 			"end": "끝",
 			"percent_range_display": "곡 길이 비율 _NUMBER_%-_NUMBER2_%"
 		},
-		"playback_speed": { "title": "재생 속도", "description": "노래가 재생되는 속도입니다." },
+		"playback_speed": {
+			"title": "재생 속도",
+			"description": "노래가 재생되는 속도입니다."
+		},
 		"song_difficulty": {
 			"title": "노래 난이도",
 			"description": "선택되는 노래의 난이도입니다.",
@@ -1795,12 +2166,21 @@
 		},
 		"modifiers": {
 			"title": "추가 설정",
-			"skip_guessing": { "title": "답변 스킵", "description": "답변 단계에서 스킵 투표 기능을 허용합니다." },
-			"skip_results": { "title": "결과 스킵", "description": "결과 단계에서 스킵 투표 기능을 허용합니다." },
-			"queueing": { "title": "대기열", "description": "관전자가 참가 대기열에 등록하는 것을 허용합니다." },
+			"skip_guessing": {
+				"title": "답변 스킵",
+				"description": "답변 단계에서 스킵 투표 기능을 허용합니다."
+			},
+			"skip_results": {
+				"title": "결과 스킵",
+				"description": "결과 단계에서 스킵 투표 기능을 허용합니다."
+			},
+			"queueing": {
+				"title": "대기열",
+				"description": "관전자가 참가 대기열에 등록하는 것을 허용합니다."
+			},
 			"duplicate_shows": {
 				"title": "작품 중복",
-				"description": "한 게임에서 같은 작품에서 여러 곡이 선택되는 것을 허용합니다."
+				"description": "한 게임에서 같은 작품의 여러 곡이 선택되는 것을 허용합니다."
 			},
 			"rebroadcast_songs": {
 				"title": "재방송 노래",
@@ -1815,17 +2195,27 @@
 				"description": "노래가 곡의 끝까지 재생되는 것을 허용합니다. 답이 공개되는 동안 소리가 나오지 않을 수도 있습니다."
 			}
 		},
-		"filter_types": { "include": "포함", "exclude": "제외", "optional": "옵션" },
+		"filter_types": {
+			"include": "포함",
+			"exclude": "제외",
+			"optional": "옵션"
+		},
 		"alerts": {
 			"room_name_missing": "방 제목을 입력해야 합니다.",
-			"room_name_too_long": { "title": "방 제목이 너무 깁니다", "description": "방 제목은 20자 이내로 입력해 주세요." },
+			"room_name_too_long": {
+				"title": "방 제목이 너무 깁니다",
+				"description": "방 제목은 20자 이내로 입력해 주세요."
+			},
 			"password_missing": "비공개방은 비밀번호가 필요합니다.",
 			"one_player_score_required": "최소 1개의 플레이어 평가 점수 설정을 선택해야 합니다.",
 			"one_anime_score_required": "최소 1개의 애니메이션 점수 설정을 선택해야 합니다.",
 			"one_playback_speed_required": "최소 1개의 재생 속도 설정을 선택해야 합니다."
 		},
 		"errors": {
-			"too_many_tag_genre": { "title": "설정 저장 오류", "description": "연도/태그/장르 설정 한도를 초과했습니다." },
+			"too_many_tag_genre": {
+				"title": "설정 저장 오류",
+				"description": "연도/태그/장르 설정 한도를 초과했습니다."
+			},
 			"value_already_filter": "해당 값이 이미 필터에 있습니다.",
 			"error_decoding_code": "코드 디코딩 오류",
 			"error_decoding_settings": "설정 디코딩 오류",
@@ -1848,17 +2238,47 @@
 			"name_too_long": "이름은 최대 _NUMBER_자까지 입력해 주세요.",
 			"max_saved_settings": "저장 가능한 최대 저장 개수 _NUMBER_개에 도달했습니다."
 		},
-		"delete_saved_setting": { "title": "저장된 설정 삭제", "confirm_button": "삭제" },
-		"get_code": { "title": "설정 코드 취득", "setting_code": "설정 코드" }
+		"delete_saved_setting": {
+			"title": "저장된 설정 삭제",
+			"confirm_button": "삭제"
+		},
+		"get_code": {
+			"title": "설정 코드 취득",
+			"setting_code": "설정 코드"
+		}
 	},
 	"room_browser": {
 		"filters": {
-			"only": { "title": "필터:", "public": "공개방", "in_lobby": "대기중", "open": "빈자리", "friends": "친구" },
+			"only": {
+				"title": "필터:",
+				"public": "공개방",
+				"in_lobby": "대기중",
+				"open": "빈자리",
+				"friends": "친구"
+			},
 			"search_placeholder": "검색",
-			"show_selection": { "title": "작품 선택", "auto": "자동", "looting": "루팅" },
-			"answering_mode": { "title": "답변 방식", "typing": "타이핑", "multiple_choice": "객관식" },
-			"song_type": { "title": "노래 타입", "openings": "오프닝", "endings": "엔딩", "inserts": "삽입곡" },
-			"song_selection": { "title": "노래 선택", "watched": "시청완료", "unwatched": "미시청", "random": "랜덤" },
+			"show_selection": {
+				"title": "작품 선택",
+				"auto": "자동",
+				"looting": "루팅"
+			},
+			"answering_mode": {
+				"title": "답변 방식",
+				"typing": "타이핑",
+				"multiple_choice": "객관식"
+			},
+			"song_type": {
+				"title": "노래 타입",
+				"openings": "오프닝",
+				"endings": "엔딩",
+				"inserts": "삽입곡"
+			},
+			"song_selection": {
+				"title": "노래 선택",
+				"watched": "시청함",
+				"unwatched": "미시청",
+				"random": "랜덤"
+			},
 			"scoring": {
 				"title": "점수 방식",
 				"count": "정답수",
@@ -1873,7 +2293,7 @@
 			"difficulty": "난이도",
 			"anime_type": {
 				"title": "애니 타입",
-				"tv": "TV",
+				"tv": "TV판",
 				"movie": "극장판",
 				"ova": "OVA",
 				"ona": "ONA",
@@ -1906,7 +2326,11 @@
 				"song_types": "노래 타입",
 				"friends": "친구"
 			},
-			"song_types": { "opening": "오프닝", "ending": "엔딩", "insert": "삽입곡" },
+			"song_types": {
+				"opening": "오프닝",
+				"ending": "엔딩",
+				"insert": "삽입곡"
+			},
 			"join": "참가",
 			"spectate": "관전",
 			"game_mode": {
@@ -1919,8 +2343,13 @@
 				"amq_awards": "AMQ 시상식",
 				"standard": "일반"
 			},
-			"song_selection": { "random": "랜덤", "mix": "혼합", "watched": "시청완료", "custom": "커스텀" },
-			"room_closed": "방 닫힘",
+			"song_selection": {
+				"random": "랜덤",
+				"mix": "혼합",
+				"watched": "시청함",
+				"custom": "커스텀"
+			},
+			"room_closed": "방이 닫혔습니다.",
 			"password": {
 				"title": "비밀번호가 필요합니다.",
 				"placeholder": "비밀번호를 입력해 주세요.",
@@ -1951,17 +2380,27 @@
 			"title": "타이틀 블럭",
 			"description": "타이틀 블럭은 퀴즈가 진행되는 동안 표시되는 제목을 설정합니다."
 		},
-		"sample_selector": { "start": "시작", "end": "끝" },
+		"sample_selector": {
+			"start": "시작",
+			"end": "끝"
+		},
 		"save_window": {
 			"title": "퀴즈 저장",
-			"description": { "title": "설명", "placeholder": "퀴즈에 대한 설명을 입력해 주세요." },
+			"description": {
+				"title": "설명",
+				"placeholder": "퀴즈에 대한 설명을 입력해 주세요."
+			},
 			"tags": "태그",
 			"tags_max_warning": "태그는 최대 2개까지 지정 가능합니다.",
 			"save_button": "저장",
 			"saving": "저장중"
 		},
 		"algorithm_block": {
-			"song_type": { "opening": "OP", "ending": "ED", "insert": "IN" },
+			"song_type": {
+				"opening": "OP",
+				"ending": "ED",
+				"insert": "IN"
+			},
 			"genres": "장르 _SPANC_ _NUMBER_ _SPANC_",
 			"tags": "태그 _SPANC_ _NUMBER_ _SPANC_",
 			"popovers": {
@@ -1976,7 +2415,7 @@
 				"song_types": "노래 타입"
 			},
 			"song_selection": {
-				"watched": "시청완료",
+				"watched": "시청함",
 				"unwatched": "미시청",
 				"random": "랜덤",
 				"mixed": "혼합"
@@ -1999,7 +2438,7 @@
 			"popovers": {
 				"block_info": "블럭 정보",
 				"block_info_content": "노래 수: _NUMBER_ _BREAK_ 중복 제외 애니 수: _NUMBER2_ _BREAK_ 중복 제외 노래 수: _NUMBER3_",
-				"allow_duplicates": "이 블럭에서 중복된 애니가 선택되는 것을 허용함",
+				"allow_duplicates": "이 블럭에서 중복된 작품이 선택되는 것을 허용함",
 				"guess_time_description": "이 블럭에 포함된 노래들의 디폴트 답변 시간",
 				"sample_point_description": "이 블럭에 포함된 노래들의 디폴트 시작위치",
 				"playback_speed_description": "이 블럭에 포함된 노래들의 디폴트 재생 속도"
@@ -2025,9 +2464,16 @@
 		},
 		"song_block": {
 			"song_by_artist": "_SPANC_ _NAME_ _SPANC_ by _SPANC2_ _NAME2_ _SPANC2_",
-			"song_types": { "opening": "OP_NUMBER_", "ending": "ED_NUMBER_", "insert": "IN" }
+			"song_types": {
+				"opening": "OP_NUMBER_",
+				"ending": "ED_NUMBER_",
+				"insert": "IN"
+			}
 		},
-		"no_songs_warning": { "title": "블럭에 노래 없음", "description": "이 블럭에 노래가 없습니다." },
+		"no_songs_warning": {
+			"title": "블럭에 노래 없음",
+			"description": "이 블럭에 노래가 없습니다."
+		},
 		"rule_labels": {
 			"guess_time": "답변 시간",
 			"extra_guess_time": "추가 답변 시간",
