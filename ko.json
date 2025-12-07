@@ -1612,7 +1612,7 @@
 				"title": "힌트",
 				"description": "노래에 대한 힌트를 얻을 수 있지만 힌트를 사용하면 획득 점수가 줄어듭니다."
 			},
-			"quick_draw": { "title": "빨리 맞히기", "description": "노래를 더 빨리 맞힐수록 더 많은 점수를 얻습니다." },
+			"quick_draw": { "title": "선착순", "description": "노래를 더 빨리 맞힐수록 더 많은 점수를 얻습니다." },
 			"lives": { "title": "라이프", "description": "라이프를 가지고 시작하며 답을 틀릴 때마다 하나씩 감소합니다." },
 			"battle_royale": {
 				"title": "배틀 로얄",
@@ -1920,7 +1920,7 @@
 				"battle_royale": "배틀 로얄",
 				"hint": "힌트",
 				"last_man_standing": "끝까지 살아남기",
-				"quick_draw": "빨리 맞히기",
+				"quick_draw": "선착순",
 				"boss_fight": "보스전",
 				"amq_awards": "AMQ 시상식",
 				"standard": "일반"
@@ -2176,7 +2176,7 @@
 					"chat": "채팅"
 				},
 				"speed_scoring": {
-					"title": "빨리 맞히기",
+					"title": "선착순",
 					"answer_ranking": "답 입력 순위",
 					"scoring": "득점",
 					"correct_answers": "정답"
