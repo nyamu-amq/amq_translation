@@ -515,7 +515,7 @@
 		"patreon": {
 			"name": {
 				"start": "패트리온 후원자",
-				"month": "_NUMBER_ 개월 패트리온 후원자",
+				"month": "_NUMBER_개월 패트리온 후원자",
 				"one_year": "1년 패트리온 후원자",
 				"multiple_years": "_NUMBER_년 패트리온 후원자"
 			},
@@ -901,7 +901,7 @@
 			"approx_dollar": "약 $_NUMBER_",
 			"patreon_promo": { "line_one": "패트리온에서 후원하세요.", "line_two": "가장 효율적인 가격으로 티켓 획득!" },
 			"one_ticket": "티켓 1개",
-			"ticket_pack": "_NUMBER_ 묶음",
+			"ticket_pack": "_NUMBER_묶음",
 			"gift_target": "선물 대상",
 			"gift_no_target_message": "선물할 친구 선택",
 			"gift_clear": "해제",
@@ -1598,7 +1598,7 @@
 		"game_mode_display": "_NAME_ 모드",
 		"game_mode_settings_display": "_NAME_ 게임 세팅",
 		"algorithm_block_settings": "알고리즘 차단 설정",
-		"randomize": "랜덤 설정",
+		"randomize": "랜덤화",
 		"custom": "커스텀",
 		"empty": "미설정",
 		"search": "검색",
@@ -1672,7 +1672,7 @@
 		},
 		"watched_distribution": {
 			"title": "시청함 분포",
-			"description": "“시청함” 설정시 각 플레이어들의 리스트에서 노래가 선택되는 정도입니다. 완전 랜덤, 더 큰 리스트에서 더 많이 출제되는 가중치, 각 리스트에서 같은 수를 가져오는 균등 중 하나를 선택할 수 있습니다.",
+			"description": "“시청함” 설정시 각 플레이어들의 리스트에서 노래가 선택되는 정도입니다. 완전 랜덤, 더 큰 리스트에서 더 많이 출제되는 리스트 비례, 각 리스트에서 같은 수를 가져오는 균등 중 하나를 선택할 수 있습니다.",
 			"random": "랜덤",
 			"weighted": "리스트 비례",
 			"equal": "균등"
@@ -1736,7 +1736,7 @@
 		"boss_lives": { "title": "보스 라이프", "description": "보스 플레이어가 가지는 라이프 수" },
 		"boss_power_ups": {
 			"title": "보스 파워업",
-			"description": "보스 플레이어가 사용할 수 있는 각기 다른 파워업 개수."
+			"description": "보스 플레이어가 사용할 수 있는 파워업 개수. 종류별로 1번씩만 사용 가능합니다."
 		},
 		"boss_max_song_count": {
 			"title": "보스 최대 노래 수",
@@ -1749,8 +1749,8 @@
 		"looting_time": {
 			"title": "루팅 시간",
 			"description": "플레이어가 루팅에 사용할 수 있는 시간입니다.",
-			"time_display": "_NUMBER_ 초",
-			"time_range_display": "_NUMBER_-_NUMBER2_ 초"
+			"time_display": "_NUMBER_초",
+			"time_range_display": "_NUMBER_-_NUMBER2_초"
 		},
 		"loot_dropping": {
 			"title": "작품 버리기",
@@ -1759,14 +1759,14 @@
 		"guess_time": {
 			"title": "답변 시간",
 			"description": "노래가 재생되는 동안 플레이어가 답을 제출할 수 있는 시간입니다.",
-			"time_display": "_NUMBER_ 초",
-			"time_range_display": "_NUMBER_-_NUMBER2_ 초"
+			"time_display": "_NUMBER_초",
+			"time_range_display": "_NUMBER_-_NUMBER2_초"
 		},
 		"extra_guess_time": {
 			"title": "추가 답변 시간",
 			"description": "노래 재생이 끝난 후 플레이어가 답을 제출할 수 있는 추가 시간입니다.",
-			"time_display": "_NUMBER_ 초",
-			"time_range_display": "_NUMBER_-_NUMBER2_ 초"
+			"time_display": "_NUMBER_초",
+			"time_range_display": "_NUMBER_-_NUMBER2_초"
 		},
 		"sample_point": {
 			"title": "시작 위치",
@@ -1813,7 +1813,7 @@
 			},
 			"dub_songs": {
 				"title": "더빙 노래",
-				"description": "더빙된 버전의 노래가 선택되는 것을 허용합니다. (지원되는 노래가 제한된 구식 설정)"
+				"description": "더빙된 버전의 노래가 선택되는 것을 허용합니다. (일부 노래만 지원되는 구식 설정)"
 			},
 			"full_song_range": {
 				"title": "전체 노래 범위",
