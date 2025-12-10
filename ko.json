@@ -2215,7 +2215,7 @@
 			"host_afk": "방장이 자리를 비웠습니다.",
 			"no_players": "플레이어가 없습니다."
 		},
-		"mode_ids": { "ranked": "#Ranked", "themed": "#Themed", "event": "#Event" },
+		"mode_ids": { "ranked": "#랭크 게임", "themed": "#테마 퀴즈", "event": "#이벤트" },
 		"too_many_custom_settings": {
 			"title": "사용자 설정이 너무 많습니다.",
 			"description": "사용자 설정이 너무 많습니다. 일부 태그나 연도 설정을 제거해 보세요."
