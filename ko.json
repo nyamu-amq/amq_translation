@@ -2118,6 +2118,14 @@
 			"not_a_spectator": "관전자 상태에서만 대기열에 참가할 수 있습니다.",
 			"already_in_queue": "이미 대기열 참가 상태입니다.",
 			"disabled": "이 방은 대기열이 비활성화되었습니다."
+		},
+		"kicked_from_jam_game_alert": {
+			"title": "잼 퀴즈에서 추방당했습니다.",
+			"description": "운영자에 의해 잼 퀴즈에서 추방당했습니다. 1시간 동안 재입장할 수 없습니다."
+		},
+		"jam_quiz_ban_alert": {
+			"title": "잼 퀴즈가 금지되었습니다.",
+			"description": "_NUMBER_분 후에 금지가 해제됩니다."
 		}
 	},
 	"lobby": {
@@ -2132,11 +2140,7 @@
 		"host": "방장",
 		"team_unset": "팀 해제",
 		"team_members": "팀 멤버",
-		"join_themed_team": {
-			"title": "팀 참가",
-			"placeholder": "팀 코드를 입력하세요.",
-			"join_button": "참가"
-		},
+		"join_themed_team": { "title": "팀 참가", "placeholder": "팀 코드를 입력하세요.", "join_button": "참가" },
 		"main_button": {
 			"start": "시작",
 			"join": "참가",
@@ -2265,37 +2269,12 @@
 				"only_watched": "시청함만"
 			},
 			"show_selection": { "auto": "자동", "looting": "루팅" },
-			"answering_mode": {
-				"typing": "타이핑",
-				"multiple_choice": "객관식",
-				"mix": "플레이어가 선택"
-			},
+			"answering_mode": { "typing": "타이핑", "multiple_choice": "객관식", "mix": "플레이어가 선택" },
 			"watched_distribution": { "random": "랜덤", "weighted": "리스트 비례", "equal": "균등" },
-			"sample_point": {
-				"start": "시작",
-				"middle": "중간",
-				"end": "끝",
-				"random": "랜덤"
-			},
-			"score_type": {
-				"count": "정답수",
-				"speed": "선착순",
-				"hint": "힌트",
-				"lives": "라이프",
-				"boss": "보스"
-			},
-			"song_type": {
-				"openings": "오프닝",
-				"endings": "엔딩",
-				"inserts": "삽입곡",
-				"random": "랜덤"
-			},
-			"vintage_seasons": {
-				"winter": "겨울",
-				"spring": "봄",
-				"summer": "여름",
-				"fall": "가을"
-			},
+			"sample_point": { "start": "시작", "middle": "중간", "end": "끝", "random": "랜덤" },
+			"score_type": { "count": "정답수", "speed": "선착순", "hint": "힌트", "lives": "라이프", "boss": "보스" },
+			"song_type": { "openings": "오프닝", "endings": "엔딩", "inserts": "삽입곡", "random": "랜덤" },
+			"vintage_seasons": { "winter": "겨울", "spring": "봄", "summer": "여름", "fall": "가을" },
 			"titles": {
 				"vintage": "연도",
 				"anime_score": "애니 평점",
@@ -2340,7 +2319,11 @@
 				"dub_songs": "더빙 노래",
 				"full_song_range": "전체 곡 범위",
 				"ova": "OVA",
-				"ona": "ONA"
+				"ona": "ONA",
+				"queueing": "대기열",
+				"tv": "TV판",
+				"movie": "극장판",
+				"special": "스페셜"
 			}
 		},
 		"ranked_rules": {
@@ -2381,27 +2364,198 @@
 			"players_left": "보스 플레이어 남음",
 			"powers_left": "파워 _SPAN_ _NUMBER_ _SPAN_개 남음",
 			"powers": {
-				"name_hint": {
-					"title": "제목 힌트",
+				"name_hint": { "title": "제목 힌트", "description": "정답의 길이와 4글자를 표시합니다." },
+				"song_hint": { "title": "노래 힌트", "description": "현재 노래의 정보를 표시합니다." },
+				"peek_answers": { "title": "답 엿보기", "description": "다른 플레이어가 이미 입력한 답을 표시합니다." },
+				"more_time": { "title": "시간 연장", "description": "답변 시간을 10초 연장합니다." },
+				"end_guessing": { "title": "추측 종료", "description": "추측 단계를 즉시 끝냅니다." },
+				"multiple_choice": { "title": "객관식", "description": "현재 노래의 답변을 객관식으로 선택합니다." }
+			}
+		},
+		"leave_button": "나가기",
+		"leave_quiz_option": { "title": "방을 나가시겠습니까?", "stay": "취소" },
+		"return_to_lobby": {
+			"popover": "로비로 돌아가기 투표 시작",
+			"vote_message": "로비로 돌아가시겠습니까?",
+			"yes": "예",
+			"no": "아니오",
+			"start_vote": "로비로 돌아가기 투표를 시작하시겠습니까?",
+			"start_button": "시작"
+		},
+		"join_button": "참가",
+		"video_quality": { "720p": "720p", "480p": "480p", "sound": "소리만" },
+		"settings_popover": "설정",
+		"song_history_popover": "출제곡 내역",
+		"vote_skip": "건너뛰기 투표",
+		"vote_states": {
+			"voted_skip": "건너뛰기 _BREAK_ 투표함",
+			"no_votes": "투표 _BREAK_ 없음",
+			"waiting_answers": "답변 _BREAK_ 대기중",
+			"waiting_buffering": "버퍼링 _BREAK_ 대기중",
+			"ending_soon": "곧 _BREAK_ 종료",
+			"votes_needed": "_NUMBER_/_NUMBER2_ _BREAK_ 투표상황"
+		},
+		"no_songs_matching_settings": "퀴즈 세팅 조건에 맞는 노래가 없습니다. 로비로 돌아갑니다.",
+		"team_answer": "_NAME_의 답변: _MESSAGE_",
+		"current_answer": "현재 답변",
+		"pause_button_popovers": {
+			"pause": "이 곡이 끝나면 게임이 일시정지됩니다. 모든 플레이어는 일시정지를 해제할 수 있습니다.",
+			"unpause": "게임 일시정지 해제"
+		},
+		"anime_names": {
+			"alternative_names": "다른 이름",
+			"alternative_answers": "다른 답변"
+		},
+		"avatar": {
+			"loot": "루팅함",
+			"host": "방장",
+			"hidden": "비공개",
+			"hidden_description": "다른 플레이어에게 비공개",
+			"answer_time": "답변 시간",
+			"answer_time_number": "_NUMBER_초",
+			"answering_mode": "답변 모드",
+			"multiple_choice": "객관식",
+			"answer_status": {
+				"MISSING-watching": "W",
+				"MISSING-completed": "C",
+				"MISSING-on_hold": "H",
+				"MISSING-dropped": "D",
+				"MISSING-plan_to_watch": "P"
+			},
+			"hint_used": {
+				"name": "제목 힌트 사용함",
+				"info": "정보 힌트 사용함",
+				"multiple_choice": "객관식 힌트 사용함"
+			}
+		},
+		"song_info": {
+			"title": "노래 정보",
+			"song_name": "노래 제목",
+			"arranger": "편곡자",
+			"artist": "아티스트",
+			"composer": "작곡자",
+			"type": "타입",
+			"video": "영상",
+			"anime": "애니",
+			"report": "신고",
+			"report_reason": "신고 이유",
+			"report_reasons": {
+				"wrong_song": "잘못된 노래",
+				"bad_quality": "퀄리티 낮음",
+				"background_noise": "배경 잡음",
+				"broken_video": "손상된 영상"
+			},
+			"extra_info": {
+				"title": "추가 정보",
+				"type": "타입",
+				"vintage": "연도",
+				"anime_rating": "애니 평점",
+				"difficulty": "난이도",
+				"genre": "장르",
+				"tags": "태그"
+			},
+			"song_type": {
+				"opening": "오프닝 _NUMBER_",
+				"ending": "엔딩 _NUMBER_",
+				"insert": "삽입곡",
+				"rebroadcast": "(재방송)",
+				"dub": "(더빙)",
+				"type_text": "_NAME_ _DESCRIPTION_"
+			}
+		},
+		"standings": {
+			"title": "현재순위",
+			"number_of_correct_guesses_popover": "정답 수",
+			"correct_guesses": "정답",
+			"list_number": "리스트 수",
+			"hide_team_messages": {
+				"mod": "운영자는 팀을 숨길 수 없습니다.",
+				"in_team": "탐에 소속 중에는 팀을 숨길 수 없습니다.",
+				"hide_teams": "퀴즈에서 팀 표시/숨기기"
+			},
+			"points": "점수",
+			"lives": "라이프"
+		},
+		"video_player": {
+			"sound_only": "소리만",
+			"video_hidden": { "title": "영상 숨겨짐", "click_to_reveal": "클릭해서 보기" },
+			"click_to_hide_video": "클릭해서 영상 숨김",
+			"loading": "로딩",
+			"answers": "답변",
+			"waiting_buffering": "버퍼링 대기중",
+			"returning_to_lobby": "로비로 복귀중",
+			"pausing_after_this_song": "이 노래 뒤에 일시정지",
+			"continuing_in": "_SPAN_ _NUMBER_ _SPAN_초 후에 재개",
+			"hints": {
+				"title": "힌트",
+				"point_value": "현재 곡의 점수 가치",
+				"name": {
+					"title": "제목",
 					"description": "정답의 길이와 4글자를 표시합니다."
 				},
-				"song_hint": {
-					"title": "노래 힌트",
-					"description": "현재 노래의 정보를 표시합니다."
-				},
-				"peek_answers": {
-					"title": "답 엿보기",
-					"description": "다른 플레이어가 이미 입력한 답을 표시합니다."
-				},
-				"more_time": { "title": "시간 연장", "description": "답변 시간을 10초 연장합니다." },
-				"end_guessing": {
-					"title": "추측 종료",
-					"description": "추측 단계를 즉시 끝냅니다."
-				},
+				"info": { "title": "정보", "description": "현재 노래의 정보를 표시합니다." },
 				"multiple_choice": {
 					"title": "객관식",
 					"description": "현재 노래의 답변을 객관식으로 선택합니다."
-				}
+				},
+				"hint_popover": "_DESCRIPTION_ - 점수 차감: _NUMBER_"
+			},
+			"skip_messages": {
+				"MISSING-answers": "Skipping to Answers",
+				"MISSING-lobby": "Skipping to Lobby",
+				"MISSING-next_song": "Skipping to Next Song",
+				"MISSING-final_standings": "Skipping to Final Standings",
+				"MISSING-rewards": "Skipping to Rewards",
+				"MISSING-end": "Skipping to End"
+			}
+		},
+		"jam_mode": {
+			"MISSING-next_round_vote": "Next Round Vote",
+			"MISSING-theme": "Theme",
+			"MISSING-active_theme": "Active Theme",
+			"MISSING-select_one": "Select One",
+			"MISSING-none": "None",
+			"MISSING-song_types": "Song Types",
+			"MISSING-select_one_or_more": "Select One or More",
+			"MISSING-openings": "Openings",
+			"MISSING-endings": "Endings",
+			"MISSING-inserts": "Inserts"
+		},
+		"looting": {
+			"MISSING-players": "Players",
+			"MISSING-time_left": "Time Left",
+			"MISSING-map_button": "Map",
+			"MISSING-collected_shows": "Collected Shows",
+			"MISSING-select_drop_zone": "Select Drop Zone",
+			"full_inventory": {
+				"MISSING-title": "Inventory Full",
+				"MISSING-description": "Drop shows from your inventory (top left) to continue looting"
+			},
+			"MISSING-players_in_tile": "Players in Tile",
+			"MISSING-data_store": "Data Store",
+			"MISSING-active_spectators": "Active Spectators",
+			"MISSING-no_active_spectators": "No Active Spectators"
+		},
+		"alerts": {
+			"fatal_error": { "MISSING-title": "Fatal Server Error During Quiz", "MISSING-description": "Returning to lobby" },
+			"joining_game": {
+				"MISSING-title": "Joining Game",
+				"MISSING-description": "You will be added to the game during the next result phase"
+			},
+			"join_team": {
+				"MISSING-title": "Join a Team?",
+				"MISSING-description": "Enter team code to join a team, leave blank to join solo",
+				"MISSING-join_button": "Join"
+			}
+		},
+		"nexus": {
+			"MISSING-target_attack": "Target Attack",
+			"MISSING-target_swap": "Target Swap",
+			"MISSING-fuwagi_shop": "Fuwagi's Shop",
+			"MISSING-fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ Cooldown: _NUMBER_",
+			"genre_icon": {
+				"MISSING-damage_done": "Increase damage done during _NAME_ shows",
+				"MISSING-damage_taken": "Reduce damage taken during _NAME_ shows"
 			}
 		}
 	},
@@ -2782,5 +2936,86 @@
 		"sports": "스포츠",
 		"supernatural": "초자연",
 		"thriller": "스릴러"
+	},
+	"song_history": {
+		"MISSING-title": "Song History",
+		"MISSING-no_songs": "No Songs",
+		"MISSING-load_songs": "Load Songs",
+		"tabs": {
+			"MISSING-current_game": "Current Game",
+			"MISSING-last_game": "Last Game",
+			"MISSING-games": "Past Games",
+			"MISSING-options": "Options"
+		},
+		"columns": {
+			"MISSING-title": "Columns",
+			"MISSING-anime": "Anime",
+			"MISSING-ann_id": "ANN ID",
+			"MISSING-type": "Type",
+			"MISSING-season": "Season",
+			"MISSING-name": "Name",
+			"MISSING-artist": "Artist",
+			"MISSING-answer": "Answer",
+			"MISSING-guesses": "Guesses",
+			"MISSING-difficulty": "Difficulty",
+			"MISSING-sample": "Sample"
+		},
+		"options": {
+			"MISSING-info": "Info",
+			"show_names": {
+				"MISSING-title": "Show Names",
+				"ticks": { "MISSING-english": "English", "MISSING-default": "Default", "MISSING-romaji": "Romaji" }
+			},
+			"anime_link": {
+				"MISSING-title": "Anime Link",
+				"ticks": {
+					"MISSING-anilist": "Anilist",
+					"MISSING-kitsu": "Kitsu",
+					"MISSING-default": "Default",
+					"MISSING-mal": "MAL",
+					"MISSING-ann": "ANN"
+				}
+			}
+		},
+		"song_window": {
+			"MISSING-title": "Song Info",
+			"MISSING-anime_english": "Anime English",
+			"MISSING-anime_romaji": "Anime Romaji",
+			"columns": {
+				"MISSING-composer": "Composer",
+				"MISSING-arranger": "Arranger",
+				"MISSING-all_working_titles": "All Working Titles",
+				"MISSING-sample_point": "Sample Point",
+				"MISSING-anime_type": "Anime Type",
+				"MISSING-season_info": "Season Info",
+				"MISSING-vintage": "Vintage",
+				"MISSING-anime_rating": "Anime Rating",
+				"MISSING-genres": "Genres",
+				"MISSING-tags": "Tags",
+				"MISSING-video": "Video",
+				"MISSING-list_sites": "List Sites",
+				"MISSING-player_lists": "Player Lists"
+			},
+			"anime_type": {
+				"MISSING-tv": "TV",
+				"MISSING-movie": "Movie",
+				"MISSING-ova": "OVA",
+				"MISSING-ona": "ONA",
+				"MISSING-special": "Special"
+			},
+			"list_status": {
+				"MISSING-watching": "Watching",
+				"MISSING-completed": "Completed",
+				"MISSING-on_hold": "On Hold",
+				"MISSING-dropped": "Dropped",
+				"MISSING-planning": "Planning",
+				"MISSING-looted": "Looted"
+			}
+		},
+		"popovers": {
+			"MISSING-download_json": "Download as JSON",
+			"MISSING-copy_setting_code": "Copy the setting code for this game",
+			"MISSING-copied": "Copied!"
+		}
 	}
 }
