@@ -2355,7 +2355,7 @@
 	},
 	"quiz": {
 		"boss_mode": {
-			"boss": "봇,",
+			"boss": "보스",
 			"defeat": "패배",
 			"victory": "승리",
 			"correct": "_SPAN_ _NUMBER_ _SPAN_개 맞춤",
@@ -2403,7 +2403,7 @@
 			"unpause": "게임 일시정지 해제"
 		},
 		"anime_names": {
-			"alternative_names": "다른 이름",
+			"alternative_names": "다른 제목",
 			"alternative_answers": "다른 답변"
 		},
 		"avatar": {
