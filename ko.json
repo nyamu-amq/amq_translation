@@ -1299,7 +1299,7 @@
 			"song_counts": { "op": "OP _NUMBER_", "ed": "ED _NUMBER_", "insert": "IN _NUMBER_" },
 			"vintage": { "winter": "겨울 _YEAR_", "spring": "봄 _YEAR_", "summer": "여름 _YEAR_", "fall": "가을 _YEAR_" },
 			"genre": "장르",
-			"names": "이름",
+			"names": "제목",
 			"tags": "태그",
 			"songs": "노래",
 			"more_info": "상세 정보"
@@ -1584,7 +1584,7 @@
 			"invite_link_copied": "복사됨!",
 			"reset_to_default": "디폴트로 리셋"
 		},
-		"room_name": "방 이름",
+		"room_name": "방 제목",
 		"private_room": "비공개방",
 		"game_modes": {
 			"ranked": "랭크 게임",
