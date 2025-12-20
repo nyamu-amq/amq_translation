@@ -3351,7 +3351,7 @@
 						},
 						"floor": {
 							"title": "층",
-							"description": "높은 층일수록 어려워지지만 더 많은 룬과 경험치를 얻을 수 있습니다. 현재 등급 이상으로 클리어하면 다음 층이 잠금해제됩니다."
+							"description": "높은 층일수록 어려워지지만 더 많은 룬과 경험치를 얻을 수 있습니다. 현재 등급 이상으로 클리어하면 다음 층이 잠금 해제됩니다."
 						},
 						"mode": {
 							"title": "모드",
@@ -3489,7 +3489,7 @@
 				"name_filter": "이름",
 				"level_filter": "레벨",
 				"search_placeholder": "이름 검색...",
-				"level": "레벨 _SPANC_ _NUMBER_ _SPANC_",
+				"level": "_SPANC_ _NUMBER_ _SPANC_레벨",
 				"team_slot": "슬롯 _NUMBER_",
 				"free_rotation": "Free Rotation",
 				"select_badge_popover": "아바타를 강화할 아바타 배지를 선택하세요.",
@@ -3515,145 +3515,145 @@
 				"abandon_run_button": "진행 포기"
 			},
 			"runes": {
-				"MISSING-rune_count": "_SPAN_ _NUMBER_ _SPAN_ Runes",
-				"MISSING-rune_inventory": "Rune Inventory",
-				"MISSING-win_to_earn": "Win one combat to unlock runes at the end of run",
-				"MISSING-unlock_end_of_run": "Runes unlocks at the end of the run",
-				"MISSING-no_runes": "No Runes Found"
+				"rune_count": "룬 _SPAN_ _NUMBER_ _SPAN_개",
+				"rune_inventory": "룬 인벤토리",
+				"win_to_earn": "전투에서 1회 승리하면 탐험 종료 시 룬이 잠금 해제됩니다",
+				"unlock_end_of_run": "탐험 종료시 룬이 잠금 해제됩니다",
+				"no_runes": "발견된 룬 없음"
 			},
 			"tile_types": {
-				"MISSING-floor_entrance": "Floor Entrance",
-				"MISSING-boss_chamber": "Boss Chamber",
-				"MISSING-enemy_encounter": "Enemy Encounter",
-				"MISSING-unknown_event": "Unknown Event",
-				"MISSING-crafting_station": "Crafting Station"
+				"floor_entrance": "층 입구",
+				"boss_chamber": "보스방",
+				"enemy_encounter": "적 조우",
+				"unknown_event": "미지의 사건",
+				"crafting_station": "제작실"
 			},
-			"MISSING-genre_zone": "_NAME_ Zone",
-			"MISSING-standard_zone": "Standard",
-			"avatars": { "MISSING-no_artifacts": "No Artifacts" },
-			"MISSING-floor_number": "Floor _SPAN_ _NUMBER_ _SPAN_",
+			"genre_zone": "_NAME_ 지역",
+			"standard_zone": "일반",
+			"avatars": { "no_artifacts": "아티팩트 없음" },
+			"floor_number": "_SPAN_ _NUMBER_ _SPAN_층",
 			"reward_window": {
-				"MISSING-title": "Rewards",
-				"MISSING-continue_button": "Continue",
-				"MISSING-select_one_artifact": "Select 1 Artifact",
-				"MISSING-runes": "Runes",
-				"MISSING-no_drops": "No Drops",
-				"MISSING-select_avatar": "Select Avatar"
+				"title": "보상",
+				"continue_button": "계속하기",
+				"select_one_artifact": "아티팩트 1개 선택",
+				"runes": "룬",
+				"no_drops": "드랍 없음",
+				"select_avatar": "아바타 선택"
 			},
-			"event_window": { "MISSING-title": "Event", "MISSING-volume": "Volume" },
+			"event_window": { "title": "이벤트", "volume": "볼륨" },
 			"store_window": {
-				"MISSING-title": "Store",
-				"MISSING-description": "Materialize Fragments into Artifacts and/or Runes",
-				"MISSING-artifacts": "Artifacts",
-				"MISSING-runes": "Runes",
-				"MISSING-bought": "Bought",
+				"title": "상점",
+				"description": "파편을 아티팩트나 룬으로 물질화합니다.",
+				"artifacts": "아티팩트",
+				"runes": "룬",
+				"bought": "구매함",
 				"no_items_bought": {
-					"MISSING-title": "No Items Bought",
-					"MISSING-description": "Continue without buying anything?",
-					"MISSING-continue_button": "Continue"
+					"title": "구매한 아이템 없음",
+					"description": "아무것도 구매하지 않고 계속하시겠습니까?",
+					"continue_button": "계속하기"
 				}
 			},
 			"result_window": {
-				"MISSING-xp": "XP",
-				"MISSING-runes": "Runes",
-				"MISSING-continue_button": "Continue",
-				"MISSING-level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
-				"MISSING-party_wipe": "Party Wipe",
-				"MISSING-floor_cleared": "Floor Cleared"
+				"xp": "경험치",
+				"runes": "룬",
+				"continue_button": "계속하기",
+				"level_number": "_SPANC_ _NUMBER_ _SPANC_레벨",
+				"party_wipe": "파티 전멸",
+				"floor_cleared": "층 클리어"
 			},
 			"next_floor_window": {
-				"MISSING-title": "Next floor: _SPAN_ _NUMBER_ _SPAN_",
-				"MISSING-floor_tax": "Floor Tax 50%",
-				"MISSING-continue_button": "Continue",
-				"MISSING-heal_option": "Heal 20%",
-				"MISSING-lock_artifact_option": "Lock Artifact",
-				"MISSING-no_artifacts": "No Artifacts",
+				"title": "다음 층: _SPAN_ _NUMBER_ _SPAN_",
+				"floor_tax": "층 세금 50%",
+				"continue_button": "계속하기",
+				"heal_option": "20% 회복",
+				"lock_artifact_option": "아티팩트 고정",
+				"no_artifacts": "아티팩트 없음",
 				"no_locking_warning": {
-					"MISSING-title": "Continue Without Locking in Artifact?",
-					"MISSING-continue_button": "Continue"
+					"title": "아티팩트를 고정하지 않고 계속하시겠습니까?",
+					"continue_button": "계속하기"
 				},
-				"MISSING-heal_this_avatar": "Heal this avatar",
-				"MISSING-lock_artifact_description": "Lock in an artifact to bring it to the next floor. Each avatar can only lock in one artifact"
+				"heal_this_avatar": "이 아바타를 회복",
+				"lock_artifact_description": "아티팩트를 고정하고 다음 층으로 가져갑니다. 각 아바타마다 1개의 아티팩트만 고정할 수 있습니다."
 			}
 		},
 		"avatar": {
-			"MISSING-genre": "Genre",
-			"MISSING-strong": "Strong",
-			"MISSING-weak": "Weak",
-			"MISSING-rune_buffs": "Rune Buffs",
+			"genre": "장르",
+			"strong": "강점",
+			"weak": "약점",
+			"rune_buffs": "룬 버프",
 			"stats": {
-				"constitution": { "MISSING-title": "Constitution", "MISSING-description": "Increase max health" },
-				"defence": { "MISSING-title": "Defence", "MISSING-description": "Reduce damage taken from attacks" },
+				"constitution": { "title": "생명", "description": "최대 체력이 증가합니다." },
+				"defence": { "title": "방어", "description": "피격 시 대미지가 감소합니다." },
 				"dodge": {
-					"MISSING-title": "Dodge",
-					"MISSING-description": "Increase chance to dodge attacks, halving the damage taken and gaining a random buff"
+					"title": "회피",
+					"description": "공격을 회피할 확률이 증가합니다. 회피 시 대미지가 절반이 되며 랜덤 버프를 획득합니다."
 				},
-				"attack": { "MISSING-title": "Attack", "MISSING-description": "Increase attack damage" },
+				"attack": { "title": "공격", "description": "공격 대미지가 증가합니다." },
 				"accuracy": {
-					"MISSING-title": "Accuracy",
-					"MISSING-description": "Increase chance to crit, dealing 50% extra damage and inflicting a random debuff"
+					"title": "명중",
+					"description": "치명타 확률이 증가합니다. 치명타 시 50%의 추가 대미지를 입히고 랜덤 디버프를 부여합니다."
 				}
 			}
 		},
 		"rune": {
-			"type": { "MISSING-standard": "Standard", "MISSING-advanced": "Advanced" },
-			"category": { "MISSING-offensive": "Offensive", "MISSING-defensive": "Defensive", "MISSING-any": "Any" }
+			"type": { "standard": "일반", "advanced": "상급" },
+			"category": { "offensive": "공격용", "defensive": "방어용", "any": "모두" }
 		},
 		"hover_display_commons": {
-			"MISSING-cooldown": "Cooldown",
-			"MISSING-total_unlocked": "Total Unlocked",
-			"MISSING-in_use": "In Use",
-			"MISSING-level": "Level",
-			"MISSING-stat_boost": "Stat Boost",
-			"MISSING-genre_boost": "Genre Boost",
+			"cooldown": "쿨다운",
+			"total_unlocked": "총 잠금 해제 수",
+			"in_use": "사용중",
+			"level": "레벨",
+			"stat_boost": "능력치 강화",
+			"genre_boost": "장르 강화",
 			"header": {
-				"MISSING-ability": "Ability",
-				"MISSING-artifact": "Artifact",
-				"MISSING-avatar": "Avatar",
-				"MISSING-avatar_badge": "Avatar Badge",
-				"MISSING-buff": "Buff",
-				"MISSING-debuff": "Debuff",
-				"MISSING-standard_rune": "Standard Rune",
-				"MISSING-advanced_rune": "Advanced Rune"
+				"ability": "능력",
+				"artifact": "아티팩트",
+				"avatar": "아바타",
+				"avatar_badge": "아바타 배지",
+				"buff": "버프",
+				"debuff": "디버프",
+				"standard_rune": "일반 룬",
+				"advanced_rune": "상급 룬"
 			}
 		},
 		"chat": {
-			"MISSING-chat": "Chat",
-			"MISSING-players": "Players - _SPAN_ _NUMBER_ _SPAN_",
-			"MISSING-placeholder": "Chat message",
-			"MISSING-host": "Host",
-			"MISSING-disconnected": "Disconnected",
-			"MISSING-drag_hover": "Drag to move, click to reset",
-			"MISSING-profile": "Profile",
-			"MISSING-promote_to_host": "Promote to Host",
-			"MISSING-kick": "Kick",
-			"promote_host": { "MISSING-title": "Promote _NAME_ to Host?", "MISSING-promote_button": "Promote" },
+			"chat": "채팅",
+			"players": "플레이어 - _SPAN_ _NUMBER_ _SPAN_",
+			"placeholder": "채팅 메시지",
+			"host": "방장",
+			"disconnected": "연결 끊김",
+			"drag_hover": "드래그로 이동, 클릭으로 초기화",
+			"profile": "프로필",
+			"promote_to_host": "방장 위임",
+			"kick": "추방",
+			"promote_host": { "title": "_NAME_님에게 방장을 위임하시겠습니까?", "promote_button": "위임" },
 			"kick_player": {
-				"MISSING-title": "Kick _NAME_ from Lobby?",
-				"MISSING-description": "They won't be able to join again",
-				"MISSING-kick_button": "Kick"
+				"title": "로비에서 _NAME_님을 추방하시겠습니까?",
+				"description": "추방당한 플레이어는 이 방에 다시 들어올 수 없습니다.",
+				"kick_button": "추방"
 			}
 		},
 		"tutorial": {
-			"MISSING-end_tutorial": "End Tutorial",
-			"MISSING-yes": "Yes",
-			"MISSING-no": "No",
+			"end_tutorial": "튜토리얼 종료",
+			"yes": "예",
+			"no": "아니오",
 			"exit_tutorial_warning": {
-				"MISSING-title": "Exit Tutorial?",
-				"MISSING-description": "You can always find it again in the tutorial menu",
-				"MISSING-exit_button": "Exit"
+				"title": "튜토리얼을 종료하시겠습니까?",
+				"description": "튜토리얼 메뉴에서 언제든지 다시 확인할 수 있습니다.",
+				"exit_button": "종료"
 			},
 			"city_overview": {
-				"MISSING-message_one": "Welcome to the Nexus! Do you want a tutorial?",
-				"MISSING-message_two": "That's alright, you can always find it in the tutorial menu.",
-				"MISSING-message_three": "Great! Let's get you started by entering the dungeon!"
+				"message_one": "넥서스에 오신 것을 환영합니다! 튜토리얼을 진행하시겠습니까?",
+				"message_two": "괜찮습니다. 튜토리얼 메뉴에서 언제든지 확인할 수 있습니다.",
+				"message_three": "좋습니다! 던전에 입장해서 시작해 봅시다!"
 			},
 			"dungeon_lobby": {
-				"MISSING-message_one": "This is the dungeon lobby! Here you pick your dungeoneering team!",
-				"MISSING-message_two": "Start by clicking on 'slot 1' to see your available avatars.",
-				"MISSING-message_three": "Here we have all your available avatars. For now, let's pick Hibiki.",
-				"MISSING-message_four": "Allow me to finish picking the rest of your team!",
-				"MISSING-message_five": "There! Don't worry I'll explain their abilities later. Now let's get into the dungeon!"
+				"message_one": "여기는 던전 로비입니다! 여기서 던전 탐험 팀을 구성합니다!",
+				"message_two": "'슬롯 1'을 클릭해서 보유 중인 아바타를 확인합니다.",
+				"message_three": "사용 가능한 아바타가 여기 있습니다. 일단 히비키를 선택해 봅시다.",
+				"message_four": "나머지 팀원들은 제가 선택해 드리겠습니다!",
+				"message_five": "됐습니다! 능력은 나중에 설명해 드릴테니 걱정하지 마세요. 이제 던전으로 들어가 봅시다!"
 			},
 			"dungeon_map": {
 				"MISSING-message_one": "Here we have the dungeon map, for the tutorial we're keeping it short and simple! Let's start by selecting the first tile."
