@@ -3656,203 +3656,203 @@
 				"message_five": "됐습니다! 능력은 나중에 설명해 드릴테니 걱정하지 마세요. 이제 던전으로 들어가 봅시다!"
 			},
 			"dungeon_map": {
-				"MISSING-message_one": "Here we have the dungeon map, for the tutorial we're keeping it short and simple! Let's start by selecting the first tile."
+				"message_one": "던전 맵입니다. 튜토리얼 진행을 위해 간소화했습니다! 첫번째 타일을 선택해 보세요."
 			},
 			"dungeon_combat": {
-				"MISSING-message_one": "Here we have the combat encounter, where you fight monsters for rewards.",
-				"MISSING-message_two": "These are the enemies! When you guess a song correctly the character whose turn it is will attack the targeted monster.",
-				"MISSING-message_three": "This is your party. The enemies will target your party members and attack after enough wrong guesses.",
-				"MISSING-message_four": "First off let's use Hibiki's ability to power up her attacks!",
-				"MISSING-message_five": "Now she has a bunch of buffs! You can hover over the icons to see what they do!",
-				"MISSING-message_six": "Now we have to answer the quiz! Hint: This is the correct answer!"
+				"message_one": "전투 화면입니다. 몬스터와 싸워서 보상을 획득합니다.",
+				"message_two": "이것이 적입니다! 노래를 맞히면 현재 차례가 돌아온 캐릭터가 타게팅된 몬스터를 공격합니다.",
+				"message_three": "이것이 당신의 파티입니다. 오답이 누적되면 적들이 파티원을 조준해서 공격합니다.",
+				"message_four": "우선 히비키의 능력을 사용해서 그녀의 공격력을 강화해 봅시다!",
+				"message_five": "이제 히비키가 여러 버프를 받았습니다! 아이콘에 마우스를 올리면 상세 효과를 볼 수 있어요!",
+				"message_six": "이제 퀴즈를 맞혀 봅시다.! 힌트: 이것이 정답입니다!"
 			},
-			"post_attack": { "MISSING-message_one": "Great hit! Now, let's see what happens if you answer incorrectly!" },
+			"post_attack": { "message_one": "멋진 공격입니다! 이제 정답을 맞히지 못하면 무슨 일이 벌어지는지 확인해 봅시다!" },
 			"post_damage": {
-				"MISSING-message_one": "When you guess wrong the enemies' attack counters go down, one more wrong answer and they'll attack!",
-				"MISSING-message_two": "Noel has low defense so we have to defend her! Luckily, Yumemi is the turn character, so we can swap her in by doing a target swap with Noel!",
-				"MISSING-message_three": "Great! Now you just have to answer correctly to swap the two avatars!"
+				"message_one": "답을 맞히지 못하면 적들의 공격 카운터가 줄어듭니다. 한 번 더 틀리면 적들이 공격합니다!",
+				"message_two": "노엘은 방어력이 낮아서 방어가 필요합니다! 다행히 지금은 유메미의 차례이므로 노엘과 타겟 스왑으로 유메미와 바꿀 수 있습니다",
+				"message_three": "좋습니다! 이제 퀴즈를 맞히면 두 아바타가 교체됩니다!"
 			},
 			"post_swap": {
-				"MISSING-message_one": "Swap completed! Keep in mind that swapping avatars doesn't change their turn order.",
-				"MISSING-message_two": "Now that Yumemi is in position to take a hit, use her ability to soften the blow!",
-				"MISSING-message_three": "And a wrong answer to send the enemies attacking!"
+				"message_one": "교체가 완료되었습니다! 아바타를 교체해도 공격 순서는 바뀌지 않는 것을 기억하세요.",
+				"message_two": "이제 유메미가 공격을 받을 위치에 있습니다. 그녀의 능력을 사용해서 피해를 줄여 봅시다!",
+				"message_three": "그리고 오답을 골라서 적들이 공격하게 해 봅시다!"
 			},
 			"post_enemy_attack": {
-				"MISSING-message_one": "There, that wasn't so bad was it? Yumemi is very tanky!",
-				"MISSING-message_two": "Positioning is very important! Pay attention to who's attacking who and when and use swapping to defend!",
-				"MISSING-message_three": "Now I'll let you finish these enemies off on your own! Remember that Chika and Noel still have abilities you can use! Good luck!",
-				"MISSING-message_four": "(Oh and don't worry, I used a little trick to make sure you can't actually die)"
+				"message_one": "보세요. 별로 아프지 않죠? 유메미는 맷집이 아주 좋습니다!",
+				"message_two": "위치는 아주 중요합니다! 누가 누구를 언제 공격하는지 잘 살피고 교체를 활용해서 방어하세요!",
+				"message_three": "이제 적들을 직접 마무리해 보세요! 치카와 노엘은 아직 사용할 수 있는 능력이 있는 것을 기억하세요! 행운을 빕니다!",
+				"message_four": "(아 그리고 걱정하지 마세요. 당신이 실제로 죽지는 않게 제가 손을 써놨어요)"
 			},
 			"combat_reward": {
-				"MISSING-message_one": "Congratulations! Defeating enemies gives you fragments and also some times artifacts.",
-				"MISSING-message_two": "Artifacts are equipped to one of your avatars to give them power ups. Equip this artifact by clicking on it!",
-				"MISSING-message_three": "Now choose one of your avatars to equip it to.",
-				"MISSING-message_four": "Great! Now you can see the artifact equipped to your avatar. Let's move on!"
+				"message_one": "축하합니다! 적을 처치하면 파편을 얻을 수 있고 때로는 아티팩트를 획득하기도 합니다.",
+				"message_two": "아티팩트는 아바타에게 장착하면 능력치를 강화해 줍니다. 아티팩트를 클릭해서 장착해 보세요!",
+				"message_three": "이제 이 아티팩트를 장착할 아바타를 한 명 선택하세요.",
+				"message_four": "좋습니다! 이제 아바타에게 아티팩트가 장착된 것을 확인할 수 있습니다. 계속 진행해 봅시다!"
 			},
 			"event": {
-				"MISSING-message_one": "This is an event! Events are special encounters that can give you rewards or challenges.",
-				"MISSING-message_two": "This event is a Transmutation Circle! Here you can sacrifice things for a reward.",
-				"MISSING-message_three": "Click on the button to sacrifice your artifact!",
-				"MISSING-message_four": "Great! You got some fragments! We'll be able to use those soon."
+				"message_one": "이벤트입니다! 이벤트는 보상이나 시련을 주는 특별한 조우입니다.",
+				"message_two": "이번 이벤트는 연성진입니다! 여기서는 무언가를 제물로 바치고 보상을 얻을 수 있습니다.",
+				"message_three": "버튼을 클릭해서 아티팩트를 제물로 바치세요!",
+				"message_four": "좋습니다! 파편을 획득했습니다! 곧 사용하게 될 겁니다."
 			},
 			"crafting_station": {
-				"MISSING-message_one": "This is the crafting station! Here you can craft your fragments into artifacts and runes!",
-				"MISSING-message_two": "We can afford this artifact with the fragments we got earlier, so let's buy it!",
-				"MISSING-message_three": "Now choose one of your avatars to equip it to.",
-				"MISSING-message_four": "There's also a rune here that you can't afford right now, so let's carry on!"
+				"message_one": "여기는 제작소입니다! 여기에서 파편을 사용해서 아티팩트나 룬을 제작할 수 있습니다!",
+				"message_two": "아까 얻은 파편으로 이 아티팩트를 살 수 있습니다. 어서 구입해 봅시다!",
+				"message_three": "이제 장착할 아바타를 선택하세요.",
+				"message_four": "지금은 살 수 없는 룬도 있습니다. 계속 진행해 봅시다!"
 			},
 			"boss_combat": {
-				"MISSING-message_one": "This is a boss encounter! Bosses are much tougher than normal enemies and have special abilities that can be very dangerous!",
-				"MISSING-message_two": "I'll debuff it for you, then you take it down! I believe in you!"
+				"message_one": "보스전입니다! 보스는 일반 적보다 훨씬 강하고 매우 위험한 특수 능력을 갖고 있습니다!",
+				"message_two": "제가 보스에게 디버프를 걸어둘테니 직접 처치해 보세요! 당신을 믿습니다!"
 			},
 			"boss_dungeon_reward": {
-				"MISSING-message_one": "Congratulations! Defeating the boss gives you rune rewards.",
-				"MISSING-message_two": "Runes do nothing when looted in the dungeon, but when we get back to the city you can use the workshop to equip them and power up!",
-				"MISSING-message_three": "It also gives you a ton of xp for your avatars!",
-				"MISSING-message_four": "Leveling up avatars allows them to equip more runes, empowers their abilities, and let's them share their powers with other avatars!",
-				"MISSING-message_five": "That's it for the tutorial! Enjoy the Nexus!"
+				"message_one": "축하합니다! 보스를 처치하면 보상으로 룬을 획득합니다.",
+				"message_two": "던전에서 획득한 룬은 즉시 효과가 나타나지는 않지만, 도시로 돌아가 작업실에서 장착하면 더욱 강해질 수 있습니다!",
+				"message_three": "또한 아바타들에게 엄청난 양의 경험치가 주어집니다!",
+				"message_four": "아바타의 레벨을 올리면 더 많은 룬을 장착할 수 있고 능력이 강화되며 다른 아바타와 힘을 공유할 수도 있습니다!",
+				"message_five": "이것으로 튜토리얼을 마칩니다! 넥서스를 즐겨 보세요!"
 			},
 			"workshop": {
-				"MISSING-message_one": "Welcome to the workshop! As you level up your avatars, they’ll unlock rune slots, which you can equip powerful runes in.",
-				"MISSING-message_two": "Runes are found throughout the Nexus dungeon, and grants stats boost and unique effects when equipped to an avatar.",
-				"MISSING-message_three": "If one of your avatars have empty rune slots, the amount is displayed on their tiles.",
-				"MISSING-message_four": "Finally, you can also use the rune reformatter to transform or upgrade your runes.",
-				"MISSING-message_five": "That's it for the tutorial! Enjoy the Nexus!"
+				"message_one": "작업실에 잘 오셨습니다! 아바타의 레벨이 오르면 룬 슬롯이 잠금 해제되며 그곳에 강력한 룬을 장착할 수 있습니다.",
+				"message_two": "룬은 넥서스 던전 여기저기서 발견되며 장착시 아바타의 능력치 강화 및 고유 효과를 부여합니다.",
+				"message_three": "빈 룬 슬롯이 있는 아바타에는 남은 슬롯 개수가 표시됩니다.",
+				"message_four": "마지막으로 룬 개조기를 사용해서 룬을 변환하거나 업그레이드할 수 있습니다.",
+				"message_five": "이것으로 튜토리얼을 마칩니다! 넥서스를 즐겨 보세요!"
 			},
 			"rune_setup": {
-				"MISSING-message_one": "Here we have the rune setup for your avatars.",
-				"MISSING-message_two": "At the top, you have all unused runes you’ve found in the Nexus dungeon.",
-				"MISSING-message_three": "Runes are divided into the two categories, offensive (red) and defensive (blue).",
-				"MISSING-message_four": "Beside their category, runes also comes in two types, standard (triangle and square) and advanced (circles).",
-				"MISSING-message_five": "Standard runes give stacking stat or genre boosts, whereas advanced runes give a unique effect.",
-				"MISSING-message_six": "Each rune category have 20 standard slots and 1 advanced slot.",
-				"MISSING-message_seven": "To unlock the advanced slot for a category, you first have to equip 12 standard runes of that category.",
-				"MISSING-message_eight": "Equipping an advanced rune, then, unlocks the last 8 standard slots for the category.",
-				"MISSING-message_nine": "Finally, if you fill up all the category rune slots, you’re able to equip one additional advanced rune.",
-				"MISSING-message_ten": "This final advanced rune can be from any category, but can’t have the same power as the other advanced runes.",
-				"MISSING-message_eleven": "The counter above me show how many empty rune slots the avatar have.",
-				"MISSING-message_twelve": "To equip runes, simply click the rune you want to equip, then an empty slot of the same type.",
-				"MISSING-message_thirteen": "After changing your rune setup, remember to save it at the bottom.",
-				"MISSING-message_fourteen": "Unequipping all your equipped runes is also possible, but costs one ticket.",
-				"MISSING-message_fifteen": "Instead of unequipping runes, you can also destroy an equipped rune to clear up the slot by clicking it.",
-				"MISSING-message_sixteen": "The rune is first lost when you save the page after destroying it, so feel free to experiment with different setup.",
-				"MISSING-message_seventeen": "Finally, more rune pages are planned, so you can have different setups. But they will first be added in the future."
+				"message_one": "아바타의 룬 설정 화면입니다.",
+				"message_two": "상단에는 넥서스 던전에서 발견한 미사용 룬들이 표시됩니다.",
+				"message_three": "룬은 공격형(빨간색)과 방어형(파란색) 두 가지 분류로 나뉩니다.",
+				"message_four": "분류 외에도 일반(삼각형과 사각형)과 상급(원형) 두 타입이 있습니다.",
+				"message_five": "일반 룬은 능력치나 장르 강화를 중첩시키고 상급 룬은 고유 효과를 부여합니다.",
+				"message_six": "각 룬 분류는 일반 슬롯 20개와 상급 슬롯 1개로 구성됩니다.",
+				"message_seven": "상급 슬롯을 해금하려면 먼저 해당 분류에 일반 룬 12개를 장착해야 합니다.",
+				"message_eight": "상급 룬을 장착하면 해당 분류의 나머지 일반 슬롯 8개가 잠금 해제됩니다.",
+				"message_nine": "모든 룬 슬롯을 채우면 추가로 상급 룬 하나를 더 장착할 수 있습니다.",
+				"message_ten": "이 최종 상급 룬은 어느 분류든 상관없지만, 이미 장착된 상급 룬과 다른 능력이어야 합니다.",
+				"message_eleven": "제 머리 위의 카운터는 아바타의 빈 룬 슬롯 개수를 나타냅니다.",
+				"message_twelve": "룬을 장착하려면 장착할 룬을 클릭하고 같은 타입의 빈 슬롯을 클릭하세요.",
+				"message_thirteen": "룬 설정을 변경한 후에는 하단에서 저장하는 것을 잊지 마세요.",
+				"message_fourteen": "장착된 모든 룬을 해제할 수도 있지만 티켓 1장이 소모됩니다.",
+				"message_fifteen": "해제 대신 장착된 룬을 클릭해서 파괴함으로써 슬롯을 비울 수도 있습니다.",
+				"message_sixteen": "파괴 후 페이지를 저장해야 룬이 최종적으로 사라지므로 자유롭게 설정을 실험해 보세요.",
+				"message_seventeen": "마지막으로, 추후 더 많은 룬 페이지가 추가될 예정입니다."
 			}
 		},
 		"artifact": {
 			"ancestor": {
-				"MISSING-title": "Ancestor",
-				"MISSING-description": "Gain a buff to all stats for 6 turns after being attacked"
+				"title": "조상",
+				"description": "피격시 6턴동안 모든 능력치 버프 획득"
 			},
 			"berserker_star": {
-				"MISSING-title": "Berserker Star",
-				"MISSING-description": "Increase damage of all attacks until not landing an attack"
+				"title": "버서커 스타",
+				"description": "공격이 빗나갈 때까지 모든 공격 대미지 증가"
 			},
 			"bounty_bracelet": {
-				"MISSING-title": "Bounty Bracelet",
-				"MISSING-description": "Combat victories rewards additional fragments"
+				"title": "바운티 팔찌",
+				"description": "전투 승리시 추가 파편 획득"
 			},
 			"charge_staff": {
-				"MISSING-title": "Charge Staff",
-				"MISSING-description": "Landing 2 attacks in a row gives a shield"
+				"title": "충전 스태프",
+				"description": "2회 연속 공격 성공시 보호막 획득"
 			},
 			"comfy_scarf": {
-				"MISSING-title": "Comfy Scarf",
-				"MISSING-description": "Counter the first common debuff received in combat"
+				"title": "편안한 스카프",
+				"description": "전투중 처음으로 받는 일반 디버프를 반격"
 			},
 			"computation_orb": {
-				"MISSING-title": "Computation Orb",
-				"MISSING-description": "Deal additional damage when below 50% hp"
+				"title": "계산 오브",
+				"description": "체력이 50% 이하일때 추가 대미지 부여"
 			},
 			"corruption_seal": {
-				"MISSING-title": "Corruption Seal",
-				"MISSING-description": "Reduce damage taken from debuffed enemies by 30%"
+				"title": "부패 인장",
+				"description": "디버프 상태인 적에게 받는 대미지 30% 감소"
 			},
-			"cross_shield": { "MISSING-title": "Cross Shield", "MISSING-description": "Gain a small shield after moving" },
+			"cross_shield": { "title": "크로스 실드", "description": "이동 후 소량의 보호막 획득" },
 			"dark_nights_imitation": {
-				"MISSING-title": "Dark Night's Imitation",
-				"MISSING-description": "Gain a shield at the start of combat"
+				"title": "다크 나이트 모조품",
+				"description": "전투 시작시 보호막 획득"
 			},
 			"detective_loupe": {
-				"MISSING-title": "Detective Loupe",
-				"MISSING-description": "Reveal the length of the answer during the guessing phase"
+				"title": "탐정 돋보기",
+				"description": "추측 단계에서 정답 글자 수 공개"
 			},
 			"energy_jar": {
-				"MISSING-title": "Energy Jar",
-				"MISSING-description": "Gain a shield at the start of combat, this shield carries over between combats"
+				"title": "에너지 항아리",
+				"description": "전투 시작시 보호막 획득. 이 보호막은 다음 전투에도 유지됨"
 			},
 			"hornet_stinger": {
-				"MISSING-title": "Hornet Stinger",
-				"MISSING-description": "Landing two attacks in a row, makes the second attack a guaranteed critical hit"
+				"title": "말벌침",
+				"description": "2회 연속 공격 성공시 두번째 공격 치명타 확정"
 			},
 			"legends_shield": {
-				"MISSING-title": "Legend's Shield",
-				"MISSING-description": "Gain a shield the first time you take damage each combat"
+				"title": "전설의 방패",
+				"description": "각 전투에서 첫 대미지를 입을 때 보호막 획득"
 			},
 			"midas_favor": {
-				"MISSING-title": "Midas Favor",
-				"MISSING-description": "Crafting stations require fewer fragments to craft items"
+				"title": "미다스의 은총",
+				"description": "제작소에서 아이템 제작시 소모되는 파편 감소"
 			},
 			"mystery_food": {
-				"MISSING-title": "Mystery Food",
-				"MISSING-description": "When inflicting a debuff, apply another random debuff to the target"
+				"title": "정체불명의 음식",
+				"description": "디버프 부여시 대상에게 랜덤 디버프 추가 부여"
 			},
-			"noble_favour": { "MISSING-title": "Noble Favour", "MISSING-description": "Gain 150 fragments on pick-up" },
+			"noble_favour": { "title": "고귀한 은총", "description": "획득시 파편 150개 획득" },
 			"pipe_of_the_golden_fairy": {
-				"MISSING-title": "Pipe of the Golden Fairy",
-				"MISSING-description": "Deals 50% more damage when attacking debuffed enemies"
+				"title": "황금요정의 파이프",
+				"description": "디버프 상태인 적 공격시 50% 추가 대미지"
 			},
 			"ruler_piece": {
-				"MISSING-title": "Ruler Piece",
-				"MISSING-description": "Gain a random buff when ability is used"
+				"title": "자 조각",
+				"description": "능력 사용시 랜덤 버프 획득"
 			},
 			"sealed_watch": {
-				"MISSING-title": "Sealed Watch",
-				"MISSING-description": "Reduce cooldown of avatar ability by 2 turns"
+				"title": "봉인된 시계",
+				"description": "아바타 능력의 재사용 대기 시간 2턴 감소"
 			},
 			"song_euphonium": {
-				"MISSING-title": "Song Euphonium",
-				"MISSING-description": "Increase the chance of getting targeted by enemy attacks"
+				"title": "송 유포니엄",
+				"description": "적에게 공격 타겟이 될 확률 증가"
 			},
 			"soul_container": {
-				"MISSING-title": "Soul Container",
-				"MISSING-description": "Instantly revive with 50% hp when killed or equipped to a dead avatar, but lose the Soul Container"
+				"title": "영혼 컨테이너",
+				"description": "사망시 혹은 사망한 아바타에게 장착시 체력 50%로 즉시 부활. 사용 후 소멸"
 			},
 			"spiked_guards": {
-				"MISSING-title": "Spiked Guards",
-				"MISSING-description": "Return some of the damage taken, back to the attacker"
+				"title": "가시돋힌 보호구",
+				"description": "받은 대미지의 일부를 공격자에게 반사"
 			},
 			"stealth_bunny_hat": {
-				"MISSING-title": "Stealth Bunny Hat",
-				"MISSING-description": "Reduce the chance of getting targeted by enemy attacks"
+				"title": "스텔스 토끼 모자",
+				"description": "적에게 공격 타겟이 될 확률 감소"
 			},
 			"stone_mask": {
-				"MISSING-title": "Stone Mask",
-				"MISSING-description": "Heal a small amount when landing a killing blow"
+				"title": "돌가면",
+				"description": "적 처치시 체력 소량 회복"
 			},
 			"sugoi_bun": {
-				"MISSING-title": "Sugoi Bun",
-				"MISSING-description": "Heal a small amount at the end of combat if below 50% hp"
+				"title": "스고이 빵",
+				"description": "체력이 50% 이하일 때 전투 종료시 체력 소량 회복"
 			},
 			"swords_of_truth_and_light": {
-				"MISSING-title": "Swords of Truth and Light",
-				"MISSING-description": "Attacking 3 times in a row causes the third attack to do double damage"
+				"title": "진실과 빛의 검",
+				"description": "3회 연속 공격시 세번째 공격 대미지 두배 증가"
 			},
 			"time_disk": {
-				"MISSING-title": "Time Disk",
-				"MISSING-description": "Gain an additional 5 seconds during the guessing phase"
+				"title": "시간 디스크",
+				"description": "추측 단계에서 제한시간 5초 추가"
 			},
 			"unexpected_supporter": {
-				"MISSING-title": "Unexpected Supporter",
-				"MISSING-description": "Combat rewards have an additional artifact to choose from"
+				"title": "뜻밖의 서포터",
+				"description": "전투 보상중 선택할 수 있는 아티팩트 개수 추가"
 			},
 			"villains_glasses": {
-				"MISSING-title": "Villain's Glasses",
-				"MISSING-description": "Deal additional damage for each debuff on the attack target"
+				"title": "빌런의 안경",
+				"description": "공격 대상의 디버프 개수만큼 추가 대미지 부여"
 			},
 			"wise_wolf_pouch": {
-				"MISSING-title": "Wise Wolf Pouch",
-				"MISSING-description": "Crafting stations have more items to choose from"
+				"title": "현랑의 주머니",
+				"description": "제작소에서 선택할 수 있는 아이템 개수 추가"
 			}
 		},
 		"events": {
