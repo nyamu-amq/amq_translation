@@ -1002,7 +1002,7 @@
 		"description": "Anime Music Quiz는 모든 사람이 공정하고 즐거운 플레이 환경을 제공합니다. 이를 위해 아래 가이드라인과 운영진의 지침을 따라 주시길 당부드립니다. 규칙을 준수하지 않을 경우 사안에 따라서는 채팅이나 게임 이용이 정지될 수 있습니다.",
 		"dont_cheat": {
 			"title": "부정행위 금지",
-			"text": "부당한 이득을 제공하는 모든 종류의 외부 소프트웨어 및 도구 사용은 부정행위로 간주됩니다. 이것은 일반적으로 곡, 영상, 또는 애니메이션에 대한 추가 정보를 알려주는 도구 등을 포함하며 이것에만 국한되지 않습니다."
+			"text": "부당한 이득을 제공하는 모든 종류의 외부 소프트웨어 및 도구 사용은 부정행위로 간주됩니다. 이것은 일반적으로 노래, 영상, 또는 애니메이션에 대한 추가 정보를 알려주는 도구 등을 포함하며 이것에만 국한되지 않습니다."
 		},
 		"no_teaming": {
 			"title": "랭크 게임에서 팀플레이 금지",
@@ -1873,7 +1873,7 @@
 			"lives": { "title": "라이프", "description": "라이프를 가지고 시작하며 답을 틀릴 때마다 하나씩 감소합니다." },
 			"battle_royale": {
 				"title": "배틀 로얄",
-				"description": "루팅 단계에서 시작하여 퀴즈에 나올 곡이 포함된 작품들을 수집합니다."
+				"description": "루팅 단계에서 시작하여 퀴즈에 나올 노래가 포함된 작품들을 수집합니다."
 			},
 			"boss_fight": {
 				"title": "보스전",
@@ -2062,7 +2062,7 @@
 			"queueing": { "title": "대기열", "description": "관전자가 참가 대기열에 등록하는 것을 허용합니다." },
 			"duplicate_shows": {
 				"title": "작품 중복",
-				"description": "한 게임에서 같은 작품의 여러 곡이 선택되는 것을 허용합니다."
+				"description": "한 게임에서 같은 작품의 여러 노래가 선택되는 것을 허용합니다."
 			},
 			"rebroadcast_songs": {
 				"title": "재방송 노래",
@@ -2074,7 +2074,7 @@
 			},
 			"full_song_range": {
 				"title": "전체 노래 범위",
-				"description": "노래가 곡의 끝까지 재생되는 것을 허용합니다. 답이 공개되는 동안 소리가 나오지 않을 수도 있습니다."
+				"description": "노래가 끝까지 재생되는 것을 허용합니다. 답이 공개되는 동안 소리가 나오지 않을 수도 있습니다."
 			}
 		},
 		"filter_types": { "include": "포함", "exclude": "제외", "optional": "옵션" },
@@ -2582,9 +2582,9 @@
 		},
 		"ranked_rules": {
 			"title": "랭크 게임 규칙",
-			"description": "랭크 게임은 개인의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다.  _BREAK_ 랭크 게임에서는 가장 쉬운 곡부터 가장 어려운 곡까지 가장 많은 정답을 맞히는 것으로 다른 플레이어들과 경쟁합니다. _BREAK_ 게임이 끝나면 당신의 성적에 따라 랭크 포인트를 얻습니다. 시즌 동안 모은 랭크 포인트로 특별 배지를 잠금 해제하고 시즌 마지막에 열리는 챔피언십에 참가할 자격을 얻으세요! _BREAK_ 랭크 게임의 공정성을 위해 아래 규칙을 준수해 주세요. 이 규칙을 어길 경우 계정이 영구 정지되거나 랭크 게임 참여가 제한될 수 있습니다.",
+			"description": "랭크 게임은 개인의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다.  _BREAK_ 랭크 게임에서는 가장 쉬운 노래부터 가장 어려운 노래까지 가장 많은 정답을 맞히는 것으로 다른 플레이어들과 경쟁합니다. _BREAK_ 게임이 끝나면 당신의 성적에 따라 랭크 포인트를 얻습니다. 시즌 동안 모은 랭크 포인트로 특별 배지를 잠금 해제하고 시즌 마지막에 열리는 챔피언십에 참가할 자격을 얻으세요! _BREAK_ 랭크 게임의 공정성을 위해 아래 규칙을 준수해 주세요. 이 규칙을 어길 경우 계정이 영구 정지되거나 랭크 게임 참여가 제한될 수 있습니다.",
 			"themed_title": "테마 퀴즈 규칙",
-			"themed_description": "테마 퀴즈는 플레이어들이 그날 선정된 특정 테마 내에서 자신의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다! _BREAK_ 각 테마 퀴즈는 고유한 테마별 곡들을 제공하며 경쟁보다는 재미에 중점을 둔 환경에서 커뮤니티 플레이어들과 신선하고 즐거운 경험을 할 수 있도록 마련되었습니다. _BREAK_ 랭크 게임만큼 경쟁적이지는 않지만 다른 플레이어들의 경험을 망치지 않도록 규칙을 준수하는 것이 중요합니다. 규칙을 위한할 경우 계정이 정지되거나 오늘의 퀴즈 참여가 제한될 수 있습니다.",
+			"themed_description": "테마 퀴즈는 플레이어들이 그날 선정된 특정 테마 내에서 자신의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다! _BREAK_ 각 테마 퀴즈는 고유한 테마별 노래들을 제공하며 경쟁보다는 재미에 중점을 둔 환경에서 커뮤니티 플레이어들과 신선하고 즐거운 경험을 할 수 있도록 마련되었습니다. _BREAK_ 랭크 게임만큼 경쟁적이지는 않지만 다른 플레이어들의 경험을 망치지 않도록 규칙을 준수하는 것이 중요합니다. 규칙을 위한할 경우 계정이 정지되거나 오늘의 퀴즈 참여가 제한될 수 있습니다.",
 			"play_solo": {
 				"title": "혼자 플레이",
 				"description": "랭크 게임은 개인의 실력을 검증하기 위한 모드이므로 다른 플레이어에게 힌트나 정답을 제공하거나 받는 것은 규칙 위반입니다."
@@ -2595,7 +2595,7 @@
 			},
 			"no_cheating": {
 				"title": "부정행위 금지",
-				"description": "부당한 이득을 제공하는 모든 종류의 도구 사용은 엄격히 금지됩니다. 이것은 곡에 대한 추가 정보를 얻기 위한 외부 도구 사용, 가사 검색(구글링), 그리고 부당한 이득을 제공하는 모든 외부 도구 또는 방법을 포함합니다."
+				"description": "부당한 이득을 제공하는 모든 종류의 도구 사용은 엄격히 금지됩니다. 이것은 노래에 대한 추가 정보를 얻기 위한 외부 도구 사용, 가사 검색(구글링), 그리고 부당한 이득을 제공하는 모든 외부 도구 또는 방법을 포함합니다."
 			},
 			"mod_instructions": {
 				"title": "운영자 지침 준수",
@@ -2639,7 +2639,7 @@
 				"vote_passed": "투표 통과됨",
 				"vote_failed": "투표 실패",
 				"waiting_votes": "투표 대기중",
-				"on_last_song": "현재 마지막 곡"
+				"on_last_song": "현재 마지막 노래"
 			}
 		},
 		"join_button": "참가",
@@ -2659,7 +2659,7 @@
 		"team_answer": "_NAME_의 답변: _MESSAGE_",
 		"current_answer": "현재 답변",
 		"pause_button_popovers": {
-			"pause": "이 곡이 끝나면 게임이 일시정지됩니다. 모든 플레이어는 일시정지를 해제할 수 있습니다.",
+			"pause": "이 노래가 끝나면 게임이 일시정지됩니다. 모든 플레이어는 일시정지를 해제할 수 있습니다.",
 			"unpause": "게임 일시정지 해제"
 		},
 		"anime_names": { "alternative_names": "다른 제목", "alternative_answers": "다른 답변" },
@@ -2735,7 +2735,7 @@
 			"continuing_in": "_SPAN_ _NUMBER_ _SPAN_초 후에 재개",
 			"hints": {
 				"title": "힌트",
-				"point_value": "현재 곡의 점수 가치",
+				"point_value": "현재 노래의 점수 가치",
 				"name": { "title": "제목", "description": "정답의 길이와 4글자를 표시합니다." },
 				"info": { "title": "정보", "description": "현재 노래의 정보를 표시합니다." },
 				"multiple_choice": { "title": "객관식", "description": "현재 노래의 답변을 객관식으로 선택합니다." },
@@ -3857,74 +3857,74 @@
 		},
 		"events": {
 			"enemy_turf": {
-				"MISSING-title": "Enemy Turf",
+				"title": "적의 구역",
 				"base": {
-					"MISSING-text": "A sketchy man, in a purple suit and green hair styled over his head, greets the party as they enter the room. _BREAK_ “Hey, you can’t just pass through here, this is my turf. I can make an exception if you leave all your _HIGHLIGHT2_ fragments _HIGHLIGHT2_, else you’ll _HIGHLIGHT_ have to take it up with the boys _HIGHLIGHT_”. _BREAK_ The man signals towards _HIGHLIGHT_ 4 enemy cores _HIGHLIGHT_ floating next to him.",
-					"options": { "MISSING-pay": "Pay _NUMBER_ fragments", "MISSING-ignore": "Ignore the warning" }
+					"text": "보라색 정장에 초록색 머리를 뒤로 넘긴 수상한 남자가 방에 들어온 파티를 맞이합니다. _BREAK_ “이봐, 여긴 그냥 지나갈 수 없어. 내 구역이거든. 가진 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 전부 내놓는다면 봐줄 수도 있지만, 싫다면 _HIGHLIGHT_ 우리 애들하고 한판 붙어야 할거야 _HIGHLIGHT_”. _BREAK_ 남자가 자신의 옆에 떠 있는_HIGHLIGHT_ 4개의 적 코어 _HIGHLIGHT_를 가리키며 신호를 보냅니다.",
+					"options": { "pay": "파편 _NUMBER_개를 지불한다", "ignore": "경고를 무시한다" }
 				},
 				"pay": {
-					"MISSING-text": "The man grabs the fragments as you throw them to him. _BREAK_ “Pleasure doing business”"
+					"text": "당신이 던진 파편을 남자가 낚아챕니다. _BREAK_ “거래해주셔서 대단히 감사합니다”"
 				},
 				"ignore": {
-					"MISSING-text": "“You’ll regret that, don’t hold me responsible for what happens” _BREAK_ The man yells as he runs out of the door while the enemy cores start activating."
+					"text": "“후회하게 될 거야. 무슨 일이 벌어져도 내 책임이 아니야” _BREAK_ 남자가 소리치며 문 밖으로 도망치자 적 코어들이 활성화되기 시작합니다."
 				}
 			},
 			"gift_game": {
 				"genre": {
-					"MISSING-title": "Gift Game - Genre",
+					"title": "선물 게임 - 장르",
 					"base": {
-						"MISSING-text": "As the party enters the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple genre quiz game _HIGHLIGHT_ by our benevolent host. _BREAK_ “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you _HIGHLIGHT_ get one wrong _HIGHLIGHT_, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 _HIGHLIGHT_ questions and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
-						"options": { "MISSING-accept": "Accept the invitation", "MISSING-decline": "Decline the invitation" }
+						"text": "파티가 방에 들어서자 파란 머리의 바니걸이 맞이합니다. _BREAK_ “플레이어 여러분 환영합니다. 자비로우신 주최자께서 _HIGHLIGHT_ 간단한 장르 퀴즈 게임 _HIGHLIGHT_에 초대하셨습니다. _BREAK_ “문제를 _HIGHLIGHT_ 맞힐 때마다 _HIGHLIGHT_ _HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 드리지만, 만약 _HIGHLIGHT_ 하나라도 틀린다면 _HIGHLIGHT_ _HIGHLIGHT_ 상금 없이 떠나셔야 _HIGHLIGHT_ 합니다. _HIGHLIGHT_ 5문제 모두 _HIGHLIGHT_ 맞히신다면 _HIGHLIGHT_ 멋진 상품 _HIGHLIGHT_ _ARTIFACT_을 받으실 수 있습니다.”",
+						"options": { "accept": "초대를 수락한다", "decline": "초대를 거절한다" }
 					},
 					"accept": {
-						"MISSING-text": "The bunny pulls out a stack of cards. _BREAK_ “Each of these cards have the name of an _HIGHLIGHT_ anime and 4 genres _HIGHLIGHT_. Once I flip the card, _HIGHLIGHT_ you'll have 10 seconds _HIGHLIGHT_ to guess which _HIGHLIGHT_ genre belongs to the anime _HIGHLIGHT_.”",
-						"options": { "MISSING-first_question": "First question" }
+						"text": "바니걸이 카드 한 뭉치를 꺼냅니다. _BREAK_ “각 카드에는 _HIGHLIGHT_ 애니메이션 제목과 4개의 장르 _HIGHLIGHT_가 적혀 있습니다. 제가 카드를 뒤집으면, 해당 _HIGHLIGHT_ 애니메이션의 장르가 무엇인지 _HIGHLIGHT_ _HIGHLIGHT_ 10초 안에 _HIGHLIGHT_ 맞혀주시면 됩니다.”",
+						"options": { "first_question": "첫번째 문제" }
 					},
-					"question": { "MISSING-text": "Which genre belongs to the following anime. _BREAK_ _NAME_ _BREAK_ _NAME2_" },
+					"question": { "text": "다음 애니메이션에 해당하는 장르를 고르세요. _BREAK_ _NAME_ _BREAK_ _NAME2_" },
 					"wrong_guess": {
-						"MISSING-text": "“I’m sorry to say, but “_NAME_” _HIGHLIGHT_ isn’t the genre _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. The _HIGHLIGHT_ correct answer _HIGHLIGHT_ is _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "“아쉽지만 “_NAME_”은 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ _HIGHLIGHT_ 장르가 아닙니다 _HIGHLIGHT_. _HIGHLIGHT_ 정답 _HIGHLIGHT_은 _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_입니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
 					},
 					"time_out": {
-						"MISSING-text": "A buzzer sounds in the room. _BREAK_ “I'm sorry to say, but _HIGHLIGHT_ your time is up _HIGHLIGHT_. The correct genre for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_, was _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future”. _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_의 장르는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다”. _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
 					}
 				},
 				"song_type": {
-					"MISSING-title": "Gift Game - Song Type",
+					"title": "선물 게임 - 노래 타입",
 					"base": {
-						"MISSING-text": "As the party enter the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple song type quiz game _HIGHLIGHT_ by our benevolent host. _BREAK_ “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you get one wrong, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 _HIGHLIGHT_ questions and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
-						"options": { "MISSING-accept": "Accept the invitation", "MISSING-decline": "Decline the invitation" }
+						"text": "파티가 방에 들어서자 파란 머리의 바니걸이 맞이합니다. _BREAK_ “플레이어 여러분 환영합니다. 자비로우신 주최자께서 _HIGHLIGHT_ 간단한 노래 타입 퀴즈 게임 _HIGHLIGHT_에 초대하셨습니다. _BREAK_ “문제를 _HIGHLIGHT_ 맞힐 때마다 _HIGHLIGHT_ _HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 드리지만, 만약 _HIGHLIGHT_ 하나라도 틀린다면 _HIGHLIGHT_ _HIGHLIGHT_ 상금 없이 떠나셔야 _HIGHLIGHT_ 합니다. _HIGHLIGHT_ 5문제 모두 _HIGHLIGHT_ 맞히신다면 _HIGHLIGHT_ 멋진 상품 _HIGHLIGHT_ _ARTIFACT_을 받으실 수 있습니다.”",
+						"options": { "accept": "초대를 수락한다", "decline": "초대를 거절한다" }
 					},
 					"accept": {
-						"MISSING-text": "The bunny pulls out a small buzzer. _BREAK_ “When I click the buzzer _HIGHLIGHT_ a song will start playing _HIGHLIGHT_, and you’ll have _HIGHLIGHT_ 15 seconds to guess _HIGHLIGHT_ if it’s an _HIGHLIGHT_ opening, ending or insert song _HIGHLIGHT_. _BREAK_ “Just give me a second to get everything ready”",
-						"options": { "MISSING-first_question": "First question" }
+						"text": "바니걸이 작은 버저를 꺼냅니다. _BREAK_ “제가 버저를 누르면 _HIGHLIGHT_ 노래가 재생됩니다 _HIGHLIGHT_. 그 노래가 _HIGHLIGHT_ 오프닝, 엔딩, 또는 삽입곡 _HIGHLIGHT_ 중 무엇인지 _HIGHLIGHT_ 5초 안에 맞혀주세요 _HIGHLIGHT_. _BREAK_ “준비할 동안 잠시만 기다려 주세요”",
+						"options": { "first_question": "첫번째 문제" }
 					},
 					"question": {
-						"MISSING-text": "Which song type is this?",
+						"text": "이 노래의 타입은 무엇입니까?",
 						"options": {
-							"MISSING-opening": "Opening",
-							"MISSING-ending": "Ending",
-							"MISSING-insert_song": "Insert Song"
+							"opening": "오프닝",
+							"ending": "엔딩",
+							"insert_song": "삽입곡"
 						}
 					},
 					"correct": {
-						"MISSING-text": "“You are _HIGHLIGHT_ correct! _HIGHLIGHT_ The song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. And with that, _HIGHLIGHT_ your current winnings are at _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Would you like to continue to the next question, or cash out?”",
-						"options": { "MISSING-next_question": "Next Question", "MISSING-cash_out": "Cash Out" }
+						"text": "_HIGHLIGHT_ 정답입니다! _HIGHLIGHT_ 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT_ _NAME_ _HIGHLIGHT_였습니다. 이제 _HIGHLIGHT_ 현재 상금은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개입니다_HIGHLIGHT_. _BREAK_ 다음 문제로 계속하시겠습니까, 아니면 여기서 그만두고 상금을 받으시겠습니까?”",
+						"options": { "next_question": "다음 문제", "cash_out": "정산" }
 					},
 					"all_correct": {
-						"MISSING-text": "“Amazing, you managed to _HIGHLIGHT_ guess all 5 correct _HIGHLIGHT_! The final song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. I'm happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "“놀랍군요, _HIGHLIGHT_ 5문제 모두 맞히셨습니다 _HIGHLIGHT_! 마지막 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_였습니다. 약속대로 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개는 물론이고 _ARTIFACT_도 드리겠습니다!”, 바니걸이 쾌활하게 웃으며 보상을 건네줍니다. _BREAK_ “퀴즈 우승을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
 					},
 					"wrong_guess": {
-						"MISSING-text": "“I’m sorry to say, but _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ isn't the correct answer _HIGHLIGHT_. The song was _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "“아쉽지만 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_은 _HIGHLIGHT_ 정답이 아닙니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
 					},
 					"time_out": {
-						"MISSING-text": "A buzzer sounds in the room. _BREAK_ “I’m sorry to say, but _HIGHLIGHT_ your time is up _HIGHLIGHT_. The song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future”. _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
 					},
 					"type_numbered": {
-						"MISSING-opening": "Opening _NUMBEREXTRA_",
-						"MISSING-ending": "Ending _NUMBEREXTRA_",
-						"MISSING-insert_song": "Insert Song"
+						"opening": "오프닝 _NUMBEREXTRA_",
+						"ending": "엔딩 _NUMBEREXTRA_",
+						"insert_song": "삽입곡"
 					},
-					"type": { "MISSING-opening": "Opening", "MISSING-ending": "Ending", "MISSING-insert_song": "Insert Song" }
+					"type": { "opening": "오프닝", "ending": "엔딩", "insert_song": "삽입곡" }
 				},
 				"tiny_opening": {
 					"MISSING-title": "Gift Game - Tiny Opening",
