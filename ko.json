@@ -349,7 +349,7 @@
 				"title": "게스트 아이디 생성",
 				"error_title": "게스트 아이디 생성 오류",
 				"error_disabled": "게스트 아이디를 만들 수 없습니다.",
-				"text2": "게스트 아이디를 생성하는 것은 _LINK_ 이용약관 _LINK_ and _LINK2_ 개인정보처리방침 _LINK2_에 동의함을 의미합니다.",
+				"text2": "게스트 아이디를 생성하는 것은 _LINK_ 이용약관 _LINK_ and _LINK2_ 개인정보처리방침 _LINK2_에 동의함을 의미합니다."
 			},
 			"select_country": "거주 국가를 선택해 주세요.",
 			"country_error": "거주 국가 등록 오류",
