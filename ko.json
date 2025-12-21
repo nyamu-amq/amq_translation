@@ -2792,8 +2792,8 @@
 			"fuwagi_shop": "후와기의 상점",
 			"fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ 쿨다운: _NUMBER_",
 			"genre_icon": {
-				"damage_done": "_NAME_작품동안 대미지 증가",
-				"damage_taken_2": "_NAME_작품동안 받는 대미지 증가"
+				"damage_done": "_NAME_ 작품에서 대미지 증가",
+				"damage_taken_2": "_NAME_ 작품에서 받는 대미지 증가"
 			}
 		},
 		"anime_name_placeholder": "애니 제목"
@@ -3578,8 +3578,8 @@
 		},
 		"avatar": {
 			"genre": "장르",
-			"strong": "강점",
-			"weak": "약점",
+			"strong": "유리",
+			"weak": "불리",
 			"rune_buffs": "룬 버프",
 			"stats": {
 				"constitution": { "title": "생명", "description": "최대 체력이 증가합니다." },
@@ -3742,7 +3742,7 @@
 		"artifact": {
 			"ancestor": {
 				"title": "조상",
-				"description": "피격시 6턴동안 모든 능력치 버프 획득"
+				"description": "피격시 6턴 동안 모든 능력치 버프 획득"
 			},
 			"berserker_star": {
 				"title": "버서커 스타",
