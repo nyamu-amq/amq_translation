@@ -2793,7 +2793,7 @@
 			"fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ 쿨다운: _NUMBER_",
 			"genre_icon": {
 				"damage_done": "_NAME_작품동안 대미지 증가",
-				"damage_taken_2": "_NAME_작품동안 받는 대미지 증가",
+				"damage_taken_2": "_NAME_작품동안 받는 대미지 증가"
 			}
 		},
 		"anime_name_placeholder": "애니 제목"
