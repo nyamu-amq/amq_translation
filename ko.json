@@ -3741,7 +3741,7 @@
 		},
 		"artifact": {
 			"ancestor": {
-				"title": "조상",
+				"title": "조상님",
 				"description": "피격시 6턴 동안 모든 능력치 버프 획득"
 			},
 			"berserker_star": {
@@ -3749,7 +3749,7 @@
 				"description": "공격이 빗나갈 때까지 모든 공격 대미지 증가"
 			},
 			"bounty_bracelet": {
-				"title": "바운티 팔찌",
+				"title": "현상금 팔찌",
 				"description": "전투 승리시 추가 파편 획득"
 			},
 			"charge_staff": {
@@ -3761,16 +3761,16 @@
 				"description": "전투중 처음으로 받는 일반 디버프를 반격"
 			},
 			"computation_orb": {
-				"title": "계산 오브",
+				"title": "계산 보주",
 				"description": "체력이 50% 이하일때 추가 대미지 부여"
 			},
 			"corruption_seal": {
-				"title": "부패 인장",
+				"title": "부패 봉인",
 				"description": "디버프 상태인 적에게 받는 대미지 30% 감소"
 			},
 			"cross_shield": { "title": "크로스 실드", "description": "이동 후 소량의 보호막 획득" },
 			"dark_nights_imitation": {
-				"title": "다크 나이트 모조품",
+				"title": "어두운 밤의 표상",
 				"description": "전투 시작시 보호막 획득"
 			},
 			"detective_loupe": {
@@ -3797,17 +3797,17 @@
 				"title": "정체불명의 음식",
 				"description": "디버프 부여시 대상에게 랜덤 디버프 추가 부여"
 			},
-			"noble_favour": { "title": "고귀한 은총", "description": "획득시 파편 150개 획득" },
+			"noble_favour": { "title": "노블 페이버", "description": "획득시 파편 150개 획득" },
 			"pipe_of_the_golden_fairy": {
-				"title": "황금요정의 파이프",
+				"title": "금빛 요정의 파이프",
 				"description": "디버프 상태인 적 공격시 50% 추가 대미지"
 			},
 			"ruler_piece": {
-				"title": "자 조각",
+				"title": "지배자 피스",
 				"description": "능력 사용시 랜덤 버프 획득"
 			},
 			"sealed_watch": {
-				"title": "봉인된 시계",
+				"title": "봉인된 회중시계",
 				"description": "아바타 능력의 재사용 대기 시간 2턴 감소"
 			},
 			"song_euphonium": {
@@ -3815,11 +3815,11 @@
 				"description": "적에게 공격 타겟이 될 확률 증가"
 			},
 			"soul_container": {
-				"title": "영혼 상자",
+				"title": "영혼 보관함",
 				"description": "사망시 혹은 사망한 아바타에게 장착시 체력 50%로 즉시 부활. 사용 후 소멸"
 			},
 			"spiked_guards": {
-				"title": "가시돋힌 보호구",
+				"title": "가시 방어구",
 				"description": "받은 대미지의 일부를 공격자에게 반사"
 			},
 			"stealth_bunny_hat": {
@@ -3839,11 +3839,11 @@
 				"description": "3회 연속 공격시 세번째 공격 대미지 두배 증가"
 			},
 			"time_disk": {
-				"title": "시간 디스크",
+				"title": "타임 디스크",
 				"description": "추측 단계에서 제한시간 5초 추가"
 			},
 			"unexpected_supporter": {
-				"title": "뜻밖의 서포터",
+				"title": "뜻밖의 후견인",
 				"description": "전투 보상중 선택할 수 있는 아티팩트 개수 추가"
 			},
 			"villains_glasses": {
@@ -3851,7 +3851,7 @@
 				"description": "공격 대상의 디버프 개수만큼 추가 대미지 부여"
 			},
 			"wise_wolf_pouch": {
-				"title": "현랑의 주머니",
+				"title": "현명한 늑대의 주머니",
 				"description": "제작소에서 선택할 수 있는 아이템 개수 추가"
 			}
 		},
