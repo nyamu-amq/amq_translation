@@ -3815,7 +3815,7 @@
 				"description": "적에게 공격 타겟이 될 확률 증가"
 			},
 			"soul_container": {
-				"title": "영혼 컨테이너",
+				"title": "영혼 상자",
 				"description": "사망시 혹은 사망한 아바타에게 장착시 체력 50%로 즉시 부활. 사용 후 소멸"
 			},
 			"spiked_guards": {
@@ -3882,10 +3882,10 @@
 					},
 					"question": { "text": "다음 애니메이션에 해당하는 장르를 고르세요. _BREAK_ _NAME_ _BREAK_ _NAME2_" },
 					"wrong_guess": {
-						"text": "“아쉽지만 “_NAME_”은 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ _HIGHLIGHT_ 장르가 아닙니다 _HIGHLIGHT_. _HIGHLIGHT_ 정답 _HIGHLIGHT_은 _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_입니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
+						"text": "“아쉽지만 “_NAME_”은 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ _HIGHLIGHT_ 장르가 아닙니다 _HIGHLIGHT_. _HIGHLIGHT_ 정답 _HIGHLIGHT_은 _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_입니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					},
 					"time_out": {
-						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_의 장르는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다”. _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
+						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_의 장르는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다”. _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					}
 				},
 				"song_type": {
@@ -3907,17 +3907,17 @@
 						}
 					},
 					"correct": {
-						"text": "_HIGHLIGHT_ 정답입니다! _HIGHLIGHT_ 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT_ _NAME_ _HIGHLIGHT_였습니다. 이제 _HIGHLIGHT_ 현재 상금은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개입니다_HIGHLIGHT_. _BREAK_ 다음 문제로 계속하시겠습니까, 아니면 여기서 그만두고 상금을 받으시겠습니까?”",
+						"text": "_HIGHLIGHT_ 정답입니다! _HIGHLIGHT_ 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT_ _NAME_ _HIGHLIGHT_였습니다. 이제 _HIGHLIGHT_ 현재 상금은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개입니다_HIGHLIGHT_. _BREAK_ 다음 문제로 계속하시겠습니까, 아니면 여기서 정산하시겠습니까?”",
 						"options": { "next_question": "다음 문제", "cash_out": "정산" }
 					},
 					"all_correct": {
-						"text": "“놀랍군요, _HIGHLIGHT_ 5문제 모두 맞히셨습니다 _HIGHLIGHT_! 마지막 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_였습니다. 약속대로 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개는 물론이고 _ARTIFACT_도 드리겠습니다!”, 바니걸이 쾌활하게 웃으며 보상을 건네줍니다. _BREAK_ “퀴즈 우승을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
+						"text": "“놀랍군요, _HIGHLIGHT_ 5문제 모두 맞히셨습니다 _HIGHLIGHT_! 마지막 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_였습니다. 약속대로 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개는 물론이고 _ARTIFACT_도 드리겠습니다!”, 바니걸이 쾌활하게 웃으며 보상을 건네줍니다. _BREAK_ “퀴즈 우승을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					},
 					"wrong_guess": {
-						"text": "“아쉽지만 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_은 _HIGHLIGHT_ 정답이 아닙니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
+						"text": "“아쉽지만 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_은 _HIGHLIGHT_ 정답이 아닙니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					},
 					"time_out": {
-						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 방을 지나가라고 안내합니다."
+						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_였습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					},
 					"type_numbered": {
 						"opening": "오프닝 _NUMBEREXTRA_",
@@ -3927,86 +3927,86 @@
 					"type": { "opening": "오프닝", "ending": "엔딩", "insert_song": "삽입곡" }
 				},
 				"tiny_opening": {
-					"MISSING-title": "Gift Game - Tiny Opening",
+					"title": "선물 게임 - 작은 오프닝",
 					"base": {
-						"MISSING-text": "As the party enter the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple video quiz game _HIGHLIGHT_ by our benevolent host. “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you _HIGHLIGHT_ get one wrong _HIGHLIGHT_, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 questions _HIGHLIGHT_ and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
-						"options": { "MISSING-accept": "Accept the invitation", "MISSING-decline": "Decline the invitation" }
+						"text": "파티가 방에 들어서자 파란 머리의 바니걸이 맞이합니다. _BREAK_ “플레이어 여러분 환영합니다. 자비로우신 주최자께서 _HIGHLIGHT_ 간단한 영상 퀴즈 게임 _HIGHLIGHT_에 초대하셨습니다. “문제를 _HIGHLIGHT_ 맞힐 때마다 _HIGHLIGHT_ _HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 드리지만, 만약  _HIGHLIGHT_ 하나라도 틀린다면 _HIGHLIGHT_ _HIGHLIGHT_ 상금 없이 떠나셔야 _HIGHLIGHT_ 합니다. _HIGHLIGHT_ 5문제 모두 _HIGHLIGHT_ 맞히신다면 _HIGHLIGHT_ 멋진 상품 _HIGHLIGHT_ _ARTIFACT_을 받으실 수 있습니다.”",
+						"options": { "accept": "초대를 수락한다", "decline": "초대를 거절한다" }
 					},
 					"accept": {
-						"MISSING-text": "The bunny pulls out a small buzzer. _BREAK_ “When I click the buzzer, _HIGHLIGHT_ a small frame of an anime opening will play _HIGHLIGHT_, and you’ll have _HIGHLIGHT_ 10 seconds to select the correct show _HIGHLIGHT_ from the provided choices. _BREAK_ “Just give me a second to get everything ready”",
-						"options": { "MISSING-first_question": "First question" }
+						"text": "바니걸이 작은 버저를 꺼냅니다. _BREAK_ “제가 버저를 누르면 _HIGHLIGHT_ 작은 프레임에 애니메이션 오프닝이 재생됩니다 _HIGHLIGHT_. 그리고 당신은 주어진 선택지 중에서 _HIGHLIGHT_ 올바른 작품을 10초 안에 골라주시면 됩니다 _HIGHLIGHT_. _BREAK_ “준비하는 동안 잠시만 기다려 주세요.”",
+						"options": { "first_question": "첫번째 문제" }
 					},
-					"question": { "MISSING-text": "What show is this?" },
+					"question": { "text": "이 작품은 무엇일까요?" },
 					"correct": {
-						"MISSING-text": "“_HIGHLIGHT_ You are correct! _HIGHLIGHT_ The video was Opening _NUMBER_ from _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. And with that, your current winnings are at _NUMBER2_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_. _BREAK_ Would you like to _HIGHLIGHT_ continue to the next question, or cash out? _HIGHLIGHT_”",
-						"options": { "MISSING-next_question": "Next Question", "MISSING-cash_out": "Cash Out" }
+						"text": "“_HIGHLIGHT_ 정답입니다! _HIGHLIGHT_ 이 영상은 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_의 오프닝 _NUMBER_이었습니다. 현재 상금은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER2_개입니다. _BREAK_ _HIGHLIGHT_ 다음 문제로 계속하시겠습니까? 아니면 여기서 정산하시겠습니까? _HIGHLIGHT_”",
+						"options": { "next_question": "다음 문제", "cash_out": "정산" }
 					},
 					"all_correct": {
-						"MISSING-text": "“Amazing, you managed to _HIGHLIGHT_ guess all 5 correct _HIGHLIGHT_! The final video was _HIGHLIGHT2_ Opening _NUMBER_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. I'm happy to reward you not only the _NUMBER2_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "“놀랍군요, _HIGHLIGHT_ 5문제 모두 맞히셨습니다 _HIGHLIGHT_! 마지막 영상은 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_의 _HIGHLIGHT2_ 오프닝 _NUMBER_ _HIGHLIGHT2_이었습니다. 약속대로 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개는 물론이고 _ARTIFACT_까지 드릴 수 있게 되어 정말 기쁩니다!”, 바니걸이 쾌활하게 웃으며 보상을 건네줍니다. _BREAK_ “퀴즈 우승을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					},
 					"wrong_guess": {
-						"MISSING-text": "“I’m sorry to say, but _NAME_ _HIGHLIGHT_ isn't the correct answer _HIGHLIGHT_. The video was _HIGHLIGHT2_ Opening _NUMBER_ of  _NAME2_ _HIGHLIGHT2_. _BREAK_“I wish you the best of luck in your future games, and hope you will participate again in the future” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "“아쉽지만 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_은 _HIGHLIGHT_ 정답이 아닙니다 _HIGHLIGHT_. 이 영상은 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT2_ 오프닝 _NUMBER_ _HIGHLIGHT2_이었습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					},
 					"time_out": {
-						"MISSING-text": "A buzzer sounds in the room. _BREAK_ “I’m sorry to say, but _HIGHLIGHT_ your time is up _HIGHLIGHT_. The song was _HIGHLIGHT2_ Opening _NUMBER_ from _NAME_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future”. _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+						"text": "방 안에 버저 소리가 울립니다. _BREAK_ “죄송하지만 _HIGHLIGHT_ 시간이 다 되었습니다 _HIGHLIGHT_. 이 노래는 _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_의 _HIGHLIGHT2_ 오프닝 _NUMBER_ _HIGHLIGHT2_이었습니다. _BREAK_ “다음 게임에서는 행운이 따르길 빌며 또 참여해 주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 					}
 				},
 				"decline": {
-					"MISSING-text": "The bunny looks taken aback. _BREAK_ “You really don't want to play? But _HIGHLIGHT_ you have nothing to lose… _HIGHLIGHT_ how am I going to explain this to our host…”, the bunny stammers while looking mildly panicked, before noticing the party's stares. _BREAK_ “If that is your decision then… I hope you'll consider playing the next time we meet”, she manages to say with a half forced smile, before bowing to the party and signals them to continue through the room."
+					"text": "바니걸이 당황한 듯 합니다. _BREAK_ “정말 참여하지 않으시겠어요? 하지만 _HIGHLIGHT_ 밑져야 본전인데… _HIGHLIGHT_ 주최자님께 이걸 어떻게 설명해야 할지…” 바니걸은 파티의 시선을 눈치채고 약간 당황하며 말을 더듬습니다. _BREAK_ “그게 여러분의 결정이라면… 다음에 만날 때는 꼭 참여해 주시기 바랍니다.” 그녀는 억지로 웃음을 지으며 인사하며 다음 방으로 가는 길을 안내합니다."
 				},
 				"cash_out": {
-					"MISSING-text": "“A wise player knows to quit while on top. So I respect your decision”, the bunny says before she hands the party their winnings. _BREAK_ “Congrats on your rewards, I hope you will play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+					"text": "“현명한 플레이어는 정점에 있을 때 멈출 줄 아는 법이죠. 여러분의 결정을 존중합니다.” 바니걸이 파티에게 상금을 건넵니다. _BREAK_ “보상 획득을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 				},
 				"correct_guess": {
-					"MISSING-text": "“You are _HIGHLIGHT_ correct! _HIGHLIGHT_ And with that, _HIGHLIGHT_ your current winnings are at _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragments. _HIGHLIGHT2_ _BREAK_ Would you like to continue to the next question, or cash out?”",
-					"options": { "MISSING-next_question": "Next Question", "MISSING-cash_out": "Cash Out" }
+					"text": "“_HIGHLIGHT_ 정답입니다! _HIGHLIGHT_ 이제 _HIGHLIGHT_ 현재 상금은 _HIGHLIGHT_ _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개입니다. _BREAK_ 다음 문제로 계속하시겠습니까, 아니면 여기서 정산하시겠습니까?”",
+					"options": { "next_question": "다음 문제", "cash_out": "정산" }
 				},
 				"win": {
-					"MISSING-text": "“Amazing, you _HIGHLIGHT_ managed to guess all 5 _HIGHLIGHT_ correct! I'm happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+					"text": "“놀랍군요, _HIGHLIGHT_ 5문제를 모두 _HIGHLIGHT_ 맞히셨습니다! 약속대로 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개는 물론이고, _ARTIFACT_까지 보상으로 드릴 수 있게 되어 정말 기쁩니다!”, 바니걸이 쾌활하게 웃으며 보상을 건네줍니다. _BREAK_ “퀴즈 우승을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다."
 				},
 				"video_issue": {
-					"MISSING-text_one": "The bunny looks flustered as she repeatedly clicks the buzzer. _BREAK_ “I’m sorry, there appears to be an issue with the question. So we’ll have to skip this one. _BREAK_ “I’ll get the next question ready, just give me a moment.”",
-					"MISSING-text_two": "The bunny starts furiously hitting the buzzer, before looking up at the party with a strained smile. _BREAK_ “It appears the equipment is faulty, so we’ll have to skip this question. I’ll get the next one setup”",
-					"MISSING-text_three": "The bunny furiously grabs the buzzer and hurls it at the wall. _BREAK_ “It appears we’re _HIGHLIGHT_ experiencing some technical difficulties _HIGHLIGHT_, so we _HIGHLIGHT_ won’t be able to complete the quiz _HIGHLIGHT_. I’m sure our host can afford to _HIGHLIGHT_ give you 100 _HIGHLIGHT2_ fragments _HIGHLIGHT2_ _HIGHLIGHT_ as an apology.” _BREAK_ The bunny hands the party the _HIGHLIGHT2_ fragments _HIGHLIGHT2_, then signals to the door.",
-					"MISSING-text_four": "“The bunny tries clicking the button several times, but nothing happens. _BREAK_ “The _HIGHLIGHT_ last question doesn’t appear to be working _HIGHLIGHT_. As this is the host's fault, I’ll _HIGHLIGHT_ reward you the question _HIGHLIGHT_. So I’m happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room.",
-					"options": { "MISSING-next_question": "Next Question" }
+					"text_one": "바니걸이 버저를 연신 눌러대며 당황합니다. _BREAK_ “죄송합니다. 문제에 오류가 있는 것 같아서 이번 문제는 건너뛰어야겠어요. _BREAK_ “잠시만 기다려 주시면 다음 문제를 준비하겠습니다.”",
+					"text_two": "바니걸이 버저를 미친 듯이 두드리다가, 굳은 미소를 지으며 파티를 올려다봅니다. _BREAK_ “장비에 결함이 생긴 모양이네요. 이 문제는 건너뛰어야 할 것 같습니다. 다음 문제를 세팅할게요”",
+					"text_three": "바니걸이 화가 난 듯 버저를 움켜쥐고 벽에 내던집니다. _BREAK_ “아무래도 _HIGHLIGHT_ 기술적인 결함이 발생한 모양입니다 _HIGHLIGHT_. 더 이상 _HIGHLIGHT_ 퀴즈를 진행할 수 없게 되었습니다 _HIGHLIGHT_. 사과의 의미로 주최자께서 _HIGHLIGHT_ _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ 100개 _HIGHLIGHT_정도는 기꺼이 주실거예요.” _BREAK_ 바니걸이 파티에게 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 건네고 문쪽으로 안내합니다.",
+					"text_four": "“바니걸이 버튼을 여러 번 눌러보지만 아무 일도 일어나지 않습니다. _BREAK_ “_HIGHLIGHT_ 마지막 문제가 작동하지 않는 것 같습니다. _HIGHLIGHT_. 이건 주최자측의 잘못이므로, _HIGHLIGHT_ 이 문제는 맞힌 것으로 처리해 드리겠습니다 _HIGHLIGHT_. 약속대로 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개는 물론이고, _ARTIFACT_까지 드릴 수 있게 되어 정말 기쁩니다!”, 바니걸이 쾌활하게 웃으며 보상을 건네줍니다. _BREAK_ 퀴즈 우승을 축하드립니다. 다음에 또 즐겨주시기 바랍니다.” _BREAK_ 바니걸이 파티에게 인사하며 다음 방으로 가는 길을 안내합니다.",
+					"options": { "next_question": "다음 문제" }
 				}
 			},
 			"glitched_item": {
-				"MISSING-title": "Glitched Item",
+				"title": "오류 아이템",
 				"base": {
-					"MISSING-text": "A weird shape floats in the center of the room. The more the party looks at it the harder it is to see its shape. _BREAK_ As the party gets closer, it flickers and changes into a handful of _HIGHLIGHT2_ fragments _HIGHLIGHT2_, before flickering again turning into an _HIGHLIGHT2_ artifact _HIGHLIGHT2_. With no time to identify the artifact, it flickers again and a _HIGHLIGHT2_ rune _HIGHLIGHT2_ now floats in its place. _BREAK_ The object keeps changing, but with the right timing it should be possible to _HIGHLIGHT_ grab one of the items _HIGHLIGHT_.",
+					"text": "방 중앙에 이상한 모양의 물체가 떠 있습니다. 파티가 자세히 보려고 할수록 그 형태를 알아보기가 더욱 어려워집니다. _BREAK_ 일행이 더 가까지 다가가자, 물체는 깜빡이며 한줌의 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_으로 변하더니, 다시 한번 깜빡이며 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_로 변합니다. 아티팩트를 확인할 틈도 없이 다시 깜빡인 물체는 이제 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_이 되어 그 자리에 떠 있습니다. _BREAK_ 물체는 계속해서 변하고 있지만 타이밍만 잘 맞춘다면 _HIGHLIGHT_ 아이템 중 하나를 움켜쥘 수 _HIGHLIGHT_ 있을 것 같습니다.",
 					"option": {
-						"MISSING-grab_fragments": "Grab Fragments",
-						"MISSING-grab_artifact": "Grab Artifact",
-						"MISSING-grab_rune": "Grab Rune"
+						"grab_fragments": "파편을 움켜쥔다",
+						"grab_artifact": "아티팩트를 움켜쥔다",
+						"grab_rune": "룬을 움켜쥔다"
 					}
 				},
 				"result": {
-					"MISSING-text": "With a decisive strike, _NAME_ manages to grab the _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_, just as it was about to change. Luckily, it doesn't appear to be changing anymore",
-					"target_type": { "MISSING-fragments": "fragments", "MISSING-artifact": "artifact", "MISSING-rune": "rune" }
+					"text": "결정적인 순간 _NAME_은 아이템이 변하기 직전에 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_을 움켜쥐었습니다. 다행히도 아이템은 더 이상 변하지 않는 것 같습니다",
+					"target_type": { "fragments": "파편", "artifact": "아티팩트", "rune": "룬" }
 				}
 			},
 			"mystery_container": {
-				"MISSING-title": "Mystery Container",
+				"title": "수수께끼의 상자",
 				"base": {
-					"MISSING-text": "A strange container sits at the center of the room. As the party gets closer, they see it's _HIGHLIGHT_ filled with glitching items _HIGHLIGHT_, changing at random into everything from _HIGHLIGHT2_ knives _HIGHLIGHT2_ and _HIGHLIGHT2_ burning embers _HIGHLIGHT2_ to _HIGHLIGHT2_ flowers _HIGHLIGHT2_ and _HIGHLIGHT2_ plush animals _HIGHLIGHT2_. _BREAK_ Through the chaotic glitch of items an _HIGHLIGHT2_ artifact _HIGHLIGHT2_ pops up from time to time. With the right timing and luck _HIGHLIGHT_ it should be possible to grab one _HIGHLIGHT_.",
-					"option": { "MISSING-reach_in": "Have _NAME_ reach in", "MISSING-ignore": "Ignore the container" }
+					"text": "방 중앙에 이상한 상자가 놓여 있습니다. 파티가 다가가자 상자 안은 랜덤으로 _HIGHLIGHT2_ 칼 _HIGHLIGHT2_ 과 _HIGHLIGHT2_ 불타는 불씨 _HIGHLIGHT2_ 에서 _HIGHLIGHT2_ 꽃 _HIGHLIGHT2_ 과 _HIGHLIGHT2_ 봉제 인형 _HIGHLIGHT2_으로 계속 변하고 있는 _HIGHLIGHT_ 오류 아이템들로 가득 채워져 _HIGHLIGHT_ 있습니다. _BREAK_ 아이템들이 어지럽게 변하는 중에 가끔 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_의 형상이 튀어나옵니다. 타이밍과 운만 따라준다면 _HIGHLIGHT_ 하나를 움켜쥘 수 있을 것 같습니다_HIGHLIGHT_.",
+					"option": { "reach_in": "_NAME_에게 손을 넣게 한다", "ignore": "상자를 무시한다" }
 				},
 				"artifact_result": {
-					"MISSING-text": "_NAME_ manages to get a firm grasp on something and pulls out an _HIGHLIGHT2_ artifact _HIGHLIGHT2_. With the artifact removed, the glitching items appear to be a lot more aggressive, so _HIGHLIGHT_ none in the party wants to try reaching for another _HIGHLIGHT_."
+					"text": "_NAME_가 무언가를 꽉 움켜쥐더니 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_를 꺼내는 데 성공했습니다. 아티팩트가 빠져나가자 오류 아이템들이 훨씬 더 공격적으로 변하기 시작했고 _HIGHLIGHT_ 일행중 누구도 다시 손을 넣고 싶어하지 않았습니다 _HIGHLIGHT_."
 				},
 				"nothing_result": {
-					"MISSING-text": "`After roaming through the container, _NAME_ _HIGHLIGHT_ isn't able to find anything _HIGHLIGHT_ and pulls back their hand."
+					"text": "`상자 안을 휘저어 봤지만 _NAME_은 _HIGHLIGHT_ 아무것도 찾지 못하고 _HIGHLIGHT_ 손을 뺐습니다."
 				},
 				"damage_result": {
-					"MISSING-text": "_NAME_ quickly pulls back their hand, now covered in scraps, because _HIGHLIGHT_ the items transformed into less friendly shapes _HIGHLIGHT_."
+					"text": "_NAME_가 재빨리 손을 뺐지만 이미 상처투성이가 된 뒤였습니다. _HIGHLIGHT_ 아이템들이 위험한 형체로 변해버렸기 때문입니다 _HIGHLIGHT_."
 				},
 				"wipe_result": {
-					"MISSING-text": "_NAME_ quickly pulls back their hand, now covered in scraps, because _HIGHLIGHT_ the items in the box transformed into less friendly shapes _HIGHLIGHT_. _BREAK_ With _HIGHLIGHT_ no member of the party left standing, the dungeon has to be cut short _HIGHLIGHT_."
+					"text": "_NAME_가 재빨리 손을 뺐지만 이미 상처투성이가 된 뒤였습니다. _HIGHLIGHT_ 상자 안의 아이템들이 위험한 형체로 변해버렸기 때문입니다_HIGHLIGHT_. _BREAK_ _HIGHLIGHT_ 파티원 전원이 쓰러져 버렸고, 던전 탐험은 여기서 중단되었습니다 _HIGHLIGHT_."
 				},
 				"ignore_result": {
-					"MISSING-text": "The chaotic nature of the container seems too big a risk. So _HIGHLIGHT_ the party decides to continue on _HIGHLIGHT_."
+					"text": "상자의 혼란스러운 상태를 보니 위험 부담이 너무 커 보입니다. 그래서 _HIGHLIGHT_ 파티는 계속 진행하기로 결정합니다 _HIGHLIGHT_."
 				}
 			},
 			"offering_box": {
