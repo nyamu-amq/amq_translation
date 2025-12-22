@@ -3975,7 +3975,7 @@
 			"glitched_item": {
 				"title": "오류 아이템",
 				"base": {
-					"text": "방 중앙에 이상한 모양의 물체가 떠 있습니다. 파티가 자세히 보려고 할수록 그 형태를 알아보기가 더욱 어려워집니다. _BREAK_ 일행이 더 가까지 다가가자, 물체는 깜빡이며 한줌의 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_으로 변하더니, 다시 한번 깜빡이며 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_로 변합니다. 아티팩트를 확인할 틈도 없이 다시 깜빡인 물체는 이제 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_이 되어 그 자리에 떠 있습니다. _BREAK_ 물체는 계속해서 변하고 있지만 타이밍만 잘 맞춘다면 _HIGHLIGHT_ 아이템 중 하나를 움켜쥘 수 _HIGHLIGHT_ 있을 것 같습니다.",
+					"text": "방 중앙에 이상한 모양의 물체가 떠 있습니다. 파티가 자세히 보려고 할수록 그 형태를 알아보기가 더욱 어려워집니다. _BREAK_ 파티가 더 가까지 다가가자, 물체는 깜빡이며 한줌의 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_으로 변하더니, 다시 한번 깜빡이며 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_로 변합니다. 아티팩트를 확인할 틈도 없이 다시 깜빡인 물체는 이제 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_이 되어 그 자리에 떠 있습니다. _BREAK_ 물체는 계속해서 변하고 있지만 타이밍만 잘 맞춘다면 _HIGHLIGHT_ 아이템 중 하나를 움켜쥘 수 _HIGHLIGHT_ 있을 것 같습니다.",
 					"option": {
 						"grab_fragments": "파편을 움켜쥔다",
 						"grab_artifact": "아티팩트를 움켜쥔다",
@@ -3994,7 +3994,7 @@
 					"option": { "reach_in": "_NAME_에게 손을 넣게 한다", "ignore": "상자를 무시한다" }
 				},
 				"artifact_result": {
-					"text": "_NAME_가 무언가를 꽉 움켜쥐더니 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_를 꺼내는 데 성공했습니다. 아티팩트가 빠져나가자 오류 아이템들이 훨씬 더 공격적으로 변하기 시작했고 _HIGHLIGHT_ 일행중 누구도 다시 손을 넣고 싶어하지 않았습니다 _HIGHLIGHT_."
+					"text": "_NAME_가 무언가를 꽉 움켜쥐더니 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_를 꺼내는 데 성공했습니다. 아티팩트가 빠져나가자 오류 아이템들이 훨씬 더 공격적으로 변하기 시작했고 _HIGHLIGHT_ 파티원 중 누구도 다시 손을 넣고 싶어하지 않았습니다 _HIGHLIGHT_."
 				},
 				"nothing_result": {
 					"text": "`상자 안을 휘저어 봤지만 _NAME_은 _HIGHLIGHT_ 아무것도 찾지 못하고 _HIGHLIGHT_ 손을 뺐습니다."
@@ -4010,146 +4010,146 @@
 				}
 			},
 			"offering_box": {
-				"MISSING-title": "Offering Box",
+				"title": "새전함",
 				"base": {
-					"MISSING-text": "A _HIGHLIGHT_ wooden shrine offering box _HIGHLIGHT_ is oddly placed at the center of the room.",
-					"option": { "MISSING-fragments": "Throw in _NUMBER_ fragments", "MISSING-ignore": "Ignore the box" }
+					"text": "나무로 된 _HIGHLIGHT_ 신사의 새전함 _HIGHLIGHT_이 방 중앙에 뜬금없이 놓여 있습니다.",
+					"option": { "fragments": "파편을 _NUMBER_개 던져 넣는다", "ignore": "상자를 무시한다" }
 				},
 				"option_one": {
-					"MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box glows for a moment, before _HIGHLIGHT_ disappearing in a flash of light _HIGHLIGHT_."
+					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 잠시 빛나더니, 곧 _HIGHLIGHT_ 한줄기 빛과 함께 사라집니다 _HIGHLIGHT_."
 				},
 				"option_two": {
-					"MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box glows for a bit, before disappearing, leaving in its place the artifact: _ARTIFACT_"
+					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 잠시 빛을 내고 사라지면서, 그 자리에 아티팩트를 남깁니다: _ARTIFACT_"
 				},
 				"option_three": {
-					"MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box starts glowing, _HIGHLIGHT_ enveloping _NAME_ in a strong light. After a moment the light resides, the box is gone, but _NAME2_ is back on their feet _HIGHLIGHT_."
+					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 빛나기 시작하며 _HIGHLIGHT_ 강렬한 빛으로 _NAME_을 감쌉니다. 잠시 후 빛이 잦아들고 상자는 사라졌지만 _NAME2_가 다시 기운을 차리고 일어납니다 _HIGHLIGHT_."
 				},
 				"option_four": {
-					"MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box starts glowing, bathing the party in its warm light _HIGHLIGHT_ restoring some of their strength _HIGHLIGHT_, before the box disappears."
+					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 빛나기 시작하며 파티를 따스한 빛으로 감쌉니다. _HIGHLIGHT_ 파티의 체력이 어느정도 회복되고 _HIGHLIGHT_ 상자는 사라집니다."
 				},
 				"ignore_option": {
-					"MISSING-text": "The party walks past the box paying it no attention. Just as the last person passes by the box, _HIGHLIGHT_ a dark wave of energy _HIGHLIGHT_ rushes out of it engulfing the party. The wave disappears as quickly as it came, the box now gone, but _HIGHLIGHT_ the party feels strangely drained _HIGHLIGHT_."
+					"text": "파티는 상자에 눈길도 주지 않고 지나쳐 갑니다. 마지막 사람이 상자를 지나치는 순간 _HIGHLIGHT_ 어두운 에너지 파동 _HIGHLIGHT_이 뿜어져 나와 파티를 집어삼킵니다. 파동은 순식간에 사라지고 상자도 없어졌지만 _HIGHLIGHT_ 파티는 이상하게 체력이 빠져나간 것을 느낍니다 _HIGHLIGHT_."
 				}
 			},
 			"rare_hunter": {
-				"MISSING-title": "Rare Hunter",
+				"title": "희귀품 사냥꾼",
 				"base": {
-					"MISSING-one_artifact": "As the party enters the room, a pink haired girl wearing a white mage robe rush over to the party. _BREAK_ “Is that a _ARTIFACT_?” _BREAK_ The girl exclaims while bouncing around the party. _BREAK_ _HIGHLIGHT_ “You have to sell it to me!” _HIGHLIGHT_",
-					"MISSING-two_artifacts": "As the party enters the room, a pink haired girl wearing a white mage robe rush over to the party. _BREAK_ “Is that a _ARTIFACT_? And a _ARTIFACT2_?” _BREAK_ The girl exclaims while bouncing around the party. _BREAK_ “_HIGHLIGHT_ You have to sell them to me _HIGHLIGHT_… But I'm low on fragments… Argh, _HIGHLIGHT_ I'll have to make do with a single one _HIGHLIGHT_!”",
-					"MISSING-three_artifacts": "As the party enters the room, a pink haired girl wearing a white mage robe rush over to the party. _BREAK_ “Is that a _ARTIFACT_? And a _ARTIFACT2_? Where in the world did you find a _ARTIFACT3_?” _BREAK_ The girl exclaims while bouncing around the party. _BREAK_ “_HIGHLIGHT_ You have to sell them to me _HIGHLIGHT_… But I'm low on fragments… Argh, _HIGHLIGHT_ I'll have to make do with a single one _HIGHLIGHT_!”",
+					"one_artifact": "파티가 방에 들어서자 흰 마법사 로브를 입은 핑크색 머리의 소녀가 파티에게 달려옵니다. _BREAK_ “그거 _ARTIFACT_ 아니에요?” _BREAK_ 소녀가 파티 주변을 폴짝폴짝 뛰며 외칩니다. _BREAK_ _HIGHLIGHT_ “저한테 꼭 팔아주세요!” _HIGHLIGHT_",
+					"two_artifacts": "파티가 방에 들어서자 흰 마법사 로브를 입은 핑크색 머리의 소녀가 파티에게 달려옵니다. _BREAK_ “그거 _ARTIFACT_랑 _ARTIFACT2_ 아니에요?” _BREAK_ 소녀가 파티 주변을 폴짝폴짝 뛰며 외칩니다. _BREAK_ “_HIGHLIGHT_ 저한테 꼭 팔아주세요 _HIGHLIGHT_… 하지만 파편이 좀 모자란데… 으으, _HIGHLIGHT_ 어쩔 수 없이 하나만 골라야겠네요 _HIGHLIGHT_!”",
+					"three_artifacts": "파티가 방에 들어서자 흰 마법사 로브를 입은 핑크색 머리의 소녀가 파티에게 달려옵니다. _BREAK_ “그거 _ARTIFACT_랑 _ARTIFACT2_? 게다가 _ARTIFACT3_은 대체 어디서 찾으신 거예요?” _BREAK_ 소녀가 파티 주변을 폴짝폴짝 뛰며 외칩니다. _BREAK_ “_HIGHLIGHT_ 전부 저한테 팔아주세요 _HIGHLIGHT_… 하지만 파편이 좀 모자란데… 으으, _HIGHLIGHT_ 어쩔 수 없이 하나만 골라야겠네요 _HIGHLIGHT_!”",
 					"options": {
-						"MISSING-sell_artifact": "Sell _NAME_ for _NUMBER_ fragments",
-						"MISSING-sell_all": "Sell all _NUMBER_ artifacts for _NUMBER2_ fragments",
-						"MISSING-decline": "Decline her offer"
+						"sell_artifact": "_NAME_을 파편 _NUMBER_개에 판매한다",
+						"sell_all": "아티팩트 _NUMBER_개를 전부 파편 _NUMBER2_개에 판매한다",
+						"decline": "그녀의 제안을 거절한다"
 					}
 				},
 				"sell_one": {
-					"MISSING-text": "“Thanks, I’ll treasure it forever!” _BREAK_ The girl says, hugging the _ARTIFACT_ before rushing off."
+					"text": "“고마워요, 평생 소중하게 간직할게요!” _BREAK_ 소녀는 _ARTIFACT_을 껴안고 어디론가 급히 달려갑니다."
 				},
 				"sell_all": {
-					"MISSING-text": "“You're selling me all 3!? You guys rock! As thanks for being so awesome, _HIGHLIGHT_ you can have my _HIGHLIGHT_ _ARTIFACT_”. _BREAK_ The girl says, before rushing off with her new stash of artifacts."
+					"text": "“3개를 전부 저한테 파신다고요!? 여러분 정말 최고예요! 너무 멋진 분들이니까 보답으로 _HIGHLIGHT_ 제 _ARTIFACT_도 드릴게요 _HIGHLIGHT_.” _BREAK_ 소녀는 새로 얻은 아티팩트들을 챙겨들고 어디론가 급히 달려갑니다."
 				},
 				"decline": {
-					"MISSING-text": "“Not even a single one?” _BREAK_ The girl says looking downcast. Before bouncing back, exclaiming “no time for feeling down, there are more artifacts to find!” before rushing off."
+					"text": "“아무것도 안 파신다고요?” _BREAK_ 소녀는 시무룩한 표정을 지으며 말합니다. 하지만 곧 기운을 차리며 외칩니다 “풀 죽어 있을 때가 아니지. 찾아야 할 아티팩트가 더 있다구!” 소녀는 어디론가 급히 달려갑니다."
 				}
 			},
 			"the_goddess": {
-				"MISSING-title": "The Goddess",
+				"title": "여신",
 				"base": {
-					"MISSING-text": "As the party enter the room, they're _HIGHLIGHT_ greeted by a girl with long blue hair _HIGHLIGHT_ sitting in a large white chair. _BREAK_ “Greetings adventures, consider yourself blessed as your journey has led you to a place of peace. Step forward, and _HIGHLIGHT_ I'll share my divine powers to restore you. _HIGHLIGHT_”",
-					"options": { "MISSING-step_forward": "Have _NAME_ step forward" }
+					"text": "파티가 방에 들어서자 커다란 흰 의자에 앉아 있는 _HIGHLIGHT_ 긴 푸른 머리의 소녀가 맞이합니다 _HIGHLIGHT_. _BREAK_ “어서오세요 모험가분들. 당신들의 여정이 이 평화로운 곳으로 인도했으니 스스로를 축복받은 자로 여기셔도 좋습니다. 앞으로 나오세요. 여러분을 회복시키기 위해 _HIGHLIGHT_ 저의 신성한 능력을 나눠 드릴게요. _HIGHLIGHT_”",
+					"options": { "step_forward": "_NAME_가 앞으로 나선다" }
 				},
 				"result": {
-					"MISSING-text": "A _HIGHLIGHT_ divine light covers _NAME_ restoring their strength _HIGHLIGHT_. _BREAK_ As the party looks back to the girl, they're surprised to see that she's lazily snacking from a bag of potato chips. _BREAK_ “You're all still here? _HIGHLIGHT_ I already healed one of you _HIGHLIGHT_, how needy can you be… I've already done my part, so _HIGHLIGHT_ leave and get on with your quest _HIGHLIGHT_ or whatever it is that you're doing”."
+					"text": "_HIGHLIGHT_ 신성한 빛이 _NAME_을 감싸며 체력을 회복시킵니다 _HIGHLIGHT_. _BREAK_ 파티가 다시 소녀를 돌아봤을 때 그녀가 태연하게 감자칩 봉지를 뜯어 먹고 있는 모습에 깜짝 놀랍니다. _BREAK_ “뭐야, 아직도 있었네? _HIGHLIGHT_ 한 명 고쳐줬으면 됐지 _HIGHLIGHT_ 대체 얼마나 바라는 게 많은 거야… 난 할 일 다 했으니까 이제 _HIGHLIGHT_ 나가서 하던 퀘스트나 마저 하든가 말든가 _HIGHLIGHT_ 알아서 해.”"
 				}
 			},
 			"the_pedestal": {
-				"MISSING-title": "The Pedestal",
+				"title": "제단",
 				"base": {
-					"MISSING-text": "A _HIGHLIGHT_ lone pedestal _HIGHLIGHT_ sits at the center of the room. As the party gets closer to it some of their _HIGHLIGHT2_ artifacts _HIGHLIGHT2_ _HIGHLIGHT_ start glowing _HIGHLIGHT_, as if drawn to the pedestal.",
+					"text": "방 중앙에 _HIGHLIGHT_ 홀로 제단 _HIGHLIGHT_ 하나가 놓여 있습니다. 파티가 가까이 다가가자 마치 제단에 이끌리듯이 보유중인 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 중 일부가 _HIGHLIGHT_ 빛나기 시작합니다 _HIGHLIGHT_.",
 					"options": {
-						"MISSING-place_artifact": "Place _NAME_ on the pedestal",
-						"MISSING-ignore": "Ignore the pedestal"
+						"place_artifact": "제단 위에 _NAME_을 올려놓는다",
+						"ignore": "제단을 무시한다"
 					}
 				},
-				"ignore": { "MISSING-text": "The potential prize isn’t worth the artifact, the party continues onwards" },
+				"ignore": { "text": "보상이 아티팩트만큼 가치 있어 보이지 않습니다. 파티는 가던 길을 계속 갑니다" },
 				"transform": {
-					"MISSING-text": "The _ARTIFACT_ _HIGHLIGHT_ explodes into fragments _HIGHLIGHT_ floating above the pedestal, before suddenly swarming back to its center, _HIGHLIGHT_ transforming into the _ARTIFACT2_ artifact. _HIGHLIGHT_"
+					"text": "_ARTIFACT_가 제단 위에서 _HIGHLIGHT_ 파편으로 폭발하듯 흩어지더니 _HIGHLIGHT_, 갑자기 다시 중앙으로 모여서 _HIGHLIGHT_ _ARTIFACT2_ 아티팩트로 변합니다. _HIGHLIGHT_"
 				}
 			},
 			"the_ring": {
-				"MISSING-title": "The Ring",
+				"title": "링",
 				"base": {
-					"MISSING-text": "As the party enters the room, a _HIGHLIGHT_ sleazy man wearing a cap and an eye patch _HIGHLIGHT_ approaches the party. _BREAK_ “Perfect timing, we just had a slot open up. Any of you _HIGHLIGHT_ fancy a round in the ring _HIGHLIGHT_?” he says while gesturing to a boxing ring with an enemy _HIGHLIGHT2_ core _HIGHLIGHT2_ floating in it.",
-					"options": { "MISSING-enter_ring": "Have _NAME_ enter the ring", "MISSING-decline": "Decline the offer" }
+					"text": "파티가 방에 들어서자 _HIGHLIGHT_ 모자를 쓰고 안대를 찬 지저분한 남자 _HIGHLIGHT_가 다가옵니다. _BREAK_ “타이밍 죽이는군. 마침 한 자리가 비었거든. 당신 들 중에 _HIGHLIGHT_ 링 위에서 한판 붙어볼 사람 _HIGHLIGHT_ 있어?” 그가 적 _HIGHLIGHT2_ 코어 _HIGHLIGHT2_가 떠 있는 복싱 링을 가리키며 말합니다.",
+					"options": { "enter_ring": "_NAME_가 링에 오른다", "decline": "제안을 거절한다" }
 				},
 				"ignore": {
-					"MISSING-text": "“You ain’t never gonna win big with that attitude” the man grumbles as he heads back towards the ring."
+					"text": "“그런 태도로는 평생 큰 건 하나 못 건질 거다.” 남자가 투덜대며 다시 링으로 돌아갑니다."
 				}
 			},
 			"transmutation_circle": {
-				"MISSING-title": "Transmutation Circle",
+				"title": "연성진",
 				"base": {
-					"MISSING-text": "A _HIGHLIGHT_ mysterious circle with strange symbols and shapes _HIGHLIGHT_ drawn inside of it, sits at the center of the room. _BREAK_ As the party draws close to the circle _HIGHLIGHT_ a voice echoes across the room _HIGHLIGHT_: _BREAK_ “For something to be obtained, _HIGHLIGHT_ something of equal value must be surrendered _HIGHLIGHT_.”",
-					"MISSING-no_artifact": "an artifact",
+					"text": "방 중앙에 _HIGHLIGHT_ 기묘한 기호와 도형이 그려진 미스터리한 연성진 _HIGHLIGHT_이 놓여 있습니다. _BREAK_ 파티가 연성진에 가까이 다가가자 _HIGHLIGHT_ 방 안에 목소리가 울려 퍼집니다 _HIGHLIGHT_: _BREAK_ “무언가를 얻고 싶다면 _HIGHLIGHT_ 그와 대등한 대가를 치러야 할 것이다 _HIGHLIGHT_.”",
+					"no_artifact": "아티팩트",
 					"options": {
-						"MISSING-fragments": "Place _NUMBER_ fragments inside the circle",
-						"MISSING-artifact": "Place _NAME_ inside the circle",
-						"MISSING-step_inside": "Step inside the circle",
-						"MISSING-ignore": "Ignore the circle"
+						"fragments": "연성진 안에 파편 _NUMBER_개를 놓는다",
+						"artifact": "연성진 안에 _NAME_을 놓는다",
+						"step_inside": "연성진 안으로 걸어 들어간다",
+						"ignore": "연성진을 무시한다"
 					}
 				},
 				"ignore": {
-					"MISSING-text": "The party continues taking a wide swing around the circle, not wanting to take the risk."
+					"text": "파티는 위험을 감수하고 싶지 않아 연성진을 멀리 돌아서 갑니다."
 				},
 				"results": {
-					"MISSING-text_fragment": "A blinding light fills the room. _BREAK_ Once the light subsides the circle is gone together with the _HIGHLIGHT2_ fragments _HIGHLIGHT2_, in its place _NAME_ has appeared",
-					"MISSING-text_artifact": "A blinding light fills the room. _BREAK_ Once the light subsides the circle is gone together with the _ARTIFACT_, in its place _NAME_ has appeared",
-					"MISSING-text_life": "A blinding light fills the room and _HIGHLIGHT_ the entire party feels weaker _HIGHLIGHT_. _BREAK_ Once the light subsides the circle is gone, in its place _NAME_ has appeared",
+					"text_fragment": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_과 함께 사라지고, 그 자리에 _NAME_가 나타났습니다.",
+					"text_artifact": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _ARTIFACT_와 함께 사라지고, 그 자리에 _NAME_가 나타났습니다.",
+					"text_life": "눈이 멀듯한 빛이 방 안을 가득 채우고 _HIGHLIGHT_ 파티 전체가 약해지는 것을 느낍니다 _HIGHLIGHT_. _BREAK_ 빛이 가라앉자 연성진은 사라지고, 그 자리에 _NAME_가 나타났습니다.",
 					"rewards": {
-						"MISSING-fragment": "a stack of _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_",
-						"MISSING-artifact": "an _HIGHLIGHT2_ artifact _HIGHLIGHT2_"
+						"fragment": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개",
+						"artifact": "_HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_"
 					}
 				}
 			},
 			"wild_inventor": {
-				"MISSING-title": "Wild Inventor",
+				"title": "와일드 발명가",
 				"base": {
-					"MISSING-text": "A _HIGHLIGHT_ pink haired girl _HIGHLIGHT_ with a pair of large red goggles sits at a lone workbench, her eyes sparkle for a second when she notices the party, before rushing over. _BREAK_ “I just ran out of data _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but let me _HIGHLIGHT_ break down _HIGHLIGHT_ some of your _HIGHLIGHT2_ artifacts _HIGHLIGHT2_, and I’ll craft you some _HIGHLIGHT2_ runes _HIGHLIGHT2_!”",
-					"options": { "MISSING-artifact": "Give her the _NAME_", "MISSING-decline": "Decline her offer" }
+					"text": "커다란 빨간 고글을 쓴 _HIGHLIGHT_ 핑크색 머리 소녀 _HIGHLIGHT_가 혼자 작업실에 앉아 있습니다. 그녀는 파티를 발견하자 잠시 눈을 반짝이더니 곧장 달려옵니다. _BREAK_ “방금 데이터 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_이 다 떨어졌어요. 하지만 여러분의 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_를 _HIGHLIGHT_ 분해 _HIGHLIGHT_하게 해주시면, 제가 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_을 제작해 드릴게요!”",
+					"options": { "artifact": "그녀에게 _NAME_을 건네준다", "decline": "그녀의 제안을 거절한다" }
 				},
-				"base_decline": { "MISSING-text": "“Your loss, I’ll save my amazing babies for the next party.”" },
+				"base_decline": { "text": "“손해 보시는 거예요. 제 엄청난 아기들은 다음 파티를 위해 아껴둬야겠네요.”" },
 				"late_decline": {
-					"MISSING-text": "“Not going for the full set? You’ll regret that once you see how well my babies perform”"
+					"text": "“풀세트로 안 맞추시게요? 제 아기들이 얼마나 성능이 좋은지 보시면 후회하실 텐데”"
 				},
 				"artifact": {
-					"MISSING-text": "The girl grabs the _ARTIFACT_, returns to her workbench and starts hitting it with several tools no one has seen before. Within moments, she has the artifact changed into a _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ “I’m sure this baby will be a great help, so _HIGHLIGHT_ which _HIGHLIGHT2_ artifact _HIGHLIGHT2_ is next _HIGHLIGHT_?”"
+					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 생전 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ “이 아기가 분명 큰 도움이 될 거예요. 자 그럼 _HIGHLIGHT_ 다음은 어떤 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 차례인가요 _HIGHLIGHT_?”"
 				},
 				"all_done": {
-					"MISSING-text": "The girl grabs the _ARTIFACT_, returns to her workbench and starts hitting it with several tools no one has seen before. Within moments, she has the artifact changed into a _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ “That’s the last of my babies for now, make sure to drop by again in the future when you need more _HIGHLIGHT2_ runes _HIGHLIGHT2_!”"
+					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 생전 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ 지금 당장 드릴 수 있는 제 아기들은 이걸로 끝이에요. 나중에 더 많은 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_이 필요하면 꼭 다시 들러주세요!”"
 				}
 			}
 		},
 		"avatar_abilities": {
 			"akane": {
 				"standard": {
-					"MISSING-name": "Snake Charm",
-					"MISSING-description": "Gain a buff causing attacks to apply the charmed debuff",
-					"MISSING-badge_description": "Random chance to apply the charmed debuff on attacks"
+					"name": "뱀 부적",
+					"description": "공격시 매혹 디버프를 부여하는 버프를 획득합니다",
+					"badge_description": "공격시 일정 확률로 매혹 디버프를 부여합니다"
 				}
 			},
 			"akira": {
 				"standard": {
-					"MISSING-name": "Encore",
-					"MISSING-description": "Akira's next attack inflicts the encore debuff",
-					"MISSING-badge_description": "Random chance to inflict the encore debuff on attacks"
+					"name": "앙코르",
+					"description": "아키라의 다음 공격이 앙코르 디버프를 부여합니다",
+					"badge_description": "공격시 일정 확률로 앙코르 디버프를 부여합니다"
 				}
 			},
 			"alisa": {
 				"standard": {
-					"MISSING-name": "Weapon Master",
-					"MISSING-description": "Get a buff that empowers all offensive artifacts",
-					"MISSING-badge_description": "Random chance to empower offensive artifacts at beginning of turn"
+					"name": "무기 마스터",
+					"description": "모든 공격형 아티팩트를 강화하는 버프를 획득합니다",
+					"badge_description": "턴 시작시 일정 확률로 공격형 아티팩트를 강화합니다"
 				}
 			},
 			"asuka": {
@@ -4763,16 +4763,16 @@
 			}
 		},
 		"enemies": {
-			"MISSING-assassin": "Assassin",
-			"MISSING-bit_storm": "Bit Storm",
-			"MISSING-brute": "Brute",
-			"MISSING-caster": "Caster",
-			"MISSING-enemy_core": "Enemy Core",
-			"MISSING-energizer": "Energizer",
-			"MISSING-data_storm": "Data Storm",
-			"MISSING-orb": "Orb",
-			"MISSING-singularity": "Singularity",
-			"MISSING-the_creator": "The Creator"
+			"assassin": "암살자",
+			"bit_storm": "비트 스톰",
+			"brute": "야수",
+			"caster": "마법사",
+			"enemy_core": "적 코어",
+			"energizer": "에너자이저",
+			"data_storm": "데이터 스톰",
+			"orb": "오브",
+			"singularity": "싱귤래러티",
+			"the_creator": "창조자"
 		}
 	},
 	"tutorial": {
