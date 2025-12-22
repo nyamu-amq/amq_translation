@@ -77,250 +77,250 @@
 			"email_length": "메일주소는 255글자 이내로 입력해 주세요.",
 			"account_created": "_NAME_ 회원가입이 완료되었습니다.",
 			"country": {
-				"MISSING-afghanistan": "Afghanistan",
-				"MISSING-aland_islands": "Åland Islands",
-				"MISSING-albania": "Albania",
-				"MISSING-algeria": "Algeria",
-				"MISSING-american_samoa": "American Samoa",
-				"MISSING-andorra": "Andorra",
-				"MISSING-angola": "Angola",
-				"MISSING-anguilla": "Anguilla",
-				"MISSING-antarctica": "Antarctica",
-				"MISSING-antigua_and_barbuda": "Antigua and Barbuda",
-				"MISSING-argentina": "Argentina",
-				"MISSING-armenia": "Armenia",
-				"MISSING-aruba": "Aruba",
-				"MISSING-australia": "Australia",
-				"MISSING-austria": "Austria",
-				"MISSING-azerbaijan": "Azerbaijan",
-				"MISSING-bahamas": "Bahamas",
-				"MISSING-bahrain": "Bahrain",
-				"MISSING-bangladesh": "Bangladesh",
-				"MISSING-barbados": "Barbados",
-				"MISSING-belarus": "Belarus",
-				"MISSING-belgium": "Belgium",
-				"MISSING-belize": "Belize",
-				"MISSING-benin": "Benin",
-				"MISSING-bermuda": "Bermuda",
-				"MISSING-bhutan": "Bhutan",
-				"MISSING-bolivia": "Bolivia",
-				"MISSING-bosnia_and_herzegovina": "Bosnia and Herzegovina",
-				"MISSING-botswana": "Botswana",
-				"MISSING-bouvet_island": "Bouvet Island",
-				"MISSING-brazil": "Brazil",
-				"MISSING-british_indian_ocean_territory": "British Indian Ocean Territory",
-				"MISSING-brunei_darussalam": "Brunei Darussalam",
-				"MISSING-bulgaria": "Bulgaria",
-				"MISSING-burkina_faso": "Burkina Faso",
-				"MISSING-burundi": "Burundi",
-				"MISSING-cambodia": "Cambodia",
-				"MISSING-cameroon": "Cameroon",
-				"MISSING-canada": "Canada",
-				"MISSING-cape_verde": "Cape Verde",
-				"MISSING-cayman_islands": "Cayman Islands",
-				"MISSING-central_african_republic": "Central African Republic",
-				"MISSING-chad": "Chad",
-				"MISSING-chile": "Chile",
-				"MISSING-china": "China",
-				"MISSING-christmas_island": "Christmas Island",
-				"MISSING-cocos_keeling_islands": "Cocos (Keeling) Islands",
-				"MISSING-colombia": "Colombia",
-				"MISSING-comoros": "Comoros",
-				"MISSING-congo": "Congo",
-				"MISSING-congo_the_democratic_republic_of_the": "Congo, The Democratic Republic of The",
-				"MISSING-cook_islands": "Cook Islands",
-				"MISSING-costa_rica": "Costa Rica",
-				"MISSING-cote_divoire": "Cote D'ivoire",
-				"MISSING-croatia": "Croatia",
-				"MISSING-cuba": "Cuba",
-				"MISSING-cyprus": "Cyprus",
-				"MISSING-czech_republic": "Czech Republic",
-				"MISSING-denmark": "Denmark",
-				"MISSING-djibouti": "Djibouti",
-				"MISSING-dominica": "Dominica",
-				"MISSING-dominican_republic": "Dominican Republic",
-				"MISSING-ecuador": "Ecuador",
-				"MISSING-egypt": "Egypt",
-				"MISSING-el_salvador": "El Salvador",
-				"MISSING-equatorial_guinea": "Equatorial Guinea",
-				"MISSING-eritrea": "Eritrea",
-				"MISSING-estonia": "Estonia",
-				"MISSING-ethiopia": "Ethiopia",
-				"MISSING-falkland_islands_malvinas": "Falkland Islands (Malvinas)",
-				"MISSING-faroe_islands": "Faroe Islands",
-				"MISSING-fiji": "Fiji",
-				"MISSING-finland": "Finland",
-				"MISSING-france": "France",
-				"MISSING-french_guiana": "French Guiana",
-				"MISSING-french_polynesia": "French Polynesia",
-				"MISSING-french_southern_territories": "French Southern Territories",
-				"MISSING-gabon": "Gabon",
-				"MISSING-gambia": "Gambia",
-				"MISSING-georgia": "Georgia",
-				"MISSING-germany": "Germany",
-				"MISSING-ghana": "Ghana",
-				"MISSING-gibraltar": "Gibraltar",
-				"MISSING-greece": "Greece",
-				"MISSING-greenland": "Greenland",
-				"MISSING-grenada": "Grenada",
-				"MISSING-guadeloupe": "Guadeloupe",
-				"MISSING-guam": "Guam",
-				"MISSING-guatemala": "Guatemala",
-				"MISSING-guernsey": "Guernsey",
-				"MISSING-guinea": "Guinea",
-				"MISSING-guinea_bissau": "Guinea-bissau",
-				"MISSING-guyana": "Guyana",
-				"MISSING-haiti": "Haiti",
-				"MISSING-heard_island_and_mcdonald_islands": "Heard Island and Mcdonald Islands",
-				"MISSING-holy_see_vatican_city_state": "Holy See (Vatican City State)",
-				"MISSING-honduras": "Honduras",
-				"MISSING-hong_kong": "Hong Kong",
-				"MISSING-hungary": "Hungary",
-				"MISSING-iceland": "Iceland",
-				"MISSING-india": "India",
-				"MISSING-indonesia": "Indonesia",
-				"MISSING-iran_islamic_republic_of": "Iran, Islamic Republic of",
-				"MISSING-iraq": "Iraq",
-				"MISSING-ireland": "Ireland",
-				"MISSING-isle_of_man": "Isle of Man",
-				"MISSING-israel": "Israel",
-				"MISSING-italy": "Italy",
-				"MISSING-jamaica": "Jamaica",
-				"MISSING-japan": "Japan",
-				"MISSING-jersey": "Jersey",
-				"MISSING-jordan": "Jordan",
-				"MISSING-kazakhstan": "Kazakhstan",
-				"MISSING-kenya": "Kenya",
-				"MISSING-kiribati": "Kiribati",
-				"MISSING-north_korea": "North Korea",
-				"MISSING-south_korea": "South Korea",
-				"MISSING-kuwait": "Kuwait",
-				"MISSING-kyrgyzstan": "Kyrgyzstan",
-				"MISSING-lao_peoples_democratic_republic": "Lao People's Democratic Republic",
-				"MISSING-latvia": "Latvia",
-				"MISSING-lebanon": "Lebanon",
-				"MISSING-lesotho": "Lesotho",
-				"MISSING-liberia": "Liberia",
-				"MISSING-libyan": "Libyan",
-				"MISSING-liechtenstein": "Liechtenstein",
-				"MISSING-lithuania": "Lithuania",
-				"MISSING-luxembourg": "Luxembourg",
-				"MISSING-macao": "Macao",
-				"MISSING-macedonia_republic_of_north": "Macedonia, Republic of North",
-				"MISSING-madagascar": "Madagascar",
-				"MISSING-malawi": "Malawi",
-				"MISSING-malaysia": "Malaysia",
-				"MISSING-maldives": "Maldives",
-				"MISSING-mali": "Mali",
-				"MISSING-malta": "Malta",
-				"MISSING-marshall_islands": "Marshall Islands",
-				"MISSING-martinique": "Martinique",
-				"MISSING-mauritania": "Mauritania",
-				"MISSING-mauritius": "Mauritius",
-				"MISSING-mayotte": "Mayotte",
-				"MISSING-mexico": "Mexico",
-				"MISSING-micronesia_federated_states_of": "Micronesia, Federated States of",
-				"MISSING-moldova_republic_of": "Moldova, Republic of",
-				"MISSING-monaco": "Monaco",
-				"MISSING-mongolia": "Mongolia",
-				"MISSING-montenegro": "Montenegro",
-				"MISSING-montserrat": "Montserrat",
-				"MISSING-morocco": "Morocco",
-				"MISSING-mozambique": "Mozambique",
-				"MISSING-myanmar": "Myanmar",
-				"MISSING-namibia": "Namibia",
-				"MISSING-nauru": "Nauru",
-				"MISSING-nepal": "Nepal",
-				"MISSING-netherlands": "Netherlands",
-				"MISSING-netherlands_antilles": "Netherlands Antilles",
-				"MISSING-new_caledonia": "New Caledonia",
-				"MISSING-new_zealand": "New Zealand",
-				"MISSING-nicaragua": "Nicaragua",
-				"MISSING-niger": "Niger",
-				"MISSING-nigeria": "Nigeria",
-				"MISSING-niue": "Niue",
-				"MISSING-norfolk_island": "Norfolk Island",
-				"MISSING-northern_mariana_islands": "Northern Mariana Islands",
-				"MISSING-norway": "Norway",
-				"MISSING-oman": "Oman",
-				"MISSING-pakistan": "Pakistan",
-				"MISSING-palau": "Palau",
-				"MISSING-palestinian_territory": "Palestinian Territory",
-				"MISSING-panama": "Panama",
-				"MISSING-papua_new_guinea": "Papua New Guinea",
-				"MISSING-paraguay": "Paraguay",
-				"MISSING-peru": "Peru",
-				"MISSING-philippines": "Philippines",
-				"MISSING-pitcairn": "Pitcairn",
-				"MISSING-poland": "Poland",
-				"MISSING-portugal": "Portugal",
-				"MISSING-puerto_rico": "Puerto Rico",
-				"MISSING-qatar": "Qatar",
-				"MISSING-reunion": "Reunion",
-				"MISSING-romania": "Romania",
-				"MISSING-russian_federation": "Russian Federation",
-				"MISSING-rwanda": "Rwanda",
-				"MISSING-saint_helena": "Saint Helena",
-				"MISSING-saint_kitts_and_nevis": "Saint Kitts and Nevis",
-				"MISSING-saint_lucia": "Saint Lucia",
-				"MISSING-saint_pierre_and_miquelon": "Saint Pierre and Miquelon",
-				"MISSING-saint_vincent_and_the_grenadines": "Saint Vincent and The Grenadines",
-				"MISSING-samoa": "Samoa",
-				"MISSING-san_marino": "San Marino",
-				"MISSING-sao_tome_and_principe": "Sao Tome and Principe",
-				"MISSING-saudi_arabia": "Saudi Arabia",
-				"MISSING-senegal": "Senegal",
-				"MISSING-serbia": "Serbia",
-				"MISSING-seychelles": "Seychelles",
-				"MISSING-sierra_leone": "Sierra Leone",
-				"MISSING-singapore": "Singapore",
-				"MISSING-slovakia": "Slovakia",
-				"MISSING-slovenia": "Slovenia",
-				"MISSING-solomon_islands": "Solomon Islands",
-				"MISSING-somalia": "Somalia",
-				"MISSING-south_africa": "South Africa",
-				"MISSING-south_georgia_and_the_south_sandwich_islands": "South Georgia and The South Sandwich Islands",
-				"MISSING-spain": "Spain",
-				"MISSING-sri_lanka": "Sri Lanka",
-				"MISSING-sudan": "Sudan",
-				"MISSING-suriname": "Suriname",
-				"MISSING-svalbard_and_jan_mayen": "Svalbard and Jan Mayen",
-				"MISSING-swaziland": "Swaziland",
-				"MISSING-sweden": "Sweden",
-				"MISSING-switzerland": "Switzerland",
-				"MISSING-syrian_arab_republic": "Syrian Arab Republic",
-				"MISSING-taiwan": "Taiwan",
-				"MISSING-tajikistan": "Tajikistan",
-				"MISSING-tanzania_united_republic_of": "Tanzania, United Republic of",
-				"MISSING-thailand": "Thailand",
-				"MISSING-timor_leste": "Timor-leste",
-				"MISSING-togo": "Togo",
-				"MISSING-tokelau": "Tokelau",
-				"MISSING-tonga": "Tonga",
-				"MISSING-trinidad_and_tobago": "Trinidad and Tobago",
-				"MISSING-tunisia": "Tunisia",
-				"MISSING-turkey": "Turkey",
-				"MISSING-turkmenistan": "Turkmenistan",
-				"MISSING-turks_and_caicos_islands": "Turks and Caicos Islands",
-				"MISSING-tuvalu": "Tuvalu",
-				"MISSING-uganda": "Uganda",
-				"MISSING-ukraine": "Ukraine",
-				"MISSING-united_arab_emirates": "United Arab Emirates",
-				"MISSING-united_kingdom": "United Kingdom",
-				"MISSING-united_states": "United States",
-				"MISSING-united_states_minor_outlying_islands": "United States Minor Outlying Islands",
-				"MISSING-uruguay": "Uruguay",
-				"MISSING-uzbekistan": "Uzbekistan",
-				"MISSING-vanuatu": "Vanuatu",
-				"MISSING-venezuela": "Venezuela",
-				"MISSING-viet_nam": "Viet Nam",
-				"MISSING-virgin_islands_british": "Virgin Islands, British",
-				"MISSING-virgin_islands_us": "Virgin Islands, U.S.",
-				"MISSING-wallis_and_futuna": "Wallis and Futuna",
-				"MISSING-western_sahara": "Western Sahara",
-				"MISSING-yemen": "Yemen",
-				"MISSING-zambia": "Zambia",
-				"MISSING-zimbabwe": "Zimbabwe"
+				"afghanistan": "아프가니스탄",
+				"aland_islands": "올란드 제도",
+				"albania": "알바니아",
+				"algeria": "알제리",
+				"american_samoa": "미국령 사모아",
+				"andorra": "안도라",
+				"angola": "앙골라",
+				"anguilla": "앵귈라",
+				"antarctica": "남극",
+				"antigua_and_barbuda": "안티구아 바부다",
+				"argentina": "아르헨티나",
+				"armenia": "아르메니아",
+				"aruba": "아루바",
+				"australia": "호주",
+				"austria": "오스트리아",
+				"azerbaijan": "아제르바이잔",
+				"bahamas": "바하마",
+				"bahrain": "바레인",
+				"bangladesh": "방글라데시",
+				"barbados": "바베이도스",
+				"belarus": "벨라루스",
+				"belgium": "벨기에",
+				"belize": "벨리즈",
+				"benin": "베냉",
+				"bermuda": "버뮤다",
+				"bhutan": "부탄",
+				"bolivia": "볼리비아",
+				"bosnia_and_herzegovina": "보스니아 헤르체고비나",
+				"botswana": "보츠와나",
+				"bouvet_island": "부베섬",
+				"brazil": "브라질",
+				"british_indian_ocean_territory": "영국령 인도양 지역",
+				"brunei_darussalam": "브루나이",
+				"bulgaria": "불가리아",
+				"burkina_faso": "부르키나파소",
+				"burundi": "부룬디",
+				"cambodia": "캄보디아",
+				"cameroon": "카메룬",
+				"canada": "캐나다",
+				"cape_verde": "카보베르데",
+				"cayman_islands": "케이멘 제도",
+				"central_african_republic": "중앙아프리카 공화국",
+				"chad": "차드",
+				"chile": "칠레",
+				"china": "중국",
+				"christmas_island": "크리스마스 섬",
+				"cocos_keeling_islands": "코코스 제도",
+				"colombia": "콜롬비아",
+				"comoros": "코모로",
+				"congo": "콩고",
+				"congo_the_democratic_republic_of_the": "콩고 민주 공화국",
+				"cook_islands": "쿸 제도",
+				"costa_rica": "코스타리카",
+				"cote_divoire": "코트디부아르",
+				"croatia": "크로아티아",
+				"cuba": "쿠바",
+				"cyprus": "키프로스",
+				"czech_republic": "체코",
+				"denmark": "덴마크",
+				"djibouti": "지부티",
+				"dominica": "도미니카 연방",
+				"dominican_republic": "도미니카 공화국",
+				"ecuador": "에콰도르",
+				"egypt": "이집트",
+				"el_salvador": "엘살바도르",
+				"equatorial_guinea": "적도 기니",
+				"eritrea": "에리트레아",
+				"estonia": "에스토니아",
+				"ethiopia": "에티오피아",
+				"falkland_islands_malvinas": "포클랜드 제도",
+				"faroe_islands": "페로 제도",
+				"fiji": "피지",
+				"finland": "핀란드",
+				"france": "프랑스",
+				"french_guiana": "프랑스령 기아나",
+				"french_polynesia": "프랑스령 폴리네시아",
+				"french_southern_territories": "프랑스령 남부 및 남극 지역",
+				"gabon": "가봉",
+				"gambia": "감비아",
+				"georgia": "조지아",
+				"germany": "독일",
+				"ghana": "가나",
+				"gibraltar": "지브롤터",
+				"greece": "그리스",
+				"greenland": "그린란드",
+				"grenada": "그레나다",
+				"guadeloupe": "과들루프",
+				"guam": "괌",
+				"guatemala": "과테말라",
+				"guernsey": "건지",
+				"guinea": "기니",
+				"guinea_bissau": "기니비사우",
+				"guyana": "가이아나",
+				"haiti": "아이티",
+				"heard_island_and_mcdonald_islands": "허드섬 맥도널드 제도",
+				"holy_see_vatican_city_state": "바티칸 시국",
+				"honduras": "온두라스",
+				"hong_kong": "홍콩",
+				"hungary": "헝가리",
+				"iceland": "아이슬란드",
+				"india": "인도",
+				"indonesia": "인도네시아",
+				"iran_islamic_republic_of": "이란",
+				"iraq": "이라크",
+				"ireland": "아일랜드",
+				"isle_of_man": "맨섬",
+				"israel": "이스라엘",
+				"italy": "이탈리아",
+				"jamaica": "자메이카",
+				"japan": "일본",
+				"jersey": "저지",
+				"jordan": "요르단",
+				"kazakhstan": "카자흐스탄",
+				"kenya": "케냐",
+				"kiribati": "키리바시",
+				"north_korea": "북한",
+				"south_korea": "대한민국",
+				"kuwait": "쿠웨이트",
+				"kyrgyzstan": "키르기스스탄",
+				"lao_peoples_democratic_republic": "라오스",
+				"latvia": "라트비아",
+				"lebanon": "레바논",
+				"lesotho": "레소토",
+				"liberia": "리베리아",
+				"libyan": "리비아",
+				"liechtenstein": "리히텐슈타인",
+				"lithuania": "리투아니아",
+				"luxembourg": "룩셈부르크",
+				"macao": "마카오",
+				"macedonia_republic_of_north": "북마케도니아",
+				"madagascar": "마다가스카르",
+				"malawi": "말라위",
+				"malaysia": "말레이시아",
+				"maldives": "몰디브",
+				"mali": "말리",
+				"malta": "몰타",
+				"marshall_islands": "마셜 제도",
+				"martinique": "마르티니크",
+				"mauritania": "모리타니",
+				"mauritius": "미로셔스",
+				"mayotte": "마요트",
+				"mexico": "멕시코",
+				"micronesia_federated_states_of": "미크로네시아 연방",
+				"moldova_republic_of": "몰도바",
+				"monaco": "모나코",
+				"mongolia": "몽골",
+				"montenegro": "몬테네그로",
+				"montserrat": "몬트세랫",
+				"morocco": "모로코",
+				"mozambique": "모잠비크",
+				"myanmar": "미얀마",
+				"namibia": "나미비아",
+				"nauru": "나우루",
+				"nepal": "네팔",
+				"netherlands": "네덜란드",
+				"netherlands_antilles": "네덜란드령 안틸레스",
+				"new_caledonia": "뉴칼레도니아",
+				"new_zealand": "뉴질랜드",
+				"nicaragua": "니카라과",
+				"niger": "니제르",
+				"nigeria": "나이지리아",
+				"niue": "니우에",
+				"norfolk_island": "노퍽섬",
+				"northern_mariana_islands": "북마리아나 제도",
+				"norway": "노르웨이",
+				"oman": "오만",
+				"pakistan": "파키스탄",
+				"palau": "팔라우",
+				"palestinian_territory": "팔레스타인 영토",
+				"panama": "파나마",
+				"papua_new_guinea": "파푸아뉴기니",
+				"paraguay": "파라과이",
+				"peru": "페루",
+				"philippines": "필리핀",
+				"pitcairn": "핏케언 제도",
+				"poland": "폴란드",
+				"portugal": "포르투갈",
+				"puerto_rico": "푸에르토리코",
+				"qatar": "카타르",
+				"reunion": "레위니옹",
+				"romania": "루마니아",
+				"russian_federation": "러시아",
+				"rwanda": "르완다",
+				"saint_helena": "세인트헬레나",
+				"saint_kitts_and_nevis": "세인트키츠 네비스",
+				"saint_lucia": "세인트루시아",
+				"saint_pierre_and_miquelon": "세인트피에르 미클롱",
+				"saint_vincent_and_the_grenadines": "세인트빈센트 그레나딘",
+				"samoa": "사모아",
+				"san_marino": "산마리노",
+				"sao_tome_and_principe": "상투메 프린시페",
+				"saudi_arabia": "사우디아라비아",
+				"senegal": "세네갈",
+				"serbia": "세르비아",
+				"seychelles": "세이셀",
+				"sierra_leone": "시에라리온",
+				"singapore": "싱가포르",
+				"slovakia": "슬로바키아",
+				"slovenia": "슬로베니아",
+				"solomon_islands": "솔로몬 제도",
+				"somalia": "소말리아",
+				"south_africa": "남아프리카 공화국",
+				"south_georgia_and_the_south_sandwich_islands": "사우스조지아 사우스샌드위치 제도",
+				"spain": "스페인",
+				"sri_lanka": "스리랑카",
+				"sudan": "수단",
+				"suriname": "수리남",
+				"svalbard_and_jan_mayen": "스발바르 얀마옌 제도",
+				"swaziland": "에스와티니",
+				"sweden": "스웨덴",
+				"switzerland": "스위스",
+				"syrian_arab_republic": "시리아",
+				"taiwan": "대만",
+				"tajikistan": "타지키스탄",
+				"tanzania_united_republic_of": "탄자니아",
+				"thailand": "태국",
+				"timor_leste": "동티모르",
+				"togo": "토고",
+				"tokelau": "토켈라우",
+				"tonga": "통가",
+				"trinidad_and_tobago": "트리니다드 토바고",
+				"tunisia": "튀니지",
+				"turkey": "튀르키예",
+				"turkmenistan": "투르크메니스탄",
+				"turks_and_caicos_islands": "터크스 케이커스 제도",
+				"tuvalu": "투발루",
+				"uganda": "우간다",
+				"ukraine": "우크라이나",
+				"united_arab_emirates": "아랍에미리트",
+				"united_kingdom": "영국",
+				"united_states": "미국",
+				"united_states_minor_outlying_islands": "미국령 군소 제도",
+				"uruguay": "우루과이",
+				"uzbekistan": "우즈베키스탄",
+				"vanuatu": "바누아투",
+				"venezuela": "베네수엘라",
+				"viet_nam": "베트남",
+				"virgin_islands_british": "영국령 버진아일랜드",
+				"virgin_islands_us": "미국령 버진아일랜드",
+				"wallis_and_futuna": "왈리스 푸투나",
+				"western_sahara": "서사하라",
+				"yemen": "예멘",
+				"zambia": "잠비아",
+				"zimbabwe": "짐바브웨"
 			}
 		},
 		"guest_account": {
@@ -329,7 +329,8 @@
 			"complete_registration": "등록 완료",
 			"complete_registration_message": "등록을 완료하시려면 _BOLD_ _EMAIL_ _BOLD_로 발송된 링크를 클릭해서 인증해 주세요."
 		},
-		"cookie_disclaimer": "이 웹사이트는 배경음악 음량이나 최근 로그인 아이디 등의 로컬 설정을 저장하기 위해 쿠키를 사용합니다. 사이트에서 사용하는 제3자의 서비스도 쿠키를 사용할 수 있습니다. 자세한 내용은 개인정보처리방침의 쿠키 항목을 확인해 주세요. 사이트를 계속 이용하시면 쿠키 사용에 동의하시는 것으로 간주합니다."
+		"cookie_disclaimer": "이 웹사이트는 배경음악 음량이나 최근 로그인 아이디 등의 로컬 설정을 저장하기 위해 쿠키를 사용합니다. 사이트에서 사용하는 제3자의 서비스도 쿠키를 사용할 수 있습니다. 자세한 내용은 개인정보처리방침의 쿠키 항목을 확인해 주세요. 사이트를 계속 이용하시면 쿠키 사용에 동의하시는 것으로 간주합니다.",
+		"cookie_learn_more": "더 알아보기"
 	},
 	"login_page": {
 		"ui": {
@@ -419,9 +420,9 @@
 		"ui": {
 			"news": "뉴스",
 			"stay_connected": "소셜 미디어",
-			"merch_store": "공식 스토어",
 			"song_library": "노래 정보 탐색",
-			"leaderboard": "리더보드"
+			"leaderboard": "리더보드",
+			"merch": "상품",
 		},
 		"carousel": {
 			"social_promo": "디스코드와 패트리온에서 AMQ를 팔로우하고 무료 티켓을 받으세요!",
@@ -524,7 +525,7 @@
 		},
 		"ranked_description": {
 			"title": "랭크 게임 모드",
-			"description": "랭크 게임에 참여하여 친구 및 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 포인트를 획득하여 새로운 독점 보상을 잠금 해제하고, 매월 말에 개최되는 지역 챔피언십에 도전할 기회를 얻을 수 있습니다. _BREAK_ 랭크 게임에 참가하려면 레벨 10 이상이어야 합니다.",
+			"description": "랭크 게임에 참여하여 친구 및 AMQ 커뮤니티와 실력을 겨뤄보세요. 랭크 포인트를 획득하여 새로운 독점 보상을 잠금해제하고, 매월 말에 개최되는 지역 챔피언십에 도전할 기회를 얻을 수 있습니다. _BREAK_ 랭크 게임에 참가하려면 레벨 10 이상이어야 합니다.",
 			"how_it_works": "진행 방식",
 			"regions": "지역",
 			"region_description": "랭크 게임은 세 지역(서부, 중부, 동부)으로 나뉘어 운영됩니다. 각 지역은 리더보드, 시작 시간, 챔피언십이 모두 개별적으로 운영됩니다. 플레이어는 모든 지역의 랭크 게임에 참가할 수 있지만 획득한 랭크 포인트는 해당 지역에만 집계 누적됩니다.",
@@ -593,7 +594,7 @@
 		"game_mode": {
 			"title": "게임 모드",
 			"solo": { "title": "싱글 플레이", "description": "나만의 방식으로 혼자 플레이" },
-			"multiplayer": { "title": "멀티 플레이", "description": "친구나 다른 플레이어들과 함께 플레이" },
+			"multiplayer": { "title": "멀티 플레이어", "description": "친구나 다른 플레이어들과 함께 플레이" },
 			"community": {
 				"title": "커뮤니티",
 				"description": "다른 플레이어들이 만든 퀴즈를 플레이하거나 직접 만든 퀴즈를 공유"
@@ -603,6 +604,25 @@
 				"title": "넥서스",
 				"description": "싱글 플레이 또는 친구와 함께 독특한 로그라이크 퀴즈 모드 넥서스 던전에 도전"
 			}
+		},
+		"amq_funding": {
+			"title": "AMQ 후원",
+			"month": {
+				"january": "1월 결과",
+				"february": "2월 결과",
+				"march": "3월 결과",
+				"april": "4월 결과",
+				"may": "5월 결과",
+				"june": "6월 결과",
+				"july": "7월 결과",
+				"august": "8월 결과",
+				"september": "9월 결과",
+				"october": "10월 결과",
+				"november": "11월 결과",
+				"december": "12월 결과"
+			},
+			"yearly": "연간 결과",
+			"description": "지난달 및 올해 전체 후원 결과입니다. AMQ는 전적으로 커뮤니티의 후원을 통해 운영되며 이것으로 서버 비용과 개발비를 충당하고 있습니다. 수익금 전액은 게임의 개선과 확장을 위해 사용됩니다. 여러분의 많은 성원에 진심으로 감사드립니다!"
 		}
 	},
 	"menu_bar": {
@@ -716,17 +736,17 @@
 		"name_effects_entries": {
 			"challenger_color": {
 				"name": "도전자",
-				"description": "지난달 랭크 게임 챔피언십에 진출한 경우 잠금 해제됩니다."
+				"description": "지난달 랭크 게임 챔피언십에 진출한 경우 잠금해제됩니다."
 			},
 			"challenger_glow": {
 				"name": "도전자",
-				"description": "지난달 랭크 게임 챔피언십 상위 50위까지 잠금 해제됩니다."
+				"description": "지난달 랭크 게임 챔피언십 상위 50위까지 잠금해제됩니다."
 			},
-			"patreon_color": { "name": "패트리온", "description": "패트리온 레벨3 이상 후원자에게 잠금 해제됩니다." },
-			"patreon_glow": { "name": "패트리온", "description": "패트리온 레벨4 이상 후원자에게 잠금 해제됩니다." },
-			"month_patreon_current": "패트리온 레벨6 이상 후원자와 이번 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다.",
-			"month_patreon_previous": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다.",
-			"month_patreon_previous_unlocked": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금 해제됩니다. 당신은 출시된 달에 후원하셨습니다."
+			"patreon_color": { "name": "패트리온", "description": "패트리온 레벨3 이상 후원자에게 잠금해제됩니다." },
+			"patreon_glow": { "name": "패트리온", "description": "패트리온 레벨4 이상 후원자에게 잠금해제됩니다." },
+			"month_patreon_current": "패트리온 레벨6 이상 후원자와 이번 달에 후원한 레벨5 이상 후원자에게 잠금해제됩니다.",
+			"month_patreon_previous": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금해제됩니다.",
+			"month_patreon_previous_unlocked": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금해제됩니다. 당신은 출시된 달에 후원하셨습니다."
 		}
 	},
 	"badges": {
@@ -769,7 +789,7 @@
 			},
 			"description": "AMQ 패트리온 후원자"
 		},
-		"avatar": { "name": "_NAME_ 배지", "description": "_NAME_의 스킨이나 색상을 10개 잠금 해제" },
+		"avatar": { "name": "_NAME_ 배지", "description": "_NAME_의 스킨이나 색상을 10개 잠금해제" },
 		"mod": {
 			"name": { "game": "AMQ 운영자", "jam": "AMQ 잼 모드 운영자" },
 			"description": { "game": "AMQ 운영팀 일원", "jam": "AMQ 잼 모드 운영팀 일원" }
@@ -1036,7 +1056,7 @@
 		"open_all": "전부 펼침",
 		"rhythm": {
 			"title": "리듬",
-			"description": "티켓 시스템에서 중복된 보상을 뽑을 때마다 획득하는 화폐입니다. 이 화폐를 사용하여 티켓 보상을 잠금 해제할 수 있습니다.",
+			"description": "티켓 시스템에서 중복된 보상을 뽑을 때마다 획득하는 화폐입니다. 이 화폐를 사용하여 티켓 보상을 잠금해제할 수 있습니다.",
 			"duplicate": "중복 보상으로 리듬 획득"
 		},
 		"resonance_system": {
@@ -1052,11 +1072,11 @@
 			"target_set": "천장 목표 설정 완료",
 			"how_it_works": {
 				"title": "이용 방법",
-				"description": "상점 내 에픽 또는 전설 아바타/스킨을 목표로 설정할 수 있으며 티켓 시스템에서 뽑기를 진행할 때마다 해당 목표에 대한 포인트를 획득합니다. 만약 아바타 토큰을 사용하여 뽑기를 진행하면 두 배의 포인트를 획득합니다. _BREAK_ 충분한 포인트(에픽 200점, 전설 500점)를 모으면 목표가 잠금 해제됩니다! _BREAK_ 목표는 언제든지 변경할 수 있지만 변경하면 기존 획득 포인트가 절반으로 감소합니다. _BREAK_ 시즌 한정/기간 한정 아바타도 목표로 설정할 수 있지만 해당 아바타를 뽑을 수 있는 기간 중에만 포인트를 획득할 수 있습니다."
+				"description": "상점 내 에픽 또는 전설 아바타/스킨을 목표로 설정할 수 있으며 티켓 시스템에서 뽑기를 진행할 때마다 해당 목표에 대한 포인트를 획득합니다. 만약 아바타 토큰을 사용하여 뽑기를 진행하면 두 배의 포인트를 획득합니다. _BREAK_ 충분한 포인트(에픽 200점, 전설 500점)를 모으면 목표가 잠금해제됩니다! _BREAK_ 목표는 언제든지 변경할 수 있지만 변경하면 기존 획득 포인트가 절반으로 감소합니다. _BREAK_ 시즌 한정/기간 한정 아바타도 목표로 설정할 수 있지만 해당 아바타를 뽑을 수 있는 기간 중에만 포인트를 획득할 수 있습니다."
 			},
 			"set_target_prompt": {
 				"title": "이 스킨을 천장 목표로 설정하시겠습니까?",
-				"description": "티켓 뽑기를 통해 이 아바타/스킨을 확정적으로 잠금 해제할 포인트를 획득합니다. 목표는 변경할 수 있으며 변경하면 획득한 천장 포인트의 50%가 차감됩니다.",
+				"description": "티켓 뽑기를 통해 이 아바타/스킨을 확정적으로 잠금해제할 포인트를 획득합니다. 목표는 변경할 수 있으며 변경하면 획득한 천장 포인트의 50%가 차감됩니다.",
 				"confirm_button": "목표 설정"
 			},
 			"seasonal_target_prompt": {
@@ -1075,7 +1095,7 @@
 			},
 			"resonance_limit_warning": {
 				"title": "천장 한계 도달",
-				"description": "획득 가능한 에픽 또는 전설 아바타/스킨을 목표로 설정하고 확정적인 잠금 해제를 위한 포인트를 획득하세요. 목표가 설정되어 있지 않으면 포인트를 얻을 수 없습니다. 자세한 내용은 왼쪽에 있는 목표 탭에 마우스커서를 올려 확인하세요."
+				"description": "획득 가능한 에픽 또는 전설 아바타/스킨을 목표로 설정하고 확정적인 잠금해제를 위한 포인트를 획득하세요. 목표가 설정되어 있지 않으면 포인트를 얻을 수 없습니다. 자세한 내용은 왼쪽에 있는 목표 탭에 마우스커서를 올려 확인하세요."
 			},
 			"resonance_different_target_warning": {
 				"title": "천장 목표 불일치",
@@ -1083,7 +1103,7 @@
 			}
 		},
 		"favorites": {
-			"no_favorite_selected": "즐겨찾기가 선택되지 않음 _BREAK_ 잠금 해제된 아바타의 _BREAK_ _ICON_ 을 클릭해서 즐겨찾기를 설정하세요",
+			"no_favorite_selected": "즐겨찾기가 선택되지 않음 _BREAK_ 잠금해제된 아바타의 _BREAK_ _ICON_ 을 클릭해서 즐겨찾기를 설정하세요",
 			"auto_switch": {
 				"description": "각 게임 종료시마다 즐겨찾기로 설정된 아바타 중 하나로 자동 전환합니다.",
 				"auto_switch": "자동 전환",
@@ -1091,10 +1111,10 @@
 			}
 		},
 		"filters": {
-			"locked": { "title": "잠김", "description": "잠금 해제되지 않은 콘텐츠 표시" },
-			"unlocked": { "title": "잠금 해제됨", "description": "잠금 해제된 콘텐츠 표시" },
-			"available": { "title": "획득 가능", "description": "상점에서 잠금 해제 가능한 콘텐츠 표시" },
-			"unavailable": { "title": "획득 불가능", "description": "현재 상점에서 잠금 해제 불가능한 콘텐츠 표시" },
+			"locked": { "title": "잠김", "description": "잠금해제되지 않은 콘텐츠 표시" },
+			"unlocked": { "title": "잠금해제됨", "description": "잠금해제된 콘텐츠 표시" },
+			"available": { "title": "획득 가능", "description": "상점에서 잠금해제 가능한 콘텐츠 표시" },
+			"unavailable": { "title": "획득 불가능", "description": "현재 상점에서 잠금해제 불가능한 콘텐츠 표시" },
 			"limited": { "title": "기간 한정", "description": "제한된 기간 동안에만 획득 가능한 콘텐츠 표시" },
 			"unlimited": { "title": "제한 없음", "description": "언제든지 획득 가능한 콘텐츠 표시" },
 			"exclusive": { "title": "독점", "description": "티켓 시스템으로만 획득 가능한 콘텐츠 표시" },
@@ -1118,16 +1138,16 @@
 			"background_locked": "배경 잠김",
 			"use": "사용",
 			"unavailable": "획득 불가",
-			"decoration_not_unlocked": "잠금 해제되지 않은 장식",
+			"decoration_not_unlocked": "잠금해제되지 않은 장식",
 			"unlock": "잠김"
 		},
 		"avatar_bonus": {
 			"title": "아바타 보너스",
-			"description": "이 아바타의 배지를 획득하려면 10가지의 다른 스킨/버전을 잠금 해제하세요."
+			"description": "이 아바타의 배지를 획득하려면 10가지의 다른 스킨/버전을 잠금해제하세요."
 		},
 		"skin_bonus": {
 			"title": "스킨 보너스",
-			"description": "이 스킨의 배경을 다른 아바타와 함께 사용하려면 이 스킨의 10가지의 다른 버전을 잠금 해제하세요."
+			"description": "이 스킨의 배경을 다른 아바타와 함께 사용하려면 이 스킨의 10가지의 다른 버전을 잠금해제하세요."
 		},
 		"world": "세계",
 		"artist": "아티스트",
@@ -1169,11 +1189,11 @@
 				"title": "애니 스킨 홍보",
 				"description": "기본 스킨 없어도 뽑기 가능",
 				"ends_in": "_NUMBER_일 후 종료",
-				"extended_description": "_NAME2_의 전설 스킨을 먼저 잠금 해제하지 않아도 티켓 시스템에서 애니메이션 스킨 _NAME_의 다른 버전을 뽑을 수 있는 홍보 이벤트입니다."
+				"extended_description": "_NAME2_의 전설 스킨을 먼저 잠금해제하지 않아도 티켓 시스템에서 애니메이션 스킨 _NAME_의 다른 버전을 뽑을 수 있는 홍보 이벤트입니다."
 			},
 			"info": {
 				"title": "티켓 시스템",
-				"description": "티켓 시스템을 통해 티켓을 사용하여 독점 스킨, 스킨 버전, 이모트콘, 아바타 배경 및 장식을 잠금 해제할 수 있습니다.",
+				"description": "티켓 시스템을 통해 티켓을 사용하여 독점 스킨, 스킨 버전, 이모트콘, 아바타 배경 및 장식을 잠금해제할 수 있습니다.",
 				"how_to_earn": {
 					"title": "티켓 획득 방법",
 					"text": "플레이어는 레벨업할 때마다 티켓 1장을 받으며 10레벨 단위(10레벨, 20레벨 등)마다 보너스로 티켓 5장을 추가로 받습니다. 티켓은 직접 구매할 수도 있으며 패트리온에서 게임을 후원하여 획득할 수도 있습니다."
@@ -1185,11 +1205,11 @@
 					"rare": "(희귀) 10% 확률: 고급 스킨 버전과 장식.",
 					"epic": "(에픽) 4.5% 확률: 주요 스킨 버전, 시즌 스킨과 고유 배경.",
 					"legendary": "(전설) 0.5% 확률: 고유 스킨과 애니메이션 버전.",
-					"info_footer": "티켓 보상 버전 스킨은 해당 스킨이 잠금 해제되어야 뽑을 수 있습니다."
+					"info_footer": "티켓 보상 버전 스킨은 해당 스킨이 잠금해제되어야 뽑을 수 있습니다."
 				},
 				"how_does_rhythm_work": {
 					"title": "리듬 상세 설명",
-					"text": "이미 잠금 해제된 보상을 다시 뽑은 경우 해당 보상의 등급에 따라 정해진 리듬을 획득합니다. 리듬을 사용하여 원하는 보상 아이템을 잠금 해제할 수 있습니다."
+					"text": "이미 잠금해제된 보상을 다시 뽑은 경우 해당 보상의 등급에 따라 정해진 리듬을 획득합니다. 리듬을 사용하여 원하는 보상 아이템을 잠금해제할 수 있습니다."
 				},
 				"how_does_avatar_tokens_work": {
 					"title": "아바타 토큰 상세 설명",
@@ -1197,10 +1217,11 @@
 				}
 			},
 			"sale_text": {
-				"unlocks_remaining": "잠금 해제 _SPANC_ _NUMBER_ _SPANC_번 남음",
+				"unlocks_remaining": "잠금해제 _SPANC_ _NUMBER_ _SPANC_번 남음",
 				"days_remaining": "_SPANC_ _NUMBER_ _SPANC_일 남음",
 				"getting_started_pack": "시작 패키지 획득",
-				"promo": "홍보"
+				"promo": "홍보",
+				"sale": "세일"
 			},
 			"subtotal": "소계",
 			"sales_tax": "부가세",
@@ -1217,7 +1238,7 @@
 			"not_enough_tickets": "티켓이 부족합니다."
 		},
 		"unlock_checkout": {
-			"title": "잠금 해제",
+			"title": "잠금해제",
 			"buy": "구입",
 			"gift": "선물",
 			"tickets": "티켓",
@@ -1230,10 +1251,10 @@
 				"failed_to_create_payment": "결제 오류가 발생했습니다. 다시 시도해 주세요.",
 				"unlimited_slots_already_unlocked": "무제한 슬롯은 이미 보유중입니다.",
 				"insufficient_notes": "노트 부족",
-				"insufficient_notes_message": "이 아이템을 잠금 해제하기 위한 노트가 부족합니다.",
+				"insufficient_notes_message": "이 아이템을 잠금해제하기 위한 노트가 부족합니다.",
 				"insufficient_rhythm": "리듬 부족",
-				"insufficient_rhythm_message": "이 아이템을 잠금 해제하기 위한 리듬이 부족합니다.",
-				"error_unlocking": "잠금 해제 오류"
+				"insufficient_rhythm_message": "이 아이템을 잠금해제하기 위한 리듬이 부족합니다.",
+				"error_unlocking": "잠금해제 오류"
 			}
 		},
 		"toggle_favorite": "즐겨찾기 설정",
@@ -1248,7 +1269,7 @@
 		"item_types": { "emote": "이모티콘", "background": "배경", "decoration": "장식", "skin": "스킨" },
 		"ticket_reward_tier": "티켓 보상 등급 _TIER_",
 		"rhythm_price": "리듬 가격",
-		"silver_hibike_description": "출시 주간 동안 게임에 접속하거나 모든 아바타의 기본 스킨 색상을 잠금 해제하면 이 고유 출시 스킨 색상을 잠금 해제할 수 있습니다.",
+		"silver_hibike_description": "출시 주간 동안 게임에 접속하거나 모든 아바타의 기본 스킨 색상을 잠금해제하면 이 고유 출시 스킨 색상을 잠금해제할 수 있습니다.",
 		"emote_previews": { "chat": "채팅", "profile": "프로필" },
 		"emote_category_misc": "그 외"
 	},
@@ -1689,7 +1710,7 @@
 			"description": "1회 결제로 무제한 슬롯을 영구 해제합니다.",
 			"approx_dollar": "약. $_NUMBER_"
 		},
-		"patreon_promo": "레벨3 이상의 패트리온 후원자가 되어 무제한 슬롯과 더 많은 혜택을 잠금 해제하세요.",
+		"patreon_promo": "레벨3 이상의 패트리온 후원자가 되어 무제한 슬롯과 더 많은 혜택을 잠금해제하세요.",
 		"creator": "작성자",
 		"description": "설명",
 		"tags": "태그",
@@ -1734,7 +1755,7 @@
 			"quiz_reported": { "title": "신고된 퀴즈", "description": "해당 퀴즈가 운영자에게 신고되어 검토중입니다." },
 			"quiz_deleted": { "title": "퀴즈 삭제 완료", "description": "퀴즈가 성공적으로 삭제되었습니다." },
 			"slot_unlocked": "퀴즈 슬롯 해제",
-			"unlimited_slots_unlocked": "무제한 퀴즈 슬롯이 잠금 해제되었습니다.",
+			"unlimited_slots_unlocked": "무제한 퀴즈 슬롯이 잠금해제되었습니다.",
 			"no_slots_available": {
 				"title": "사용 가능한 슬롯 없음",
 				"description": "현재 모든 퀴즈 슬롯이 사용중입니다. 새 퀴즈를 만들기 전에 슬롯을 추가로 해제하거나 오래된 퀴즈를 삭제하세요."
@@ -1775,16 +1796,13 @@
 			"unshare": "이 퀴즈 공유 해제",
 			"creation_date": "생성일",
 			"quiz_id": "퀴즈 ID",
-			"recently_published": {
-				"title": "최근 등록됨",
-				"description": "_DATE_까지 슬롯 잠김"
-			},
+			"recently_published": { "title": "최근 등록됨", "description": "_DATE_까지 슬롯 잠김" },
 			"locked_slot": {
 				"title": "잠긴 슬롯",
 				"description": "잠긴 슬롯은 사용 가능 슬롯 개수에 포함되지 않고 복제와 삭제만 가능합니다. 잠금을 해제하려면 무제한 슬롯을 다시 활성화해 주세요."
 			}
 		},
-		"checkout": { "unlock": "커뮤니티 퀴즈 슬롯 잠금 해제", "one_slot": "슬롯 1개", "unlimited": "무제한 슬롯" },
+		"checkout": { "unlock": "커뮤니티 퀴즈 슬롯 잠금해제", "one_slot": "슬롯 1개", "unlimited": "무제한 슬롯" },
 		"host_community_quiz": {
 			"title": "커뮤니티 퀴즈 호스팅",
 			"room_type": "방 타입",
@@ -1812,7 +1830,7 @@
 			"diamond": { "title": "다이아몬드 메달", "description": "이 퀴즈에서 정답률 100% 입니다!" }
 		},
 		"create_new_quiz_tile": { "message": "새 퀴즈를 만듭니다.", "title": "새 퀴즈" },
-		"unlock_at_tile": { "message": "_NUMBER_레벨에 잠금 해제", "title": "잠김" },
+		"unlock_at_tile": { "message": "_NUMBER_레벨에 잠금해제", "title": "잠김" },
 		"shared_states": { "friends": "친구가 공유한 퀴즈", "public": "공개된 퀴즈" }
 	},
 	"community_quiz_tags": {
@@ -2151,7 +2169,7 @@
 				"tag": "태그",
 				"popularity": "인기도"
 			},
-			"DELETED-search_placeholder": "검색"
+			"search_placeholder": "방 검색"
 		},
 		"host_room": "방 만들기",
 		"games": " 게임",
@@ -2190,6 +2208,27 @@
 				"confirm_button": "참가",
 				"wrong_password": "비밀번호 오류",
 				"game_closed": "방이 존재하지 않습니다."
+			}
+		},
+		"nexus_lobbies": {
+			"title": "넥서스 로비",
+			"open": "_NUMBER_개 열림",
+			"no_lobbies": "열린 로비 없음",
+			"slot_name": "슬롯 _NUMBER_",
+			"players_popover_header": "로비에 있는 플레이어",
+			"click_to_join": "클릭해서 참가",
+			"lobby_full_message": "로비가 가득 찼습니다",
+			"unknown_lobby": {
+				"title": "넥서스 로비를 찾을 수 없음",
+				"description": "참가하려는 넥서스 로비가 존재하지 않거나 이미 닫혔습니다."
+			},
+			"room_settings": {
+				"type": { "endless": "무한", "standard": "일반" },
+				"song_type": { "opening": "오프닝", "ending": "엔딩", "insert": "삽입곡" },
+				"difficulty": { "easy": "쉬움", "medium": "보통", "hard": "어려움" },
+				"song_selection": { "watched": "시청함", "random": "랜덤" },
+				"answering_mode": { "typing": "타이핑", "multiple_choice": "객관식" },
+				"floor": "_NUMBER_층"
 			}
 		}
 	},
@@ -2577,12 +2616,22 @@
 				"queueing": "대기열",
 				"tv": "TV판",
 				"movie": "극장판",
-				"special": "스페셜"
+				"special": "스페셜",
+				"easy": "쉬움",
+				"medium": "보통",
+				"hard": "어려움",
+				"openings": "오프닝",
+				"endings": "엔딩",
+				"inserts": "삽입곡",
+				"standard": "일반",
+				"character": "캐릭터 송",
+				"chanting": "챈팅",
+				"instrumental": "연주곡"
 			}
 		},
 		"ranked_rules": {
 			"title": "랭크 게임 규칙",
-			"description": "랭크 게임은 개인의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다.  _BREAK_ 랭크 게임에서는 가장 쉬운 노래부터 가장 어려운 노래까지 가장 많은 정답을 맞히는 것으로 다른 플레이어들과 경쟁합니다. _BREAK_ 게임이 끝나면 당신의 성적에 따라 랭크 포인트를 얻습니다. 시즌 동안 모은 랭크 포인트로 특별 배지를 잠금 해제하고 시즌 마지막에 열리는 챔피언십에 참가할 자격을 얻으세요! _BREAK_ 랭크 게임의 공정성을 위해 아래 규칙을 준수해 주세요. 이 규칙을 어길 경우 계정이 영구 정지되거나 랭크 게임 참여가 제한될 수 있습니다.",
+			"description": "랭크 게임은 개인의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다.  _BREAK_ 랭크 게임에서는 가장 쉬운 노래부터 가장 어려운 노래까지 가장 많은 정답을 맞히는 것으로 다른 플레이어들과 경쟁합니다. _BREAK_ 게임이 끝나면 당신의 성적에 따라 랭크 포인트를 얻습니다. 시즌 동안 모은 랭크 포인트로 특별 배지를 잠금해제하고 시즌 마지막에 열리는 챔피언십에 참가할 자격을 얻으세요! _BREAK_ 랭크 게임의 공정성을 위해 아래 규칙을 준수해 주세요. 이 규칙을 어길 경우 계정이 영구 정지되거나 랭크 게임 참여가 제한될 수 있습니다.",
 			"themed_title": "테마 퀴즈 규칙",
 			"themed_description": "테마 퀴즈는 플레이어들이 그날 선정된 특정 테마 내에서 자신의 실력을 커뮤니티의 다른 플레이어들과 겨루는 공간입니다! _BREAK_ 각 테마 퀴즈는 고유한 테마별 노래들을 제공하며 경쟁보다는 재미에 중점을 둔 환경에서 커뮤니티 플레이어들과 신선하고 즐거운 경험을 할 수 있도록 마련되었습니다. _BREAK_ 랭크 게임만큼 경쟁적이지는 않지만 다른 플레이어들의 경험을 망치지 않도록 규칙을 준수하는 것이 중요합니다. 규칙을 위한할 경우 계정이 정지되거나 오늘의 퀴즈 참여가 제한될 수 있습니다.",
 			"play_solo": {
@@ -2796,7 +2845,12 @@
 				"damage_taken_2": "_NAME_ 작품에서 받는 대미지 증가"
 			}
 		},
-		"anime_name_placeholder": "애니 제목"
+		"anime_name_placeholder": "애니 제목",
+		"rejoin_prompt": {
+			"title": "연결 끊긴 게임 재참가",
+			"description": "마지막 게임에서 연결이 끊어졌습니다. 다시 참가하시겠습니까?",
+			"rejoin_button": "재참가"
+		}
 	},
 	"anime_tags": {
 		"4-koma": "4컷",
@@ -3147,14 +3201,7 @@
 		"yandere": "얀데레",
 		"youkai": "요괴",
 		"yuri": "유리",
-		"zombie": "좀비",
-		"DELETED-4k": "4k",
-		"DELETED-impersonation": "변장",
-		"DELETED-masturbating": "자위",
-		"DELETED-none": "없음",
-		"DELETED-shoujo_ai": "소녀애",
-		"DELETED-shounen_ai": "소년애",
-		"DELETED-tada_banri": "타다 반리"
+		"zombie": "좀비"
 	},
 	"genre_tags": {
 		"action": "액션",
@@ -3229,7 +3276,6 @@
 				"planning": "시청예정",
 				"looted": "루팅함"
 			},
-			"DELETED-anime_type": { "tv": "TV판", "movie": "극장판", "ova": "OVA", "ona": "ONA", "special": "스페셜" }
 		},
 		"popovers": {
 			"download_json": "JSON으로 다운로드",
@@ -3275,12 +3321,7 @@
 			"dungeon": {
 				"title": "던전",
 				"co_op_save_created": "협동게임 저장 생성됨",
-				"tabs": {
-					"mode": "모드",
-					"co_op_saves": "저장된 협동게임",
-					"lobby": "로비",
-					"avatars": "아바타"
-				},
+				"tabs": { "mode": "모드", "co_op_saves": "저장된 협동게임", "lobby": "로비", "avatars": "아바타" },
 				"mode": {
 					"standard": "일반",
 					"standard_description": "던전의 한 층을 클리어하는 모드. 진행하면서 팀을 강화하고 끝에 있는 보스에게 도전하세요.",
@@ -3298,7 +3339,12 @@
 						"join_button": "참가",
 						"description": "참가하려는 로비의 ID를 입력하세요.",
 						"missing_id": "로비 ID를 입력해야 합니다.",
-						"invalid_id": "로비 ID가 잘못되었습니다."
+						"invalid_id": "로비 ID가 잘못되었습니다.",
+						"full": "로비가 가득 찼습니다",
+						"unavailable_guest": {
+							"title": "게스트 계정 이용 불가",
+							"description": "협력 모드는 게스트 계정으로 이용하실 수 없습니다. 이 기능을 사용하려면 아이디를 생성해 주세요."
+						}
 					},
 					"dungeon_mode": "던전 모드",
 					"description_start": "던전 도전 방식을 결정하세요.",
@@ -3351,7 +3397,7 @@
 						},
 						"floor": {
 							"title": "층",
-							"description": "높은 층일수록 어려워지지만 더 많은 룬과 경험치를 얻을 수 있습니다. 현재 등급 이상으로 클리어하면 다음 층이 잠금 해제됩니다."
+							"description": "높은 층일수록 어려워지지만 더 많은 룬과 경험치를 얻을 수 있습니다. 현재 등급 이상으로 클리어하면 다음 층이 잠금해제됩니다."
 						},
 						"mode": {
 							"title": "모드",
@@ -3359,8 +3405,8 @@
 						}
 					},
 					"no_badge_unlocked_alert": {
-						"title": "잠금 해제된 아바타 배지 없음",
-						"description": "아바타의 레벨을 올려서 아바타 배지를 잠금 해제하고 다른 아바타를 강화하는 데 사용하세요."
+						"title": "잠금해제된 아바타 배지 없음",
+						"description": "아바타의 레벨을 올려서 아바타 배지를 잠금해제하고 다른 아바타를 강화하는 데 사용하세요."
 					},
 					"leave_lobby_alert": { "title": "던전 로비에서 나가시겠습니까?", "leave_button": "나가기" },
 					"start_alerts": {
@@ -3376,6 +3422,10 @@
 					"breakthrough_popover": {
 						"title": "한계돌파",
 						"description": "무한 모드에서 다음 5개 층을 클리어하고 층수 제한을 해제하세요!"
+					},
+					"public_description": {
+						"make_public": "공개 로비로 전환하여 누구나 참가할 수 있게 합니다.",
+						"make_private": "비공개 로비로 전환하여 로비 ID가 있는 사람만 참여할 수 있게 합니다."
 					}
 				},
 				"co_op_saves": {
@@ -3389,12 +3439,7 @@
 			"inn": {
 				"title": "여관",
 				"new_team": "새 팀",
-				"tabs": {
-					"avatars": "아바타",
-					"teams": "팀",
-					"avatar_setup": "아바타 설정",
-					"team_setup": "팀 설정"
-				},
+				"tabs": { "avatars": "아바타", "teams": "팀", "avatar_setup": "아바타 설정", "team_setup": "팀 설정" },
 				"avatar_setup": {
 					"change_skin": "스킨 변경",
 					"change_decorations": "장식 변경",
@@ -3403,7 +3448,8 @@
 					"set_default": "디폴트로 지정",
 					"add_to_team": "팀에 추가",
 					"locked": "잠김",
-					"background_locked": "배경을 잠금 해제하려면 _BREAK_ 이 스킨의 10가지 버전을 잠금 해제하세요."
+					"background_locked": "배경을 잠금해제하려면 _BREAK_ 이 스킨의 10가지 버전을 잠금해제하세요.",
+					"no_toggle": "표시/숨김 없음"
 				},
 				"team_setup": {
 					"rename": "팀 이름 변경",
@@ -3420,11 +3466,7 @@
 				"title": "작업실",
 				"empty_slots_filter": "빈 슬롯",
 				"avatar": "아바타",
-				"tabs": {
-					"select_avatar": "아바타 선택",
-					"rune_setup": "룬 설정",
-					"reformat_rune": "룬 개조"
-				},
+				"tabs": { "select_avatar": "아바타 선택", "rune_setup": "룬 설정", "reformat_rune": "룬 개조" },
 				"rune_selector": {
 					"filter": {
 						"title": "필터",
@@ -3462,7 +3504,7 @@
 					},
 					"destroy_rune": { "title": "룬을 파괴하시겠습니까?", "destroy_button": "파괴" },
 					"tooltips": {
-						"all_slots_in_use": "모든 룬 슬롯이 사용중입니다. 아바타 레벨을 올려서 추가 슬롯을 잠금 해제하세요.",
+						"all_slots_in_use": "모든 룬 슬롯이 사용중입니다. 아바타 레벨을 올려서 추가 슬롯을 잠금해제하세요.",
 						"no_rune_selected": "룬이 선택되지 않았습니다. 위에서 장착할 룬을 선택하세요.",
 						"wrong_rune_slot": "_NAME_ _NAME2_ 룬 슬롯입니다. 슬롯과 일치하는 룬만 장착할 수 있습니다.",
 						"invalid_setup": "잘못된 룬 설정입니다. 사용중인 컨테이너가 활성화되었는지 확인해 주세요.",
@@ -3495,14 +3537,10 @@
 				"select_badge_popover": "아바타를 강화할 아바타 배지를 선택하세요.",
 				"early_access": "_DATE_까지 패트리온 레벨4 이상 후원자에게 얼리 액세스",
 				"character_locked_popover": "잠김",
-				"character_already_in_party": "이미 파티에 있는 캐릭터입니다."
+				"character_already_in_party": "이미 파티에 있는 캐릭터입니다.",
+				"clear": "비우기"
 			},
-			"building_names": {
-				"dungeon": "던전",
-				"inn": "여관",
-				"workshop": "작업실",
-				"locked": "잠김"
-			}
+			"building_names": { "dungeon": "던전", "inn": "여관", "workshop": "작업실", "locked": "잠김" }
 		},
 		"dungeon": {
 			"exit_button": "나가기",
@@ -3517,8 +3555,8 @@
 			"runes": {
 				"rune_count": "룬 _SPAN_ _NUMBER_ _SPAN_개",
 				"rune_inventory": "룬 인벤토리",
-				"win_to_earn": "전투에서 1회 승리하면 탐험 종료 시 룬이 잠금 해제됩니다",
-				"unlock_end_of_run": "탐험 종료시 룬이 잠금 해제됩니다",
+				"win_to_earn": "전투에서 1회 승리하면 탐험 종료 시 룬이 잠금해제됩니다",
+				"unlock_end_of_run": "탐험 종료시 룬이 잠금해제됩니다",
 				"no_runes": "발견된 룬 없음"
 			},
 			"tile_types": {
@@ -3538,7 +3576,8 @@
 				"select_one_artifact": "아티팩트 1개 선택",
 				"runes": "룬",
 				"no_drops": "드랍 없음",
-				"select_avatar": "아바타 선택"
+				"select_avatar": "아바타 선택",
+				"skip_artifact": { "text": "아티팩트를 건너뛰시겠습니까?", "skip_button": "스킵" }
 			},
 			"event_window": { "title": "이벤트", "volume": "볼륨" },
 			"store_window": {
@@ -3559,7 +3598,15 @@
 				"continue_button": "계속하기",
 				"level_number": "_SPANC_ _NUMBER_ _SPANC_레벨",
 				"party_wipe": "파티 전멸",
-				"floor_cleared": "층 클리어"
+				"floor_cleared": "층 클리어",
+				"xp_reward_types": { "combat": "전투", "clear": "층 클리어" },
+				"unlocks": {
+					"ability_level": "능력 상승",
+					"badge": "배지",
+					"badge_level": "배지 상승",
+					"genre_power": "장르 파워",
+					"rune_slot": "룬 슬롯"
+				}
 			},
 			"next_floor_window": {
 				"title": "다음 층: _SPAN_ _NUMBER_ _SPAN_",
@@ -3568,10 +3615,7 @@
 				"heal_option": "20% 회복",
 				"lock_artifact_option": "아티팩트 고정",
 				"no_artifacts": "아티팩트 없음",
-				"no_locking_warning": {
-					"title": "아티팩트를 고정하지 않고 계속하시겠습니까?",
-					"continue_button": "계속하기"
-				},
+				"no_locking_warning": { "title": "아티팩트를 고정하지 않고 계속하시겠습니까?", "continue_button": "계속하기" },
 				"heal_this_avatar": "이 아바타를 회복",
 				"lock_artifact_description": "아티팩트를 고정하고 다음 층으로 가져갑니다. 각 아바타마다 1개의 아티팩트만 고정할 수 있습니다."
 			}
@@ -3582,7 +3626,7 @@
 			"weak": "불리",
 			"rune_buffs": "룬 버프",
 			"stats": {
-				"constitution": { "title": "생명", "description": "최대 체력이 증가합니다." },
+				"constitution": { "title": "체질", "description": "최대 체력이 증가합니다." },
 				"defence": { "title": "방어", "description": "피격 시 대미지가 감소합니다." },
 				"dodge": {
 					"title": "회피",
@@ -3601,7 +3645,7 @@
 		},
 		"hover_display_commons": {
 			"cooldown": "쿨다운",
-			"total_unlocked": "총 잠금 해제 수",
+			"total_unlocked": "총 잠금해제 수",
 			"in_use": "사용중",
 			"level": "레벨",
 			"stat_boost": "능력치 강화",
@@ -3666,7 +3710,9 @@
 				"message_five": "이제 히비키가 여러 버프를 받았습니다! 아이콘에 마우스를 올리면 상세 효과를 볼 수 있어요!",
 				"message_six": "이제 퀴즈를 맞혀 봅시다.! 힌트: 이것이 정답입니다!"
 			},
-			"post_attack": { "message_one": "멋진 공격입니다! 이제 정답을 맞히지 못하면 무슨 일이 벌어지는지 확인해 봅시다!" },
+			"post_attack": {
+				"message_one": "멋진 공격입니다! 이제 정답을 맞히지 못하면 무슨 일이 벌어지는지 확인해 봅시다!"
+			},
 			"post_damage": {
 				"message_one": "답을 맞히지 못하면 적들의 공격 카운터가 줄어듭니다. 한 번 더 틀리면 적들이 공격합니다!",
 				"message_two": "노엘은 방어력이 낮아서 방어가 필요합니다! 다행히 지금은 유메미의 차례이므로 노엘과 타겟 스왑으로 유메미와 바꿀 수 있습니다",
@@ -3713,7 +3759,7 @@
 				"message_five": "이것으로 튜토리얼을 마칩니다! 넥서스를 즐겨 보세요!"
 			},
 			"workshop": {
-				"message_one": "작업실에 잘 오셨습니다! 아바타의 레벨이 오르면 룬 슬롯이 잠금 해제되며 그곳에 강력한 룬을 장착할 수 있습니다.",
+				"message_one": "작업실에 잘 오셨습니다! 아바타의 레벨이 오르면 룬 슬롯이 잠금해제되며 그곳에 강력한 룬을 장착할 수 있습니다.",
 				"message_two": "룬은 넥서스 던전 여기저기서 발견되며 장착시 아바타의 능력치 강화 및 고유 효과를 부여합니다.",
 				"message_three": "빈 룬 슬롯이 있는 아바타에는 남은 슬롯 개수가 표시됩니다.",
 				"message_four": "마지막으로 룬 개조기를 사용해서 룬을 변환하거나 업그레이드할 수 있습니다.",
@@ -3727,7 +3773,7 @@
 				"message_five": "일반 룬은 능력치나 장르 강화를 중첩시키고 상급 룬은 고유 효과를 부여합니다.",
 				"message_six": "각 룬 분류는 일반 슬롯 20개와 상급 슬롯 1개로 구성됩니다.",
 				"message_seven": "상급 슬롯을 해금하려면 먼저 해당 분류에 일반 룬 12개를 장착해야 합니다.",
-				"message_eight": "상급 룬을 장착하면 해당 분류의 나머지 일반 슬롯 8개가 잠금 해제됩니다.",
+				"message_eight": "상급 룬을 장착하면 해당 분류의 나머지 일반 슬롯 8개가 잠금해제됩니다.",
 				"message_nine": "모든 룬 슬롯을 채우면 추가로 상급 룬 하나를 더 장착할 수 있습니다.",
 				"message_ten": "이 최종 상급 룬은 어느 분류든 상관없지만, 이미 장착된 상급 룬과 다른 능력이어야 합니다.",
 				"message_eleven": "제 머리 위의 카운터는 아바타의 빈 룬 슬롯 개수를 나타냅니다.",
@@ -3740,116 +3786,50 @@
 			}
 		},
 		"artifact": {
-			"ancestor": {
-				"title": "조상님",
-				"description": "피격시 6턴 동안 모든 능력치 버프 획득"
-			},
-			"berserker_star": {
-				"title": "버서커 스타",
-				"description": "공격이 빗나갈 때까지 모든 공격 대미지 증가"
-			},
-			"bounty_bracelet": {
-				"title": "현상금 팔찌",
-				"description": "전투 승리시 추가 파편 획득"
-			},
-			"charge_staff": {
-				"title": "충전 스태프",
-				"description": "2회 연속 공격 성공시 보호막 획득"
-			},
-			"comfy_scarf": {
-				"title": "편안한 스카프",
-				"description": "전투중 처음으로 받는 일반 디버프를 반격"
-			},
-			"computation_orb": {
-				"title": "계산 보주",
-				"description": "체력이 50% 이하일때 추가 대미지 부여"
-			},
-			"corruption_seal": {
-				"title": "부패 봉인",
-				"description": "디버프 상태인 적에게 받는 대미지 30% 감소"
-			},
+			"ancestor": { "title": "조상님", "description": "피격시 6턴 동안 모든 능력치 버프 획득" },
+			"berserker_star": { "title": "버서커 스타", "description": "공격이 빗나갈 때까지 모든 공격 대미지 증가" },
+			"bounty_bracelet": { "title": "현상금 팔찌", "description": "전투 승리시 추가 파편 획득" },
+			"charge_staff": { "title": "충전 스태프", "description": "2회 연속 공격 성공시 보호막 획득" },
+			"comfy_scarf": { "title": "편안한 스카프", "description": "전투중 처음으로 받는 일반 디버프를 반격" },
+			"computation_orb": { "title": "계산 보주", "description": "체력이 50% 이하일때 추가 대미지 부여" },
+			"corruption_seal": { "title": "부패 봉인", "description": "디버프 상태인 적에게 받는 대미지 30% 감소" },
 			"cross_shield": { "title": "크로스 실드", "description": "이동 후 소량의 보호막 획득" },
-			"dark_nights_imitation": {
-				"title": "어두운 밤의 표상",
-				"description": "전투 시작시 보호막 획득"
-			},
-			"detective_loupe": {
-				"title": "탐정 돋보기",
-				"description": "추측 단계에서 정답 글자 수 공개"
-			},
+			"dark_nights_imitation": { "title": "어두운 밤의 표상", "description": "전투 시작시 보호막 획득" },
+			"detective_loupe": { "title": "탐정 돋보기", "description": "추측 단계에서 정답 글자 수 공개" },
 			"energy_jar": {
 				"title": "에너지 항아리",
 				"description": "전투 시작시 보호막 획득. 이 보호막은 다음 전투에도 유지됨"
 			},
-			"hornet_stinger": {
-				"title": "말벌침",
-				"description": "2회 연속 공격 성공시 두번째 공격 치명타 확정"
-			},
-			"legends_shield": {
-				"title": "전설의 방패",
-				"description": "각 전투에서 첫 대미지를 입을 때 보호막 획득"
-			},
-			"midas_favor": {
-				"title": "미다스의 은총",
-				"description": "제작소에서 아이템 제작시 소모되는 파편 감소"
-			},
-			"mystery_food": {
-				"title": "정체불명의 음식",
-				"description": "디버프 부여시 대상에게 랜덤 디버프 추가 부여"
-			},
+			"hornet_stinger": { "title": "말벌침", "description": "2회 연속 공격 성공시 두번째 공격 치명타 확정" },
+			"legends_shield": { "title": "전설의 방패", "description": "각 전투에서 첫 대미지를 입을 때 보호막 획득" },
+			"midas_favor": { "title": "미다스의 은총", "description": "제작소에서 아이템 제작시 소모되는 파편 감소" },
+			"mystery_food": { "title": "정체불명의 음식", "description": "디버프 부여시 대상에게 랜덤 디버프 추가 부여" },
 			"noble_favour": { "title": "노블 페이버", "description": "획득시 파편 150개 획득" },
 			"pipe_of_the_golden_fairy": {
 				"title": "금빛 요정의 파이프",
 				"description": "디버프 상태인 적 공격시 50% 추가 대미지"
 			},
-			"ruler_piece": {
-				"title": "지배자 피스",
-				"description": "능력 사용시 랜덤 버프 획득"
-			},
-			"sealed_watch": {
-				"title": "봉인된 회중시계",
-				"description": "아바타 능력의 재사용 대기 시간 2턴 감소"
-			},
-			"song_euphonium": {
-				"title": "송 유포니엄",
-				"description": "적에게 공격 타겟이 될 확률 증가"
-			},
+			"ruler_piece": { "title": "지배자 피스", "description": "능력 사용시 랜덤 버프 획득" },
+			"sealed_watch": { "title": "봉인된 회중시계", "description": "아바타 능력의 재사용 대기 시간 2턴 감소" },
+			"song_euphonium": { "title": "송 유포니엄", "description": "적에게 공격 타겟이 될 확률 증가" },
 			"soul_container": {
 				"title": "영혼 보관함",
 				"description": "사망시 혹은 사망한 아바타에게 장착시 체력 50%로 즉시 부활. 사용 후 소멸"
 			},
-			"spiked_guards": {
-				"title": "가시 방어구",
-				"description": "받은 대미지의 일부를 공격자에게 반사"
-			},
-			"stealth_bunny_hat": {
-				"title": "스텔스 토끼 모자",
-				"description": "적에게 공격 타겟이 될 확률 감소"
-			},
-			"stone_mask": {
-				"title": "돌가면",
-				"description": "적 처치시 체력 소량 회복"
-			},
-			"sugoi_bun": {
-				"title": "스고이 빵",
-				"description": "체력이 50% 이하일 때 전투 종료시 체력 소량 회복"
-			},
+			"spiked_guards": { "title": "가시 방어구", "description": "받은 대미지의 일부를 공격자에게 반사" },
+			"stealth_bunny_hat": { "title": "스텔스 토끼 모자", "description": "적에게 공격 타겟이 될 확률 감소" },
+			"stone_mask": { "title": "돌가면", "description": "적 처치시 체력 소량 회복" },
+			"sugoi_bun": { "title": "스고이 빵", "description": "체력이 50% 이하일 때 전투 종료시 체력 소량 회복" },
 			"swords_of_truth_and_light": {
 				"title": "진실과 빛의 검",
 				"description": "3회 연속 공격시 세번째 공격 대미지 두배 증가"
 			},
-			"time_disk": {
-				"title": "타임 디스크",
-				"description": "추측 단계에서 제한시간 5초 추가"
-			},
+			"time_disk": { "title": "타임 디스크", "description": "추측 단계에서 제한시간 5초 추가" },
 			"unexpected_supporter": {
 				"title": "뜻밖의 후견인",
 				"description": "전투 보상중 선택할 수 있는 아티팩트 개수 추가"
 			},
-			"villains_glasses": {
-				"title": "빌런의 안경",
-				"description": "공격 대상의 디버프 개수만큼 추가 대미지 부여"
-			},
+			"villains_glasses": { "title": "빌런의 안경", "description": "공격 대상의 디버프 개수만큼 추가 대미지 부여" },
 			"wise_wolf_pouch": {
 				"title": "현명한 늑대의 주머니",
 				"description": "제작소에서 선택할 수 있는 아이템 개수 추가"
@@ -3862,9 +3842,7 @@
 					"text": "보라색 정장에 초록색 머리를 뒤로 넘긴 수상한 남자가 방에 들어온 파티를 맞이합니다. _BREAK_ “이봐, 여긴 그냥 지나갈 수 없어. 내 구역이거든. 가진 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 전부 내놓는다면 봐줄 수도 있지만, 싫다면 _HIGHLIGHT_ 우리 애들하고 한판 붙어야 할거야 _HIGHLIGHT_”. _BREAK_ 남자가 자신의 옆에 떠 있는_HIGHLIGHT_ 4개의 적 코어 _HIGHLIGHT_를 가리키며 신호를 보냅니다.",
 					"options": { "pay": "파편 _NUMBER_개를 지불한다", "ignore": "경고를 무시한다" }
 				},
-				"pay": {
-					"text": "당신이 던진 파편을 남자가 낚아챕니다. _BREAK_ “거래해주셔서 대단히 감사합니다”"
-				},
+				"pay": { "text": "당신이 던진 파편을 남자가 낚아챕니다. _BREAK_ “거래해주셔서 대단히 감사합니다”" },
 				"ignore": {
 					"text": "“후회하게 될 거야. 무슨 일이 벌어져도 내 책임이 아니야” _BREAK_ 남자가 소리치며 문 밖으로 도망치자 적 코어들이 활성화되기 시작합니다."
 				}
@@ -3900,11 +3878,7 @@
 					},
 					"question": {
 						"text": "이 노래의 타입은 무엇입니까?",
-						"options": {
-							"opening": "오프닝",
-							"ending": "엔딩",
-							"insert_song": "삽입곡"
-						}
+						"options": { "opening": "오프닝", "ending": "엔딩", "insert_song": "삽입곡" }
 					},
 					"correct": {
 						"text": "_HIGHLIGHT_ 정답입니다! _HIGHLIGHT_ 이 노래는 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_의 _HIGHLIGHT_ _NAME_ _HIGHLIGHT_였습니다. 이제 _HIGHLIGHT_ 현재 상금은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개입니다_HIGHLIGHT_. _BREAK_ 다음 문제로 계속하시겠습니까, 아니면 여기서 정산하시겠습니까?”",
@@ -4067,10 +4041,7 @@
 				"title": "제단",
 				"base": {
 					"text": "방 중앙에 _HIGHLIGHT_ 홀로 제단 _HIGHLIGHT_ 하나가 놓여 있습니다. 파티가 가까이 다가가자 마치 제단에 이끌리듯이 보유중인 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 중 일부가 _HIGHLIGHT_ 빛나기 시작합니다 _HIGHLIGHT_.",
-					"options": {
-						"place_artifact": "제단 위에 _NAME_을 올려놓는다",
-						"ignore": "제단을 무시한다"
-					}
+					"options": { "place_artifact": "제단 위에 _NAME_을 올려놓는다", "ignore": "제단을 무시한다" }
 				},
 				"ignore": { "text": "보상이 아티팩트만큼 가치 있어 보이지 않습니다. 파티는 가던 길을 계속 갑니다" },
 				"transform": {
@@ -4083,9 +4054,7 @@
 					"text": "파티가 방에 들어서자 _HIGHLIGHT_ 모자를 쓰고 안대를 찬 지저분한 남자 _HIGHLIGHT_가 다가옵니다. _BREAK_ “타이밍 죽이는군. 마침 한 자리가 비었거든. 당신 들 중에 _HIGHLIGHT_ 링 위에서 한판 붙어볼 사람 _HIGHLIGHT_ 있어?” 그가 적 _HIGHLIGHT2_ 코어 _HIGHLIGHT2_가 떠 있는 복싱 링을 가리키며 말합니다.",
 					"options": { "enter_ring": "_NAME_가 링에 오른다", "decline": "제안을 거절한다" }
 				},
-				"ignore": {
-					"text": "“그런 태도로는 평생 큰 건 하나 못 건질 거다.” 남자가 투덜대며 다시 링으로 돌아갑니다."
-				}
+				"ignore": { "text": "“그런 태도로는 평생 큰 건 하나 못 건질 거다.” 남자가 투덜대며 다시 링으로 돌아갑니다." }
 			},
 			"transmutation_circle": {
 				"title": "연성진",
@@ -4099,9 +4068,7 @@
 						"ignore": "연성진을 무시한다"
 					}
 				},
-				"ignore": {
-					"text": "파티는 위험을 감수하고 싶지 않아 연성진을 멀리 돌아서 갑니다."
-				},
+				"ignore": { "text": "파티는 위험을 감수하고 싶지 않아 연성진을 멀리 돌아서 갑니다." },
 				"results": {
 					"text_fragment": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_과 함께 사라지고, 그 자리에 _NAME_가 나타났습니다.",
 					"text_artifact": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _ARTIFACT_와 함께 사라지고, 그 자리에 _NAME_가 나타났습니다.",
@@ -4119,9 +4086,7 @@
 					"options": { "artifact": "그녀에게 _NAME_을 건네준다", "decline": "그녀의 제안을 거절한다" }
 				},
 				"base_decline": { "text": "“손해 보시는 거예요. 제 엄청난 아기들은 다음 파티를 위해 아껴둬야겠네요.”" },
-				"late_decline": {
-					"text": "“풀세트로 안 맞추시게요? 제 아기들이 얼마나 성능이 좋은지 보시면 후회하실 텐데”"
-				},
+				"late_decline": { "text": "“풀세트로 안 맞추시게요? 제 아기들이 얼마나 성능이 좋은지 보시면 후회하실 텐데”" },
 				"artifact": {
 					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 생전 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ “이 아기가 분명 큰 도움이 될 거예요. 자 그럼 _HIGHLIGHT_ 다음은 어떤 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 차례인가요 _HIGHLIGHT_?”"
 				},
@@ -4133,633 +4098,634 @@
 		"avatar_abilities": {
 			"akane": {
 				"standard": {
-					"name": "뱀 부적",
-					"description": "공격시 매혹 디버프를 부여하는 버프를 획득합니다",
-					"badge_description": "공격시 일정 확률로 매혹 디버프를 부여합니다"
+					"name": "뱀의 유혹",
+					"description": "공격시 매혹 디버프를 부여하는 버프를 획득합니다.",
+					"badge_description": "공격시 일정 확률로 매혹 디버프를 부여합니다."
 				}
 			},
 			"akira": {
 				"standard": {
 					"name": "앙코르",
-					"description": "아키라의 다음 공격이 앙코르 디버프를 부여합니다",
-					"badge_description": "공격시 일정 확률로 앙코르 디버프를 부여합니다"
+					"description": "아키라의 다음 공격이 앙코르 디버프를 부여합니다.",
+					"badge_description": "공격시 일정 확률로 앙코르 디버프를 부여합니다."
 				}
 			},
 			"alisa": {
 				"standard": {
 					"name": "무기 마스터",
-					"description": "모든 공격형 아티팩트를 강화하는 버프를 획득합니다",
-					"badge_description": "턴 시작시 일정 확률로 공격형 아티팩트를 강화합니다"
+					"description": "모든 공격형 아티팩트를 강화하는 버프를 획득합니다.",
+					"badge_description": "턴 시작시 일정 확률로 공격형 아티팩트를 강화합니다."
 				}
 			},
 			"asuka": {
 				"standard": {
-					"MISSING-name": "Reconnaissance in Force",
-					"MISSING-description": "Become focused and get the Recon in Force buff",
-					"MISSING-badge_description": "Random chance to get focused and get the Recon in Force buff"
+					"name": "위력정찰",
+					"description": "집중 상태가 되며 위력정찰 버프를 획득합니다.",
+					"badge_description": "일정 확률로 집중 상태가 되며 위력정찰 버프를 획득합니다."
 				}
 			},
 			"chika": {
 				"standard": {
-					"MISSING-name": "Crazy Concoction",
-					"MISSING-description": "Give a random buff to target ally, or a random debuff to target enemy",
-					"MISSING-badge_description": "Random chance to give another avatar a random buff or an enemy a random debuff"
+					"name": "괴상한 혼합물",
+					"description": "대상 아군에게 랜덤 버프를 주거나, 대상 적에게 랜덤 디버프를 부여합니다.",
+					"badge_description": "일정 확률로 다른 아바타에게 랜덤 버프를 주거나 적에게 랜덤 디버프를 부여합니다."
 				}
 			},
 			"etsuko": {
 				"standard": {
-					"MISSING-name": "Natural Sprinter",
-					"MISSING-description": "Move one position forward in the party, and gain a buff to attack and accuracy. Can only be used if there’s an avatar ahead of Etsuko who can swap position.",
-					"MISSING-badge_description": "Random chance to move forward in the party, and get a buff to attack and accuracy"
+					"name": "타고난 스프린터",
+					"description": "파티에서 한 칸 앞으로 이동하며 공격력과 명중륭 버프를 얻습니다. 에츠코보다 앞에 위치 교환이 가능한 아바타가 있을 때만 사용 가능합니다.",
+					"badge_description": "일정 확률로 파티에서 앞으로 이동하며 공격력과 명중률 버프를 얻습니다."
 				}
 			},
 			"fira": {
 				"standard": {
-					"MISSING-name": "Dragon Rage",
-					"MISSING-description": "Gets a buff that boosts attack heavily if hit",
-					"MISSING-badge_description": "Random chance to boost attack when hit"
+					"name": "드래곤 레이지",
+					"description": "피격시 공격력이 크게 상승하는 버프를 획득합니다.",
+					"badge_description": "피격시 일정 확률로 공격력이 상승합니다."
 				}
 			},
 			"fuwagi": {
 				"standard": {
-					"MISSING-name": "Unlucky Lucky Rabbit",
-					"MISSING-description": "Greatly increase dodge, but increase the chance of getting targeted by enemy attacks.",
-					"MISSING-badge_description": "Random chance to greatly increase dodge and chance of getting targeted by enemy attacks"
+					"name": "불운한 행운의 토끼",
+					"description": "회피율이 크게 증가하지만 적의 공격 대상이 될 확률도 함께 증가합니다.",
+					"badge_description": "일정 확률로 회피율과 적의 공격 대상이 될 확률이 크게 증가합니다."
 				},
 				"traveling_merchant": {
-					"MISSING-name": "Traveling Store",
-					"MISSING-description": "Open Fuwagi’s store window, allowing you to spend fragments on power-ups for the party",
-					"MISSING-badge_description": "Open Fuwagi’s store window for a turn, allowing you to buy a single item"
+					"name": "떠돌이 상점",
+					"description": "후와기의 상점 창을 엽니다. 이곳에서 조각을 소모해서 파티를 위한 강화 아이템을 구매할 수 있습니다.",
+					"badge_description": "한 턴 동안 후와기의 상점 창을 열어 단일 아이템을 구매할 수 있게 됩니다."
 				}
 			},
 			"haruki": {
 				"standard": {
-					"MISSING-name": "Nature Frenzy",
-					"MISSING-description": "Greatly boost attack, but halve defense and dodge for the duration.",
-					"MISSING-badge_description": "Random chance to greatly increase attack, but halve defense and dodge for the duration"
+					"name": "자연의 광란",
+					"description": "공격력이 크게 증가하지만, 지속시간 동안 방어력과 회피율이 절반으로 감소합니다.",
+					"badge_description": "일정 확률로 공격력이 크게 증가하지만, 지속시간 동안 방어력과 회피율이 절반으로 감소합니다."
 				}
 			},
 			"hibiki": {
 				"standard": {
-					"MISSING-name": "Deep Dive",
-					"MISSING-description": "Gain buffs for up to _NUMBER_ of the current songs genres, each boosting damage during those genres.",
-					"MISSING-badge_description": "Random chance to gain a buff boosting damage during one of the current songs genres"
+					"name": "딥 다이브",
+					"description": "현재 곡의 장르 중 최대 _NUMBER_개에 대한 버프를 얻습니다. 해당 장르가 재생되는 동안 대미지가 증가합니다.",
+					"badge_description": "일정 확률로 현재 곡의 장르 중 하나에 대미지를 높여주는 버프를 얻습니다."
 				}
 			},
 			"hikari": {
 				"scholar": {
-					"MISSING-name": "Magical Infusion",
-					"MISSING-description": "Gain a buff that gives Hikari a random buff each time he lands an attack. The buff lasts until Hikari fails an attack.",
-					"MISSING-badge_description": "Random chance to gain a buff, that cause successful attacks to grant a random buff. The buff is lost when an attack fails."
+					"name": "마력 주입",
+					"description": "공격 성공시마다 랜덤 버프를 얻는 상태가 됩니다. 이 효과는 히카리가 공격에 실패할 때까지 유지됩니다.",
+					"badge_description": "일정 확률로 공격 성공시 랜덤 버프를 얻는 상태가 됩니다. 공격에 실패하면 버프를 잃습니다."
 				},
 				"fireman": {
-					"MISSING-name": "Brave the Flames",
-					"MISSING-description": "Remove all debuffs, and gain a defence buff",
-					"MISSING-badge_description": "Random chance to remove all debuffs and gain a defence buff"
+					"name": "브레이브 더 플레임",
+					"description": "모든 디버프를 제거하고 방어 버프를 얻습니다.",
+					"badge_description": "일정 확률로 모든 디버프를 제거하고 방어 버프를 얻습니다."
 				}
 			},
 			"honoka": {
 				"standard": {
-					"MISSING-name": "Encyclopedia",
-					"MISSING-description": "Reveals some of the song info for the current song",
-					"MISSING-badge_description": "Random chance to reveal some of the info for the current song"
+					"name": "백과사전",
+					"description": "현재 재생중인 곡의 정보 일부를 드러냅니다.",
+					"badge_description": "일정 확률로 현재 재생중인 곡의 정보 일부를 드러냅니다."
 				},
 				"druid": {
-					"MISSING-name": "Natures Infusion",
-					"MISSING-description": "Buff target avatar, increasing their attack and reduce the damage they take from the next by consuming the buff",
-					"MISSING-badge_description": "Random chance to buff a random avatar, increasing their attack and reducing the next attack damage they take by consuming the buff."
+					"name": "자연의 정수",
+					"description": "대상 아바타에게 버프를 부여합니다. 이 버프는 공격력을 높여주며, 다음 공격을 받을 때 소모되면서 피해를 줄여줍니다.",
+					"badge_description": "일정 확률로 랜덤 아바타에게 버프를 부여합니다. 이 버프는 공격력을 높여주며, 다음 공격을 받을 때 소모되면서 피해를 줄여줍니다."
 				}
 			},
 			"kasumi": {
 				"standard": {
-					"MISSING-name": "Shinobi",
-					"MISSING-description": "Instantly become hidden",
-					"MISSING-badge_description": "Random chance to get the hidden buff"
+					"name": "시노비",
+					"description": "즉시 은신 상태가 됩니다.",
+					"badge_description": "일정 확률로 은신 버프를 획득합니다."
 				}
 			},
 			"katsu": {
 				"standard": {
-					"MISSING-name": "Luck of the Draw",
-					"MISSING-description": "Gain a random buff, shield, or heal depending on the situation",
-					"MISSING-badge_description": "Random chance to get either a random buff, shield or heal depending on the situation"
+					"name": "운수 뽑기",
+					"description": "상황에 따라 랜덤 버프, 보호막, 치유 중 하나를 획득합니다.",
+					"badge_description": "일정 확률로 랜덤 버프, 보호막, 치유 중 하나를 획득합니다."
 				}
 			},
 			"komugi": {
 				"standard": {
-					"MISSING-name": "Fox Fire",
-					"MISSING-description": "Gain a buff causing all attacks to apply a random debuff",
-					"MISSING-badge_description": "Random chance to gain a buff that causes all attacks to inflict a random debuff"
+					"name": "여우불",
+					"description": "모든 공격시 랜덤 디버프를 부여하는 버프를 획득합니다.",
+					"badge_description": "일정 확률로 모든 공격시 랜덤 디버프를 부여하는 버프를 획득합니다."
 				},
 				"tribal_sorcerer": {
-					"MISSING-name": "Fiery Onslaught",
-					"MISSING-description": "Buff accuracy and cause all attacks to apply the virus debuff, but inflict the virus debuff on Komugi if she fails an attack",
-					"MISSING-badge_description": "Random chance to get a buff causing all attacks to apply the virus debuff and increase accuracy, but get hit by the virus debuff if you miss an attack"
+					"name": "맹렬한 돌격",
+					"description": "명중률이 상승하고 모든 공격에 바이러스 디버프를 부여합니다. 단, 공격 실패시 코무기 자신이 디버프에 걸립니다.",
+					"badge_description": "일정 확률로 명중률이 상승하고 모든 공격에 바이러스 디버프를 부여합니다. 단, 공격 실패시 자신이 디버프에 걸립니다."
 				},
 				"pirate": {
-					"MISSING-name": "Plunder",
-					"MISSING-description": "Komugi gains a random buff and steals some fragments if she hits with her next attack.",
-					"MISSING-badge_description": "Random chance to get a random buff and some fragments when you hit an enemy with an attack"
+					"name": "약탈",
+					"description": "다음 공격 성공시, 코무기가 랜덤 버프를 얻고 조각을 훔쳐옵니다.",
+					"badge_description": "적에게 공격 성공시, 일정 확률로 랜덤 버프와 조각을 획득합니다."
 				}
 			},
 			"kumiko": {
 				"standard": {
-					"MISSING-name": "Spectral Tricks",
-					"MISSING-description": "Buff target avatar, causing any attack to inflict 0 damage to them this turn. The negated damage is inflicted next turn if the party guesses wrong",
-					"MISSING-badge_description": "Random chance to buff an avatar about to be attacked, making it, so they take 0 attack damage this turn, but the blocked damage is returned the next turn if the party guesses wrong."
+					"name": "심령의 속임수",
+					"description": "대상 아바타에게 버프를 부여하여 이번 턴에 받는 모든 대미지를 0으로 만듭니다. 단, 파티가 정답을 맞히지 못하면 무효화했던 대미지를 다음 턴에 그대로 받게 됩니다.",
+					"badge_description": "공격받기 직전인 아바타에게 일정 확률로 버프를 부여하여 이번 턴 대미지를 0으로 만듭니다. 하지만 파티가 정답을 맞히지 못하면 막아냈던 대미지를 다음 턴에 다시 돌려받습니다."
 				}
 			},
 			"kuriko": {
 				"standard": {
-					"MISSING-name": "Witches Trickery",
-					"MISSING-description": "Apply the bewitched debuff on the next attack",
-					"MISSING-badge_description": "Random chance to apply the bewitched debuff on attacks"
+					"name": "마녀의 속임수",
+					"description": "다음 공격시 매혹 디버프를 부여합니다.",
+					"badge_description": "공격시 일정 확률로 매혹 디버프를 부여합니다."
 				},
 				"sorceress": {
-					"MISSING-name": "Cat of Many Faces",
-					"MISSING-description": "Transform into target ally for one turn, copying their stats, runes, artifacts, buffs and debuffs. Charged buffs and debuffs aren’t copied",
-					"MISSING-badge_description": "Random chance to transform into an ally for one turn, copying their stats, runes, artifacts, buffs and debuffs. The ally chosen is based on if defensive or offensive stats are needed, and charged buffs and debuffs aren’t copied"
+					"name": "천의 얼굴을 가진 고양이",
+					"description": "한 턴 동안 대상 아군으로 변신하여 능력치, 룬, 아티팩트, 버프 및 디버프를 그대로 복사합니다. 충전형 효과는 복사되지 않습니다.",
+					"badge_description": "일정 확률로 한 턴 동안 아군으로 변신하여 능력치, 룬, 아티팩트, 버프 및 디버프를 복사합니다. 방어 혹은 공격 능력치 중 필요한 역할에 맞춰 아군을 선택하며 충전형 효과는 복사되지 않습니다."
 				}
 			},
 			"kyouko": {
 				"standard": {
-					"MISSING-name": "Deep Clean",
-					"MISSING-description": "Clean away all debuffs from target character",
-					"MISSING-badge_description": "Random chance to clean all debuffs from the avatar"
+					"name": "딥 클린",
+					"description": "대상 캐릭터의 모든 디버프를 깨끗이 제거합니다.",
+					"badge_description": "일정 확률로 해당 아바타의 모든 디버프를 깨끗이 제거합니다."
 				},
 				"knight": {
-					"MISSING-name": "Knight's Challenge",
-					"MISSING-description": "Gain a buff causing all new attacks to target Kyouko",
-					"MISSING-badge_description": "Random chance to get a buff, causing all new attacks to target the avatar"
+					"name": "기사의 도전",
+					"description": "모든 새로운 공격대상이 쿄코가 되는 버프를 획득합니다.",
+					"badge_description": "일정 확률로 모든 새로운 공격대상이 해당 아바타가 되는 버프를 획득합니다."
 				}
 			},
 			"lilith": {
 				"standard": {
-					"MISSING-name": "Vampire's Kiss",
-					"MISSING-description": "Heals Lilith if her next attack kills an enemy",
-					"MISSING-badge_description": "Random chance to heal when killing an enemy"
+					"name": "뱀파이어의 키스",
+					"description": "다음 공격으로 적을 처치할 경우 릴리스의 체력을 회복합니다.",
+					"badge_description": "적 처치 시 일정 확률로 체력을 회복합니다."
 				}
 			},
 			"mao": {
 				"standard": {
-					"MISSING-name": "Dark Flame Strike",
-					"MISSING-description": "Increase damage on Mao’s next attack. If it fails, receive two debuffs. Can’t be used during Mao's turn.",
-					"MISSING-badge_description": "Random chance to increase damage of next attack, but inflicts a debuff if the attack fails"
+					"name": "흑염격",
+					"description": "다음 공격의 대미지를 증가시킵니다. 공격 실패시 두개의 디버프를 받습니다. 마오의 턴 중에는 사용할 수 없습니다.",
+					"badge_description": "일정 확률로 다음 공격의 대미지를 증가시키지만, 공격 실패시 디버프를 받습니다."
 				},
 				"demon_lord": {
-					"MISSING-name": "Dark Contract",
-					"MISSING-description": "Buff target ally, increasing their damage and resurrecting them if killed. If resurrected, an avatar or enemy must die before the buff expires or they die again.",
-					"MISSING-badge_description": "Random chance to give an ally the Dark Contract buff, increasing their damage and reviving them if killed, but if revived another avatar or enemy must die before the buff expires, or they die again."
+					"name": "어둠의 계약",
+					"description": "대상 아군에게 버프를 부여하여 대미지를 높이고, 사망시 부활시킵니다. 부활시 버프가 끝나기 전에 다른 아바타나 적이 죽어야만 생존하며, 그렇지 않으면 다시 사망합니다.",
+					"badge_description": "일정 확률로 아군에게 어둠의 계약 버프를 부여하여 대미지를 높이고, 사망시 부활시킵니다. 부활시 버프가 끝나기 전에 다른 아바타나 적이 죽지 않으면 해당 아군은 다시 사망합니다."
 				}
 			},
 			"marine": {
 				"standard": {
-					"MISSING-name": "Full Barrage",
-					"MISSING-description": "Buff attack and accuracy, but gets the focused and exposed debuffs as well.",
-					"MISSING-badge_description": "Random chance to buff attack and accuracy, but get focused and exposed as well"
+					"name": "전탄 발사",
+					"description": "공격력과 명중률이 상승하지만, 집중 및 노출 디버프를 함께 받습니다.",
+					"badge_description": "일정 확률로 공격력과 명중률이 상승하지만, 집중 및 노출 디버프를 함께 받습니다."
 				},
 				"buccaneer": {
-					"MISSING-name": "Full Charge",
-					"MISSING-description": "Next attack deals double damage, but gain the Crash debuff at the end of the turn.",
-					"MISSING-badge_description": "Random chance to have next attack deal double damage, but gain the Crash debuff at the end of the turn."
+					"name": "풀 차지",
+					"description": "다음 공격의 대미지가 두배로 증가하지만, 턴 종료시 크래시 디버프를 얻습니다.",
+					"badge_description": "일정 확률로 다음 공격의 대미지가 두배로 증가하지만, 턴 종료시 크래시 디버프를 얻습니다."
 				}
 			},
 			"miyu": {
 				"standard": {
-					"MISSING-name": "Buster",
-					"MISSING-description": "Charge up during allies' turn to boost the damage of Miyu’s next attack for each turn charged. Moving or taking damage interrupts this ability",
-					"MISSING-badge_description": "Random chance to start charging up during allies turns, boosting the damage of the next attack. Moving or taking interrupts this ability"
+					"name": "버스터",
+					"description": "아군 턴 동안 힘을 충전하여, 충전한 턴 수만큼 다음 공격의 대미지를 강화합니다. 이동하거나 대미지를 입으면 이 능력은 중단됩니다.",
+					"badge_description": "일정 확률로 아군 턴 동안 충전을 시작하여 다음 공격의 대미지를 강화합니다. 이동하거나 대미지를 입으면 이 능력은 중단됩니다."
 				},
 				"valkyrie": {
-					"MISSING-name": "Magical Bombardment",
-					"MISSING-description": "Miyu’s next attack deals reduced damage, but targets all enemies",
-					"MISSING-badge_description": "Random chance to make the next attack target all enemies, but deal reduced damage"
+					"name": "마력 폭격",
+					"description": "미유의 다음 공격 대미지가 감소하지만, 모든 적을 동시에 공격합니다.",
+					"badge_description": "일정 확률로 다음 공격 대미지가 감소하지만, 모든 적을 동시에 공격합니다."
 				}
 			},
 			"mizuki": {
 				"standard": {
-					"MISSING-name": "Fox Charm",
-					"MISSING-description": "Inflict the charmed debuff on target enemy",
-					"MISSING-badge_description": "Random chance to inflict the charm debuff on a random enemy"
+					"name": "여우의 매혹",
+					"description": "대상 적에게 매혹 디버프를 부여합니다.",
+					"badge_description": "일정 확률로 랜덤 적에게 매혹 디버프를 부여합니다."
 				},
 				"high_priest": {
-					"MISSING-name": "Ice Prison",
-					"MISSING-description": "Debuff target enemy, skipping all their actions for several turns, while also greatly reducing the attack damage they take.",
-					"MISSING-badge_description": "Random chance to debuff a random enemy, skipping all their actions for several turns, but greatly reduce damage they take from attacks"
+					"name": "얼음 감옥",
+					"description": "대상 적에게 디버프를 부여하여 몇 턴 동안 모든 행동을 건너뛰게 만들지만, 해당 적이 받는 공격 대미지는 크게 감소합니다.",
+					"badge_description": "일정 확률로 랜덤 적에게 디버프를 부여하여 몇 턴 동안 모든 행동을 건너뛰게 만들지만, 해당 적이 받는 공격 대미지는 크게 감소합니다."
 				}
 			},
 			"naomi": {
 				"standard": {
-					"MISSING-name": "Tough",
-					"MISSING-description": "Buff defence and become focused",
-					"MISSING-badge_description": "Random chance to buff defence and become focused"
+					"name": "강인함",
+					"description": "방어력을 상승하고 집중 상태가 됩니다.",
+					"badge_description": "일정 확률로 방어력을 상승하고 집중 상태가 됩니다."
 				}
 			},
 			"noel": {
 				"standard": {
-					"MISSING-name": "Master Detective",
-					"MISSING-description": "Reveal the length of the answer and _NUMBER_ of its characters",
-					"MISSING-badge_description": "Random chance to reveal the length of the answer and 2 of its characters"
+					"name": "명탐정",
+					"description": "정답의 길이와 _NUMBER_글자를 드러냅니다.",
+					"badge_description": "일정 확률로 정답의 길이와 2글자를 드러냅니다."
 				},
 				"brawler": {
-					"MISSING-name": "Martial Strikes",
-					"MISSING-description": "Gain a buff boosting attack damage until not landing an attack, the damage boost increasing with each successful attack.",
-					"MISSING-badge_description": "Random chance to get the Martial Strike buff"
+					"name": "무술 연격",
+					"description": "공격에 실패할 때까지 공격 대미지를 강화하는 버프를 획득합니다. 이 대미지 보너스는 성공할 때마다 누적되어 증가합니다.",
+					"badge_description": "일정 확률로 무술 연격 버프를 획득합니다."
 				}
 			},
 			"riku": {
 				"standard": {
-					"MISSING-name": "Check Chat",
-					"MISSING-description": "Riku asks chat for help and receives a bunch of sometimes helpful hints",
-					"MISSING-badge_description": "Random chance to get hints via chat"
+					"name": "채팅창 확인",
+					"description": "리쿠가 채팅창에 도움을 요청하여, 가끔은 도움이 되는 힌트들을 잔뜩 얻습니다.",
+					"badge_description": "일정 확률로 채팅을 통해 힌트를 획득합니다."
 				}
 			},
 			"ritsu": {
 				"standard": {
-					"MISSING-name": "In the Rhythm",
-					"MISSING-description": "Buff attack and dodge. Failing an attack or dodge interrupts this ability",
-					"MISSING-badge_description": "Random chance to get a buff to attack and dodge, that lasts until a failed attack or getting hit by an undodged attack"
+					"name": "리듬을 타고",
+					"description": "공격력과 회피율이 상승합니다. 공격 실패 혹은 회피 실패시 이 능력은 중단됩니다.",
+					"badge_description": "일정 확률로 공격력과 회피율이 상승합니다. 공격 실패 혹은 회피 실패시 이 능력은 중단됩니다."
 				},
 				"bard": {
-					"MISSING-name": "Bards Serenade",
-					"MISSING-description": "Gives everyone in the party a random buff",
-					"MISSING-badge_description": "Random chance to give everyone in the party a random buff"
+					"name": "바드의 세레나데",
+					"description": "파티원 모두에게 랜덤 버프를 부여합니다.",
+					"badge_description": "일정 확률로 파티원 모두에게 랜덤 버프를 부여합니다."
 				}
 			},
 			"sachiko": {
 				"standard": {
-					"MISSING-name": "Swift Maneuver",
-					"MISSING-description": "Instantly swap position with target ally",
-					"MISSING-badge_description": "Random chance to get a buff, allowing to instantly swap position with another avatar"
+					"name": "신속한 기동",
+					"description": "대상 아군과 즉시 위치를 바꿉니다.",
+					"badge_description": "일정 확률로 다른 아바타와 즉시 위치를 바꿀 수 있는 버프를 얻습니다."
 				}
 			},
 			"sera": {
 				"standard": {
-					"MISSING-name": "Angel's Grace",
-					"MISSING-description": "Shields target ally from harm, the lower their health the stronger the shield",
-					"MISSING-badge_description": "Random chance to get a buff that shields from harm, the lower their health the stronger the shield"
+					"name": "천사의 가호",
+					"description": "대상 아군에게 피해를 막아주는 보호막을 생성합니다. 대상의 체력이 낮을수록 보호막이 더 강력해집니다.",
+					"badge_description": "일정 확률로 피해를 막아주는 보호막 버프를 얻습니다. 체력이 낮을수록 보호막이 더 강력해집니다."
 				}
 			},
 			"shiina": {
 				"standard": {
-					"MISSING-name": "Center of Attention",
-					"MISSING-description": "Change all enemy attack targets to Shiina",
-					"MISSING-badge_description": "Random chance to change all enemy attacks to equipped avatar"
+					"name": "주목의 중심",
+					"description": "모든 적의 공격 대상을 시이나로 변경합니다.",
+					"badge_description": "일정 확률로 모든 적의 공격 대상을 장착중인 아바타로 변경합니다."
 				},
 				"cheerleader": {
-					"MISSING-name": "Cheer!",
-					"MISSING-description": "Gives a buff that lets Shiina's correct guesses greatly power up the target avatar's stats instead of dealing damage",
-					"MISSING-badge_description": "Random chance to receive a buff to all stats"
+					"name": "응원!",
+					"description": "시이나가 정답을 맞혔을 때 대미지를 주는 대신, 대상 아바타의 능력치를 크게 강화하는 버프를 부여합니다.",
+					"badge_description": "일정 확률로 모든 능력치 버프를 획득합니다."
 				}
 			},
 			"yin_yan": {
 				"standard": {
-					"MISSING-name": "Balance of Force",
-					"MISSING-description": "Switches between a buff that boosts defense and lowers attack, and a buff that lowers defense and boosts attack",
-					"MISSING-badge_description": "Random chance to get either a buff that ups attack or a buff that ups defense depending on the situation"
+					"name": "힘의 균형",
+					"description": "방어력을 높이고 공격력을 낮추는 버프와, 방어력을 낮추고 공격력을 높이는 버프를 전환합니다.",
+					"badge_description": "상황에 따라 공격력을 높여주는 버프나 방어력을 높여주는 버프 중 하나를 일정 확률로 획득합니다."
 				}
 			},
 			"yukari": {
 				"standard": {
-					"MISSING-name": "Nine Lives",
-					"MISSING-description": "Gain a buff causing the next attack taken to inflict 0 damage, but apply a random debuff instead",
-					"MISSING-badge_description": "Random chance to gain a buff causing the next attack taken to deal 0 damage, but apply a random debuff instead"
+					"name": "9개의 목숨",
+					"description": "다음에 받는 공격의 대미지를 0으로 만드는 버프를 획득하지만 랜덤 디버프를 받게 됩니다.",
+					"badge_description": "일정 확률로 다음에 받는 공격의 대미지를 0으로 만드는 버프를 획득하지만 랜덤 디버프를 받게 됩니다."
 				}
 			},
 			"yuki": {
 				"standard": {
-					"MISSING-name": "Present",
-					"MISSING-description": "Give a random buff to target ally",
-					"MISSING-badge_description": "Random chance to give another avatar a random buff"
+					"name": "선물",
+					"description": "대상 아군에게 랜덤 버프를 부여합니다.",
+					"badge_description": "일정 확률로 다른 아바타에게 랜덤 버프를 부여합니다."
 				}
 			},
 			"yumemi": {
 				"standard": {
-					"MISSING-name": "Hibernate",
-					"MISSING-description": "Gain a shield and a buff to defence, but gets hit by the crash debuff",
-					"MISSING-badge_description": "Random chance to gain a shield and buff to defence, but might get hit by the crash debuff as well"
+					"name": "동면",
+					"description": "보호막을 얻고 방어력이 상승하지만, 크래시 디버프를 받습니다.",
+					"badge_description": "일정 보호막을 얻고 방어력이 상승하지만, 크래시 디버프에 걸릴 수도 있습니다."
 				}
 			}
 		},
 		"fuwagi_item": {
 			"adventurer_sword": {
-				"MISSING-title": "Adventurer's Sword",
-				"MISSING-description": "Equip target avatar with a sword, increasing their damage for 5 turns."
+				"title": "모험가의 검",
+				"description": "대상 아바타에게 검을 장착시켜 5턴동안 대미지를 증가시킵니다."
 			},
 			"adventure_shield": {
-				"MISSING-title": "Adventure's Shield",
-				"MISSING-description": "Equip target avatar with a shield, reducing damage taken for 5 turns."
+				"title": "모험가의 방패",
+				"description": "대상 아바타에게 방패를 장착시켜 5턴동안 받는 대미지를 감소시킵니다."
 			},
 			"quick_bomb": {
-				"MISSING-title": "Quick Bomb",
-				"MISSING-description": "Throw a short fuse bomb at target enemy, dealing damage at the end of the turn."
+				"title": "신속 폭탄",
+				"description": "대상 적에게 도화선이 짧은 폭탄을 투척하여 턴 종료시 대미지를 입힙니다."
 			},
-			"healing_potion": { "MISSING-title": "Healing Potion", "MISSING-description": "Heal target avatar for 75 HP." },
+			"healing_potion": { "title": "힐링 포션", "description": "대상 아바타의 체력을 75 회복합니다." },
 			"shield_potion": {
-				"MISSING-title": "Shield Potion",
-				"MISSING-description": "Shield target avatar for 100 shield."
+				"title": "보호막 포션",
+				"description": "대상 아바타에게 100만큼 보호막을 부여합니다."
 			},
 			"leave_me_alone_potion": {
-				"MISSING-title": "Leave-Me-Alone Potion",
-				"MISSING-description": "Change enemy targeting away from target avatar."
+				"title": "방해 금지 포션",
+				"description": "적의 공격 대상에서 해당 아바타를 제외하도록 타게팅을 변경합니다."
 			},
 			"phoenix_feather": {
-				"MISSING-title": "Phoenix Feather",
-				"MISSING-description": "Revive target dead avatar with 20% HP."
+				"title": "피닉스의 깃털",
+				"description": "사망한 대상 아바타를 최대 체력의 20% 상태로 부활시킵니다."
 			}
 		},
 		"runes": {
-			"MISSING-rune_name": "_TIER_ _NAME_",
+			"rune_name": "_TIER_ _NAME_",
 			"rune_tiers": {
-				"MISSING-minor": "Minor",
-				"MISSING-lesser": "Lesser",
-				"MISSING-greater": "Greater",
-				"MISSING-major": "Major",
-				"MISSING-superior": "Superior"
+				"minor": "최하급",
+				"lesser": "하급",
+				"greater": "상급",
+				"major": "최상급",
+				"superior": "초월급"
 			},
 			"rune_stats": {
-				"MISSING-constitution": "Constitution",
-				"MISSING-defence": "Defence",
-				"MISSING-dodge": "Dodge",
-				"MISSING-attack": "Attack",
-				"MISSING-accuracy": "Accuracy",
-				"MISSING-crit_damage": "Crit Damage",
-				"MISSING-crit": "Crit"
+				"constitution": "체질",
+				"defence": "방어",
+				"dodge": "회피",
+				"attack": "공격",
+				"accuracy": "명중",
+				"crit_damage": "치명피해",
+				"crit": "치명"
 			},
-			"boost_rune": { "MISSING-description": "Give a _TIER_ boost to _NAME_" },
+			"boost_rune": { "description": "_NAME_을 _TIER_로 강화합니다." },
 			"genre_rune": {
-				"MISSING-offense_description": "Incrase attack damage during _NAME_ shows",
-				"MISSING-defense_description": "Reduce damage taken from attacks during _NAME_ shows",
-				"MISSING-offense_name": "_NAME3_ Damage",
-				"MISSING-defense_name": "_NAME3_ Defence"
+				"offense_description": "_NAME_ 작품에서 공격 대미지가 증가합니다.",
+				"defense_description": "_NAME_ 작품에서 받는 공격 대미지가 감소합니다.",
+				"offense_name": "_NAME3_ 대미지",
+				"defense_name": "_NAME3_ 방어"
 			},
 			"unique_runes": {
 				"virus_routine": {
-					"MISSING-name": "Virus Routine",
-					"MISSING-description": "Have a _TIER_ Chance to Inflict Virus on Attacks"
+					"name": "바이러스 루틴",
+					"description": "공격시 _TIER_ 확률로 바이러스를 부여합니다."
 				},
 				"crash_routine": {
-					"MISSING-name": "Crash Routine",
-					"MISSING-description": "Have a _TIER_ Chance to Inflict Crash on Attacks"
+					"name": "크래시 루틴",
+					"description": "공격시 _TIER_ 확률로 크래시를 부여합니다."
 				},
-				"tortoise": { "MISSING-name": "Tortoise", "MISSING-description": "Take Less Damage, but Deal Less Damage" },
+				"tortoise": { "name": "거북이", "description": "받는 대미지가 감소하지만, 주는 대미지도 감소합니다." },
 				"mobile_defence": {
-					"MISSING-name": "Mobile Defence",
-					"MISSING-description": "Gain a Shield when Swapping Position"
+					"name": "기동 방어",
+					"description": "위치를 바꿀 때 보호막을 획득합니다."
 				},
 				"emergency_shield": {
-					"MISSING-name": "Emergency Shield",
-					"MISSING-description": "Gain a Shield Once Per Combat When Hit by an Attack"
+					"name": "비상 보호막",
+					"description": "공격받을 때 전투당 1회 보호막을 획득합니다."
 				},
 				"defender": {
-					"MISSING-name": "Defender",
-					"MISSING-description": "Give a Shield to the Target When Swapping Position"
+					"name": "수호자",
+					"description": "위치를 바꿀 때 대상에게 보호막을 부여합니다."
 				},
 				"threat_aura": {
-					"MISSING-name": "Threat Aura",
-					"MISSING-description": "Increase Chance of Getting Targeted by Attacks"
+					"name": "위협적인 오라",
+					"description": "공격 대상이 될 확률이 증가합니다."
 				},
 				"bypass_routine": {
-					"MISSING-name": "Bypass Routine",
-					"MISSING-description": "Have a _TIER_ Chance to Inflict Bypass on Attacks"
+					"name": "우회 루틴",
+					"description": "공격시 _TIER_ 확률로 우회를 부여합니다."
 				},
-				"rampage": { "MISSING-name": "Rampage", "MISSING-description": "Deal More Damage, but Take More Damage" },
+				"rampage": { "name": "광폭화", "description": "주는 대미지가 증가하지만, 받는 대미지도 증가합니다." },
 				"time_booster": {
-					"MISSING-name": "Time Booster",
-					"MISSING-description": "Gain Extra Silent Guess Time on Songs"
+					"name": "타임 부스터",
+					"description": "노래 진행 중 추측제한시간을 추가로 얻습니다."
 				},
 				"defensive_counter": {
-					"MISSING-name": "Defensive Counter",
-					"MISSING-description": "Increase Defense for Each Active Debuff"
+					"name": "방어 카운터",
+					"description": "활성화된 디버프만큼 방어력이 상승합니다."
 				},
 				"defensive_rush": {
-					"MISSING-name": "Defensive Rush",
-					"MISSING-description": "Increase Defense for Each Active Buff"
+					"name": "방어 러시",
+					"description": "활성화된 버프만큼 방어력이 상승합니다."
 				},
 				"offensive_counter": {
-					"MISSING-name": "Offensive Counter",
-					"MISSING-description": "Increase Attack for Each Active Debuff"
+					"name": "공격 카운터",
+					"description": "활성화된 디버프만큼 공격력이 상승합니다."
 				},
 				"offensive_rush": {
-					"MISSING-name": "Offensive Rush",
-					"MISSING-description": "Increase Attack for Each Active Buff"
+					"name": "공격 러시",
+					"description": "활성화된 버프만큼 공격력이 상승합니다."
 				}
 			}
 		},
 		"buffs": {
 			"crisis_management_form": {
-				"MISSING-name": "Crisis Management Form",
-				"MISSING-description": "Increase all base stats"
+				"name": "위기 관리 폼",
+				"description": "모든 기본 능력치를 상승시킵니다."
 			},
 			"berserker_star": {
-				"MISSING-name": "Berserker Star",
-				"MISSING-description": "Increase damage by 20% until not landing an attack"
+				"name": "버서커 스타",
+				"description": "공격이 빗나갈 때까지 대미지가 20% 증가합니다."
 			},
 			"charge_staff": {
-				"MISSING-name": "Charge Staff",
-				"MISSING-description": "Landing the next attack gives a shield"
+				"name": "충전 지팡이",
+				"description": "다음 공격 성공시 보호막을 획득합니다."
 			},
-			"comfy_scarf": { "MISSING-name": "Comfy Scarf", "MISSING-description": "Counter the next standard debuff" },
+			"comfy_scarf": { "name": "편안한 스카프", "description": "다음에 받는 일반 디버프를 반격합니다." },
 			"computation_orb": {
-				"MISSING-name": "Computation Orb",
-				"MISSING-description": "Increase damage by 20% while below 50% HP"
+				"name": "계산 보주",
+				"description": "체력이 50% 이하일 때 대미지가 20% 증가합니다."
 			},
 			"hornet_stringer": {
-				"MISSING-name": "Hornet Stringer",
-				"MISSING-description": "Next attack guaranteed to critical hit"
+				"name": "말벌침",
+				"description": "다음 공격이 확정적으로 치명타가 됩니다."
 			},
 			"legends_shield": {
-				"MISSING-name": "Legends Shield",
-				"MISSING-description": "Gain a shield when hit by the next enemy attack"
+				"name": "전설의 방패",
+				"description": "다음 적 공격에 피격시 보호막을 획득합니다."
 			},
 			"swords_of_truth_and_light": {
-				"MISSING-name": "Swords Of Truth And Light",
-				"MISSING-description_one": "Next two attacks deal double damage",
-				"MISSING-description_two": "Next attack deals double damage"
+				"name": "진실과 빛의 검",
+				"description_one": "다음 두번의 공격이 두배의 대미지를 입힙니다.",
+				"description_two": "다음 공격이 두배의 대미지를 입힙니다."
 			},
 			"adventurers_sword": {
-				"MISSING-name": "Adventurer's Sword",
-				"MISSING-description": "Attacks deal increased damage "
+				"name": "모험가의 검",
+				"description": "공격시 가하는 대미지가 증가합니다."
 			},
-			"adventurers_shield": { "MISSING-name": "Adventurer's Shield", "MISSING-description": "Reduce damage taken" },
-			"angels_grace": { "MISSING-name": "Angel's Grace", "MISSING-description": "Shields from damage" },
+			"adventurers_shield": { "name": "모험가의 방패", "description": "받는 대미지가 감소합니다." },
+			"angels_grace": { "name": "천사의 가호", "description": "피해로부터 보호하는 보호막을 생성합니다." },
 			"buster": {
-				"MISSING-name": "Buster",
-				"MISSING-description": "Charge up damage for the next attack in each ally's turn. Effect is lost if moved or attacked"
+				"name": "버스터",
+				"description": "매 아군 턴마다 다음 공격의 대미지를 충전합니다. 이동하거나 공격받으면 효과가 사라집니다."
 			},
 			"cats_luck": {
-				"MISSING-name": "Cat's Luck",
-				"MISSING-description": "Next attack taken inflicts 0 damage but applies a random debuff instead"
+				"name": "고양이의 운",
+				"description": "다음에 받는 공격의 대미지를 0으로 만들지만, 대신 무작위 디버프를 받습니다."
 			},
 			"cheered": {
-				"MISSING-name": "Cheered",
-				"MISSING-description": "Being cheered on has granted a massive buff to all stats"
+				"name": "응원받음",
+				"description": "응원을 받아 모든 능력치가 크게 상승했습니다."
 			},
 			"cheering": {
-				"MISSING-name": "Cheering",
-				"MISSING-description": "Empowers another target avatar on correct guesses instead of attacking"
+				"name": "응원중",
+				"description": "정답을 맞혔을 때 공격 대신 대상 아바타의 능력을 강화합니다."
 			},
 			"dark_contract": {
-				"MISSING-name": "Dark Contract",
-				"MISSING-description": "Increase damage dealt, and revive if killed. Get the Dark Contract debuff if revived.",
-				"MISSING-description_debuff": "Increase damage dealt, but die when the debuff expires. The debuff is removed if a character is killed"
+				"name": "어둠의 계약",
+				"description": "공격 대미지가 증가하고 사망시 부활합니다. 부활시 어둠의 계약 디버프를 받습니다.",
+				"description_debuff": "공격 대미지가 증가하지만 디버프가 끝나면 사망합니다. 적 처치시 디버프가 제거됩니다."
 			},
 			"dark_flame_strike": {
-				"MISSING-name": "Dark Flame Strike",
-				"MISSING-description": "Deal increased damage on the next attack, but if it fails, receive two debuffs"
+				"name": "흑염격",
+				"description": "다음 공격의 대미지가 증가하지만, 실패시 두개의 디버프를 받습니다."
 			},
 			"dragon_rage": {
-				"MISSING-name": "Dragon Rage",
-				"MISSING-description": "When hit, attack is boosted by 50%",
-				"MISSING-description_active": "The character is enraged, increasing attack by 50%"
+				"name": "드래곤 레이지",
+				"description": "피격시 공격력이 50% 증가합니다.",
+				"description_active": "분노 상태가 되어 공격력이 50% 증가합니다."
 			},
-			"encore_buff": { "MISSING-name": "Encore Buff", "MISSING-description": "Next attack inflicts the encore debuff" },
+			"encore_buff": { "name": "앙코르 버프", "description": "다음 공격시 앙코르 디버프를 부여합니다." },
 			"fiery_onslaught": {
-				"MISSING-name": "Fiery Onslaught",
-				"MISSING-description": "Increase accuracy and apply the virus debuff on all attacks, but failed attacks inflict the virus debuff on the attacker"
+				"name": "맹렬한 돌격",
+				"description": "명중률이 상승하고 모든 공격에 바이러스 디버프를 부여하지만 공격 실패시 자신이 바이러스 디버프에 걸립니다."
 			},
-			"fox_fire": { "MISSING-name": "Fox Fire", "MISSING-description": "All attacks apply a random debuff" },
+			"fox_fire": { "name": "여우불", "description": "모든 공격이 랜덤 디버프를 부여합니다." },
 			"full_charge": {
-				"MISSING-name": "Full Charge",
-				"MISSING-description": "Next attack deals double damage, but gain the Crash debuff at the end of the turn."
+				"name": "풀 차지",
+				"description": "다음 공격의 대미지가 두배로 증가하지만 턴 종료시 크래시 디버프를 얻습니다."
 			},
 			"in_the_rhythm": {
-				"MISSING-name": "In the Rhythm",
-				"MISSING-description": "Increase attack and dodge, lasting until you fail to dodge or land an attack"
+				"name": "리듬을 타고",
+				"description": "공격력과 회피율이 상승합니다. 공격에 실패하거나 회피하지 못할 때까지 유지됩니다."
 			},
 			"knights_challenge": {
-				"MISSING-name": "Knight's Challenge",
-				"MISSING-description": "Target of all new enemy attacks"
+				"name": "기사의 도전",
+				"description": "모든 새로운 적의 공격대상이 됩니다."
 			},
 			"magical_bombardment": {
-				"MISSING-name": "Magical Bombardment",
-				"MISSING-description": "Next attack deals reduced damage, but hits all enemies"
+				"name": "마력 폭격",
+				"description": "다음 공격 대미지가 감소하지만, 모든 적을 동시에 공격합니다."
 			},
 			"magical_infusion": {
-				"MISSING-name": "Magical Infusion",
-				"MISSING-description": "Gain a random buff when landing an attack. This buff expires when failing an attack."
+				"name": "마력 주입",
+				"description": "공격 성공시마다 랜덤 버프를 얻는 상태가 됩니다. 이 버프는 공격에 실패할 때까지 유지됩니다."
 			},
 			"martial_strikes": {
-				"MISSING-name": "Martial Strikes",
-				"MISSING-description": "Gain a charge for each successful attack, each charge increasing damage done on future attacks. Last until not landing an attack."
+				"name": "무술 연격",
+				"description": " 공격에 성공할 때마다 충전 스택을 얻으며, 스택 수만큼 공격 대미지가 증가합니다. 공격이 실패할 때까지 유지됩니다."
 			},
-			"natural_sprinter": { "MISSING-name": "Natural Sprinter", "MISSING-description": "Increase attack and accuracy" },
+			"natural_sprinter": { "name": "타고난 스프린터", "description": "공격력과 명중률이 상승합니다." },
 			"natures_frenzy": {
-				"MISSING-name": "Nature Frenzy",
-				"MISSING-description": "Greatly boost attack, but halve defense and dodge"
+				"name": "자연의 광란",
+				"description": "공격력이 크게 증가하지만, 방어력과 회피율이 절반으로 감소합니다."
 			},
 			"natures_infusion": {
-				"MISSING-name": "Natures Infusion",
-				"MISSING-description": "Increase attack, and reduce damage taken from the next attack by consuming this buff"
+				"name": "자연의 정수",
+				"description": "공격력이 상승하며, 다음 공격을 받을 때 소모되면서 대미지를 감소시킵니다."
 			},
 			"plunder": {
-				"MISSING-name": "Plunder",
-				"MISSING-description": "Gain a random buff and some fragments if you hit with your next attack"
+				"name": "약탈",
+				"description": "다음 공격 성공시 랜덤 버프와 함께 약간의 파편을 획득합니다."
 			},
 			"quick_bomb": {
-				"MISSING-name": "Quick Bomb",
-				"MISSING-description": "Explode at the end of the round, dealing damage to the target"
+				"name": "신속 폭탄",
+				"description": "턴 종료시 폭발하여 대상에게 대미지를 입힙니다."
 			},
 			"recon_in_force": {
-				"MISSING-name": "Recon in Force",
-				"MISSING-description": "Boost dodge and attacks apply the bypass debuff"
+				"name": "위력정찰",
+				"description": "회피율이 상승하며, 공격시 우회 디버프를 부여합니다."
 			},
-			"snake_charm": { "MISSING-name": "Snake Charm", "MISSING-description": "Attacks apply the charmed debuff" },
+			"snake_charm": { "name": "뱀의 유혹", "description": "공격시 매혹 디버프를 부여합니다." },
 			"spectral_tricks_buff": {
-				"MISSING-name": "Spectral Tricks Buff",
-				"MISSING-description": "Attacks taken this turn deal zero damage, but the damage is dealt next turn if that turn's guess is wrong"
+				"name": "심령의 속임수 버프",
+				"description": "이번 턴에 받는 대미지가 0이 되지만, 다음 턴에 정답을 맞히지 못하면 그 대미지를 그대로 받습니다."
 			},
 			"spectral_tricks_debuff": {
-				"MISSING-name": "Spectral Tricks Debuff",
-				"MISSING-description": "Take damage equal to the negated damage if the next guess is wrong"
+				"name": "심령의 속임수 디버프",
+				"description": "다음 정답을 맞히지 못하면, 무효화했던 만큼 대미지를 입습니다."
 			},
 			"swift_maneuver": {
-				"MISSING-name": "Swift Maneuver",
-				"MISSING-description": "Next avatar swap happens instantly"
+				"name": "신속한 기동",
+				"description": "다음 아바타 교체가 즉시 이루어집니다."
 			},
 			"unlucky_lucky_rabbit": {
-				"MISSING-name": "Unlucky Lucky Rabbit",
-				"MISSING-description": "Greatly increase dodge, but increase the chance of getting targeted by enemy attacks"
+				"name": "불운한 행운의 토끼",
+				"description": "회피율이 크게 증가하지만 적의 공격 대상이 될 확률도 함께 증가합니다."
 			},
 			"vampires_kiss": {
-				"MISSING-name": "Vampire's Kiss",
-				"MISSING-description": "Heal if the next attack kills an enemy"
+				"name": "뱀파이어의 키스",
+				"description": "다음 공격으로 적을 처치하면 체력을 회복합니다."
 			},
 			"weapon_master": {
-				"MISSING-name": "Weapon Master",
-				"MISSING-description": "Empowers offensive artifacts' effect"
+				"name": "무기 마스터",
+				"description": "공격형 아티팩트의 효과를 강화합니다."
 			},
 			"witches_trickery": {
-				"MISSING-name": "Witches Trickery",
-				"MISSING-description": "Next attack applies the bewitched debuff"
+				"name": "마녀의 속임수",
+				"description": "다음 공격시 매혹 디버프를 부여합니다."
 			},
-			"force_of_yan": { "MISSING-name": "Force of Yan", "MISSING-description": "Ups defense and lowers attack" },
-			"force_of_yin": { "MISSING-name": "Force of Yin", "MISSING-description": "Ups attack and lowers defense" },
+			"force_of_yan": { "name": "얀의 힘", "description": "방어력을 높이고 공격력을 낮춥니다." },
+			"force_of_yin": { "name": "인의 힘", "description": "공격력을 높이고 방어력을 낮춥니다." },
 			"bewitched": {
-				"MISSING-name": "Bewitched",
-				"MISSING-description": "At the start of each turn apply the Crash, Virus, or Bypass debuff each lasting 1 turn"
+				"name": "매혹됨",
+				"description": "매 턴 시작시 크래시, 바이러스, 우회 중 하나의 디버프를 랜덤하게 1턴동안 부여합니다."
 			},
 			"encore_debuff": {
-				"MISSING-name": "Encore Debuff",
-				"MISSING-description": "Next attack from _NAME_ is a guaranteed critical hit"
+				"name": "앙코르 디버프",
+				"description": "_NAME_의 다음 공격이 확정적으로 치명타가 됩니다.",
+				"the_caster": "시전자"
 			},
 			"ice_prison": {
-				"MISSING-name": "Ice Prison",
-				"MISSING-description": "Skip all actions, but take greatly reduced attack damage"
+				"name": "얼음 감옥",
+				"description": "모든 행동을 건너뛰는 대신, 받는 대미지가 크게 감소합니다."
 			},
 			"energized": {
-				"MISSING-name": "Energized",
-				"MISSING-description": "Increased attack power while the Energizer is alive"
+				"name": "에너지 충전됨",
+				"description": "에너자이저가 살아있는 동안 공격력이 증가합니다."
 			},
-			"enhanced": { "MISSING-name": "Enhanced", "MISSING-description": "Increase attack by _NUMBER_% for each stack" },
+			"enhanced": { "name": "강화됨", "description": "중첩당 공격력이 _NUMBER_% 증가합니다." },
 			"protected": {
-				"MISSING-name": "Protected",
-				"MISSING-description": "Defence boost based on the protector's defence"
+				"name": "보호받음",
+				"description": "보호자의 방어력에 비례하여 방어력이 상승합니다."
 			},
 			"protector": {
-				"MISSING-name": "Protector",
-				"MISSING-description": "The character behind the buffed character becomes protected"
+				"name": "보호자",
+				"description": "버프를 받은 캐릭터 뒤에 있는 캐릭터가 보호받음 상태가 됩니다."
 			},
 			"trojan_protocol": {
-				"MISSING-name": "Trojan Protocol",
-				"MISSING-description": "Attacks inflict a random debuff"
+				"name": "트로이 목마 프로토콜",
+				"description": "공격시 랜덤 디버프를 부여합니다."
 			},
 			"untargetable": {
-				"MISSING-name": "Untargetable",
-				"MISSING-description": "Can't be targeted by attacks or abilities"
+				"name": "타게팅 불가",
+				"description": "공격이나 능력의 대상으로 지정될 수 없습니다."
 			},
 			"charmed": {
-				"MISSING-name": "Charmed",
-				"MISSING-description": "Forced to target attacks at _NAME_, but deal 30% less damage"
+				"name": "매료됨",
+				"description": "강제로 _NAME_을 공격 대상으로 지정하게 되며, 가하는 대미지가 30% 감소합니다."
 			},
-			"accuracy_buff": { "MISSING-name": "Accuracy Buff", "MISSING-description": "Increased Accuracy on Attacks" },
-			"attack_buff": { "MISSING-name": "Attack Buff", "MISSING-description": "Increased Attack Power" },
-			"defence_buff": { "MISSING-name": "Defence Buff", "MISSING-description": "Increased Defence" },
-			"dodge_buff": { "MISSING-name": "Dodge Buff", "MISSING-description": "Increased Dodge Chance" },
-			"attack_debuff": { "MISSING-name": "Attack Debuff", "MISSING-description": "Decrease Attack Power" },
+			"accuracy_buff": { "name": "명중 버프", "description": "공격 명중률이 상승합니다." },
+			"attack_buff": { "name": "공격 버프", "description": "공격력이 상승합니다." },
+			"defence_buff": { "name": "방어 버프", "description": "방어력이 상승합니다." },
+			"dodge_buff": { "name": "회피 버프", "description": "회피율이 상승합니다." },
+			"attack_debuff": { "name": "공격 디버프", "description": "공격력이 감소합니다." },
 			"bypass": {
-				"MISSING-name": "Bypass",
-				"MISSING-description": "Increase damage taken from the next attack by 50%"
+				"name": "우회",
+				"description": "다음에 받는 공격의 대미지가 50% 증가합니다."
 			},
-			"crash": { "MISSING-name": "Crash", "MISSING-description": "Next action is skipped" },
-			"defence_debuff": { "MISSING-name": "Defence Debuff", "MISSING-description": "Decrease Defence" },
-			"virus": { "MISSING-name": "Virus", "MISSING-description": "Take damage at the start of each turn" },
+			"crash": { "name": "크래시", "description": "다음 행동을 건너뜁니다." },
+			"defence_debuff": { "name": "방어 디버프", "description": "방어력이 감소합니다." },
+			"virus": { "name": "바이러스", "description": "매 턴 시작시 대미지를 입습니다." },
 			"genre_boost": {
-				"MISSING-name": "_NAME_ Boost",
-				"MISSING-description": "Increase attack damage when the current anime has the _NAME_ genre."
+				"name": "_NAME_ 부스트",
+				"description": "현재 애니메이션에 _NAME_ 장르가 포함되어 있으면 공격 대미지가 증가합니다."
 			},
 			"hidden": {
-				"MISSING-name": "Hidden",
-				"MISSING-description": "Become untargetable by enemies and increase damage on the next attack. Expires after attacking or moving"
+				"name": "은신",
+				"description": "적의 타게팅 대상에서 제외되며, 다음 공격의 대미지가 증가합니다. 공격하거나 위치를 옮기면 해제됩니다."
 			},
-			"exposed": { "MISSING-name": "Exposed", "MISSING-description": "Get a random debuff from all attacks" },
+			"exposed": { "name": "노출됨", "description": "모든 공격으로부터 랜덤 디버프를 받게 됩니다." },
 			"focused": {
-				"MISSING-name": "Focused",
-				"MISSING-description": "Increase chance of getting targeted by enemy attacks"
+				"name": "집중됨",
+				"description": "적의 공격 대상이 될 확률이 증가합니다."
 			},
-			"snared": { "MISSING-name": "Snared", "MISSING-description": "Unable to Switch Position" },
+			"snared": { "name": "속박됨", "description": "위치를 바꿀 수 없습니다." },
 			"genre_protection": {
-				"MISSING-name": "_NAME_ Protection",
-				"MISSING-description": "Negate all damage from attacks when the current show doesn’t have the _NAME_ genre."
+				"name": "_NAME_ 프로텍션",
+				"description": "현재 작품에 _NAME_ 장르가 포함되어 있지 않으면 공격으로부터 받는 모든 대미지를 무효화합니다."
 			}
 		},
 		"enemies": {
@@ -4773,249 +4739,295 @@
 			"orb": "오브",
 			"singularity": "싱귤래러티",
 			"the_creator": "창조자"
+		},
+		"rejoin_prompt": {
+			"title": "연결 끊긴 넥서스 게임에 재참가",
+			"description": "마지막 넥서스 게임에서 연결이 끊어졌습니다. 다시 참가하시겠습니까?",
+			"rejoin_button": "재참가"
 		}
 	},
 	"tutorial": {
-		"MISSING-continue_button": "Continue",
-		"MISSING-exit_button": "Exit",
+		"continue_button": "계속하기",
+		"exit_button": "나가기",
 		"welcome": {
-			"MISSING-title": "Welcome to AMQ",
+			"title": "AMQ에 오신 것을 환영합니다.",
 			"step_one": {
-				"MISSING-text": "Hi and welcome to Anime Music Quiz! _BREAK_I suggest taking my quick tutorial to learn the basics of the game. _BREAK_ There might even be rewards at the end of it!",
-				"options": { "MISSING-play_tutorial": "Play Tutorial", "MISSING-skip_tutorial": "Skip Tutorial" }
+				"text": "안녕하세요. Anime Music Quiz!에 오신 것을 환영합니다. _BREAK_게임의 기본을 배울 수 있는 간단한 튜토리얼을 진행하시는 것을 추천합니다. _BREAK_ 튜토리얼을 마치면 보상이 있을지도 몰라요!",
+				"options": { "play_tutorial": "튜토리얼 시작", "skip_tutorial": "튜토리얼 건너뛰기" }
 			},
-			"step_two": { "MISSING-text": "Awesome, let's get started!" },
-			"step_dismiss": { "MISSING-text": "You can always find the tutorial in the bottom right menu." }
+			"step_two": { "text": "좋습니다, 바로 시작해 봅시다!" },
+			"step_dismiss": { "text": "튜토리얼은 언제든지 우측 하단 메뉴에서 다시 확인할 수 있습니다." }
 		},
 		"welcome_no_list": {
-			"MISSING-title": "Add Anime List",
+			"title": "애니 리스트 추가",
 			"step_one": {
-				"MISSING-text": "To start out I can see that you don't have an AniList, MyAnimeList or Kitsu user connected to your account. _BREAK_ I strongly recommend adding one, as it'll allow the game to pick songs from shows you have watched.",
+				"text": "우선 아이디에 연결된 AniList, MyAnimeList 또는 Kitsu 사용자가 없는 것 같아요. _BREAK_ 리스트를 추가하는 것을 강력히 추천드려요. 리스트가 있으면 게임에서 여러분이 본 작품의 곡들을 골라낼 수 있거든요.",
 				"options": {
-					"MISSING-no_list": "Don't have one",
-					"MISSING-add_one": "Ok, let's add one",
-					"MISSING-skip": "I'll go without"
+					"no_list": "리스트가 없어요.",
+					"add_one": "좋아요, 추가할게요.",
+					"skip": "그냥 진행할래요."
 				}
 			},
 			"step_two": {
-				"MISSING-text": "You can easily set up one for free on one of the sites: _LINK_ AniList _LINK_, _LINK2_ MyAnimeList _LINK2_ or _LINK3_ Kitsu _LINK3_. _BREAK_ I'll wait if you want to set one up now.",
-				"options": { "MISSING-created_one": "Ok, I've created one", "MISSING-skip": "Maybe another time" }
+				"text": "다음 사이트 중 하나에서 무료로 쉽게 계정을 만들 수 있어요: _LINK_ AniList _LINK_, _LINK2_ MyAnimeList _LINK2_ or _LINK3_ Kitsu _LINK3_. _BREAK_ 지금 계정을 만드실 동안 기다려 드릴게요.",
+				"options": { "created_one": "네, 계정을 만들었어요.", "skip": "나중에 할게요." }
 			},
 			"step_three": {
-				"MISSING-text": "Perfect, let's get it connected to your AMQ account then! _BREAK_ Which site do you have a list on?",
+				"text": "완벽해요. 그럼 이제 AMQ 아이디에 연결해 보죠! _BREAK_ 어느 사이트의 리스트를 사용하시나요?",
 				"options": {
-					"MISSING-anilist": "AniList",
-					"MISSING-myanimelist": "MyAnimeList",
-					"MISSING-kitsu": "Kitsu",
-					"MISSING-cancel": "Cancel"
+					"anilist": "AniList",
+					"myanimelist": "MyAnimeList",
+					"kitsu": "Kitsu",
+					"cancel": "취소"
 				}
 			},
 			"step_anilist": {
-				"MISSING-text": "Please type your AniList username or leave it blank if you changed your mind."
+				"text": "AniList 사용자 이름을 입력해 주세요. 마음이 바뀌셨다면 빈칸으로 두셔도 됩니다."
 			},
-			"step_kitsu": { "MISSING-text": "Please type your Kitsu username or leave it blank if you changed your mind." },
+			"step_kitsu": { "text": "Kitsu 사용자 이름을 입력해 주세요. 마음이 바뀌셨다면 빈칸으로 두셔도 됩니다." },
 			"step_myanimelist": {
-				"MISSING-text": "Please type your MyAnimeList username or leave it blank if you changed your mind."
+				"text": "MyAnimeList 사용자 이름을 입력해 주세요. 마음이 바뀌셨다면 빈칸으로 두셔도 됩니다."
 			},
-			"step_four": { "MISSING-text": "Now the game will be able to select songs from shows you've watched!" },
+			"step_four": { "text": "이제 여러분이 시청한 작품의 곡들을 게임에서 선택할 수 있게 됐습니다!" },
 			"step_dismiss": {
-				"MISSING-text": "That's fine, you can still play without one! _BREAK_ You can add anime lists in the bottom right menu under \"Settings\"."
+				"text": "괜찮습니다, 리스트 없이도 게임을 플레이하실 수 있어요! _BREAK_ 애니메이션 리스트는 우측 하단 메뉴의 \"설정\"에서 언제든지 추가할 수 있습니다."
 			}
 		},
 		"first_game": {
-			"MISSING-title": "Gameplay",
+			"title": "게임 플레이",
 			"step_one": {
-				"MISSING-text": "Let's get you into a game so you can guess some shows! _BREAK_ Select \"Play\" to start."
+				"text": "이제 게임에 들어가서 작품들을 맞춰 보세요! _BREAK_ 시작하려면 \"플레이\"를 선택하세요."
 			},
 			"step_two": {
-				"MISSING-text": "Select “Multiplayer”. Don't worry, I'm not going to put you up against other players."
+				"text": "“멀티 플레이어”를 선택해 주세요. 걱정하지 마세요, 다른 플레이어와 바로 대결하게 하지는 않을거예요."
 			},
 			"step_three": {
-				"MISSING-text": "This is the room browser, where you can see the currently hosted games and set up your own game. _BREAK_ At the top are several filters you can use to filter out rooms."
+				"text": "이곳은 방 목록입니다. 현재 개설된 방을 확인하거나 직접 방을 만들 수 있어요. _BREAK_ 상단에 있는 여러 필터를 사용해서 원하는 방을 고를 수도 있습니다."
 			},
 			"step_four": {
-				"MISSING-text": "I've set up a game for you, the tile shows the most important settings. You can hover over most icons in the game to get more info. _BREAK_ Now click \"Join\"."
+				"text": "여러분을 위해 방을 하나 만들었어요. 타일에는 가장 중요한 설정들이 표시됩니다. 게임 내 대부분의 아이콘 위에 마우스를 올리면 상세 정보를 확인할 수 있어요. _BREAK_ 이제 \"참가\"를 클릭하세요."
 			},
 			"step_five": {
-				"MISSING-text": "This is the lobby where you can see and chat with other players. Currently I'm just a spectator. _BREAK_ Press \"Ready\" at the top so I can start the game."
+				"text": "다른 플레이어들을 보고 대화할 수 있는 로비입니다. 저는 지금 관전자로 참여중이에요. _BREAK_ 제가 게임을 시작할 수 있게 상단의 \"준비\" 버튼을 눌러주세요."
 			},
 			"step_six": {
-				"MISSING-text": "This is the quiz screen. When the song starts you'll have 20 seconds to guess the show. _BREAK_ I'll start the round now. Once you've typed your guess, select it from the suggestion list and submit it by pressing enter."
+				"text": "퀴즈 화면입니다. 노래가 시작되면 20초 안에 작품 이름을 맞혀야 합니다. _BREAK_ 이제 라운드를 시작할게요. 답을 입력한 후 추천 목록에서 선택하고 엔터를 눌러서 제출하세요."
 			},
 			"step_seven": {
-				"MISSING-text": "Once the guessing phase ends, all players' answers are revealed, then the correct answer is shown."
+				"text": "정답 입력 시간이 끝나면 모든 플레이어의 답변이 공개되고, 이어서 정답이 공개됩니다."
 			},
 			"step_eight": {
-				"MISSING-text": "Correct guesses will earn you xp and notes. _BREAK_ At the end of the quiz, the player with most correct answers wins the quiz."
+				"text": "정답을 맞히면 경험치와 노트를 획득합니다. _BREAK_ 퀴즈가 끝났을 때 정답을 가장 많이 맞힌 플레이어가 승리합니다."
 			},
 			"step_nine": {
-				"MISSING-text": "That's it for the basics of the quiz, I'll let you finish up the remaining 4 songs!"
+				"text": "퀴즈의 기본은 이게 전부입니다. 남은 4곡도 직접 맞춰보세요!"
 			},
 			"step_ten": {
-				"MISSING-text": "You can skip to the end of the answering phase by clicking the skip button to the left of your answer. You can skip the replay phase in the same way."
+				"text": "답변란 왼쪽의 스킵 버튼을 클릭하면 답변 시간을 건너뛰고 바로 종료할 수 있습니다. 리플레이 단계도 같은 방법으로 스킵할 수 있어요."
 			},
 			"step_eleven": {
-				"MISSING-text": "That was all the songs for this quiz! You'll receive additional xp and notes for finishing a quiz based on your performance."
+				"text": "이번 퀴즈의 모든 곡이 끝났습니다! 성적에 따라 퀴즈 종료 후 추가 경험치와 노트를 받게 됩니다."
 			},
 			"step_twelve": {
-				"MISSING-text": "Now you're ready to play AMQ! Let's return to the main menu by clicking \"Leave\" in the top left corner."
+				"text": "이제 AMQ를 즐길 준비가 되셨네요! 좌측 상단의 \"나가기\"를 클릭해서 메인 메뉴로 돌아가 봅시다."
 			},
-			"step_thirteen": { "MISSING-text": "And that's it for the gameplay tutorial!" },
+			"step_thirteen": { "text": "이것으로 게임 플레이 튜토리얼을 마칩니다!" },
 			"step_thirteen_first_time": {
-				"MISSING-text": "That's it for the gameplay tutorial, here's a one-time reward of 3000 notes to help you start unlocking some avatars!"
+				"text": "게임플레이 튜토리얼을 모두 마쳤습니다. 새로운 아바타를 해금하는 데 도움이 될 보상으로 3000노트를 드릴게요!"
 			},
 			"step_fourteen": {
-				"MISSING-text": "Next up would be the avatar tutorial, which will go over how to unlock and use the different avatars in the game. Ready to get started on it?",
-				"options": { "MISSING-yes": "Yes, let's go!", "MISSING-no": "No, I'm good for now" }
+				"text": "다음은 아바타 튜토리얼입니다. 게임 내 다양한 아바타를 잠금해제하고 사용하는 방법을 알아볼 거예요. 준비되셨나요?",
+				"options": { "yes": "네, 갑시다!", "no": "아니요, 지금은 괜찮아요." }
 			}
 		},
 		"avatar": {
-			"MISSING-title": "Avatars",
+			"title": "아바타",
 			"step_one": {
-				"MISSING-text": "Let's get started on Avatars 101 then! _BREAK_ The game features several avatars and skins you can unlock and use to represent yourself in games."
+				"text": "아바타 기초 강의를 시작해 볼까요! _BREAK_ 이 게임에는 여러분을 대신해 게임에 참가할 수 있는 다양한 아바타와 스킨이 있으며 잠금해제해야 사용할 수 있어요."
 			},
 			"step_two": {
-				"MISSING-text": "You can browse all the avatars by clicking the avatar button at the bottom right."
+				"text": "우측 하단의 아바타 버튼을 클릭하면 모든 아바타를 둘러볼 수 있어요."
 			},
 			"step_three": {
-				"MISSING-text": "Here we have the store window, at the top you can find the bar with all avatars available."
+				"text": "이곳은 상점 창입니다. 상단 바에서 현재 이용 가능한 모든 아바타를 확인할 수 있어요."
 			},
 			"step_four": {
-				"MISSING-text": "To the right you have the avatar filters at the top, and below the preview and additional info of the selected avatar. As with the quiz room tiles, you can hover the different icons and text to get a description of them."
+				"text": "우측 상단에는 아바타 필터가 있고, 그 아래에는 선택한 아바타의 미리보기와 추가 정보가 표시됩니다. 퀴즈 방 타일과 마찬가지로, 각 아이콘과 텍스트 위에 마우스를 올리면 상세 설명을 볼 수 있습니다."
 			},
 			"step_five": {
-				"MISSING-text": "Feel free to have a look at the preview and info, once you're done select Komugi in the avatar list and I'll show you the different types of avatars and skins."
+				"text": "미리보기와 정보를 마음껏 살펴보세요. 다 확인하셨다면 아바타 목록에서 코무기를 선택해 주세요. 아바타와 스킨의 다양한 종류를 설명해 드릴게요."
 			},
 			"step_six": {
-				"MISSING-text": "Avatars can have multiple skins split into one of 3 categories: Standard, exclusive and limited/unavailable."
+				"text": "아바타 스킨은 크게 세 가지 분류로 나뉩니다: 일반, 독점 그리고 한정/비매품 입니다."
 			},
 			"step_seven": {
-				"MISSING-text": "Standard skins can be unlocked using notes, these are earned by playing quizzes and guessing correctly."
+				"text": "일반 스킨은 퀴즈를 풀고 정답을 맞혀서 얻은 노트를 사용해서 잠금해제할 수 있습니다."
 			},
 			"step_eight": {
-				"MISSING-text": "Exclusive skins can be unlocked by rolling them using tickets in the ticket system. Tickets are earned by leveling up, supporting the game on Patreon or bought directly."
+				"text": "독점 스킨은 티켓 시스템에서 티켓을 사용하는 뽑기로 잠금해제할 수 있습니다. 티켓은 레벨업을 하거나, 패트리온 후원, 또는 직접 구매를 통해 획득할 수 있습니다."
 			},
 			"step_nine": {
-				"MISSING-text": "Limited skins work like exclusive skins, but are only available during specific times of the year, such as holidays and specific seasons, for the rest of the year they're unavailable and can't be unlocked."
+				"text": "한정 스킨은 독점 스킨과 비슷하지만, 기념일이나 특정 시즌 등 일년 중 정해진 기간에만 이용 가능합니다. 그 외의 기간에는 잠금해제할 수 없는 비매품 상태가 됩니다."
 			},
-			"step_ten": { "MISSING-text": "With the types out of the way, try selecting the standard Komugi skin." },
+			"step_ten": { "text": "종류에 대한 설명은 여기까지입니다. 이제 코무기의 일반 스킨을 선택해 보세요." },
 			"step_eleven": {
-				"MISSING-text": "Here we have the versions you'll actually be unlocking. _BREAK_ Each skin has several different recolors that can be unlocked, and even some more advanced alternative versions of the skin. Feel free to have a look around before we continue."
+				"text": "여기서 실제로 잠금해제하게 될 버전들을 볼 수 있습니다. _BREAK_ 각 스킨에는 잠금해제할 수 있는 다양한 색상이 있으며, 더 발전된 형태의 다른 버전도 존재합니다. 다음으로 진행하기 전에 자유롭게 둘러보세요."
 			},
 			"step_twelve": {
-				"MISSING-text": "Each of the skin and each color has a separate cost. So once you've unlocked a skin, all the recolors will become cheaper!"
+				"text": "각 스킨과 색상마다 별도의 비용이 책정되어 있습니다. 하지만 일단 스킨을 하나 잠금해제하고 나면, 모든 다른 색상 버전의 가격이 더 저렴해집니다!"
 			},
 			"step_thirteen": {
-				"MISSING-text": "The recolors and alternative versions marked with a ticket icon are unlocked through the ticket system. The color of the ticket shows their rarity in the ticket system."
+				"text": "티켓 아이콘이 표시된 다른 색상 및 다른 디자인 버전은 티켓 시스템을 통해 잠금해제됩니다. 티켓의 색상은 해당 아이템의 희귀도를 나타냅니다."
 			},
 			"step_fourteen": {
-				"MISSING-text": "Besides getting them in the ticket system, they can also be unlocked by using rhythm, a separate currency earned through the ticket system."
+				"text": "티켓 시스템 외에도, 티켓 시스템과는 분리된 별도의 화폐인 리듬을 사용하여 잠금해제할 수도 있습니다."
 			},
 			"step_fifteen": {
-				"MISSING-text": "That's it for the avatar basics. If you're interested in knowing more about the Ticket System, check out the Tickets tab. There's also several emotes you can unlock for use in the chat and on your profile which can be found in the Emote tab."
+				"text": "아바타의 기본은 여기까지입니다. 티켓 시스템에 대해 더 알고 싶다면 티켓 탭을 확인해 보세요. 또한 채팅과 프로필에서 사용할 수 있는 다영한 이모티콘도 이모티콘 탭에서 잠금해제할 수 있습니다."
 			},
 			"step_sixteen": {
-				"MISSING-text": "Speaking of profiles, that's covered in the last tutorial. Let me know if you're up for grabbing it now!",
-				"options": { "MISSING-yes": "Yes, let's go!", "MISSING-no": "No, I'm good for now" }
+				"text": "프로필에 대해서는 마지막 튜토리얼에서 다룹니다. 지금 바로 확인해 보시겠어요?",
+				"options": { "yes": "네, 갑시다!", "no": "아니요, 지금은 괜찮아요." }
 			},
 			"step_sixteen_first_time": {
-				"MISSING-text": "Speaking of profiles, that's covered in the last tutorial. Let me know if you're up for grabbing it now! _BREAK_ Also as this was your first time completing the avatar tutorial, here's some notes to help get you towards unlocking your next skin!",
-				"options": { "MISSING-yes": "Yes, let's go!", "MISSING-no": "No, I'm good for now" }
+				"text": "프로필에 대해서는 마지막 튜토리얼에서 다룹니다. 지금 바로 확인해 보시겠어요? _BREAK_ 아바타 튜토리얼을 처음 완료하셨으니, 다음 스킨을 잠금해제하는 데 보탬이 될 노트를 드릴게요!",
+				"options": { "yes": "네, 갑시다!", "no": "아니요, 지금은 괜찮아요" }
 			}
 		},
 		"social": {
-			"MISSING-title": "Social",
+			"title": "소셜",
 			"step_one": {
-				"MISSING-text": "Here we are, the final tutorial! _BREAK_ This one will go over how your profile works and the friend system in the game. So to start out, open the social menu in the bottom left."
+				"text": "드디어 마지막 튜토리얼이네요! _BREAK_ 이번에는 여러분의 프로필이 어떻게 작동하는지와 친구 시스템에 대해 알아볼 거예요우선 좌측 하단에 있는 소셜 메뉴를 열어보세요."
 			},
 			"step_two": {
-				"MISSING-text": "First off we have the friend list, any friends you add while you play will show up here. _BREAK_ This will allow you to see when they're online, check out their profiles and even invite them to games."
+				"text": "가장 먼저 보이는 건 친구 목록입니다. 게임을 플레이하며 추가한 친구들이 여기에 표시되죠. _BREAK_ 친구들이 온라인인지 확인하거나 프로필을 보고 게임에 초대할 수도 있어요."
 			},
 			"step_three": {
-				"MISSING-text": "You can also access a list of all online users, by changing to the Online tab at the bottom of the menu."
+				"text": "메뉴 하단의 온라인 탭으로 변경하면 현재 접속 중인 모든 사용자 목록을 확인할 수도 있습니다."
 			},
 			"step_four": {
-				"MISSING-text": "But we'll save that for another time, as we'll take a look at your profile now! _BREAK_ Click the profile to the right of the online tab and it should pop right up."
+				"text": "접속자 목록은 나중에 살펴보기로 하고, 이제 당신의 프로필을 확인해 보세요! _BREAK_ 온라인 탭 오른쪽에 있는 프로필을 클릭하면 바로 창이 나타날 거예요."
 			},
 			"step_five": {
-				"MISSING-text": "Here we have your profile! Profiles show stats such as your anime list, age of the account  as well as how much and well you've played. It can also be used to display badges you've earned!"
+				"text": "당신의 프로필입니다! 프로필에는 연결된 애니메이션 리스트, 계정 생성일, 얼마나 많이 플레이했는지 등의 통계가 표시됩니다. 또한 획득한 배지를 전시할 수도 있어요!"
 			},
 			"step_six": {
-				"MISSING-text": "At the bottom we have the options you can use on profiles, such as sending the player a message, friend request or game invite. You can even block or report the player if that becomes needed."
+				"text": "하단에는 메시지 보내기, 친구 요청, 게임 초대 등 다른 프로필에 사용할 수 있는 옵션들이 있습니다. 필요하다면 해당 플레이어를 차단하거나 신고할 수도 있어요."
 			},
 			"step_seven": {
-				"MISSING-text": "Most of these options are grayed out for you, as you can't do them on yourself. But if you click the dotted option to the right you will see the one option available to you on profile, editing it. _BREAK_ Try clicking it, and you should see the editing view."
+				"text": "본인 프로필에는 직접 할 수 없는 행동들이라 대부분 비활성화되어 있을 거예요. 하지만 오른쪽의 점 세개 아이콘을 클릭하면 본인에게만 허용된 옵션인 편집이 보일 겁니다. _BREAK_ 클릭해서 편집 화면으로 들어가 보세요."
 			},
 			"step_eight": {
-				"MISSING-text": "Editing your profile allows you to update almost anything about it. You can show/hide the stats by clicking the eye to the left of it. You can change which anime list site is displayed, and even change your profile image to any emote you've unlocked through the ticket system!"
+				"text": "프로필 편집을 통해 거의 모든 정보를 업데이트할 수 있습니다. 각 항목 왼쪽의 눈 아이콘을 클릭해서 통계를 보이거나 숨길 수 있고, 표시할 애니메이션 리스트 사이트를 변경하거나, 티켓 시스템으로 잠금해제한 이모티콘으로 프로필 이미지를 바꿀 수도 있어요!"
 			},
 			"step_nine": {
-				"MISSING-text": "Any badges you unlock, for example by unlocking skins and playing the ranked game mode, you will be able to display on your profile as well."
+				"text": "스킨 잠금해제나 랭크 게임 플레이 등을 통해 얻은 배지들도 프로필에 전시할 수 있어요."
 			},
 			"step_ten": {
-				"MISSING-text": "By changing to the chat view for badges, you can also set a badge to display beside your name in the in-game chat. _BREAK_ Hovering the badges in the menu will also display how to unlock them."
+				"text": "배지 메뉴에서 채팅 뷰로 설정을 바꾸면 인게임 채팅창의 이름 옆에 표시될 배지를 선택할 수 있습니다. _BREAK_ 메뉴에서 배지 위에 마우스를 올리면 어떻게 잠금해제하는지도 확인할 수 있어요."
 			},
 			"step_eleven": {
-				"MISSING-text": "Finally you can also change your nickname, the name you appear as in-game, by clicking the edit button to the right of your username. This is limited to one change per year, and your original name will be viewable on your profile by hovering your nickname."
+				"text": "마지막으로 사용자 이름 오른쪽에 있는 편집 버튼을 눌러서 게임 내 닉네임을 변경할 수 있습니다. 닉네임 변경은 1년에 한번으로 제한되며, 닉네임 위에 마우스를 올리면 프로필에서 원래 이름을 확인할 수 있습니다."
 			},
 			"step_twelve": {
-				"MISSING-text": "And that's all for the final tutorial. With all of them completed I hope you have a blast playing Anime Music Quiz!"
+				"text": "이것으로 모든 튜토리얼을 마쳤습니다. 모든 과정을 완료하신 것을 축하하며, Anime Music Quiz를 마음껏 즐겨보세요!"
 			},
 			"step_twelve_first_time": {
-				"MISSING-text": "And that's all for the final tutorial. With all of them completed I hope you have a blast playing Anime Music Quiz! And as a final reward for completing all the tutorials for the first time, here's a final note reward!"
+				"text": "이것으로 모든 튜토리얼을 마쳤습니다. 모든 과정을 완료하신 것을 축하하며, Anime Music Quiz를 마음껏 즐겨보세요! 처음으로 모든 튜토리얼을 마치셨으니 마지막 보상으로 노트를 드릴게요!"
 			}
 		},
 		"dismiss": {
-			"MISSING-title": "Dismiss Tutorial",
+			"title": "튜토리얼 닫기",
 			"type_one": {
-				"MISSING-text": "Done for now? _BREAK_ If you want to pick up the tutorial at another time you can find it in the menu at the bottom right. Hope you have a blast playing Anime Music Quiz!"
+				"text": "일단 여기까지 할까요? _BREAK_ 나중에 다시 튜토리얼을 진행하고 싶으시면 우측 하단 메뉴에서 찾을 수 있습니다. Anime Music Quiz를 마음껏 즐겨보세요!"
 			},
 			"type_two": {
-				"MISSING-text": "That's fine. _BREAK_ If you want to pick up the tutorial at another time you can find it in the menu at the bottom right. Hope you have a blast playing Anime Music Quiz!"
+				"text": "괜찮습니다. _BREAK_ 나중에 다시 튜토리얼을 진행하고 싶으시면 우측 하단 메뉴에서 찾을 수 있습니다. Anime Music Quiz를 마음껏 즐겨보세요!"
 			}
 		},
 		"start_warning": {
-			"MISSING-title": "Return to Main Menu?",
-			"MISSING-text": "The tutorial can only be taken from the main menu. If you return to the main menu you'll stop what you're currently doing.",
-			"MISSING-return_button": "Return",
-			"MISSING-stay_button": "Stay"
+			"title": "메인 메뉴로 돌아가시겠습니까?",
+			"text": "튜토리얼은 메인 메뉴에서만 시작할 수 있습니다.메인 메뉴로 돌아가면 현재 진행 중인 작업이 중단됩니다.",
+			"return_button": "돌아가기",
+			"stay_button": "취소"
 		},
-		"exit_tutorial_warning": { "MISSING-title": "Exit Tutorial?", "MISSING-exit_button": "Exit" }
+		"exit_tutorial_warning": { "title": "튜토리얼을 종료하시겠습니까?", "exit_button": "종료" }
 	},
 	"popout_windows": {
-		"MISSING-close_window_button": "Close Window",
-		"MISSING-close_window_message": "You can close this window",
+		"close_window_button": "창 닫기",
+		"close_window_message": "이 창을 닫으셔도 됩니ㅏㄷ.",
 		"patreon": {
-			"MISSING-link_successful": "Patreon Linked!",
-			"MISSING-unable_to_link": "Unable to Link Patreon",
-			"MISSING-please_try_again": "Please try again later",
-			"MISSING-verified_account_required": "Can only be linked to a verified AMQ account",
-			"MISSING-linking_aborted": "Patreon Linking Aborted",
+			"link_successful": "패트리온 연동 완료!",
+			"unable_to_link": "패트리온을 연동할 수 없습니다.",
+			"please_try_again": "나중에 다시 시도해 주세요.",
+			"verified_account_required": "인증된 AMQ 아이디만 연동할 수 있습니다.",
+			"linking_aborted": "패트리온 연동이 중단되었습니다.",
 			"already_linked": {
-				"MISSING-title": "Patreon Account Already Linked",
-				"MISSING-message": "The provided Patreon account is already linked to another AMQ account. Please unlink the account before using it"
+				"title": "이미 연동된 패트리온 계정입니다.",
+				"message": "해당 패트리온 계정은 이미 다른 AMQ 아이디에 연동되어 있습니다. 사용 전에 기존 계정에서 연동을 해제해 주세요."
 			},
-			"MISSING-not_logged_in": "Not Logged Into AMQ"
+			"not_logged_in": "AMQ에 로그인되어 있지 않습니다."
 		},
 		"social_claims": {
 			"unable_to_claim": {
-				"MISSING-title": "Unable to Claim Rewards",
-				"MISSING-message": "Can only be claimed by a verified AMQ account"
+				"title": "보상을 수령할 수 있습니다.",
+				"message": "인증된 AMQ 아이디로만 보상을 수령할 수 있습니다."
 			},
-			"MISSING-reward_claimed": "Reward Claimed!",
-			"MISSING-error_claiming_rewards": "Error Claiming Rewards",
-			"MISSING-unexpected_error": "Unexpected error, please close this window and try again",
-			"MISSING-already_claimed": "Reward already claimed",
-			"MISSING-platform_already_claimed": "Reward already claimed by this _NAME_ account",
-			"MISSING-discord_not_linked": "Not in Discord server, to claim the reward make sure to join the _LINK_  Anime Music Quiz Discord _LINK_ then try again",
-			"MISSING-patreon_not_linked": "Not a member of the Patreon, to claim the reward make sure to join the _LINK_ Anime Music Quiz Patreon _LINK_ then try again",
-			"MISSING-claim_aborted": "Claiming Aborted",
-			"MISSING-not_logged_in": "Not Logged Into AMQ"
+			"reward_claimed": "보상 수령 완료!",
+			"error_claiming_rewards": "보상 수령 중 오류가 발생했습니다.",
+			"unexpected_error": "예기치 못한 오류가 발생했습니다. 이 창을 닫고 다시 시도해 주세요.",
+			"already_claimed": "이미 수령한 보상입니다.",
+			"platform_already_claimed": "이 _NAME_ 아이디로 이미 보상을 수령했습니다.",
+			"discord_not_linked": "디스코드 서버에 참여하지 않았습니다. 보상을 받으려면 _LINK_  Anime Music Quiz Discord _LINK_에 참여한 후 다시 시도해 주세요.",
+			"patreon_not_linked": "패트리온 멤버가 아닙니다. 보상을 받으려면 _LINK_ Anime Music Quiz Patreon _LINK_에 참여한 후 다시 시도해 주세요.",
+			"claim_aborted": "보상 수령이 중단되었습니다.",
+			"not_logged_in": "AMQ에 로그인되어 있지 않습니다."
 		},
 		"payment": {
-			"MISSING-cancelled": "Payment Cancelled",
-			"MISSING-successful": "Payment Successful",
-			"MISSING-success_message": "Thanks for the support! You can close this window"
+			"cancelled": "결제가 취소되었습니다.",
+			"successful": "결제 성공",
+			"success_message": "후원해 주셔서 감사합니다! 이 창을 닫으셔도 됩니다."
 		}
+	},
+	"avatar_options": {
+		"bandana": "머리띠",
+		"bow": "리본",
+		"bows": "리본",
+		"cardigan": "가디건",
+		"chain": "체인",
+		"crown": "왕관",
+		"drums": "드럼",
+		"earmuffs": "귀마개",
+		"earpiece": "이어피스",
+		"flower": "꽃",
+		"glasses": "안경",
+		"goggles": "고글",
+		"hair_chain": "헤어체인",
+		"hair_clips": "헤어클립",
+		"hair_pins": "헤어핀",
+		"hairband": "머리띠",
+		"hairclip": "헤어클립",
+		"hairpin": "헤어핀",
+		"hairpins": "헤어핀",
+		"hat": "모자",
+		"headband": "헤드밴드",
+		"headphones": "헤드폰",
+		"headpiece": "헤드피스",
+		"headset": "헤드셋",
+		"helm": "투구",
+		"helmet": "헬멧",
+		"hood": "후드",
+		"jacket": "재킷",
+		"mask": "마스크",
+		"none": "없음",
+		"pins": "핀",
+		"revealed": "노출",
+		"ribbon": "리본",
+		"ribbons": "리본",
+		"scarf": "스카프",
+		"tiara": "티아라",
+		"veil": "베일",
+		"whistle": "호루라기",
+		"yan": "얀"
 	}
 }
