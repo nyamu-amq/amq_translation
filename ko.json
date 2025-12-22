@@ -422,7 +422,7 @@
 			"stay_connected": "소셜 미디어",
 			"song_library": "노래 정보 탐색",
 			"leaderboard": "리더보드",
-			"merch": "상품",
+			"merch": "상품"
 		},
 		"carousel": {
 			"social_promo": "디스코드와 패트리온에서 AMQ를 팔로우하고 무료 티켓을 받으세요!",
@@ -3275,7 +3275,7 @@
 				"dropped": "하차",
 				"planning": "시청예정",
 				"looted": "루팅함"
-			},
+			}
 		},
 		"popovers": {
 			"download_json": "JSON으로 다운로드",
