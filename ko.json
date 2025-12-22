@@ -4440,7 +4440,7 @@
 				"crit_damage": "치명피해",
 				"crit": "치명"
 			},
-			"boost_rune": { "description": "_NAME_을 _TIER_로 강화합니다." },
+			"boost_rune": { "description": "_NAME_을 _TIER_으로 강화합니다." },
 			"genre_rune": {
 				"offense_description": "_NAME_ 작품에서 공격 대미지가 증가합니다.",
 				"defense_description": "_NAME_ 작품에서 받는 공격 대미지가 감소합니다.",
