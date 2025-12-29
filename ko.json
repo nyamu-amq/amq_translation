@@ -2789,12 +2789,12 @@
 				"hint_popover": "_DESCRIPTION_ - _NUMBER_점 차감"
 			},
 			"skip_messages": {
-				"answers": "답변 공개로 스킵중",
-				"lobby": "로비로 스킵중",
-				"next_song": "다음 노래로 스킵중",
-				"final_standings": "최종 순위로 스킵중",
-				"rewards": "보상으로 스킵중",
-				"end": "게임종료로 스킵중"
+				"answers": "답변 공개 단계로 전환중",
+				"lobby": "로비로 전환중",
+				"next_song": "다음 노래로 전환중",
+				"final_standings": "최종 순위로 전환중",
+				"rewards": "보상 단계로 전환중",
+				"end": "게임종료로 전환중"
 			}
 		},
 		"jam_mode": {
@@ -3294,7 +3294,7 @@
 		"song_type": {
 			"opening": "오프닝 _NUMBER_",
 			"ending": "엔딩 _NUMBER_",
-			"insert": "삽입곡 Song",
+			"insert": "삽입곡",
 			"rebroadcast": "(재방송)",
 			"dub": "(더빙)",
 			"type_text": "_NAME_ _DESCRIPTION_"
@@ -3355,7 +3355,7 @@
 				"lobby": {
 					"slot": "슬롯",
 					"slot_number": "슬롯 _NUMBER_",
-					"level": "Lv _SPANC_ _NUMBER_ _SPANC_",
+					"level": "레벨 _SPANC_ _NUMBER_ _SPANC_",
 					"empty": "비었음",
 					"load_team": "팀 불러오기",
 					"lobby_id": "ID",
