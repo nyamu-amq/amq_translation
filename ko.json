@@ -713,7 +713,7 @@
 		"edit": "편집",
 		"change_nickname": "닉네임 변경",
 		"change_nickname_modal": {
-			"description": "이름 변경 토큰 1개를 사용해서 닉네임(게임 내 표시되는 이름)을 변경할 수 있습니다. 이름 변경 토큰은 1년마다 1개씩 획득하며 패트리온 레벨4 이상 후원자에게는 매달 추가 토큰 1개가 지급됩니다. _BREAK_ 닉네임을 변경하면 기존 닉네임(회원가입시 이름 포함)은 다른 사람이 사용할 수 있게 됩니다. _BREAK_ 회원가입시 이름은 여전히 프로필에서 확인할 수 있습니다.",
+			"description": "이름 변경 토큰 1개를 사용해서 닉네임(게임 내 표시되는 이름)을 변경할 수 있습니다. 이름 변경 토큰은 1년마다 1개씩 획득하며 패트리온 레벨 4 이상 후원자에게는 매달 추가 토큰 1개가 지급됩니다. _BREAK_ 닉네임을 변경하면 기존 닉네임(회원가입시 이름 포함)은 다른 사람이 사용할 수 있게 됩니다. _BREAK_ 회원가입시 이름은 여전히 프로필에서 확인할 수 있습니다.",
 			"current_tokens": "현재 보유 토큰: _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "이름 중복 확인",
 			"new_nickname": "새 닉네임",
@@ -740,11 +740,11 @@
 				"description": "지난달 랭크 게임 챔피언십에 진출한 경우 잠금해제됩니다."
 			},
 			"challenger_glow": { "name": "도전자", "description": "지난달 랭크 게임 챔피언십 상위 50위까지 잠금해제됩니다." },
-			"patreon_color": { "name": "패트리온", "description": "패트리온 레벨3 이상 후원자에게 잠금해제됩니다." },
-			"patreon_glow": { "name": "패트리온", "description": "패트리온 레벨4 이상 후원자에게 잠금해제됩니다." },
-			"month_patreon_current": "패트리온 레벨6 이상 후원자와 이번 달에 후원한 레벨5 이상 후원자에게 잠금해제됩니다.",
-			"month_patreon_previous": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금해제됩니다.",
-			"month_patreon_previous_unlocked": "패트리온 레벨6 이상 후원자와 출시된 달에 후원한 레벨5 이상 후원자에게 잠금해제됩니다. 당신은 출시된 달에 후원하셨습니다."
+			"patreon_color": { "name": "패트리온", "description": "패트리온 레벨 3 이상 후원자에게 잠금해제됩니다." },
+			"patreon_glow": { "name": "패트리온", "description": "패트리온 레벨 4 이상 후원자에게 잠금해제됩니다." },
+			"month_patreon_current": "패트리온 레벨 6 이상 후원자와 이번 달에 후원한 레벨 5 이상 후원자에게 잠금해제됩니다.",
+			"month_patreon_previous": "패트리온 레벨 6 이상 후원자와 출시된 달에 후원한 레벨 5 이상 후원자에게 잠금해제됩니다.",
+			"month_patreon_previous_unlocked": "패트리온 레벨 6 이상 후원자와 출시된 달에 후원한 레벨 5 이상 후원자에게 잠금해제됩니다. 당신은 출시된 달에 후원하셨습니다."
 		}
 	},
 	"badges": {
@@ -825,7 +825,7 @@
 			"rewards": { "emotes": "_NUMBER_ 이모티콘", "tickets": "_NUMBER_ 티켓" }
 		},
 		"badge_level": "배지 레벨",
-		"badge_level_info": "배지 레벨은 패트리온 레벨2 이상을 연속으로 후원한 개월 수와 같습니다.",
+		"badge_level_info": "배지 레벨은 패트리온 레벨 2 이상을 연속으로 후원한 개월 수와 같습니다.",
 		"patreon_page": "패트리온 페이지",
 		"relink": "재연결",
 		"update_info": "정보 갱신",
@@ -1194,7 +1194,7 @@
 				"description": "티켓 시스템을 통해 티켓을 사용하여 독점 스킨, 스킨 버전, 이모트콘, 아바타 배경 및 장식을 잠금해제할 수 있습니다.",
 				"how_to_earn": {
 					"title": "티켓 획득 방법",
-					"text": "플레이어는 레벨업할 때마다 티켓 1장을 받으며 10레벨 단위(10레벨, 20레벨 등)마다 보너스로 티켓 5장을 추가로 받습니다. 티켓은 직접 구매할 수도 있으며 패트리온에서 게임을 후원하여 획득할 수도 있습니다."
+					"text": "플레이어는 레벨업할 때마다 티켓 1장을 받으며 10 레벨 단위(10 레벨, 20 레벨 등)마다 보너스로 티켓 5장을 추가로 받습니다. 티켓은 직접 구매할 수도 있으며 패트리온에서 게임을 후원하여 획득할 수도 있습니다."
 				},
 				"how_do_rolls_work": {
 					"title": "뽑기 상세 설명",
@@ -1301,7 +1301,7 @@
 		},
 		"komugi": {
 			"standard": "시골에 있는 반쯤 잊힌 사당의 여우 신령인 코무기는 주민들에게 장난을 치는 것으로 유명해요. 근처에 더 큰 사당이 있어서 코무기의 사당은 방문객이 거의 없지만 노엘이 찾아올 때마다 즐거워한답니다.",
-			"tribal_sorcerer": "키츠네족 출신인 코무기는 어린 나이에 화염 마법을 터득했어요. 하지만 평화로운 마을 생활이 지루해지자 모험과 재미를 찾아 길을 나섰답니다",
+			"tribal_sorcerer": "키츠네족 출신인 코무기는 어린 나이에 화염 마법을 터득했어요. 하지만 평화로운 마을 생활이 지루해지자 모험과 재미를 찾아 길을 나섰답니다.",
 			"pirate": "항구에서는 친구, 바다에서는 마주치는 모든 이들에게 골칫거리로 악명 높은 코무기는 충분한 금화와 그녀를 만족시킬 만큼 엄청난 모험을 가진 사람이라면 누구나 고용하고 싶어 하는 인기 해적이에요."
 		},
 		"noel": {
@@ -1487,8 +1487,8 @@
 		"expand_count": "노래 수: _SPAN_ _NUMBER_ _SPAN_",
 		"expand_count_description": "당신이 업로드한 노래 수",
 		"expand_level_requirement": {
-			"title": "5레벨 이상 필요",
-			"description": "플레이어는 확장 기능을 통해 누락된 노래의 영상/MP3 소스를 추가하는 데 도움을 줄 수 있으며 5레벨 미만은 사용할 수 없습니다."
+			"title": "5 레벨 이상 필요",
+			"description": "플레이어는 확장 기능을 통해 누락된 노래의 영상/MP3 소스를 추가하는 데 도움을 줄 수 있으며 5 레벨 미만은 사용할 수 없습니다."
 		},
 		"expand_confirmation": {
 			"title": "영상/MP3 라이브러리 확장",
@@ -1708,7 +1708,7 @@
 			"description": "1회 결제로 무제한 슬롯을 영구 해제합니다.",
 			"approx_dollar": "약. $_NUMBER_"
 		},
-		"patreon_promo": "레벨3 이상의 패트리온 후원자가 되어 무제한 슬롯과 더 많은 혜택을 잠금해제하세요.",
+		"patreon_promo": "레벨 3 이상의 패트리온 후원자가 되어 무제한 슬롯과 더 많은 혜택을 잠금해제하세요.",
 		"creator": "작성자",
 		"description": "설명",
 		"tags": "태그",
@@ -2401,7 +2401,7 @@
 			"all": "전부"
 		},
 		"kick_player": {
-			"title": "_NAME_를 추방하시겠습니까?",
+			"title": "_NAME_님을 추방하시겠습니까?",
 			"description": "추방당한 플레이어는 이 방에 다시 들어올 수 없습니다.",
 			"kick_button": "추방"
 		},
@@ -3533,7 +3533,7 @@
 				"team_slot": "슬롯 _NUMBER_",
 				"free_rotation": "Free Rotation",
 				"select_badge_popover": "아바타를 강화할 아바타 배지를 선택하세요.",
-				"early_access": "_DATE_까지 패트리온 레벨4 이상 후원자에게 얼리 액세스",
+				"early_access": "_DATE_까지 패트리온 레벨 4 이상 후원자에게 얼리 액세스",
 				"character_locked_popover": "잠김",
 				"character_already_in_party": "이미 파티에 있는 캐릭터입니다.",
 				"clear": "비우기"
@@ -3956,7 +3956,7 @@
 					}
 				},
 				"result": {
-					"text": "결정적인 순간 _NAME_은 아이템이 변하기 직전에 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_을 움켜쥐었습니다. 다행히도 아이템은 더 이상 변하지 않는 것 같습니다",
+					"text": "결정적인 순간 아이템이 변하기 직전에 _NAME_의 손이 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_을 움켜쥐었습니다. 다행히도 아이템은 더 이상 변하지 않는 것 같습니다",
 					"target_type": { "fragments": "파편", "artifact": "아티팩트", "rune": "룬" }
 				}
 			},
@@ -3995,7 +3995,7 @@
 					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 잠시 빛을 내고 사라지면서, 그 자리에 아티팩트를 남깁니다: _ARTIFACT_"
 				},
 				"option_three": {
-					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 빛나기 시작하며 _HIGHLIGHT_ 강렬한 빛으로 _NAME_을 감쌉니다. 잠시 후 빛이 잦아들고 상자는 사라졌지만 _NAME2_가 다시 기운을 차리고 일어납니다 _HIGHLIGHT_."
+					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 빛나기 시작하며 _HIGHLIGHT_ 강렬한 빛으로 _NAME_의 몸을 감쌉니다. 잠시 후 빛이 잦아들고 상자는 사라졌지만 _NAME2_가 다시 기운을 차리고 일어납니다 _HIGHLIGHT_."
 				},
 				"option_four": {
 					"text": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_을 던져 넣자 상자가 빛나기 시작하며 파티를 따스한 빛으로 감쌉니다. _HIGHLIGHT_ 파티의 체력이 어느정도 회복되고 _HIGHLIGHT_ 상자는 사라집니다."
@@ -4011,7 +4011,7 @@
 					"two_artifacts": "파티가 방에 들어서자 흰 마법사 로브를 입은 핑크색 머리의 소녀가 파티에게 달려옵니다. _BREAK_ “그거 _ARTIFACT_랑 _ARTIFACT2_ 아니에요?” _BREAK_ 소녀가 파티 주변을 폴짝폴짝 뛰며 외칩니다. _BREAK_ “_HIGHLIGHT_ 저한테 꼭 팔아주세요 _HIGHLIGHT_… 하지만 파편이 좀 모자란데… 으으, _HIGHLIGHT_ 어쩔 수 없이 하나만 골라야겠네요 _HIGHLIGHT_!”",
 					"three_artifacts": "파티가 방에 들어서자 흰 마법사 로브를 입은 핑크색 머리의 소녀가 파티에게 달려옵니다. _BREAK_ “그거 _ARTIFACT_랑 _ARTIFACT2_? 게다가 _ARTIFACT3_은 대체 어디서 찾으신 거예요?” _BREAK_ 소녀가 파티 주변을 폴짝폴짝 뛰며 외칩니다. _BREAK_ “_HIGHLIGHT_ 전부 저한테 팔아주세요 _HIGHLIGHT_… 하지만 파편이 좀 모자란데… 으으, _HIGHLIGHT_ 어쩔 수 없이 하나만 골라야겠네요 _HIGHLIGHT_!”",
 					"options": {
-						"sell_artifact": "_NAME_을 파편 _NUMBER_개에 판매한다",
+						"sell_artifact": "_NAME_ 판매: 파편 _NUMBER_개",
 						"sell_all": "아티팩트 _NUMBER_개를 전부 파편 _NUMBER2_개에 판매한다",
 						"decline": "그녀의 제안을 거절한다"
 					}
@@ -4033,14 +4033,14 @@
 					"options": { "step_forward": "_NAME_가 앞으로 나선다" }
 				},
 				"result": {
-					"text": "_HIGHLIGHT_ 신성한 빛이 _NAME_을 감싸며 체력을 회복시킵니다 _HIGHLIGHT_. _BREAK_ 파티가 다시 소녀를 돌아봤을 때 그녀가 태연하게 감자칩 봉지를 뜯어 먹고 있는 모습에 깜짝 놀랍니다. _BREAK_ “뭐야, 아직도 있었네? _HIGHLIGHT_ 한 명 고쳐줬으면 됐지 _HIGHLIGHT_ 대체 얼마나 바라는 게 많은 거야… 난 할 일 다 했으니까 이제 _HIGHLIGHT_ 나가서 하던 퀘스트나 마저 하든가 말든가 _HIGHLIGHT_ 알아서 해.”"
+					"text": "_HIGHLIGHT_ 신성한 빛이 _NAME_의 몸을 감싸며 체력을 회복시킵니다 _HIGHLIGHT_. _BREAK_ 파티가 다시 소녀를 돌아봤을 때 그녀가 태연하게 감자칩 봉지를 뜯어 먹고 있는 모습에 깜짝 놀랍니다. _BREAK_ “뭐야, 아직도 있었네? _HIGHLIGHT_ 한 명 고쳐줬으면 됐지 _HIGHLIGHT_ 대체 얼마나 바라는 게 많은 거야… 난 할 일 다 했으니까 이제 _HIGHLIGHT_ 나가서 하던 퀘스트나 마저 하든가 말든가 _HIGHLIGHT_ 알아서 해.”"
 				}
 			},
 			"the_pedestal": {
 				"title": "제단",
 				"base": {
 					"text": "방 중앙에 _HIGHLIGHT_ 홀로 제단 _HIGHLIGHT_ 하나가 놓여 있습니다. 파티가 가까이 다가가자 마치 제단에 이끌리듯이 보유중인 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 중 일부가 _HIGHLIGHT_ 빛나기 시작합니다 _HIGHLIGHT_.",
-					"options": { "place_artifact": "제단 위에 _NAME_을 올려놓는다", "ignore": "제단을 무시한다" }
+					"options": { "place_artifact": "제단 위에 올릴 아티팩트: _NAME_ ", "ignore": "제단을 무시한다" }
 				},
 				"ignore": { "text": "보상이 아티팩트만큼 가치 있어 보이지 않습니다. 파티는 가던 길을 계속 갑니다" },
 				"transform": {
@@ -4051,7 +4051,7 @@
 				"title": "링",
 				"base": {
 					"text": "파티가 방에 들어서자 _HIGHLIGHT_ 모자를 쓰고 안대를 찬 지저분한 남자 _HIGHLIGHT_가 다가옵니다. _BREAK_ “타이밍 죽이는군. 마침 한 자리가 비었거든. 당신 들 중에 _HIGHLIGHT_ 링 위에서 한판 붙어볼 사람 _HIGHLIGHT_ 있어?” 그가 적 _HIGHLIGHT2_ 코어 _HIGHLIGHT2_가 떠 있는 복싱 링을 가리키며 말합니다.",
-					"options": { "enter_ring": "_NAME_가 링에 오른다", "decline": "제안을 거절한다" }
+					"options": { "enter_ring": "링에 오를 파티원: _NAME_", "decline": "제안을 거절한다" }
 				},
 				"ignore": { "text": "“그런 태도로는 평생 큰 건 하나 못 건질 거다.” 남자가 투덜대며 다시 링으로 돌아갑니다." }
 			},
@@ -4062,7 +4062,7 @@
 					"no_artifact": "아티팩트",
 					"options": {
 						"fragments": "연성진 안에 파편 _NUMBER_개를 놓는다",
-						"artifact": "연성진 안에 _NAME_을 놓는다",
+						"artifact": "연성진 안에 놓을 아티팩트: _NAME_",
 						"step_inside": "연성진 안으로 걸어 들어간다",
 						"ignore": "연성진을 무시한다"
 					}
@@ -4082,7 +4082,7 @@
 				"title": "와일드 발명가",
 				"base": {
 					"text": "커다란 빨간 고글을 쓴 _HIGHLIGHT_ 핑크색 머리 소녀 _HIGHLIGHT_가 혼자 작업실에 앉아 있습니다. 그녀는 파티를 발견하자 잠시 눈을 반짝이더니 곧장 달려옵니다. _BREAK_ “방금 데이터 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_이 다 떨어졌어요. 하지만 여러분의 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_를 _HIGHLIGHT_ 분해 _HIGHLIGHT_하게 해주시면, 제가 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_을 제작해 드릴게요!”",
-					"options": { "artifact": "그녀에게 _NAME_을 건네준다", "decline": "그녀의 제안을 거절한다" }
+					"options": { "artifact": "그녀에게 건넬 아티팩트: _NAME_", "decline": "그녀의 제안을 거절한다" }
 				},
 				"base_decline": { "text": "“손해 보시는 거예요. 제 엄청난 아기들은 다음 파티를 위해 아껴둬야겠네요.”" },
 				"late_decline": { "text": "“풀세트로 안 맞추시게요? 제 아기들이 얼마나 성능이 좋은지 보시면 후회하실 텐데”" },
