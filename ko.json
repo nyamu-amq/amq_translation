@@ -2719,7 +2719,7 @@
 			"answer_time_number": "_NUMBER_초",
 			"answering_mode": "답변 모드",
 			"multiple_choice": "객관식",
-			"answer_status": { "watching": "시청", "completed": "완료", "on_hold": "보류", "dropped": "하차", "plan_to_watch": "예정" },
+			"answer_status": { "watching": "W", "completed": "C", "on_hold": "H", "dropped": "D", "plan_to_watch": "P" },
 			"hint_used": { "name": "제목 힌트 사용함", "info": "정보 힌트 사용함", "multiple_choice": "객관식 힌트 사용함" }
 		},
 		"song_info": {
