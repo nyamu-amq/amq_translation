@@ -3956,8 +3956,8 @@
 					}
 				},
 				"result": {
-					"text": "결정적인 순간 아이템이 변하기 직전에 _NAME_의 손이 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_을 움켜쥐었습니다. 다행히도 아이템은 더 이상 변하지 않는 것 같습니다",
-					"target_type": { "fragments": "파편", "artifact": "아티팩트", "rune": "룬" }
+					"text": "결정적인 순간 아이템이 변하기 직전에 _NAME_의 손이 _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ 움켜쥐었습니다. 다행히도 아이템은 더 이상 변하지 않는 것 같습니다",
+					"target_type": { "fragments": "파편을", "artifact": "아티팩트를", "rune": "룬을" }
 				}
 			},
 			"mystery_container": {
@@ -4012,7 +4012,7 @@
 					"three_artifacts": "파티가 방에 들어서자 흰 마법사 로브를 입은 핑크색 머리의 소녀가 파티에게 달려옵니다. _BREAK_ “그거 _ARTIFACT_랑 _ARTIFACT2_? 게다가 _ARTIFACT3_은 대체 어디서 찾으신 거예요?” _BREAK_ 소녀가 파티 주변을 폴짝폴짝 뛰며 외칩니다. _BREAK_ “_HIGHLIGHT_ 전부 저한테 팔아주세요 _HIGHLIGHT_… 하지만 파편이 좀 모자란데… 으으, _HIGHLIGHT_ 어쩔 수 없이 하나만 골라야겠네요 _HIGHLIGHT_!”",
 					"options": {
 						"sell_artifact": "_NAME_ 판매: 파편 _NUMBER_개",
-						"sell_all": "아티팩트 _NUMBER_개를 전부 파편 _NUMBER2_개에 판매한다",
+						"sell_all": "아티팩트 _NUMBER_개를 전부 판매: 파편 _NUMBER2_개",
 						"decline": "그녀의 제안을 거절한다"
 					}
 				},
@@ -4071,7 +4071,7 @@
 				"results": {
 					"text_fragment": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_과 함께 사라지고, 그 자리에 _NAME_의 모습이 나타났습니다.",
 					"text_artifact": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _ARTIFACT_와 함께 사라지고, 그 자리에 _NAME_의 모습이 나타났습니다.",
-					"text_life": "눈이 멀듯한 빛이 방 안을 가득 채우고 _HIGHLIGHT_ 파티 전체가 약해지는 것을 느낍니다 _HIGHLIGHT_. _BREAK_ 빛이 가라앉자 연성진은 사라지고, 그 자리에 _NAME_의 모습이 나타났습니다.",
+					"text_life": "눈이 멀듯한 빛이 방 안을 가득 채우고 _HIGHLIGHT_ 파티 전체가 약해지는 것을 느낍니다 _HIGHLIGHT_. _BREAK_ 빛이 가라앉자 연성진은 사라지고, 그 자리에 _NAME_가 나타났습니다.",
 					"rewards": {
 						"fragment": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개",
 						"artifact": "_HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_"
