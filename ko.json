@@ -2683,8 +2683,8 @@
 			"start_vote": "로비로 돌아가기 투표를 시작하시겠습니까?",
 			"start_button": "시작",
 			"results": {
-				"vote_passed": "투표 통과됨",
-				"vote_failed": "투표 실패",
+				"vote_passed": "투표 가결",
+				"vote_failed": "투표 부결",
 				"waiting_votes": "투표 대기중",
 				"on_last_song": "현재 마지막 노래"
 			}
@@ -2695,7 +2695,7 @@
 		"song_history_popover": "출제곡 내역",
 		"vote_skip": "스킵",
 		"vote_states": {
-			"voted_skip": "스킵 _BREAK_ 투표함",
+			"voted_skip": "스킵 _BREAK_ 가결",
 			"no_votes": "투표 _BREAK_ 없음",
 			"waiting_answers": "답변 _BREAK_ 대기중",
 			"waiting_buffering": "버퍼링 _BREAK_ 대기중",
@@ -2771,7 +2771,7 @@
 			"lives": "남은 라이프"
 		},
 		"video_player": {
-			"sound_only": "사운드 전용 모드",
+			"sound_only": "사운드 전용",
 			"video_hidden": { "title": "영상 숨겨짐", "click_to_reveal": "클릭해서 보기" },
 			"click_to_hide_video": "클릭해서 영상 숨김",
 			"loading": "로딩중",
@@ -2789,22 +2789,22 @@
 				"hint_popover": "_DESCRIPTION_ - _NUMBER_점 차감"
 			},
 			"skip_messages": {
-				"answers": "답변 공개 단계로 전환중",
-				"lobby": "로비로 전환중",
-				"next_song": "다음 노래로 전환중",
-				"final_standings": "최종 순위로 전환중",
-				"rewards": "보상 단계로 전환중",
-				"end": "게임종료로 전환중"
+				"answers": "답변 공개로 진행중",
+				"lobby": "로비로 진행중",
+				"next_song": "다음 노래로 진행중",
+				"final_standings": "최종 순위로 진행중",
+				"rewards": "보상 단계로 진행중",
+				"end": "게임종료로 진행중"
 			}
 		},
 		"jam_mode": {
 			"next_round_vote": "다음 라운드 투표",
 			"theme": "테마",
-			"active_theme": "활성 테마",
+			"active_theme": "테마 활성화",
 			"select_one": "하나를 선택하세요",
 			"none": "없음",
 			"song_types": "노래 타입",
-			"select_one_or_more": "하나 이상을 선택하세요",
+			"select_one_or_more": "한 개 이상 선택하세요",
 			"openings": "오프닝",
 			"endings": "엔딩",
 			"inserts": "삽입곡"
@@ -2819,7 +2819,7 @@
 				"title": "인벤토리 가득 참",
 				"description": "계속 루팅하려면 좌측 상단 인벤토리에서 작품을 버리세요."
 			},
-			"players_in_tile": "타일 내 플레이어",
+			"players_in_tile": "타일 안에 있는 플레이어",
 			"data_store": "데이터 저장소",
 			"active_spectators": "현재 관전자",
 			"no_active_spectators": "관전자 없음"
@@ -3227,7 +3227,7 @@
 		"load_songs": "노래 불러오기",
 		"tabs": { "current_game": "현재 게임", "last_game": "이전 게임", "games": "과거 게임", "options": "옵션" },
 		"columns": {
-			"title": "컬럼",
+			"title": "열",
 			"anime": "애니",
 			"ann_id": "ANN ID",
 			"type": "타입",
@@ -3322,7 +3322,7 @@
 				"tabs": { "mode": "모드", "co_op_saves": "저장된 협동게임", "lobby": "로비", "avatars": "아바타" },
 				"mode": {
 					"standard": "일반",
-					"standard_description": "던전의 한 층을 클리어하는 모드. 진행하면서 팀을 강화하고 끝에 있는 보스에게 도전하세요.",
+					"standard_description": "던전의 한 층을 클리어하는 모드. 팀을 강화하면서 진행하여 마지막에 있는 보스에게 도전하세요.",
 					"endless": "무한",
 					"endless_description": "끝없이 이어지는 층에 도전하는 모드. 한정된 개수의 아티팩트만 다음 층으로 가져갈 수 있습니다.",
 					"tutorial": "튜토리얼",
@@ -3391,7 +3391,7 @@
 						},
 						"rating": {
 							"title": "등급",
-							"description": "퀴즈의 난이도. 높은 등급일수록 던전에서 더 많은 경험치와 더 좋은 룬을 보상으로 얻을 수 있습니다."
+							"description": "퀴즈의 종합적인 난이도. 높은 등급일수록 던전에서 더 많은 경험치와 더 좋은 룬을 보상으로 얻을 수 있습니다."
 						},
 						"floor": {
 							"title": "층",
@@ -3475,11 +3475,11 @@
 						"advanced": "상급",
 						"standard": "일반",
 						"quality": "품질",
-						"minor": "최하급",
-						"lesser": "하급",
-						"greater": "상급",
-						"major": "최상급",
-						"superior": "초월급",
+						"minor": "미미한",
+						"lesser": "작은",
+						"greater": "보통",
+						"major": "큰",
+						"superior": "엄청난",
 						"ability": "능력"
 					},
 					"show_more": "펼치기",
@@ -4033,7 +4033,7 @@
 					"options": { "step_forward": "_NAME_가 앞으로 나선다" }
 				},
 				"result": {
-					"text": "_HIGHLIGHT_ 신성한 빛이 _NAME_의 몸을 감싸며 체력을 회복시킵니다 _HIGHLIGHT_. _BREAK_ 파티가 다시 소녀를 돌아봤을 때 그녀가 태연하게 감자칩 봉지를 뜯어 먹고 있는 모습에 깜짝 놀랍니다. _BREAK_ “뭐야, 아직도 있었네? _HIGHLIGHT_ 한 명 고쳐줬으면 됐지 _HIGHLIGHT_ 대체 얼마나 바라는 게 많은 거야… 난 할 일 다 했으니까 이제 _HIGHLIGHT_ 나가서 하던 퀘스트나 마저 하든가 말든가 _HIGHLIGHT_ 알아서 해.”"
+					"text": "_HIGHLIGHT_ 신성한 빛이 _NAME_의 몸을 감싸며 체력을 회복시킵니다 _HIGHLIGHT_. _BREAK_ 파티가 다시 소녀를 돌아보니 그녀가 태연하게 감자칩 봉지를 뜯어 먹고 있는 모습에 깜짝 놀랍니다. _BREAK_ “뭐야, 아직도 있었네? _HIGHLIGHT_ 한 명 고쳐줬으면 됐지 _HIGHLIGHT_ 대체 뭘 더 바라는 거야… 난 할 일 다 했으니까 이제 _HIGHLIGHT_ 나가서 하던 퀘스트나 마저 하든가 말든가 _HIGHLIGHT_ 알아서 해.”"
 				}
 			},
 			"the_pedestal": {
@@ -4050,10 +4050,10 @@
 			"the_ring": {
 				"title": "링",
 				"base": {
-					"text": "파티가 방에 들어서자 _HIGHLIGHT_ 모자를 쓰고 안대를 찬 지저분한 남자 _HIGHLIGHT_가 다가옵니다. _BREAK_ “타이밍 죽이는군. 마침 한 자리가 비었거든. 당신 들 중에 _HIGHLIGHT_ 링 위에서 한판 붙어볼 사람 _HIGHLIGHT_ 있어?” 그가 적 _HIGHLIGHT2_ 코어 _HIGHLIGHT2_가 떠 있는 복싱 링을 가리키며 말합니다.",
+					"text": "파티가 방에 들어서자 _HIGHLIGHT_ 모자를 쓰고 안대를 찬 지저분한 남자 _HIGHLIGHT_가 다가옵니다. _BREAK_ “타이밍 죽이는군. 마침 한 자리가 비었거든. 당신들 중에 _HIGHLIGHT_ 링 위에서 한판 붙어볼 사람 _HIGHLIGHT_ 있어?” 그가 적 _HIGHLIGHT2_ 코어 _HIGHLIGHT2_가 떠 있는 복싱 링을 가리키며 말합니다.",
 					"options": { "enter_ring": "링에 오를 파티원: _NAME_", "decline": "제안을 거절한다" }
 				},
-				"ignore": { "text": "“그런 태도로는 평생 큰 건 하나 못 건질 거다.” 남자가 투덜대며 다시 링으로 돌아갑니다." }
+				"ignore": { "text": "“그래서는 평생 큰 건 하나 못 건질 거다.” 남자가 투덜대며 다시 링으로 돌아갑니다." }
 			},
 			"transmutation_circle": {
 				"title": "연성진",
@@ -4069,9 +4069,9 @@
 				},
 				"ignore": { "text": "파티는 위험을 감수하고 싶지 않아 연성진을 멀리 돌아서 갑니다." },
 				"results": {
-					"text_fragment": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_과 함께 사라지고, 그 자리에 _NAME_가 나타났습니다.",
-					"text_artifact": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _ARTIFACT_와 함께 사라지고, 그 자리에 _NAME_가 나타났습니다.",
-					"text_life": "눈이 멀듯한 빛이 방 안을 가득 채우고 _HIGHLIGHT_ 파티 전체가 약해지는 것을 느낍니다 _HIGHLIGHT_. _BREAK_ 빛이 가라앉자 연성진은 사라지고, 그 자리에 _NAME_가 나타났습니다.",
+					"text_fragment": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _HIGHLIGHT2_ 파편 _HIGHLIGHT2_과 함께 사라지고, 그 자리에 _NAME_의 모습이 나타났습니다.",
+					"text_artifact": "눈이 멀듯한 빛이 방 안을 가득 채웁니다. _BREAK_ 빛이 가라앉자 연성진은 _ARTIFACT_와 함께 사라지고, 그 자리에 _NAME_의 모습이 나타났습니다.",
+					"text_life": "눈이 멀듯한 빛이 방 안을 가득 채우고 _HIGHLIGHT_ 파티 전체가 약해지는 것을 느낍니다 _HIGHLIGHT_. _BREAK_ 빛이 가라앉자 연성진은 사라지고, 그 자리에 _NAME_의 모습이 나타났습니다.",
 					"rewards": {
 						"fragment": "_HIGHLIGHT2_ 파편 _HIGHLIGHT2_ _NUMBER_개",
 						"artifact": "_HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_"
@@ -4087,10 +4087,10 @@
 				"base_decline": { "text": "“손해 보시는 거예요. 제 엄청난 아기들은 다음 파티를 위해 아껴둬야겠네요.”" },
 				"late_decline": { "text": "“풀세트로 안 맞추시게요? 제 아기들이 얼마나 성능이 좋은지 보시면 후회하실 텐데”" },
 				"artifact": {
-					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 생전 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ “이 아기가 분명 큰 도움이 될 거예요. 자 그럼 _HIGHLIGHT_ 다음은 어떤 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 차례인가요 _HIGHLIGHT_?”"
+					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 난생 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ “이 아기가 분명 큰 도움이 될 거예요. 자 그럼 _HIGHLIGHT_ 다음은 어떤 _HIGHLIGHT2_ 아티팩트 _HIGHLIGHT2_ 차례인가요 _HIGHLIGHT_?”"
 				},
 				"all_done": {
-					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 생전 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ 지금 당장 드릴 수 있는 제 아기들은 이걸로 끝이에요. 나중에 더 많은 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_이 필요하면 꼭 다시 들러주세요!”"
+					"text": "소녀는 _ARTIFACT_를 움켜쥐고 작업실로 돌아가더니, 난생 처음 보는 도구들로 두드리기 시작합니다. 순식간에 아티팩트는 _HIGHLIGHT2_ _NAME_ 룬 _HIGHLIGHT2_으로 변합니다. _BREAK_ 지금 당장 드릴 수 있는 제 아기들은 이걸로 끝이에요. 나중에 더 많은 _HIGHLIGHT2_ 룬 _HIGHLIGHT2_이 필요하면 꼭 다시 들러주세요!”"
 				}
 			}
 		},
@@ -4430,7 +4430,7 @@
 		},
 		"runes": {
 			"rune_name": "_TIER_ _NAME_",
-			"rune_tiers": { "minor": "최하급", "lesser": "하급", "greater": "상급", "major": "최상급", "superior": "초월급" },
+			"rune_tiers": { "minor": "미미한", "lesser": "작은", "greater": "보통", "major": "큰", "superior": "엄청난" },
 			"rune_stats": {
 				"constitution": "체질",
 				"defence": "방어",
