@@ -1565,7 +1565,7 @@
 		"search": "검색",
 		"anime_entry": {
 			"song_counts": { "op": "OP _NUMBER_", "ed": "ED _NUMBER_", "insert": "IN _NUMBER_" },
-			"vintage": { "winter": "겨울 _YEAR_", "spring": "봄 _YEAR_", "summer": "여름 _YEAR_", "fall": "가을 _YEAR_" },
+			"vintage": { "winter": "_YEAR_ 겨울", "spring": "_YEAR_ 봄", "summer": "_YEAR_ 여름", "fall": "_YEAR_ 가을" },
 			"genre": "장르",
 			"names": "제목",
 			"tags": "태그",
