@@ -56,6 +56,18 @@
 				"text": "차단하면 해당 플레이어의 메시지나 친구/게임 초대가 표시되지 않습니다.",
 				"confirm": "차단",
 				"cancel": "취소"
+			},
+			"detected_afk": {
+				"title": "자리 비움이 감지되었습니다.",
+				"text": "_SPAN_ 60 _SPAN_초 후에 연결이 종료됩니다.",
+				"text_host": "_SPAN_ 10 _SPAN_초 후에 방장 권한을 상실합니다. (관전자가 아니라면 관전자로 변경됩니다)",
+				"stay_online": "연결 유지",
+				"stay_host": "방장 유지"
+			},
+			"disconnected_for_inactivity": {
+				"title": "비활성 상태로 인한 연결 종료",
+				"text": "재접속하려면 리로드(F5)하세요.",
+				"reload": "리로드"
 			}
 		},
 		"registration": {
@@ -1253,7 +1265,8 @@
 				"insufficient_rhythm": "리듬 부족",
 				"insufficient_rhythm_message": "이 아이템을 잠금해제하기 위한 리듬이 부족합니다.",
 				"error_unlocking": "잠금해제 오류"
-			}
+			},
+			"transaction_complete": "처리 완료"
 		},
 		"toggle_favorite": "즐겨찾기 설정",
 		"avatar_states": {
@@ -2456,7 +2469,8 @@
 			"team_code": "팀 코드",
 			"create": "팀 생성",
 			"join": "팀 참가",
-			"leave": "팀 이탈"
+			"leave": "팀 이탈",
+			"create_team": "팀 생성"
 		},
 		"rule_window": {
 			"title": "게임 모드 요약",
@@ -4605,7 +4619,9 @@
 			"genre_protection": {
 				"name": "_NAME_ 프로텍션",
 				"description": "현재 작품에 _NAME_ 장르가 포함되어 있지 않으면 공격으로부터 받는 모든 대미지를 무효화합니다."
-			}
+			},
+			"data_feedback": { "name": "데이터 피드백", "description": "데이터 실드 대미지 감소 오프라인" },
+			"data_shield": { "name": "데이터 실드", "description": "받는 모든 대미지 대폭 감소" }
 		},
 		"enemies": {
 			"assassin": "암살자",
@@ -4623,6 +4639,21 @@
 			"title": "연결 끊긴 넥서스 게임에 재참가",
 			"description": "마지막 넥서스 게임에서 연결이 끊어졌습니다. 다시 참가하시겠습니까?",
 			"rejoin_button": "재참가"
+		},
+		"floor_descriptions": {
+			"enemy_hp": "적의 체력이 증가합니다.",
+			"enemy_damage": "적의 대미지가 증가합니다.",
+			"avatar_debuffs_longer": "아바타에게 걸린 디버프 지속 시간이 길어집니다.",
+			"reduced_guessing_time": "답변 시간이 줄어듭니다.",
+			"crafting_fewer_artifacts": "작업실의 아티팩트 개수가 줄어듭니다.",
+			"start_damaged": "파티가 대미지를 입은 상태로 시작합니다.",
+			"avatar_buffs_expire_quicker": "아바타에게 걸린 버프의 지속 시간이 짧아집니다.",
+			"enemy_random_buff": "적이 랜덤한 버프를 가진 상태로 시작합니다.",
+			"enemy_debuffs_shorter": "적에게 걸린 디버프의 지속 시간이 짧아집니다.",
+			"avatar_max_three_artifacts": "아바타가 장착 가능한 아티팩트가 최대 3개로 제한됩니다.",
+			"enemies_quicker": "적의 공격 속도가 빨라집니다.",
+			"fewer_combat_reward_artifacts": "전투 보상으로 얻는 아티팩트 개수가 줄어듭니다.",
+			"more_enemies": "적 조우시 더 많은 수의 적이 출현합니다."
 		}
 	},
 	"tutorial": {
@@ -4910,10 +4941,7 @@
 				"title": "마스터 리거",
 				"description": "개인전 게임에서 자신의 애니메이션 리스트에 있는 노래를 20번 맞히세요."
 			},
-			"survivor": {
-				"title": "서바이버",
-				"description": "개인전 라이프 모드 게임에서 10라운드 동안 생존하세요."
-			},
+			"survivor": { "title": "서바이버", "description": "개인전 라이프 모드 게임에서 10라운드 동안 생존하세요." },
 			"master_sniper": {
 				"title": "마스터 스나이퍼",
 				"description": "개인전 게임에서 자신의 애니메이션 리스트에 없는 노래를 20번 맞히세요."
@@ -4930,58 +4958,25 @@
 				"title": "신작 전문가",
 				"description": "개인전 게임에서 최근 4개 분기 이내에 출시된 작품의 노래를 20번 맞히세요."
 			},
-			"dont_skip_openings": {
-				"title": "오프닝 스킵 금지",
-				"description": "개인전 게임에서 오프닝곡을 20번 맞히세요."
-			},
-			"dont_skip_endings": {
-				"title": "엔딩 스킵 금지",
-				"description": "개인전 게임에서 엔딩곡을 20번 맞히세요."
-			},
-			"dont_skip_inserts": {
-				"title": "삽입곡 스킵 금지",
-				"description": "개인전 게임에서 삽입곡을 20번 맞히세요."
-			},
-			"action_fan": {
-				"title": "액션 팬",
-				"description": "개인전 게임에서 액션 장르 작품의 노래를 20번 맞히세요."
-			},
-			"adventure_fan": {
-				"title": "모험 팬",
-				"description": "개인전 게임에서 모험 장르 작품의 노래를 20번 맞히세요."
-			},
-			"comedy_fan": {
-				"title": "코미디 팬",
-				"description": "개인전 게임에서 코미디 장르 작품의 노래를 20번 맞히세요."
-			},
-			"drama_fan": {
-				"title": "드라마 팬",
-				"description": "개인전 게임에서 드라마 장르 작품의 노래를 20번 맞히세요."
-			},
-			"ecchi_fan": {
-				"title": "에로틱 팬",
-				"description": "개인전 게임에서 에로틱 장르 작품의 노래를 20번 맞히세요."
-			},
+			"dont_skip_openings": { "title": "오프닝 스킵 금지", "description": "개인전 게임에서 오프닝곡을 20번 맞히세요." },
+			"dont_skip_endings": { "title": "엔딩 스킵 금지", "description": "개인전 게임에서 엔딩곡을 20번 맞히세요." },
+			"dont_skip_inserts": { "title": "삽입곡 스킵 금지", "description": "개인전 게임에서 삽입곡을 20번 맞히세요." },
+			"action_fan": { "title": "액션 팬", "description": "개인전 게임에서 액션 장르 작품의 노래를 20번 맞히세요." },
+			"adventure_fan": { "title": "모험 팬", "description": "개인전 게임에서 모험 장르 작품의 노래를 20번 맞히세요." },
+			"comedy_fan": { "title": "코미디 팬", "description": "개인전 게임에서 코미디 장르 작품의 노래를 20번 맞히세요." },
+			"drama_fan": { "title": "드라마 팬", "description": "개인전 게임에서 드라마 장르 작품의 노래를 20번 맞히세요." },
+			"ecchi_fan": { "title": "에로틱 팬", "description": "개인전 게임에서 에로틱 장르 작품의 노래를 20번 맞히세요." },
 			"fantasy_fan": {
 				"title": "판타지 팬",
 				"description": "개인전 게임에서 판타지 장르 작품의 노래를 20번 맞히세요."
 			},
-			"horror_fan": {
-				"title": "공포 팬",
-				"description": "개인전 게임에서 공포 장르 작품의 노래를 20번 맞히세요."
-			},
+			"horror_fan": { "title": "공포 팬", "description": "개인전 게임에서 공포 장르 작품의 노래를 20번 맞히세요." },
 			"mahou_shoujo_fan": {
 				"title": "마법소녀 팬",
 				"description": "개인전 게임에서 마법소녀 장르 작품의 노래를 20번 맞히세요."
 			},
-			"mecha_fan": {
-				"title": "메카물 팬",
-				"description": "개인전 게임에서 메카물 장르 작품의 노래를 20번 맞히세요."
-			},
-			"music_fan": {
-				"title": "음악 팬",
-				"description": "개인전 게임에서 음악 장르 작품의 노래를 20번 맞히세요."
-			},
+			"mecha_fan": { "title": "메카물 팬", "description": "개인전 게임에서 메카물 장르 작품의 노래를 20번 맞히세요." },
+			"music_fan": { "title": "음악 팬", "description": "개인전 게임에서 음악 장르 작품의 노래를 20번 맞히세요." },
 			"mystery_fan": {
 				"title": "미스터리 팬",
 				"description": "개인전 게임에서 미스터리 장르 작품의 노래를 20번 맞히세요."
@@ -5002,10 +4997,7 @@
 				"title": "일상 팬",
 				"description": "개인전 게임에서 일상 장르 작품의 노래를 20번 맞히세요."
 			},
-			"sports_fan": {
-				"title": "스포츠 팬",
-				"description": "개인전 게임에서 스포츠 장르 작품의 노래를 20번 맞히세요."
-			},
+			"sports_fan": { "title": "스포츠 팬", "description": "개인전 게임에서 스포츠 장르 작품의 노래를 20번 맞히세요." },
 			"supernatural_fan": {
 				"title": "초자연 팬",
 				"description": "개인전 게임에서 초자연 장르 작품의 노래를 20번 맞히세요."
@@ -5016,5 +5008,25 @@
 			},
 			"just_jamming": { "title": "그저 즐길 뿐", "description": "잼 퀴즈에서 노래를 20번 맞히세요." }
 		}
+	},
+	"quiz_of_the_day": {
+		"starting_messages": {
+			"championship_starting_in": "_NAME_ 챔피언십 경기가 _NUMBER_분 후에 시작됩니다.",
+			"themed_starting_in": "테파 퀴즈가 _NUMBER_분 후에 시작됩니다.",
+			"ranked_starting_in": "랭크 게임이 _NUMBER_분 후에 시작됩니다.",
+			"amq_awards_starting_in": "AMQ 시상식이 _NUMBER_분 후에 시작됩니다.",
+			"join_lobby_instruction": "메인 메뉴에서 로비에 입장할 수 있습니다."
+		},
+		"championship_winner_message": {
+			"solo": {
+				"title": "새로운 _NAME_ 지역 챔피언 탄생!",
+				"message": "_NAME_ 님이 새로운 챔피입니다!"
+			},
+			"multiple": {
+				"title": "새로운 _NAME_ 지역 챔피언 탄생!",
+				"message": "_NAMELIST_ 님이 새로운 챔피언입니다!"
+			}
+		},
+		"region_names": { "east": "동부", "west": "서부", "central": "중부" }
 	}
 }
