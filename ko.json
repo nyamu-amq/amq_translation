@@ -975,6 +975,25 @@
 					"dropped": "하차",
 					"planning": "시청예정"
 				}
+			},
+			"amq_custom_list": "AMQ 커스텀 리스트",
+			"amq_custom_list_description": "노래 정보 탐색에서 애니 리스트와 함께 사용하거나 단독으로 사용할 수 있는 커스텀 리스트를 생성합니다.",
+			"no_list": "리스트 없음",
+			"custom_lists": "커스텀 리스트",
+			"custom_list_mode": {
+				"disable": { "title": "비활성화", "description": "노래 선택에 커스텀 리스트를 사용하지 않습니다." },
+				"list": {
+					"title": "커스텀 리스트",
+					"description": "노래 선택에 커스텀 리스트를 애니 리스트 대신 사용합니다."
+				},
+				"include": {
+					"title": "포함",
+					"description": "노래 선택에 애니 리스트와 커스텀 리스트의 작품을 모두 포함합니다."
+				},
+				"exclude": {
+					"title": "제외",
+					"description": "커스텀 리스트에 포함된 작품을 노래 선택에서 제외합니다."
+				}
 			}
 		},
 		"graphics": {
@@ -1662,6 +1681,76 @@
 				"title": "업로드를 승인받으려면 어떻게 해야 할지 모르겠어요",
 				"text": "업로드가 거부되었거나 승인받는 방법을 잘 모르겠다면 다른 사람들이 도움을 줄 수 있는 게임 디스코드 서버에 문의하는 것을 권장합니다."
 			}
+		},
+		"custom_list": {
+			"title": "커스텀 리스트",
+			"no_lists": "리스트 없음",
+			"no_lists_description": "커스텀 리스트는 외부 서비스 (MAL/AniList/Kitsu) 대신 애니 리스트로 사용하거나, 퀴즈용 출제 범위로 사용할 수 있습니다.",
+			"new_list_button": "새 리스트",
+			"create_list_button": "리스트 생성",
+			"back_button": "뒤로",
+			"list_name_placeholder": "리스트 이름",
+			"list_type": "리스트 타입",
+			"anime_only": "애니메이션 전용",
+			"anime_only_short": "애니",
+			"anime_and_songs": "애니메이션과 노래",
+			"anime_and_songs_short": "애니 & 노래",
+			"anime_list": "애니 리스트",
+			"song_pool": "출제 범위",
+			"no_entries": "항목 없음",
+			"no_entries_description": "노래 정보 탐색에서 추가하거나 퀴즈를 플레이해서 항목을 추가하세요.",
+			"entries": "항목: _NUMBER_개",
+			"add_to_list": "리스트에 추가",
+			"remove_from_list": "리스트에서 제거",
+			"anime_only_description": {
+				"title": "애니메이션 전용",
+				"description": "이 리스트에는 애니메이션 작품만 담을 수 있으며, 애니 리스트와 출제 범위 용도로 모두 사용 가능합니다."
+			},
+			"anime_song_description": {
+				"title": "애니메이션과 노래",
+				"description": "이 리스트에는 애니메이션과 특정 곡을 모두 담을 수 있으며, 출제 범위 용도로만 사용 가능합니다."
+			},
+			"create_custom_list": {
+				"title": "커스텀 리스트 생성",
+				"input_placeholder": "리스트 이름을 입력하세요",
+				"create_button": "생성"
+			},
+			"delete_custom_list": {
+				"title": "커스텀 리스트 삭제",
+				"description": "정말로 이 커스텀 리스트를 삭제하시겠습니까? : _NAME_",
+				"delete_button": "삭제"
+			},
+			"delete_anime_from_list": {
+				"title": "리스트에서 애니 삭제",
+				"description": "정말로 리스트에서 _NAME_를 삭제하시겠습니까?",
+				"delete_button": "삭제"
+			},
+			"delete_song_from_list": {
+				"title": "리스트에서 노래 삭제",
+				"description": "정말로 리스트에서 _NAME_를 삭제하시겠습니까?",
+				"delete_button": "삭제"
+			},
+			"anime_list_description": "애니 리스트로 사용 가능",
+			"song_pool_description": "퀴즈에서 출제 범위로 사용 가능",
+			"anime_already_in_list": "이미 리스트에 있는 애니입니다.",
+			"song_already_in_list": "이미 리스트에 있는 노래입니다.",
+			"add_to_custom_list": "커스텀 리스트에 추가",
+			"anime_only_custom_list": {
+				"title": "애니메이션 전용 커스텀 리스트",
+				"description": "이 리스트는 애니메이션 전용으로 설정되어 있어서 곡을 추가할 수 없습니다."
+			},
+			"song_entry_anime_description": {
+				"format": "_TYPE_ - _NAME_",
+				"type": { "op": "오프닝_NUMBER_", "ed": "엔딩_NUMBER_", "in": "삽입곡" }
+			},
+			"max_list_count": {
+				"title": "커스텀 리스트 수 제한",
+				"description": "커스텀 리스트는 최대 _NUMBER_개까지 보유할 수 있습니다."
+			},
+			"songs_in_only_anime_switch": {
+				"title": "리스트 내 노래 포함됨",
+				"description": "애니메이션 전용으로 변경하려면 먼저 리스트에 있는 모든 노래를 제거해야 합니다."
+			}
 		}
 	},
 	"anime_types": {
@@ -2141,7 +2230,15 @@
 		},
 		"delete_saved_setting": { "title": "저장된 설정 삭제", "confirm_button": "삭제" },
 		"get_code": { "title": "설정 코드 취득", "setting_code": "설정 코드" },
-		"loading_disabled": "로딩 비활성화됨"
+		"loading_disabled": "로딩 비활성화됨",
+		"song_pool": {
+			"title": "출제 범위",
+			"description": "기타 필터가 적용되기 전, 퀴즈에 사용될 기본 출제 범위입니다.",
+			"all": { "title": "전체", "description": "AMQ 데이터베이스의 모든 곡을 포함합니다." },
+			"player": { "title": "플레이어", "description": "플레이어 한 명의 리스트에 있는 모든 곡을 포함합니다." },
+			"custom": { "title": "커스텀", "description": "커스텀 리스트에 있는 모든 곡을 포함합니다." },
+			"community": { "title": "커뮤니티", "description": "커뮤니티 퀴즈의 모든 곡을 포함합니다." }
+		}
 	},
 	"room_browser": {
 		"filters": {
@@ -2553,6 +2650,10 @@
 			"no_community_quiz": {
 				"title": "커뮤니티 퀴즈 미선택",
 				"description": "게임을 시작하려면 커뮤니티 퀴즈를 선택해야 합니다."
+			},
+			"no_song_pool": {
+				"title": "출제 범위 미선택",
+				"description": "게임을 시작하려면 출제 범위를 선택해야 합니다."
 			}
 		},
 		"all_players_not_ready_warning": {
@@ -2638,7 +2739,14 @@
 				"standard": "일반",
 				"character": "캐릭터 송",
 				"chanting": "챈팅",
-				"instrumental": "연주곡"
+				"instrumental": "연주곡",
+				"song_pool": "출제 범위"
+			},
+			"song_pool": {
+				"custom_list": "커스텀 리스트",
+				"player_list": "플레이어 리스트",
+				"community_quiz": "커뮤니티 퀴즈",
+				"all_songs": "모든 노래"
 			}
 		},
 		"ranked_rules": {
@@ -2665,6 +2773,27 @@
 			"english_chat": {
 				"title": "채팅 시 영어 사용",
 				"description": "운영자가 모든 언어를 알 수는 없으므로 랭크 게임 채팅에서는 영어 또는 이모티콘만 사용해 주세요."
+			}
+		},
+		"ping_ready_up": "준비되지 않은 플레이어에게 준비 요청 알림을 보냅니다.",
+		"song_pool": {
+			"title": "곡 범위",
+			"change": "변경",
+			"custom_list": {
+				"title": "커스텀 리스트",
+				"entries": "항목 _NUMBER_개",
+				"select": "커스텀 리스트 선택",
+				"waiting": "방장이 커스텀 리스트를 선택하는 중"
+			},
+			"player_list": {
+				"title": "플레이어 리스트",
+				"select": "플레이어 리스트 선택",
+				"waiting": "방장이 플레이어 리스트를 선택하는 중"
+			},
+			"community_quiz": {
+				"title": "커뮤니티 퀴즈",
+				"select": "커뮤니티 퀴즈 선택",
+				"waiting": "방장이 커뮤니티 퀴즈를 선택하는 중"
 			}
 		}
 	},
@@ -2769,6 +2898,11 @@
 				"rebroadcast": "(재방송)",
 				"dub": "(더빙)",
 				"type_text": "_NAME_ _DESCRIPTION_"
+			},
+			"custom_list": {
+				"title": "커스텀 리스트에 추가",
+				"add_anime": "애니 추가",
+				"add_song": "노래 추가"
 			}
 		},
 		"standings": {
@@ -5012,20 +5146,14 @@
 	"quiz_of_the_day": {
 		"starting_messages": {
 			"championship_starting_in": "_NAME_ 챔피언십 경기가 _NUMBER_분 후에 시작됩니다.",
-			"themed_starting_in": "테파 퀴즈가 _NUMBER_분 후에 시작됩니다.",
+			"themed_starting_in": "테마 퀴즈가 _NUMBER_분 후에 시작됩니다.",
 			"ranked_starting_in": "랭크 게임이 _NUMBER_분 후에 시작됩니다.",
 			"amq_awards_starting_in": "AMQ 시상식이 _NUMBER_분 후에 시작됩니다.",
 			"join_lobby_instruction": "메인 메뉴에서 로비에 입장할 수 있습니다."
 		},
 		"championship_winner_message": {
-			"solo": {
-				"title": "새로운 _NAME_ 지역 챔피언 탄생!",
-				"message": "_NAME_ 님이 새로운 챔피입니다!"
-			},
-			"multiple": {
-				"title": "새로운 _NAME_ 지역 챔피언 탄생!",
-				"message": "_NAMELIST_ 님이 새로운 챔피언입니다!"
-			}
+			"solo": { "title": "새로운 _NAME_ 지역 챔피언 탄생!", "message": "_NAME_ 님이 새로운 챔피입니다!" },
+			"multiple": { "title": "새로운 _NAME_ 지역 챔피언 탄생!", "message": "_NAMELIST_ 님이 새로운 챔피언입니다!" }
 		},
 		"region_names": { "east": "동부", "west": "서부", "central": "중부" }
 	}
