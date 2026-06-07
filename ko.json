@@ -464,7 +464,8 @@
 				"lunar":"설날 세일!",
 				"valentine":"발렌타인 세일!",
 				"summer_games":"하계 올림픽 세일!",
-				"anniversary":"기념일 세일!"
+				"anniversary":"기념일 세일!",
+				"supernatural_spring": "초자연 현상 세일!"
 			},
 			"sale_text":"저렴한 티켓 구입!",
 			"skin_header":"한정",
@@ -3530,7 +3531,7 @@
 			"no_lists":"리스트 없음",
 			"player_lists":"플레이어 리스트",
 			"custom_lists":"커스텀 리스트",
-			"entries":"항목 수：_NUMBER_",
+			"entries":"항목 수: _NUMBER_",
 			"include":"포함한다",
 			"exclude":"제외한다"
 		}
