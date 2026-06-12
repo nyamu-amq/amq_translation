@@ -766,12 +766,39 @@
 			"nickname_not_available": {
 				"title": "사용할 수 없는 닉네임",
 				"already_in_use": "이 닉네임은 이미 사용중입니다.",
-				"banned": "이 닉네임은 정지중입니다."
+				"banned": "이 닉네임은 정지중입니다.",
+				"inactive": "이 닉네임은 휴면 아이디의 소유이며 해당 계정이 7월 18일까지 로그인하지 않으면 그 날부터 사용할 수 있습니다.",
+				"not_inactive": "이 닉네임은 휴면 상태가 아니므로 예약할 수 없습니다.",
+				"reserved": "이 닉네임은 다른 플레이어가 예약했습니다."
 			},
 			"change_nickname_messages": {
 				"banned": "닉네임 변경 정지중인 아이디입니다.",
 				"success": "닉네임이 변경되었습니다.",
 				"no_token": "사용 가능한 이름 변경 토큰이 없습니다."
+			},
+			"reserve_name": "예약",
+			"reserve_name_popover": {
+				"click_to_reserve": "클릭해서 선택한 휴면 닉네임을 선택합니다.",
+				"require_patreon": "닉네임 예약은 현재 _NUMBER_레벨 이상의 패트리온 후원자만 이용하실 수 있습니다.",
+				"already_reserved": "이미 예약한 닉네임이 있습니다. 새 닉네임을 예약하기 전에 기존 예약을 취소해야 합니다."
+			},
+			"reserve_name_message": {
+				"title": "닉네임 예약",
+				"text": "해당 계정이 7월 18일까지 로그인하지 않으면, 예약한 닉네임을 자동으로 획득합니다. 예약 시 닉네임 변경 토큰 1개가 예치됩니다."
+			},
+			"reserve_name_success": "닉네임 예약 완료",
+			"unable_to_reserve": "닉네임 예약 불가",
+			"current_reserved_name": "현재 예약된 닉네임: _SPAN_ 이름 _SPAN_",
+			"remove_reserved_name": "예약한 닉네임 삭제",
+			"remove_reserved_name_message": {
+				"title": "예약한 닉네임 삭제",
+				"text": "예약한 닉네임을 잃고 닉네임 변경 토큰을 다시 돌려받습니다.",
+				"remove_button": "삭제"
+			},
+			"reserved_name_removed": "예약한 닉네임 삭제 완료",
+			"reserve_removed_alert": {
+				"title": "닉네임 예약 취소",
+				"text": "예약하신 닉네임이 더 이상 휴면 상태가 아니므로 예약이 취소되었으며 닉네임 변경 토큰이 반환되었습니다."
 			}
 		},
 		"alerts": { "error_getting_profile": "플레이어 프로필 정보 취득 오류", "unknown_player": "플레이어 불명" },
