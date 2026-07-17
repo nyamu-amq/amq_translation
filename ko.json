@@ -458,7 +458,7 @@
 				"christmas": "크리스마스 세일!",
 				"lunar": "설날 세일!",
 				"valentine": "발렌타인 세일!",
-				"summer_games": "하계 올림픽 세일!",
+				"summer_games": "하계 스포츠 대회 세일!",
 				"anniversary": "기념일 세일!",
 				"supernatural_spring": "초자연 현상 세일!"
 			},
@@ -473,8 +473,8 @@
 				"christmas": "크리스마스 스킨",
 				"lunar": "설날 스킨",
 				"valentine": "발렌타인 스킨",
-				"summer_games": "하계 올림픽 스킨",
-				"supernatural_spring": "초자연현상 스킨"
+				"summer_games": "하계 스포츠 대회 스킨",
+				"supernatural_spring": "초자연 현상 스킨"
 			},
 			"skin_footer": "지금 획득 가능"
 		},
@@ -665,6 +665,10 @@
 				"in_lobby": "_NUMBER_ - 로비 대기 중",
 				"click_to_host": "클릭해서 방 만들기"
 			}
+		},
+		"nickname_lost": {
+			"title": "닉네임 상실",
+			"text": "아이디가 3년 이상 휴면 상태로 유지되어 기존 닉네임이 해제되었으며, 다른 플레이어가 해당 닉네임을 가져갔습니다. 이 메시지를 닫은 뒤 새 닉네임을 선택할 수 있습니다."
 		}
 	},
 	"menu_bar": {
@@ -780,7 +784,8 @@
 			"reserve_name_popover": {
 				"click_to_reserve": "선택한 휴면 닉네임을 예약합니다.",
 				"require_patreon": "닉네임 예약은 현재 _NUMBER_레벨 이상의 패트리온 후원자만 이용하실 수 있습니다.",
-				"already_reserved": "이미 예약한 닉네임이 있습니다. 새 닉네임을 예약하기 전에 기존 예약을 취소해야 합니다."
+				"already_reserved": "이미 예약한 닉네임이 있습니다. 새 닉네임을 예약하기 전에 기존 예약을 취소해야 합니다.",
+				"not_available": "지금은 닉네임을 예약할 수 없습니다."
 			},
 			"reserve_name_message": {
 				"title": "닉네임 예약",
@@ -1390,7 +1395,8 @@
 		"rhythm_price": "리듬 가격",
 		"silver_hibike_description": "출시 주간 동안 게임에 접속하거나 모든 아바타의 기본 스킨 색상을 잠금해제하면 이 고유 출시 스킨 색상을 잠금해제할 수 있습니다.",
 		"emote_previews": { "chat": "채팅", "profile": "프로필" },
-		"emote_category_misc": "그 외"
+		"emote_category_misc": "그 외",
+		"seasonal_unlock_description": "이 스킨은 시즌 한정 스킨이며 매년 열리는 _NAME_ 스킨 시즌에만 획득할 수 있습니다."
 	},
 	"avatar_lore": {
 		"hibiki": {
@@ -1605,6 +1611,9 @@
 		},
 		"hinase": {
 			"standard": "히나세는 언제나 모험과 탐험을 동경해 왔기 때문에 기회가 생기자마자 우주로 뛰어들었어요. 현재 그녀는 프리랜서 메카 조종사로서 우주 탐사 최전선을 누비며 잔심부름부터 호위, 정찰에 이르기까지 온갖 의뢰를 수행하고 있답니다."
+		},
+		"alexandra": {
+			"standard": "왕위 계승 서열 1위인 알렉산드라는 어릴 때부터 귀족 교육을 받았지만 그녀가 진정한 재능을 보여준 것은 전투였어요. 그녀는 이제 그 능력을 당당히 발휘하여 왕국의 시민을 보호하고 악당을 처단하고 있답니다."
 		}
 	},
 	"song_library": {
@@ -2537,8 +2546,8 @@
 			"description": "메시지 블럭은 퀴즈 진행 중 노래와 노래 사이에 플레이어들에게 보여주는 메시지를 추가합니다."
 		},
 		"title_button": {
-			"title": "타이틀 블럭",
-			"description": "타이틀 블럭은 퀴즈가 진행되는 동안 표시되는 제목을 설정합니다."
+			"title": "제목 블럭",
+			"description": "제목 블럭은 퀴즈가 진행되는 동안 표시되는 제목을 설정합니다."
 		},
 		"sample_selector": { "start": "시작", "end": "끝" },
 		"save_window": {
@@ -2640,8 +2649,8 @@
 				"description": "메시지 블럭은 최대 _NUMBER_개까지만 만들 수 있습니다."
 			},
 			"max_title_block_count": {
-				"title": "타이틀 블럭 수 제한",
-				"description": "타이틀 블럭은 최대 _NUMBER_개까지만 만들 수 있습니다."
+				"title": "제목 블럭 수 제한",
+				"description": "제목 블럭은 최대 _NUMBER_개까지만 만들 수 있습니다."
 			},
 			"leave_warning": {
 				"title": "퀴즈 편집기 나가기",
@@ -2663,7 +2672,27 @@
 				"description": "하나의 퀴즈에서 블럭은 최대 _NUMBER_개까지만 만들 수 있습니다."
 			}
 		},
-		"page_close_warning": "이 페이지를 벗어나면 저장되지 않은 변경 내용이 사라집니다."
+		"page_close_warning": "이 페이지를 벗어나면 저장되지 않은 변경 내용이 사라집니다.",
+		"title_block": { "title": "제목", "placeholder": "제목 - 제목을 제거하려면 비워두세요." },
+		"message_block": {
+			"placeholder": "메시지 - 아바타만 표시하려면 비워두세요.",
+			"select_avatar": "아바타 선택",
+			"change_avatar": "아바타 변경",
+			"delay": "지연 시간",
+			"delay_description": "트리거된 후 메시지가 표시될 때까지 걸리는 시간",
+			"time": "표시 시간",
+			"time_description": "다음 블럭으로 넘어가기 전까지 메시지가 표시되는 시간"
+		},
+		"message_avatar_selector": {
+			"title": "아바타 선택",
+			"steps": {
+				"avatar": "아바타",
+				"skin": "스킨",
+				"version": "버전",
+				"pose": "포즈"
+			},
+			"buttons": { "clear_selection": "선택 해제", "select": "선택" }
+		}
 	},
 	"game_chat": {
 		"game_chat": "게임 채팅",
@@ -3200,12 +3229,12 @@
 				"audio": { "title": "음성", "description": "이 노래의 음성을 유효화" }
 			},
 			"skip_messages": {
-				"answers": "답변 공개로 진행중",
-				"lobby": "로비로 진행중",
-				"next_song": "다음 노래로 진행중",
-				"final_standings": "최종 순위로 진행중",
-				"rewards": "보상 단계로 진행중",
-				"end": "게임종료로 진행중"
+				"answers": "답변 공개로 스킵중",
+				"lobby": "로비로 스킵중",
+				"next_song": "다음 노래로 스킵중",
+				"final_standings": "최종 순위로 스킵중",
+				"rewards": "보상 단계로 스킵중",
+				"end": "게임종료로 스킵중"
 			}
 		},
 		"jam_mode": {
@@ -3625,7 +3654,8 @@
 		"graduation_project": "졸업 프로젝트",
 		"human_experimentation": "인체실험",
 		"interspecies": "이종족",
-		"short-form_chapter": "단편만화"
+		"short-form_chapter": "단편만화",
+		"prophecy": "예언"
 	},
 	"genre_tags": {
 		"action": "액션",
@@ -3653,7 +3683,7 @@
 		"load_songs": "노래 불러오기",
 		"tabs": { "current_game": "현재 게임", "last_game": "이전 게임", "games": "과거 게임", "options": "옵션" },
 		"columns": {
-			"title": "열",
+			"title": "컬럼",
 			"anime": "애니",
 			"ann_id": "ANN ID",
 			"type": "타입",
@@ -5409,7 +5439,8 @@
 		"whistle": "호루라기",
 		"yan": "얀",
 		"visor": "바이저",
-		"accessory": "액세서리"
+		"accessory": "액세서리",
+		"flowers": "꽃"
 	},
 	"daily_quests": {
 		"title": "일일 퀘스트",
@@ -5567,5 +5598,33 @@
 			}
 		},
 		"region_names": { "east": "동부", "west": "서부", "central": "중부" }
+	},
+	"skin_seasons": {
+		"full": {
+			"fall": "가을",
+			"summer": "여름",
+			"winter": "겨울",
+			"spring": "봄",
+			"halloween": "할로윈",
+			"christmas": "크리스마스",
+			"lunar": "설날",
+			"valentine": "발렌타인",
+			"summer_games": "하계 스포츠 대회",
+			"anniversary": "기념일",
+			"supernatural_spring": "초자연 현상"
+		},
+		"short": {
+			"fall": "가을",
+			"summer": "여름",
+			"winter": "겨울",
+			"spring": "봄",
+			"halloween": "할로윈",
+			"christmas": "크리스마스",
+			"lunar": "설날",
+			"valentine": "발렌타인",
+			"summer_games": "하계",
+			"anniversary": "기념일",
+			"supernatural_spring": "초자연"
+		}
 	}
 }
